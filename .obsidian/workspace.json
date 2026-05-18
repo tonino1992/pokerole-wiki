@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "42f37c0c4a786750",
+    "type": "split",
+    "children": [
+      {
+        "id": "da4be208e1ef70e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdb0bb056a792ace",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/03_Pokedex/Kanto/0001_Bulbasaur.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0001_Bulbasaur"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f59ffe251a0b3e2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f74da385f1882b35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1eadab752c7415f5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Esplora risorse"
+            }
+          },
+          {
+            "id": "bfae7bfb31985fa8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
+          },
+          {
+            "id": "5756befdfa4083eb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Segnalibri"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bb3f8f24811228b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "420dbef2274b2125",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16b9e253704f4e9d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "wiki/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Riferimenti a index"
+            }
+          },
+          {
+            "id": "7017715f7c94d3ed",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "wiki/index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Collegamenti in uscita da index"
+            }
+          },
+          {
+            "id": "c4210663dde69a7c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
+            }
+          },
+          {
+            "id": "9abbd4ac3239da22",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Tutte le proprietà"
+            }
+          },
+          {
+            "id": "7c4e61fd48343eb7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "wiki/index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Struttura di index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "bases:Crea nuova Base": false
+    }
+  },
+  "active": "bdb0bb056a792ace",
+  "lastOpenFiles": [
+    "wiki/04_Moves_e_Abilities/Mosse/Grass_Pledge.md",
+    "wiki/04_Moves_e_Abilities/Mosse/Grass_Knot.md",
+    "wiki/04_Moves_e_Abilities/Mosse/Grapple.md",
+    "wiki/04_Moves_e_Abilities/Mosse/Glitzy_Glow.md",
+    "wiki/04_Moves_e_Abilities/Mosse/Glare.md",
+    "wiki/04_Moves_e_Abilities/Mosse/Glaciate.md",
+    "wiki/04_Moves_e_Abilities/Mosse/Giga_Impact.md",
+    "wiki/04_Moves_e_Abilities/Mosse/Giga_Drain.md",
+    "wiki/04_Moves_e_Abilities/Mosse/Geomancy.md",
+    "wiki/04_Moves_e_Abilities/Mosse/Gear_Up.md",
+    "wiki/04_Moves_e_Abilities/Mosse/Gear_Grind.md",
+    "wiki/04_Moves_e_Abilities/Mosse/Gastro_Acid.md",
+    "wiki/04_Moves_e_Abilities/Mosse/Future_Sight.md",
+    "wiki/04_Moves_e_Abilities/Mosse/Fusion_Flare.md",
+    "wiki/04_Moves_e_Abilities/Mosse/Fusion_Bolt.md",
+    "wiki/04_Moves_e_Abilities/Mosse/Fury_Swipes.md",
+    "wiki/04_Moves_e_Abilities/Mosse/Fury_Cutter.md",
+    "wiki/04_Moves_e_Abilities/Mosse/Fury_Attack.md",
+    "wiki/04_Moves_e_Abilities/Mosse/Frustration.md",
+    "wiki/04_Moves_e_Abilities/Mosse/Frost_Breath.md",
+    "wiki/04_Moves_e_Abilities/Mosse/Frenzy_Plant.md",
+    "wiki/04_Moves_e_Abilities/Mosse/Freezy_Frost.md",
+    "wiki/04_Moves_e_Abilities/Mosse/Freeze_Shock.md",
+    "wiki/04_Moves_e_Abilities/Mosse/Freeze_Dry.md",
+    "wiki/04_Moves_e_Abilities/Mosse/Foul_Play.md",
+    "wiki/04_Moves_e_Abilities/Mosse/Forest's_Curse.md",
+    "wiki/04_Moves_e_Abilities/Mosse",
+    "wiki/00_Meta/ingest_moves_json.py",
+    "wiki/00_Meta/ingest_kanto_json.py",
+    "wiki/assets/images/pokedex/kanto/p129.png",
+    "wiki/assets/images/pokedex/kanto/p128.png",
+    "wiki/assets/images/pokedex/kanto/p127.png",
+    "wiki/assets/images/pokedex/kanto/p126.png",
+    "wiki/assets/images/pokedex/kanto/p125.png",
+    "wiki/assets/images/pokedex/kanto/p124.png",
+    "wiki/assets/images/pokedex/kanto/p123.png",
+    "wiki/assets/images/pokedex/kanto/p122.png",
+    "wiki/assets/images/pokedex/kanto/p121.png",
+    "wiki/assets/images/pokedex/kanto/p120.png",
+    "wiki/00_Meta/ingest_kanto.py",
+    "wiki/assets/images/pokedex/kanto",
+    "wiki/assets/images/pokedex",
+    "wiki/assets/images",
+    "wiki/assets",
+    "_extract_types.txt",
+    "_extract_status.txt"
+  ]
+}

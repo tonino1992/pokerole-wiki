@@ -1,0 +1,37 @@
+---
+title: "Zubat (#0041)"
+category: Pokedex
+tags: [zubat, kanto, poison, flying]
+---
+
+# Zubat (#0041)
+*Bat Pokemon*
+
+**Type:** Poison / Flying
+**Abilities:** [[Inner Focus]], [[Infiltrator]] *(Hidden)*
+**Base HP:** 3
+
+> It lives in dark caves all around the world. Prolonged exposure to the sun will make it unhealthy. It is blind but uses echolocation to find its way. At night, they leave their cave to feed on fruit and bug Pokemon.
+
+---
+
+## Statistiche (Attributes & Limits)
+
+| Attribute | Base / Limit |
+|---|---|
+| **Strength** | 2/4 |
+| **Dexterity** | 2/4 |
+| **Vitality** | 1/3 |
+| **Special** | 1/3 |
+| **Insight** | 1/3 |
+
+---
+
+## Mosse (Learnset)
+
+- **Starter:** [[Absorb]]
+- **Beginner:** [[Supersonic]], [[Astonish]]
+- **Amateur:** [[Bite]], [[Wing Attack]], [[Confuse Ray]], [[Air Cutter]], [[Swift]], [[Poison Fang]], [[Mean Look]], [[Leech Life]]
+- **Ace:** [[Acrobatics]], [[Haze]], [[Venoshock]], [[Air Slash]], [[Quick Guard]]
+- **Pro:** [[Nasty Plot]], [[Super Fang]], [[Venom Drench]]
+

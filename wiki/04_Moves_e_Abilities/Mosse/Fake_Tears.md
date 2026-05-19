@@ -1,15 +1,17 @@
 ---
 title: "Fake Tears"
 category: Move
-tags: [move, dark, support]
+locale: it
+tags: [move, buio, support]
 ---
 
 # Fake Tears
-*Dark | Support*
+*Buio | Support*
 
 - **Accuracy:** Cute + Perform
 - **Damage:** N/A
 - **Target:** Foe
-- **Effect:** Reduce the foe's Sp. Defense by 2.
+- **Traits:** [[Stat_Changes]]
+- **Effect:** Riduci la Sp del nemico. Difesa di 2.
 
-> The user stops battling and feigns to be crying, disrupting the foe's mood to battle and making it lower its guard.
+> Chi la usa smette di combattere e finge di piangere, sconvolgendo l'umore del nemico per combattere e facendogli abbassare la guardia.

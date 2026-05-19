@@ -1,15 +1,17 @@
 ---
 title: "Breaking Swipe"
 category: Move
-tags: [move, dragon, physical]
+locale: it
+tags: [move, drago, physical]
 ---
 
 # Breaking Swipe
-*Dragon | Physical*
+*Drago | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 2
 - **Target:** All Foes
-- **Effect:** All Foes in Range. Reduce the Strength of those affected.
+- **Traits:** [[Stat_Changes]]
+- **Effect:** Tutti i nemici a portata. Ridurre lo Strength delle persone colpite.
 
-> The Pokemon will use its tail to make a long swipe at its foes. A few cracks are heard, and the foe will limp afterwards.
+> Il Pokemon userà la coda per effettuare un lungo colpo contro i suoi nemici. Si sentono alcuni schiocchi e dopo il nemico zoppicherà.

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Ninetales (#0038)"
 category: Pokedex
 tags: [ninetales, kanto, fire]
@@ -29,7 +29,13 @@ tags: [ninetales, kanto, fire]
 
 ## Mosse (Learnset)
 
-- **Amateur:** [[Imprison]], [[Nasty Plot]], [[Flamethrower]], [[Confuse Ray]], [[Quick Attack]]
+- **Amateur:** [[Imprison]], [[Nasty_Plot]], [[Flamethrower]], [[Confuse_Ray]], [[Quick_Attack]]
 - **Ace:** [[Safeguard]], [[Hypnosis]]
-- **Pro:** [[Pain Split]], [[Heat Wave]]
+- **Pro:** [[Pain_Split]], [[Heat_Wave]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0037_Vulpix|Vulpix]]

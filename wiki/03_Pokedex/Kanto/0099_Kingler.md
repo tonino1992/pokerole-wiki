@@ -1,4 +1,4 @@
----
+﻿---
 title: "Kingler (#0099)"
 category: Pokedex
 tags: [kingler, kanto, water]
@@ -29,9 +29,15 @@ tags: [kingler, kanto, water]
 
 ## Mosse (Learnset)
 
-- **Starter:** [[Mud Sport]], [[Bubble]]
-- **Beginner:** [[Leer]], [[Vice Grip]], [[Harden]]
-- **Amateur:** [[Wide Guard]], [[Bubble Beam]], [[Mud Shot]], [[Metal Claw]], [[Stomp]], [[Protect]], [[Slam]]
+- **Starter:** [[Mud_Sport]], [[Bubble]]
+- **Beginner:** [[Leer]], [[Vice_Grip]], [[Harden]]
+- **Amateur:** [[Wide_Guard]], [[Bubble_Beam]], [[Mud_Shot]], [[Metal_Claw]], [[Stomp]], [[Protect]], [[Slam]]
 - **Ace:** [[Guillotine]], [[Brine]], [[Crabhammer]], [[Flail]]
-- **Pro:** [[Agility]], [[Iron Defense]], [[Mimic]]
+- **Pro:** [[Agility]], [[Iron_Defense]], [[Mimic]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0098_Krabby|Krabby]]

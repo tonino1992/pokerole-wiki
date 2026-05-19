@@ -1,4 +1,4 @@
----
+﻿---
 title: "Porygon (#0137)"
 category: Pokedex
 tags: [porygon, kanto, normal]
@@ -30,8 +30,8 @@ tags: [porygon, kanto, normal]
 ## Mosse (Learnset)
 
 - **Starter:** [[Conversion]], [[Tackle]]
-- **Beginner:** [[Conversion 2]], [[Sharpen]]
-- **Amateur:** [[Psybeam]], [[Agility]], [[Recover]], [[Magnet Rise]], [[Signal Beam]], [[Recycle]], [[Discharge]]
-- **Ace:** [[Lock-On]], [[Tri Attack]], [[Magic Coat]], [[Zap Cannon]]
-- **Pro:** [[Electroweb]], [[Foul Play]], [[Pain Split]]
+- **Beginner:** [[Conversion_2]], [[Sharpen]]
+- **Amateur:** [[Psybeam]], [[Agility]], [[Recover]], [[Magnet_Rise]], [[Signal_Beam]], [[Recycle]], [[Discharge]]
+- **Ace:** [[Lock-On]], [[Tri_Attack]], [[Magic_Coat]], [[Zap_Cannon]]
+- **Pro:** [[Electroweb]], [[Foul_Play]], [[Pain_Split]]
 

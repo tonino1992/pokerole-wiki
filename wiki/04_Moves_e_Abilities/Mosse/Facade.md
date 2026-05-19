@@ -1,15 +1,16 @@
 ---
 title: "Facade"
 category: Move
-tags: [move, normal, physical]
+locale: it
+tags: [move, normale, physical]
 ---
 
 # Facade
-*Normal | Physical*
+*Normale | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 3
 - **Target:** Foe
-- **Effect:** If User's got a Status Ailment (Paralysis, Poison, Burn, etc.) Add 3 Extra Dice to the Damage pool.
+- **Effect:** Se l'utente ha un disturbo di stato (Paralysis, Veleno, Burn, ecc.) Aggiungi 3 Dice extra al pool Damage.
 
-> The Pokemon will make an upfront attack. If the user is suffering, the attack will be stronger.
+> I Pokemon effettueranno un attacco diretto. Se l'utente soffre, l'attacco sarà più forte.

@@ -1,15 +1,16 @@
 ---
 title: "Dazzling Gleam"
 category: Move
-tags: [move, fairy, special]
+locale: it
+tags: [move, folletto, special]
 ---
 
 # Dazzling Gleam
-*Fairy | Special*
+*Folletto | Special*
 
 - **Accuracy:** Dexterity + Channel
 - **Damage:** Special + 3
 - **Target:** All Foes
 - **Effect:** -
 
-> The user shines a powerful flash that hurts the eyes of everyone watching it.
+> L'utente emette un potente flash che ferisce gli occhi di tutti coloro che lo guardano.

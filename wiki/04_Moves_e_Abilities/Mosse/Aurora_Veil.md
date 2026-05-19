@@ -1,15 +1,17 @@
 ---
 title: "Aurora Veil"
 category: Move
-tags: [move, ice, support]
+locale: it
+tags: [move, ghiaccio, support]
 ---
 
 # Aurora Veil
-*Ice | Support*
+*Ghiaccio | Support*
 
 - **Accuracy:** Special + Channel
 - **Damage:** N/A
 - **Target:** User and Allies
-- **Effect:** User and Allies will receive 1 less Damage from both Physical and Special Attacks. This move will fail if not performed under Hail Weather. Lasts until Hail Weather is over.
+- **Traits:** [[Status_Condition]] (AuroraVeil)
+- **Effect:** L'utente e gli alleati riceveranno 1 Damage in meno da entrambi gli attacchi Physical e Special. Questa mossa fallirà se non eseguita sotto Hail Weather. Dura fino alla fine del tempo di grandine.
 
-> Aurora lights and hail spin around the Pokemon and its Allies, deflecting attacks.
+> Le luci dell'aurora e la grandine girano attorno al Pokemon e ai suoi alleati, deviando gli attacchi.

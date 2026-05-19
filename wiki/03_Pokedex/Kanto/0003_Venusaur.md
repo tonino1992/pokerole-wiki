@@ -1,4 +1,4 @@
----
+﻿---
 title: "Venusaur (#0003)"
 category: Pokedex
 tags: [venusaur, kanto, grass, poison]
@@ -31,8 +31,15 @@ If you find one in the wild, it must be the protector of the area.
 ## Mosse (Learnset)
 
 - **Starter:** [[Tackle]], [[Growl]]
-- **Beginner:** [[Leech Seed]], [[Vine Whip]]
-- **Amateur:** [[Poison Powder]], [[Sleep Powder]], [[Take Down]], [[Razor Leaf]], [[Sweet Scent]], [[Growth]], [[Double-Edge]], [[Petal Dance]], [[Worry Seed]]
-- **Ace:** [[Synthesis]], [[Petal Blizzard]], [[Solar Beam]]
-- **Pro:** [[Outrage]], [[Curse]], [[Frenzy Plant]]
+- **Beginner:** [[Leech_Seed]], [[Vine_Whip]]
+- **Amateur:** [[Poison_Powder]], [[Sleep_Powder]], [[Take_Down]], [[Razor_Leaf]], [[Sweet_Scent]], [[Growth]], [[Double-Edge]], [[Petal_Dance]], [[Worry_Seed]]
+- **Ace:** [[Synthesis]], [[Petal_Blizzard]], [[Solar_Beam]]
+- **Pro:** [[Outrage]], [[Curse]], [[Frenzy_Plant]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0001_Bulbasaur|Bulbasaur]]
+- [[0002_Ivysaur|Ivysaur]]

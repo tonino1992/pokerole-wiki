@@ -1,15 +1,17 @@
 ---
 title: "Fire Spin"
 category: Move
-tags: [move, fire, special]
+locale: it
+tags: [move, fuoco, special]
 ---
 
 # Fire Spin
-*Fire | Special*
+*Fuoco | Special*
 
 - **Accuracy:** Dexterity + Channel
 - **Damage:** Special + 2
 - **Target:** Foe
-- **Effect:** Blocks. Roll 2 Dice of Damage against the foe at the end of each Round. Lasts 4 Rounds. -2 Accuracy.
+- **Traits:** [[Block_Damage_Pool]] (2), [[Accuracy_Reduction]] (2), [[Status_Condition]] (Block)
+- **Effect:** Blocchi. Tira 2 Dice di Damage contro il nemico alla fine di ogni Round. Dura 4 Rounds. -2Accuracy.
 
-> The user creates a vortex of fire that remains spinning in the battlefield, trapping the foe within.
+> Chi la usa crea un vortice di fuoco che continua a ruotare sul campo di battaglia, intrappolando il nemico al suo interno.

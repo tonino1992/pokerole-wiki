@@ -1,4 +1,4 @@
----
+﻿---
 title: "Graveler (#0075)"
 category: Pokedex
 tags: [graveler, kanto, rock, ground]
@@ -29,9 +29,16 @@ tags: [graveler, kanto, rock, ground]
 
 ## Mosse (Learnset)
 
-- **Starter:** [[Tackle]], [[Defense Curl]]
-- **Beginner:** [[Mud Sport]], [[Rock Polish]], [[Rollout]]
-- **Amateur:** [[Magnitude]], [[Rock Throw]], [[Rock Blast]], [[Smack Down]], [[Self Destruct]], [[Bulldoze]], [[Stealth Rock]]
-- **Ace:** [[Earthquake]], [[Explosion]], [[Double-Edge]], [[Stone Edge]]
-- **Pro:** [[Rock Climb]], [[Wide Guard]], [[Sucker Punch]]
+- **Starter:** [[Tackle]], [[Defense_Curl]]
+- **Beginner:** [[Mud_Sport]], [[Rock_Polish]], [[Rollout]]
+- **Amateur:** [[Magnitude]], [[Rock_Throw]], [[Rock_Blast]], [[Smack_Down]], [[Self_Destruct]], [[Bulldoze]], [[Stealth_Rock]]
+- **Ace:** [[Earthquake]], [[Explosion]], [[Double-Edge]], [[Stone_Edge]]
+- **Pro:** [[Rock_Climb]], [[Wide_Guard]], [[Sucker_Punch]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0074_Geodude|Geodude]]
+- [[0076_Golem|Golem]]

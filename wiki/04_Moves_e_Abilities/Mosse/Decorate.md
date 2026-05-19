@@ -1,15 +1,17 @@
 ---
 title: "Decorate"
 category: Move
-tags: [move, fairy, support]
+locale: it
+tags: [move, folletto, support]
 ---
 
 # Decorate
-*Fairy | Support*
+*Folletto | Support*
 
 - **Accuracy:** Beauty + Nature
 - **Damage:** N/A
 - **Target:** One Ally
-- **Effect:** Increase the Strength and Special of One Ally by 2
+- **Traits:** [[Stat_Changes]]
+- **Effect:** Aumenta Strength e Special di One Ally di 2
 
-> Using some frosting the Pokemon decorates their target to look bigger, more powerful, and incredibly delicious!
+> Usando un po' di glassa, i Pokemon decorano il loro bersaglio facendolo sembrare più grande, più potente e incredibilmente delizioso!

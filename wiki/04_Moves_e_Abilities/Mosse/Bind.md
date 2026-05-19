@@ -1,15 +1,17 @@
 ---
 title: "Bind"
 category: Move
-tags: [move, normal, physical]
+locale: it
+tags: [move, normale, physical]
 ---
 
 # Bind
-*Normal | Physical*
+*Normale | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 1
 - **Target:** Foe
-- **Effect:** Block. Deal 2 dice of damage at the end of each Round. Lasts 4 Rounds. -2 Accuracy.
+- **Traits:** [[Block_Damage_Pool]] (2), [[Accuracy_Reduction]] (2), [[Status_Condition]] (Block)
+- **Effect:** Bloccare. Infliggi 2 dadi di danno alla fine di ogni Round. Dura 4 Rounds. -2Accuracy.
 
-> The Pokemon uses its body to bind the foe, restraining and squeezing it.
+> Il Pokemon usa il suo corpo per legare il nemico, trattenendolo e stringendolo.

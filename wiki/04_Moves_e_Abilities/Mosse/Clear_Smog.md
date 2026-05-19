@@ -1,15 +1,17 @@
 ---
 title: "Clear Smog"
 category: Move
-tags: [move, poison, special]
+locale: it
+tags: [move, veleno, special]
 ---
 
 # Clear Smog
-*Poison | Special*
+*Veleno | Special*
 
 - **Accuracy:** Dexterity + Channel
 - **Damage:** Special + 2
 - **Target:** Foe
-- **Effect:** Never Fail. Reset all Increased or Reduced Attributes and Traits of the foe.
+- **Traits:** [[Never_Fail]]
+- **Effect:** Non fallire mai. Ripristina tutti gli attributi e i tratti aumentati o ridotti del nemico.
 
-> The user sucks all gases to clear away all impurities. The target is left heeling hurt, but light headed.
+> L'utente aspira tutti i gas per eliminare tutte le impurità. Il bersaglio viene lasciato sbandato, ferito, ma con la testa leggera.

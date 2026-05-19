@@ -1,15 +1,17 @@
 ---
 title: "Cotton Spore"
 category: Move
-tags: [move, grass, support]
+locale: it
+tags: [move, erba, support]
 ---
 
 # Cotton Spore
-*Grass | Support*
+*Erba | Support*
 
 - **Accuracy:** Insight + Channel
 - **Damage:** N/A
 - **Target:** Foe
-- **Effect:** Reduce foe's Dexterity by 2.
+- **Traits:** [[Stat_Changes]]
+- **Effect:** Riduci lo Dexterity del nemico di 2.
 
-> The Pokemon covers the foe in cotton, disrupting its movement speed.
+> Il Pokemon copre il nemico con il cotone, interrompendo la sua velocità di movimento.

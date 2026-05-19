@@ -1,4 +1,4 @@
----
+﻿---
 title: "Parasect (#0047)"
 category: Pokedex
 tags: [parasect, kanto, bug, grass]
@@ -29,9 +29,15 @@ tags: [parasect, kanto, bug, grass]
 
 ## Mosse (Learnset)
 
-- **Starter:** [[Scratch]], [[Stun Spore]]
-- **Beginner:** [[Absorb]], [[Poison Powder]]
-- **Amateur:** [[Cross Poison]], [[Fury Cutter]], [[Spore]], [[Slash]], [[Growth]], [[Giga Drain]]
-- **Ace:** [[Aromatherapy]], [[Rage Powder]], [[X-Scissor]]
-- **Pro:** [[Psybeam]], [[Synthesis]], [[Seed Bomb]]
+- **Starter:** [[Scratch]], [[Stun_Spore]]
+- **Beginner:** [[Absorb]], [[Poison_Powder]]
+- **Amateur:** [[Cross_Poison]], [[Fury_Cutter]], [[Spore]], [[Slash]], [[Growth]], [[Giga_Drain]]
+- **Ace:** [[Aromatherapy]], [[Rage_Powder]], [[X-Scissor]]
+- **Pro:** [[Psybeam]], [[Synthesis]], [[Seed_Bomb]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0046_Paras|Paras]]

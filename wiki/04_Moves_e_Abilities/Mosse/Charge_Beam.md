@@ -1,15 +1,17 @@
 ---
 title: "Charge Beam"
 category: Move
-tags: [move, electric, special]
+locale: it
+tags: [move, elettro, special]
 ---
 
 # Charge Beam
-*Electric | Special*
+*Elettro | Special*
 
 - **Accuracy:** Dexterity + Channel
 - **Damage:** Special + 2
 - **Target:** Foe
-- **Effect:** Roll 5 Chance Dice to Increase the User's Special. -1 Accuracy.
+- **Traits:** [[Accuracy_Reduction]] (1), [[Stat_Changes]]
+- **Effect:** Lancia 5 possibilità Dice per aumentare lo Special dell'utente. -1Accuracy.
 
-> The Pokemon lets out an electric beam then uses the remaining charge to boost its power.
+> Il Pokemon emette un raggio elettrico quindi utilizza la carica rimanente per aumentare la sua potenza.

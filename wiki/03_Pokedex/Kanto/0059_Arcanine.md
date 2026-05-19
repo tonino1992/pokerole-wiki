@@ -1,4 +1,4 @@
----
+﻿---
 title: "Arcanine (#0059)"
 category: Pokedex
 tags: [arcanine, kanto, fire]
@@ -30,8 +30,14 @@ tags: [arcanine, kanto, fire]
 ## Mosse (Learnset)
 
 - **Starter:** [[Roar]], [[Bite]]
-- **Beginner:** [[Odor Sleuth]]
-- **Amateur:** [[Thunder Fang]], [[Fire Fang]]
-- **Ace:** [[Burn Up]], [[Extreme Speed]]
-- **Pro:** [[Morning Sun]], [[Dragon Pulse]], [[Wild Charge]]
+- **Beginner:** [[Odor_Sleuth]]
+- **Amateur:** [[Thunder_Fang]], [[Fire_Fang]]
+- **Ace:** [[Burn_Up]], [[Extreme_Speed]]
+- **Pro:** [[Morning_Sun]], [[Dragon_Pulse]], [[Wild_Charge]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0058_Growlithe|Growlithe]]

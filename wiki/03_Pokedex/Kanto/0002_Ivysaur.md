@@ -1,4 +1,4 @@
----
+﻿---
 title: "Ivysaur (#0002)"
 category: Pokedex
 tags: [ivysaur, kanto, grass, poison]
@@ -30,8 +30,15 @@ tags: [ivysaur, kanto, grass, poison]
 ## Mosse (Learnset)
 
 - **Starter:** [[Tackle]], [[Growl]]
-- **Beginner:** [[Leech Seed]], [[Vine Whip]]
-- **Amateur:** [[Poison Powder]], [[Sleep Powder]], [[Take Down]], [[Razor Leaf]], [[Sweet Scent]], [[Growth]]
-- **Ace:** [[Double-Edge]], [[Worry Seed]], [[Synthesis]], [[Solar Beam]]
-- **Pro:** [[Grassy Terrain]], [[Amnesia]], [[Grass Pledge]]
+- **Beginner:** [[Leech_Seed]], [[Vine_Whip]]
+- **Amateur:** [[Poison_Powder]], [[Sleep_Powder]], [[Take_Down]], [[Razor_Leaf]], [[Sweet_Scent]], [[Growth]]
+- **Ace:** [[Double-Edge]], [[Worry_Seed]], [[Synthesis]], [[Solar_Beam]]
+- **Pro:** [[Grassy_Terrain]], [[Amnesia]], [[Grass_Pledge]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0001_Bulbasaur|Bulbasaur]]
+- [[0003_Venusaur|Venusaur]]

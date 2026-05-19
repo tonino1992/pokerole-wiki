@@ -1,15 +1,17 @@
 ---
 title: "Flare Blitz"
 category: Move
-tags: [move, fire, physical]
+locale: it
+tags: [move, fuoco, physical]
 ---
 
 # Flare Blitz
-*Fire | Physical*
+*Fuoco | Physical*
 
 - **Accuracy:** Strength + Brawl
 - **Damage:** Strength + 5
 - **Target:** Foe
-- **Effect:** Recoil. Roll 1 Chance Dice to Apply Burn 3 to the foe.
+- **Traits:** [[Recoil]], [[Status_Condition]] (Burn Chance Dice 1)
+- **Effect:** Rinculo. Tira 1 possibilità Dice di applicare Burn 3 al nemico.
 
-> The user sets itself on fire, recklessly charging against the target with a brutal strike.
+> L'utilizzatore si dà fuoco, caricando incautamente il bersaglio con un colpo brutale.

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Mankey (#0056)"
 category: Pokedex
 tags: [mankey, kanto, fighting]
@@ -30,8 +30,14 @@ tags: [mankey, kanto, fighting]
 ## Mosse (Learnset)
 
 - **Starter:** [[Covet]], [[Scratch]]
-- **Beginner:** [[Low Kick]], [[Leer]], [[Focus Energy]]
-- **Amateur:** [[Fury Swipes]], [[Pursuit]], [[Karate Chop]], [[Seismic Toss]], [[Screech]], [[Assurance]], [[Swagger]]
-- **Ace:** [[Cross Chop]], [[Thrash]], [[Punishment]], [[Outrage]], [[Close Combat]], [[Final Gambit]], [[Stomping Tantrum]]
-- **Pro:** [[Meditate]], [[Dual Chop]], [[Beat Up]]
+- **Beginner:** [[Low_Kick]], [[Leer]], [[Focus_Energy]]
+- **Amateur:** [[Fury_Swipes]], [[Pursuit]], [[Karate_Chop]], [[Seismic_Toss]], [[Screech]], [[Assurance]], [[Swagger]]
+- **Ace:** [[Cross_Chop]], [[Thrash]], [[Punishment]], [[Outrage]], [[Close_Combat]], [[Final_Gambit]], [[Stomping_Tantrum]]
+- **Pro:** [[Meditate]], [[Dual_Chop]], [[Beat_Up]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0057_Primeape|Primeape]]

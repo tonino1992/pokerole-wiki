@@ -1,15 +1,16 @@
 ---
 title: "Electric Terrain"
 category: Move
-tags: [move, electric, support]
+locale: it
+tags: [move, elettro, support]
 ---
 
 # Electric Terrain
-*Electric | Support*
+*Elettro | Support*
 
 - **Accuracy:** Insight + Nature
 - **Damage:** N/A
 - **Target:** Battlefield
-- **Effect:** For the Next 4 Rounds all Electric Attacks will deal 1 Extra Dice of Damage. Anyone on the ground will be cured from "Sleep" Status.
+- **Effect:** Per i Prossimi 4 Rounds tutti gli Attacchi Elettrici infliggeranno 1 Dice Extra di Damage. Chiunque a terra verrà curato dallo stato "Sleep".
 
-> The user electrifies the terrain, making it impossible to get a good night's sleep on it.
+> Chi lo utilizza elettrizza il terreno, rendendo impossibile dormire bene la notte su di esso.

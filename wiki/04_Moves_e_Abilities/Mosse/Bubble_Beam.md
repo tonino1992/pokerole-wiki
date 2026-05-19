@@ -1,15 +1,17 @@
 ---
 title: "Bubble Beam"
 category: Move
-tags: [move, water, special]
+locale: it
+tags: [move, acqua, special]
 ---
 
 # Bubble Beam
-*Water | Special*
+*Acqua | Special*
 
 - **Accuracy:** Dexterity + Channel
 - **Damage:** Special + 3
 - **Target:** Foe
-- **Effect:** Roll 1 Chance Dice to Reduce the foe's Dexterity.
+- **Traits:** [[Stat_Changes]]
+- **Effect:** Lancia 1 possibilità Dice di ridurre lo Dexterity del nemico.
 
-> A long stream of bubbles hits the foe, the bubble foam may prevent the target from moving freely.
+> Un lungo flusso di bolle colpisce il nemico, la schiuma delle bolle potrebbe impedire al bersaglio di muoversi liberamente.

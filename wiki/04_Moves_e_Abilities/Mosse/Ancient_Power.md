@@ -1,15 +1,17 @@
 ---
 title: "Ancient Power"
 category: Move
-tags: [move, rock, special]
+locale: it
+tags: [move, roccia, special]
 ---
 
 # Ancient Power
-*Rock | Special*
+*Roccia | Special*
 
 - **Accuracy:** Dexterity + Channel
 - **Damage:** Special + 2
 - **Target:** Foe
-- **Effect:** Roll 1 Chance Dice to Increase the User's Strength, Dexterity, Special, Defense, and Sp. Defense.
+- **Traits:** [[Stat_Changes]]
+- **Effect:** Lancia 1 possibilità Dice di aumentare Strength, Dexterity, Special, Difesa e Sp. Difesa.
 
-> the Pokemon calls upon an energy fron ancient times that strikes the foe and may infuse the user with a primal strength.
+> il Pokemon invoca un'energia dei tempi antichi che colpisce il nemico e può infondere nell'utilizzatore una forza primordiale.

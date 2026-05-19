@@ -1,15 +1,17 @@
 ---
 title: "Apple Acid"
 category: Move
-tags: [move, grass, special]
+locale: it
+tags: [move, erba, special]
 ---
 
 # Apple Acid
-*Grass | Special*
+*Erba | Special*
 
 - **Accuracy:** Dexterity + Channel
 - **Damage:** Special + 3
 - **Target:** Foe
-- **Effect:** Reduce the Foe's Sp. Defense.
+- **Traits:** [[Stat_Changes]]
+- **Effect:** Ridurre la Sp. di Foe. Difesa.
 
-> The Pokemon produces a sap from the tart apples it feeds on, if the apples, this sap is acidic and bad for your teeth.
+> Il Pokemon produce una linfa dalle mele aspre di cui si nutre, se le mele, questa linfa è acida e dannosa per i denti.

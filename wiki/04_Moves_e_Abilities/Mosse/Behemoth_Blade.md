@@ -1,15 +1,16 @@
 ---
 title: "Behemoth Blade"
 category: Move
-tags: [move, steel, physical]
+locale: it
+tags: [move, acciaio, physical]
 ---
 
 # Behemoth Blade
-*Steel | Physical*
+*Acciaio | Physical*
 
 - **Accuracy:** Strength + Brawl
 - **Damage:** Strength + 4
 - **Target:** Foe
-- **Effect:** If the Foe is under the effects of Dynamax, This Move becomes Lethal and you add 4 Extra Dice to the Damage Pool.
+- **Effect:** Se Foe è sotto l'effetto di Dynamax, questa mossa diventa letale e aggiungi 4 Dice extra al pool Damage.
 
-> The Pokemon becomes a giant sword with a razor-sharp blade. If the foe is under the effects of the Dynamax phenomenon all its energy will be slashed to bits.
+> Il Pokemon diventa una spada gigante con una lama affilatissima. Se il nemico è sotto l'effetto del fenomeno Dynamax, tutta la sua energia verrà ridotta in pezzetti.

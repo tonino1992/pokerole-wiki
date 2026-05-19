@@ -1,15 +1,17 @@
 ---
 title: "Bide"
 category: Move
-tags: [move, normal, physical]
+locale: it
+tags: [move, normale, physical]
 ---
 
 # Bide
-*Normal | Physical*
+*Normale | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** N/A
 - **Target:** Foe
-- **Effect:** The User will take the next 2 hits. After those two attacks, you may use this Move again to retaliate with Strength + Twice the Damage Received from those 2 hits.
+- **Traits:** [[Status_Condition]] (Bide)
+- **Effect:** L'utente prenderà i prossimi 2 colpi. Dopo questi due attacchi, puoi utilizzare nuovamente questa mossa per contrattaccare con Strength + il doppio dello Damage ricevuto da quei 2 colpi.
 
-> The user endures the hit then unleashes an attack even greater.
+> L'utilizzatore sopporta il colpo e poi scatena un attacco ancora più potente.

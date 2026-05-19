@@ -1,15 +1,17 @@
----
+﻿---
 title: "Fly"
 category: Move
-tags: [move, flying, physical]
+locale: it
+tags: [move, volante, physical]
 ---
 
 # Fly
-*Flying | Physical*
+*Volante | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 3
 - **Target:** Foe
-- **Effect:** Charge Move. While charging this move the User will be out of range, with the exception of the attacks Hurricane and Thunder.
+- **Traits:** [[Charge_Trait]], [[Status_Condition]] (Fly)
+- **Effect:** Movimento di carica. Mentre carica questa mossa l'Utente sarà fuori portata, ad eccezione degli attacchi Uragano e Tuono.
 
-> The user flies up high in one action, then drops and strikes in the next one. The Pokemon can fly for extremely long periods of time without getting tired.
+> L'utilizzatore vola in alto in un'azione, poi cade e colpisce in quella successiva. I Pokemon possono volare per periodi di tempo estremamente lunghi senza stancarsi.

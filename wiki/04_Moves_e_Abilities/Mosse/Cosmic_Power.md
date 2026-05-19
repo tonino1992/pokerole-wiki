@@ -1,15 +1,17 @@
 ---
 title: "Cosmic Power"
 category: Move
-tags: [move, psychic, support]
+locale: it
+tags: [move, psico, support]
 ---
 
 # Cosmic Power
-*Psychic | Support*
+*Psico | Support*
 
 - **Accuracy:** Special + Channel
 - **Damage:** N/A
 - **Target:** User
-- **Effect:** Increase the User's Defense and Sp. Defense.
+- **Traits:** [[Stat_Changes]]
+- **Effect:** Aumenta la Difesa e la SP dell'Utente. Difesa.
 
-> The user absorbs power from space. This Pokemon glows faintly with energy afterwards.
+> L'utente assorbe energia dallo spazio. Successivamente questo Pokemon si illumina debolmente di energia.

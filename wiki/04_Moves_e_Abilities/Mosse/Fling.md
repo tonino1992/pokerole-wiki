@@ -1,15 +1,17 @@
 ---
 title: "Fling"
 category: Move
-tags: [move, dark, physical]
+locale: it
+tags: [move, buio, physical]
 ---
 
 # Fling
-*Dark | Physical*
+*Buio | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 1
 - **Target:** Foe
-- **Effect:** Ranged. Add up to 4 Dice to the Damage Pool, depending on the held item thrown. See P. 432 for more info.
+- **Traits:** [[Physical_Ranged]]
+- **Effect:** A distanza. Aggiungi fino a 4 Dice alla riserva Damage, a seconda dell'oggetto lanciato. Vedi P. 432 per maggiori informazioni.
 
-> The usr takes its held item and throws it at the opponent. You may get it back after the fight.
+> L'usr prende l'oggetto che tiene e lo lancia all'avversario. Potresti riaverlo dopo il combattimento.

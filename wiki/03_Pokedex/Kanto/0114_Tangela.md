@@ -1,4 +1,4 @@
----
+﻿---
 title: "Tangela (#0114)"
 category: Pokedex
 tags: [tangela, kanto, grass]
@@ -30,8 +30,8 @@ tags: [tangela, kanto, grass]
 ## Mosse (Learnset)
 
 - **Starter:** [[Constrict]], [[Ingrain]]
-- **Beginner:** [[Sleep Powder]], [[Vine Whip]], [[Absorb]]
-- **Amateur:** [[Poison Powder]], [[Bind]], [[Growth]], [[Mega Drain]], [[Knock Off]], [[Stun Spore]], [[Natural Gift]], [[Slam]], [[Ancient Power]]
-- **Ace:** [[Giga Drain]], [[Tickle]], [[Wring Out]], [[Grassy Terrain]], [[Power Whip]]
+- **Beginner:** [[Sleep_Powder]], [[Vine_Whip]], [[Absorb]]
+- **Amateur:** [[Poison_Powder]], [[Bind]], [[Growth]], [[Mega_Drain]], [[Knock_Off]], [[Stun_Spore]], [[Natural_Gift]], [[Slam]], [[Ancient_Power]]
+- **Ace:** [[Giga_Drain]], [[Tickle]], [[Wring_Out]], [[Grassy_Terrain]], [[Power_Whip]]
 - **Pro:** [[Amnesia]], [[Confusion]], [[Substitute]]
 

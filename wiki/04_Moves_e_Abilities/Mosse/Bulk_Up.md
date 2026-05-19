@@ -1,15 +1,17 @@
 ---
 title: "Bulk Up"
 category: Move
-tags: [move, fighting, support]
+locale: it
+tags: [move, lotta, support]
 ---
 
 # Bulk Up
-*Fighting | Support*
+*Lotta | Support*
 
 - **Accuracy:** Vitality + Athletic
 - **Damage:** N/A
 - **Target:** User
-- **Effect:** Increase the User's Strength and Defense.
+- **Traits:** [[Stat_Changes]]
+- **Effect:** Aumenta Strength e Difesa dell'Utente.
 
-> The Pokemon shows its muscles with intimidating poses to look bigger and stronger.
+> Il Pokemon mostra i suoi muscoli con pose intimidatorie per sembrare più grande e più forte.

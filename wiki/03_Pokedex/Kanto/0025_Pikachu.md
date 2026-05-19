@@ -1,4 +1,4 @@
----
+﻿---
 title: "Pikachu (#0025)"
 category: Pokedex
 tags: [pikachu, kanto, electric]
@@ -29,9 +29,15 @@ tags: [pikachu, kanto, electric]
 
 ## Mosse (Learnset)
 
-- **Starter:** [[Thunder Shock]], [[Tail Whip]]
-- **Beginner:** [[Growl]], [[Play Nice]], [[Quick Attack]], [[Thunder Wave]]
-- **Amateur:** [[Electro Ball]], [[Double Team]], [[Nuzzle]], [[Slam]], [[Spark]], [[Thunderbolt]], [[Feint]], [[Agility]]
-- **Ace:** [[Discharge]], [[Light Screen]], [[Thunder]], [[Wild Charge]]
-- **Pro:** [[Surf]], [[Volt Tackle]], [[Extreme Speed]]
+- **Starter:** [[Thunder_Shock]], [[Tail_Whip]]
+- **Beginner:** [[Growl]], [[Play_Nice]], [[Quick_Attack]], [[Thunder_Wave]]
+- **Amateur:** [[Electro_Ball]], [[Double_Team]], [[Nuzzle]], [[Slam]], [[Spark]], [[Thunderbolt]], [[Feint]], [[Agility]]
+- **Ace:** [[Discharge]], [[Light_Screen]], [[Thunder]], [[Wild_Charge]]
+- **Pro:** [[Surf]], [[Volt_Tackle]], [[Extreme_Speed]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0026_Raichu|Raichu]]

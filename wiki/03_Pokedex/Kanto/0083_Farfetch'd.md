@@ -1,4 +1,4 @@
----
+﻿---
 title: "Farfetch'd (#0083)"
 category: Pokedex
 tags: [farfetch'd, kanto, normal, flying]
@@ -29,9 +29,9 @@ tags: [farfetch'd, kanto, normal, flying]
 
 ## Mosse (Learnset)
 
-- **Starter:** [[Peck]], [[Sand Attack]]
-- **Beginner:** [[Fury Cutter]], [[Leer]]
-- **Amateur:** [[Acrobatics]], [[Fury Attack]], [[Knock Off]], [[Slash]], [[Air Cutter]], [[Swords Dance]], [[Agility]], [[Poison Jab]]
-- **Ace:** [[Night Slash]], [[Feint]], [[False Swipe]], [[Air Slash]]
-- **Pro:** [[Brave Bird]], [[Leaf Blade]], [[Feather Dance]], [[Roost]]
+- **Starter:** [[Peck]], [[Sand_Attack]]
+- **Beginner:** [[Fury_Cutter]], [[Leer]]
+- **Amateur:** [[Acrobatics]], [[Fury_Attack]], [[Knock_Off]], [[Slash]], [[Air_Cutter]], [[Swords_Dance]], [[Agility]], [[Poison_Jab]]
+- **Ace:** [[Night_Slash]], [[Feint]], [[False_Swipe]], [[Air_Slash]]
+- **Pro:** [[Brave_Bird]], [[Leaf_Blade]], [[Feather_Dance]], [[Roost]]
 

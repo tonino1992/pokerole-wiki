@@ -1,15 +1,17 @@
 ---
 title: "Endure"
 category: Move
-tags: [move, normal, support]
+locale: it
+tags: [move, normale, support]
 ---
 
 # Endure
-*Normal | Support*
+*Normale | Support*
 
 - **Accuracy:** Will + Channel
 - **Damage:** N/A
 - **Target:** User
-- **Effect:** Priority 5. Shield Move. For the rest of the Round damaging moves can not reduce the user's HP to less then 1. Status Ailments, Weather Conditions, Recoil, Self inflicted damage can still deal damage.
+- **Traits:** [[Shield]], [[Priority]] (5), [[Status_Condition]] (Endure)
+- **Effect:** Priorità 5. Movimento dello scudo. Per il resto delle mosse dannose Round non possono ridurre il HP dell'utente a meno di 1. Disturbi di stato, condizioni meteorologiche, rinculo, Self i danni inflitti possono comunque infliggere danni.
 
-> The user gets prepared to receive a fatal blow. It resists the pain despite being seriously hurt.
+> L'utente si prepara a ricevere un colpo fatale. Resiste al dolore nonostante sia gravemente ferito.

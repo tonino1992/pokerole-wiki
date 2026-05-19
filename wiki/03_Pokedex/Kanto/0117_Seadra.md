@@ -1,4 +1,4 @@
----
+﻿---
 title: "Seadra (#0117)"
 category: Pokedex
 tags: [seadra, kanto, water]
@@ -29,9 +29,15 @@ tags: [seadra, kanto, water]
 
 ## Mosse (Learnset)
 
-- **Starter:** [[Water Gun]], [[Smokescreen]]
-- **Beginner:** [[Leer]], [[Bubble]], [[Focus Energy]]
-- **Amateur:** [[Bubble Beam]], [[Agility]], [[Twister]], [[Brine]]
-- **Ace:** [[Hydro Pump]], [[Dragon Dance]], [[Dragon Pulse]]
-- **Pro:** [[Aurora Beam]], [[Signal Beam]], [[Octazooka]]
+- **Starter:** [[Water_Gun]], [[Smokescreen]]
+- **Beginner:** [[Leer]], [[Bubble]], [[Focus_Energy]]
+- **Amateur:** [[Bubble_Beam]], [[Agility]], [[Twister]], [[Brine]]
+- **Ace:** [[Hydro_Pump]], [[Dragon_Dance]], [[Dragon_Pulse]]
+- **Pro:** [[Aurora_Beam]], [[Signal_Beam]], [[Octazooka]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0116_Horsea|Horsea]]

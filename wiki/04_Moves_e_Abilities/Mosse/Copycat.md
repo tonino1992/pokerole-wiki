@@ -1,15 +1,16 @@
 ---
 title: "Copycat"
 category: Move
-tags: [move, normal, support]
+locale: it
+tags: [move, normale, support]
 ---
 
 # Copycat
-*Normal | Support*
+*Normale | Support*
 
 - **Accuracy:** Same as the copied move
 - **Damage:** Same as the copied move
 - **Target:** Foe
-- **Effect:** Copies the last move the foe has performed.
+- **Effect:** Copia l'ultima mossa eseguita dal nemico.
 
-> The user will closely watch the movements of the target and will imitate them to perfection.
+> L'utente osserverà da vicino i movimenti del bersaglio e li imiterà alla perfezione.

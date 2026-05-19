@@ -1,15 +1,17 @@
 ---
 title: "Cross Chop"
 category: Move
-tags: [move, fighting, physical]
+locale: it
+tags: [move, lotta, physical]
 ---
 
 # Cross Chop
-*Fighting | Physical*
+*Lotta | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 4
 - **Target:** Foe
-- **Effect:** High Critical. -2 Accuracy.
+- **Traits:** [[High_Critical]], [[Accuracy_Reduction]] (2)
+- **Effect:** Alta critica. -2Accuracy.
 
-> The user delivers a chop with its arms crossed trying to hot a weak spot.
+> L'utilizzatore sferra un colpo con le braccia incrociate cercando di colpire un punto debole.

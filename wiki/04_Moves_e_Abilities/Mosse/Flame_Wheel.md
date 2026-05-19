@@ -1,15 +1,17 @@
 ---
 title: "Flame Wheel"
 category: Move
-tags: [move, fire, physical]
+locale: it
+tags: [move, fuoco, physical]
 ---
 
 # Flame Wheel
-*Fire | Physical*
+*Fuoco | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 2
 - **Target:** Foe
-- **Effect:** Roll 1 Chance Dice to Burn the foe.
+- **Traits:** [[Status_Condition]] (Burn Chance Dice 1)
+- **Effect:** Lancia 1 possibilità Dice per Burn il nemico.
 
-> The user cloaks itself in flames and rolls to tackle the target.
+> L'utilizzatore si avvolge nelle fiamme e rotola per affrontare il bersaglio.

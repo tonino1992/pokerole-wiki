@@ -1,15 +1,16 @@
 ---
 title: "After You"
 category: Move
-tags: [move, normal, support]
+locale: it
+tags: [move, normale, support]
 ---
 
 # After You
-*Normal | Support*
+*Normale | Support*
 
 - **Accuracy:** Cool + Etiquette
 - **Damage:** N/A
 - **Target:** One Ally
-- **Effect:** The Target will go first in the order of Initiative. Lasts for the rest of this Battle.
+- **Effect:** Lo Target partirà per primo in ordine di Iniziativa. Dura per il resto di questa battaglia.
 
-> The user bows and courteously lets an ally or foe use their action first.
+> L'utilizzatore si inchina e lascia cortesemente che un alleato o un nemico utilizzi per primo la sua azione.

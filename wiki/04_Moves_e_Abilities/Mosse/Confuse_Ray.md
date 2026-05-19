@@ -1,15 +1,17 @@
 ---
 title: "Confuse Ray"
 category: Move
-tags: [move, ghost, support]
+locale: it
+tags: [move, spettro, support]
 ---
 
 # Confuse Ray
-*Ghost | Support*
+*Spettro | Support*
 
 - **Accuracy:** Insight + Nature
 - **Damage:** N/A
 - **Target:** Foe
-- **Effect:** Confuse the foe.
+- **Traits:** [[Status_Condition]] (Confuse)
+- **Effect:** Confondere il nemico.
 
-> The user flashes a sinister ray of bright light that leaves the target disoriented and confused.
+> Chi la usa emette un sinistro raggio di luce brillante che lascia il bersaglio disorientato e confuso.

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Koffing (#0109)"
 category: Pokedex
 tags: [koffing, kanto, poison]
@@ -29,9 +29,15 @@ tags: [koffing, kanto, poison]
 
 ## Mosse (Learnset)
 
-- **Starter:** [[Poison Gas]], [[Tackle]]
-- **Beginner:** [[Smog]], [[Smokescreen]], [[Clear Smog]]
-- **Amateur:** [[Assurance]], [[Sludge]], [[Self Destruct]], [[Haze]], [[Gyro Ball]], [[Sludge Bomb]]
-- **Ace:** [[Explosion]], [[Destiny Bond]], [[Belch]], [[Memento]]
-- **Pro:** [[Toxic Spikes]], [[Pain Split]], [[Rollout]]
+- **Starter:** [[Poison_Gas]], [[Tackle]]
+- **Beginner:** [[Smog]], [[Smokescreen]], [[Clear_Smog]]
+- **Amateur:** [[Assurance]], [[Sludge]], [[Self_Destruct]], [[Haze]], [[Gyro_Ball]], [[Sludge_Bomb]]
+- **Ace:** [[Explosion]], [[Destiny_Bond]], [[Belch]], [[Memento]]
+- **Pro:** [[Toxic_Spikes]], [[Pain_Split]], [[Rollout]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0110_Weezing|Weezing]]

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Primeape (#0057)"
 category: Pokedex
 tags: [primeape, kanto, fighting]
@@ -30,8 +30,14 @@ tags: [primeape, kanto, fighting]
 ## Mosse (Learnset)
 
 - **Starter:** [[Scratch]]
-- **Beginner:** [[Fling]], [[Focus Energy]], [[Leer]]
-- **Amateur:** [[Swagger]], [[Fury Swipes]], [[Pursuit]], [[Karate Chop]], [[Seismic Toss]], [[Screech]], [[Assurance]], [[Rage]]
-- **Ace:** [[Final Gambit]], [[Cross Chop]], [[Thrash]], [[Stomping Tantrum]], [[Punishment]], [[Outrage]], [[Close Combat]]
-- **Pro:** [[Night Slash]], [[Meditate]], [[Overheat]]
+- **Beginner:** [[Fling]], [[Focus_Energy]], [[Leer]]
+- **Amateur:** [[Swagger]], [[Fury_Swipes]], [[Pursuit]], [[Karate_Chop]], [[Seismic_Toss]], [[Screech]], [[Assurance]], [[Rage]]
+- **Ace:** [[Final_Gambit]], [[Cross_Chop]], [[Thrash]], [[Stomping_Tantrum]], [[Punishment]], [[Outrage]], [[Close_Combat]]
+- **Pro:** [[Night_Slash]], [[Meditate]], [[Overheat]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0056_Mankey|Mankey]]

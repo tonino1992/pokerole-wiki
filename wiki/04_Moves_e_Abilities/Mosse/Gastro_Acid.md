@@ -1,15 +1,17 @@
 ---
 title: "Gastro Acid"
 category: Move
-tags: [move, poison, support]
+locale: it
+tags: [move, veleno, support]
 ---
 
 # Gastro Acid
-*Poison | Support*
+*Veleno | Support*
 
 - **Accuracy:** Special + Channel
 - **Damage:** N/A
 - **Target:** Foe
-- **Effect:** Until the end of the Scene, eliminate any effect the foe's Ability would do.
+- **Traits:** [[Status_Condition]] (SuppressAbility)
+- **Effect:** Fino alla fine della scena, elimina qualsiasi effetto che l'abilità del nemico farebbe.
 
-> The user spits some of its own gastric juices, the acid prevents the foe from using its special abilities.
+> L'utilizzatore sputa alcuni dei propri succhi gastrici, l'acido impedisce al nemico di utilizzare le sue abilità speciali.

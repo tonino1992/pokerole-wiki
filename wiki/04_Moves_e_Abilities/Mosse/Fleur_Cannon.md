@@ -1,15 +1,17 @@
 ---
 title: "Fleur Cannon"
 category: Move
-tags: [move, fairy, special]
+locale: it
+tags: [move, folletto, special]
 ---
 
 # Fleur Cannon
-*Fairy | Special*
+*Folletto | Special*
 
 - **Accuracy:** Special + Channel
 - **Damage:** Special + 6
 - **Target:** Foe
-- **Effect:** Lethal. Reduce User's Special by 2. -1 Accuracy.
+- **Traits:** [[Lethal]], [[Accuracy_Reduction]] (1), [[Stat_Changes]]
+- **Effect:** Letale. Riduci Special dell'utente di 2. -1 Accuracy.
 
-> A light beam pierces the battlefield, it deals devastating damage but leaves newly grown flowers instead of scorched earth. The user is left feeling very tired.
+> Un raggio di luce perfora il campo di battaglia, infligge danni devastanti ma lascia fiori appena cresciuti invece di terra bruciata. L'utente si sente molto stanco.

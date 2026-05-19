@@ -1,4 +1,4 @@
----
+﻿---
 title: "Venonat (#0048)"
 category: Pokedex
 tags: [venonat, kanto, bug, poison]
@@ -8,7 +8,7 @@ tags: [venonat, kanto, bug, poison]
 *Insect Pokemon*
 
 **Type:** Bug / Poison
-**Abilities:** [[Compound Eyes]], [[Tinted Lens]], [[Run Away]] *(Hidden)*
+**Abilities:** [[Compound Eyes]], [[Tinted Lens]], [[Run_Away]] *(Hidden)*
 **Base HP:** 3
 
 > It lives in the holes of trees in dense forests and jungles. Its large eyes never fail to spot even minuscule prey. Sometimes Venonat uses its powers to confuse travelers and make them lose their way.
@@ -31,7 +31,13 @@ tags: [venonat, kanto, bug, poison]
 
 - **Starter:** [[Tackle]], [[Foresight]]
 - **Beginner:** [[Disable]], [[Supersonic]]
-- **Amateur:** [[Confusion]], [[Poison Powder]], [[Leech Life]], [[Stun Spore]], [[Psybeam]], [[Poison Fang]]
-- **Ace:** [[Signal Beam]], [[Zen Headbutt]], [[Sleep Powder]], [[Psychic]]
-- **Pro:** [[Agility]], [[Baton Pass]], [[Giga Drain]]
+- **Amateur:** [[Confusion]], [[Poison_Powder]], [[Leech_Life]], [[Stun_Spore]], [[Psybeam]], [[Poison_Fang]]
+- **Ace:** [[Signal_Beam]], [[Zen_Headbutt]], [[Sleep_Powder]], [[Psychic]]
+- **Pro:** [[Agility]], [[Baton_Pass]], [[Giga_Drain]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0049_Venomoth|Venomoth]]

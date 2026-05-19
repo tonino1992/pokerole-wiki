@@ -1,15 +1,17 @@
 ---
 title: "Attract"
 category: Move
-tags: [move, normal, support]
+locale: it
+tags: [move, normale, support]
 ---
 
 # Attract
-*Normal | Support*
+*Normale | Support*
 
 - **Accuracy:** Beauty + Allure
 - **Damage:** N/A
 - **Target:** Foe
-- **Effect:** If Successful, Target is now In Love. This Move fails if target is from same gender as the User or genderless.
+- **Traits:** [[Status_Condition]] (Infaturate)
+- **Effect:** In caso di successo, Target è ora innamorato. Questa mossa fallisce se il bersaglio è dello stesso sesso dell'utente o è senza sesso.
 
-> The user makes use of its good looks and attitude to infatuate its foe.
+> L'utente sfrutta il suo bell'aspetto e il suo atteggiamento per infatuare il suo nemico.

@@ -1,15 +1,17 @@
 ---
 title: "First Impression"
 category: Move
-tags: [move, bug, physical]
+locale: it
+tags: [move, insetto, physical]
 ---
 
 # First Impression
-*Bug | Physical*
+*Insetto | Physical*
 
 - **Accuracy:** Strength + Intimidate
 - **Damage:** Strength + 3
 - **Target:** Foe
-- **Effect:** Priority 2. This move will only work the First Round the Pokemon is out in battle. From the second round on it will fail automatically.
+- **Traits:** [[Priority]] (2)
+- **Effect:** Priorità 2. Questa mossa funzionerà solo il primo Round in cui il Pokemon sarà in battaglia. Dal secondo round in poi fallirà automaticamente.
 
-> The Pokemon makes a dramatic entrance to the battlefield, taking the foe by surprise as to who its opponent really is.
+> Il Pokemon fa un ingresso drammatico sul campo di battaglia, cogliendo di sorpresa il nemico su chi sia veramente il suo avversario.

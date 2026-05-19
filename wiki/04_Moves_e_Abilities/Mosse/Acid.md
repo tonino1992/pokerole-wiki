@@ -1,15 +1,17 @@
 ---
 title: "Acid"
 category: Move
-tags: [move, poison, special]
+locale: it
+tags: [move, veleno, special]
 ---
 
 # Acid
-*Poison | Special*
+*Veleno | Special*
 
 - **Accuracy:** Dexterity + Channel
 - **Damage:** Special + 2
 - **Target:** All Foes
-- **Effect:** Roll 1 Chance Dice to Reduce Sp. Defense of those affected.
+- **Traits:** [[Stat_Changes]]
+- **Effect:** Lancia 1 possibilità Dice di ridurre Sp. Difesa delle persone colpite.
 
-> The Pokemon showers its foes with a corrosive acid, the burning sensation may leave an opening for other attacks.
+> Il Pokemon inonda i suoi nemici con un acido corrosivo, la sensazione di bruciore può lasciare un'apertura per altri attacchi.

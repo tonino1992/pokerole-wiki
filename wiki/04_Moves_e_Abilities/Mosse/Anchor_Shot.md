@@ -1,15 +1,17 @@
 ---
 title: "Anchor Shot"
 category: Move
-tags: [move, steel, physical]
+locale: it
+tags: [move, acciaio, physical]
 ---
 
 # Anchor Shot
-*Steel | Physical*
+*Acciaio | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 3
 - **Target:** Foe
-- **Effect:** Ranged. Blocks.
+- **Traits:** [[Physical_Ranged]], [[Block_Damage_Pool]] (0), [[Status_Condition]] (Block)
+- **Effect:** A distanza. Blocchi.
 
-> The Pokemon hurls an anchor towards its foe and entangles it with seaweed, the anchor drags the foe down so it cannot escape.
+> Il Pokemon lancia un'ancora verso il suo nemico e lo intrappola con le alghe, l'ancora trascina il nemico verso il basso in modo che non possa scappare.

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Victreebel (#0071)"
 category: Pokedex
 tags: [victreebel, kanto, grass, poison]
@@ -29,9 +29,16 @@ tags: [victreebel, kanto, grass, poison]
 
 ## Mosse (Learnset)
 
-- **Starter:** [[Vine Whip]]
-- **Beginner:** [[Swallow]], [[Spit Up]], [[Stockpile]]
-- **Amateur:** [[Sleep Powder]], [[Sweet Scent]], [[Razor Leaf]], [[Leaf Tornado]]
-- **Ace:** [[Leaf Storm]], [[Leaf Blade]]
-- **Pro:** [[Belch]], [[Power Whip]], [[Synthesis]]
+- **Starter:** [[Vine_Whip]]
+- **Beginner:** [[Swallow]], [[Spit_Up]], [[Stockpile]]
+- **Amateur:** [[Sleep_Powder]], [[Sweet_Scent]], [[Razor_Leaf]], [[Leaf_Tornado]]
+- **Ace:** [[Leaf_Storm]], [[Leaf_Blade]]
+- **Pro:** [[Belch]], [[Power_Whip]], [[Synthesis]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0069_Bellsprout|Bellsprout]]
+- [[0070_Weepinbell|Weepinbell]]

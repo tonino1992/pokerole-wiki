@@ -1,15 +1,17 @@
 ---
 title: "Close Combat"
 category: Move
-tags: [move, fighting, physical]
+locale: it
+tags: [move, lotta, physical]
 ---
 
 # Close Combat
-*Fighting | Physical*
+*Lotta | Physical*
 
 - **Accuracy:** Strength + Brawl
 - **Damage:** Strength + 5
 - **Target:** Foe
-- **Effect:** After dealing damage, Reduce the User's Defense and Sp. Defense.
+- **Traits:** [[Stat_Changes]]
+- **Effect:** Dopo aver inflitto danni, riduci la Difesa e l'Sp dell'utilizzatore. Difesa.
 
-> The user attacks at a close distance to deal lots of damage. The foe is also close enough to attack.
+> L'utente attacca a distanza ravvicinata per infliggere molti danni. Anche il nemico è abbastanza vicino per attaccare.

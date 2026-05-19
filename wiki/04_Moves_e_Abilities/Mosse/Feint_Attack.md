@@ -1,15 +1,17 @@
 ---
 title: "Feint Attack"
 category: Move
-tags: [move, dark, physical]
+locale: it
+tags: [move, buio, physical]
 ---
 
 # Feint Attack
-*Dark | Physical*
+*Buio | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 2
 - **Target:** Foe
-- **Effect:** Never Fail.
+- **Traits:** [[Never_Fail]]
+- **Effect:** Non fallire mai.
 
-> The Pokemon approaches the foe disarmingly then attacks suddenly without giving any time to react.
+> Il Pokemon si avvicina al nemico in modo disarmante quindi attacca all'improvviso senza dare il tempo di reagire.

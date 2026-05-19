@@ -1,15 +1,17 @@
 ---
 title: "Final Gambit"
 category: Move
-tags: [move, fighting, special]
+locale: it
+tags: [move, lotta, special]
 ---
 
 # Final Gambit
-*Fighting | Special*
+*Lotta | Special*
 
 - **Accuracy:** Will + Athletic
 - **Damage:** N/A
 - **Target:** Foe
-- **Effect:** Ignore the foe's Defenses. The user faints after dealing damage.
+- **Traits:** [[UserFaints]], [[Ignore_Defenses]]
+- **Effect:** Ignora le difese del nemico. L'utente sviene dopo aver inflitto danni.
 
-> The Pokemon puts its last strength into an all-or-nothing attack. After that, it faints.
+> Il Pokemon mette le sue ultime forze in un attacco tutto o niente. Dopodiché sviene.

@@ -1,15 +1,17 @@
 ---
 title: "Electrify"
 category: Move
-tags: [move, electric, support]
+locale: it
+tags: [move, elettro, support]
 ---
 
 # Electrify
-*Electric | Support*
+*Elettro | Support*
 
 - **Accuracy:** Insight + Nature
 - **Damage:** N/A
 - **Target:** Foe
-- **Effect:** The Damage from the next attack made by the target will be Electric Type.
+- **Traits:** [[Status_Condition]] (Electrify)
+- **Effect:** Lo Damage del prossimo attacco effettuato dal bersaglio sarà di tipo Elettrico.
 
-> The user hurls an electric projectile to the target, the foe is charged with electricity until it is released by the foe's next attack.
+> L'utilizzatore lancia un proiettile elettrico verso il bersaglio, il nemico viene caricato di elettricità finché non viene rilasciato dal successivo attacco del nemico.

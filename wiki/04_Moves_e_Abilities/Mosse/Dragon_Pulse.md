@@ -1,15 +1,16 @@
 ---
 title: "Dragon Pulse"
 category: Move
-tags: [move, dragon, special]
+locale: it
+tags: [move, drago, special]
 ---
 
 # Dragon Pulse
-*Dragon | Special*
+*Drago | Special*
 
 - **Accuracy:** Dexterity + Channel
 - **Damage:** Special + 3
 - **Target:** Foe
 - **Effect:** -
 
-> The user opens its mouth and sends a powerful wave of energy.
+> Chi lo utilizza apre la bocca ed invia una potente ondata di energia.

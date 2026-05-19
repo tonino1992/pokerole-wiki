@@ -1,15 +1,16 @@
 ---
 title: "Dynamax Cannon"
 category: Move
-tags: [move, dragon, special]
+locale: it
+tags: [move, drago, special]
 ---
 
 # Dynamax Cannon
-*Dragon | Special*
+*Drago | Special*
 
 - **Accuracy:** Special + Channel
 - **Damage:** Special + 4
 - **Target:** Foe
-- **Effect:** If the Foe is under the effects of Dynamax, This Move becomes Lethal and you add 4 Extra Dice to the Damage Pool.
+- **Effect:** Se Foe è sotto l'effetto di Dynamax, questa mossa diventa letale e aggiungi 4 Dice extra al pool Damage.
 
-> The Pokemon shoots a heavy projectile, if the foe is under the effects of the Dynamax phenomenon all the energy will be concentrated and explode on the target.
+> Il Pokemon spara un proiettile pesante, se il nemico è sotto gli effetti del fenomeno Dynamax tutta l'energia si concentrerà ed esploderà sul bersaglio.

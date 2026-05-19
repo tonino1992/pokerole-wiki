@@ -1,4 +1,4 @@
----
+﻿---
 title: "Rhydon (#0112)"
 category: Pokedex
 tags: [rhydon, kanto, ground, rock]
@@ -29,9 +29,15 @@ tags: [rhydon, kanto, ground, rock]
 
 ## Mosse (Learnset)
 
-- **Starter:** [[Horn Attack]], [[Tail Whip]]
-- **Beginner:** [[Stomp]], [[Fury Attack]], [[Smack Down]]
-- **Amateur:** [[Scary Face]], [[Rock Blast]], [[Bulldoze]], [[Chip Away]], [[Take Down]], [[Drill Run]]
-- **Ace:** [[Hammer Arm]], [[Stone Edge]], [[Earthquake]], [[Horn Drill]], [[Megahorn]]
-- **Pro:** [[Dragon Rush]], [[Skull Bash]], [[Smart Strike]]
+- **Starter:** [[Horn_Attack]], [[Tail_Whip]]
+- **Beginner:** [[Stomp]], [[Fury_Attack]], [[Smack_Down]]
+- **Amateur:** [[Scary_Face]], [[Rock_Blast]], [[Bulldoze]], [[Chip_Away]], [[Take_Down]], [[Drill_Run]]
+- **Ace:** [[Hammer_Arm]], [[Stone_Edge]], [[Earthquake]], [[Horn_Drill]], [[Megahorn]]
+- **Pro:** [[Dragon_Rush]], [[Skull_Bash]], [[Smart_Strike]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0111_Rhyhorn|Rhyhorn]]

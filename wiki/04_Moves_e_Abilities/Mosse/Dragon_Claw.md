@@ -1,15 +1,16 @@
 ---
 title: "Dragon Claw"
 category: Move
-tags: [move, dragon, physical]
+locale: it
+tags: [move, drago, physical]
 ---
 
 # Dragon Claw
-*Dragon | Physical*
+*Drago | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 3
 - **Target:** Foe
 - **Effect:** -
 
-> The Pokemon uses its strong claws to deliver a fierce tearing blow.
+> Il Pokemon usa i suoi forti artigli per sferrare un feroce colpo lacerante.

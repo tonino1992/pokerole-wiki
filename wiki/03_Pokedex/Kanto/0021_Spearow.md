@@ -1,4 +1,4 @@
----
+﻿---
 title: "Spearow (#0021)"
 category: Pokedex
 tags: [spearow, kanto, normal, flying]
@@ -30,8 +30,14 @@ tags: [spearow, kanto, normal, flying]
 ## Mosse (Learnset)
 
 - **Starter:** [[Peck]], [[Growl]]
-- **Beginner:** [[Leer]], [[Fury Attack]]
-- **Amateur:** [[Pursuit]], [[Aerial Ace]], [[Assurance]], [[Focus Energy]], [[Mirror Move]], [[Agility]]
-- **Ace:** [[Roost]], [[Drill Peck]]
-- **Pro:** [[Tailwind]], [[Scary Face]], [[Feather Dance]]
+- **Beginner:** [[Leer]], [[Fury_Attack]]
+- **Amateur:** [[Pursuit]], [[Aerial_Ace]], [[Assurance]], [[Focus_Energy]], [[Mirror_Move]], [[Agility]]
+- **Ace:** [[Roost]], [[Drill_Peck]]
+- **Pro:** [[Tailwind]], [[Scary_Face]], [[Feather_Dance]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0022_Fearow|Fearow]]

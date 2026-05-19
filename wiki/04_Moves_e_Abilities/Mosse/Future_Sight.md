@@ -1,15 +1,17 @@
 ---
 title: "Future Sight"
 category: Move
-tags: [move, psychic, special]
+locale: it
+tags: [move, psico, special]
 ---
 
 # Future Sight
-*Psychic | Special*
+*Psico | Special*
 
 - **Accuracy:** Insight + Channel
 - **Damage:** Special + 5
 - **Target:** Foe
-- **Effect:** Strikes at the end of the next Round. It bypasses any Shield Move and cover. If the target retires or switches out from battle the damage will be dealt to the next opponent or to one of its allies.
+- **Traits:** [[Status_Condition]] (FutureSight)
+- **Effect:** Colpisce alla fine del successivo Round. Oltrepassa qualsiasi movimento dello scudo e copertura. Se il bersaglio si ritira o esce dalla battaglia il danno verrà inflitto al prossimo avversario o ad uno dei suoi alleati.
 
-> The Pokemon foresses something terrible happening to the target. It may see images from its own future without any risk.
+> Il Pokemon prevede che succeda qualcosa di terribile al bersaglio. Può vedere immagini del proprio futuro senza alcun rischio.

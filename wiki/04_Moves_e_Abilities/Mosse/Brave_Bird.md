@@ -1,15 +1,17 @@
 ---
 title: "Brave Bird"
 category: Move
-tags: [move, flying, physical]
+locale: it
+tags: [move, volante, physical]
 ---
 
 # Brave Bird
-*Flying | Physical*
+*Volante | Physical*
 
 - **Accuracy:** Strength + Brawl
 - **Damage:** Strength + 5
 - **Target:** Foe
-- **Effect:** Recoil.
+- **Traits:** [[Recoil]]
+- **Effect:** Rinculo.
 
-> The Pokemon flies straight at the foe at full speed, the collision might hurt both of them.
+> Il Pokemon vola dritto verso il nemico a tutta velocità, la collisione potrebbe ferire entrambi.

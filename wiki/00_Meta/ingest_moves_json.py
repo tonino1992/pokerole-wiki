@@ -1,6 +1,7 @@
 import os
 import json
 import urllib.request
+import urllib.parse
 import time
 import re
 
@@ -20,7 +21,11 @@ except Exception as e:
 move_paths = [t['path'] for t in tree_data['tree'] if t['path'].startswith('v2.0/Moves/') and t['path'].endswith('.json')]
 print(f"Trovate {len(move_paths)} mosse.")
 
-print("Fase 2: Download e Generazione Markdown...")
+# Pre-conta le mosse già presenti per il resume
+existing_files = set(os.listdir(moves_dir))
+skipped = 0
+
+print(f"Fase 2: Download e Generazione Markdown... ({len(existing_files)} mosse già presenti, verranno saltate)")
 for path in move_paths:
     url_path = urllib.parse.quote(path)
     raw_url = f"https://raw.githubusercontent.com/Willowlark/Pokerole-Data/master/{url_path}"
@@ -66,6 +71,11 @@ for path in move_paths:
     safe_name = re.sub(r'[\\/*?:"<>|]', "", name).replace(" ", "_")
     md_filename = f"{safe_name}.md"
     md_path = os.path.join(moves_dir, md_filename)
+
+    # Skip se già esiste (resume)
+    if md_filename in existing_files:
+        skipped += 1
+        continue
     
     tags = ["move", move_type.lower(), category.lower()]
     
@@ -91,4 +101,9 @@ tags: [{', '.join(tags)}]
     print(f"Generato {md_filename}")
     time.sleep(0.05) # Rate limit protection
 
-print("Fase 2 Completata. Ingest Mosse terminato.")
+total_generated = len(move_paths) - skipped
+print(f"\nFase 2 Completata. Ingest Mosse terminato.")
+print(f"  - Mosse totali nel database: {len(move_paths)}")
+print(f"  - Mosse saltate (già presenti): {skipped}")
+print(f"  - Mosse generate in questa sessione: {total_generated}")
+print(f"  - File totali ora in {moves_dir}: {len(os.listdir(moves_dir))}")

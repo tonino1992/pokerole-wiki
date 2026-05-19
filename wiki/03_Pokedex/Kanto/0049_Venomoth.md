@@ -1,4 +1,4 @@
----
+﻿---
 title: "Venomoth (#0049)"
 category: Pokedex
 tags: [venomoth, kanto, bug, poison]
@@ -31,7 +31,13 @@ tags: [venomoth, kanto, bug, poison]
 
 - **Starter:** [[Foresight]]
 - **Beginner:** [[Disable]], [[Confusion]], [[Supersonic]]
-- **Amateur:** [[Silver Wind]], [[Quiver Dance]], [[Poison Fang]], [[Poison Powder]], [[Leech Life]], [[Stun Spore]], [[Psybeam]]
-- **Ace:** [[Sleep Powder]], [[Signal Beam]], [[Zen Headbutt]], [[Bug Buzz]], [[Psychic]]
-- **Pro:** [[Giga Drain]], [[Morning Sun]], [[Defog]]
+- **Amateur:** [[Silver_Wind]], [[Quiver_Dance]], [[Poison_Fang]], [[Poison_Powder]], [[Leech_Life]], [[Stun_Spore]], [[Psybeam]]
+- **Ace:** [[Sleep_Powder]], [[Signal_Beam]], [[Zen_Headbutt]], [[Bug_Buzz]], [[Psychic]]
+- **Pro:** [[Giga_Drain]], [[Morning_Sun]], [[Defog]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0048_Venonat|Venonat]]

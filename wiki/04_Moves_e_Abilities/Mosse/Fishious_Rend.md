@@ -1,15 +1,16 @@
 ---
 title: "Fishious Rend"
 category: Move
-tags: [move, water, physical]
+locale: it
+tags: [move, acqua, physical]
 ---
 
 # Fishious Rend
-*Water | Physical*
+*Acqua | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 3
 - **Target:** Foe
-- **Effect:** If the foe has not had its Turn this Round, Add 2 Extra Dice to the Damage Pool.
+- **Effect:** Se il nemico non ha avuto il suo Turn questo Round, aggiungi 2 Dice extra alla riserva Damage.
 
-> This Pokemon uses its gills to snap at its target, even if they don't have teeth, they can have a crushing strength.
+> Questo Pokemon usa le sue branchie per colpire il suo bersaglio, anche se non hanno denti, possono avere una forza schiacciante.

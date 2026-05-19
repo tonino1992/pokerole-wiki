@@ -1,15 +1,17 @@
 ---
 title: "Bubble"
 category: Move
-tags: [move, water, special]
+locale: it
+tags: [move, acqua, special]
 ---
 
 # Bubble
-*Water | Special*
+*Acqua | Special*
 
 - **Accuracy:** Dexterity + Channel
 - **Damage:** Special + 2
 - **Target:** All Foes
-- **Effect:** Target all foes in range. Roll 1 Chance Dice to Reduce the Dexterity of those affected.
+- **Traits:** [[Stat_Changes]]
+- **Effect:** Target tutti i nemici nel raggio d'azione. Tira 1 possibilità Dice di ridurre lo Dexterity delle persone colpite.
 
-> A spray of bubbles flies around the enemies, some of the bubbles stick to their bodies hindering their movement.
+> Uno spruzzo di bolle vola attorno ai nemici, alcune bolle si attaccano ai loro corpi ostacolandone i movimenti.

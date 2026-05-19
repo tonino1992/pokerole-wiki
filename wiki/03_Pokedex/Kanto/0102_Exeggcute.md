@@ -1,4 +1,4 @@
----
+﻿---
 title: "Exeggcute (#0102)"
 category: Pokedex
 tags: [exeggcute, kanto, grass, psychic]
@@ -31,7 +31,13 @@ tags: [exeggcute, kanto, grass, psychic]
 
 - **Starter:** [[Barrage]], [[Uproar]]
 - **Beginner:** [[Hypnosis]], [[Reflect]]
-- **Amateur:** [[Leech Seed]], [[Bullet Seed]], [[Stun Spore]], [[Poison Powder]], [[Sleep Powder]], [[Confusion]], [[Worry Seed]]
-- **Ace:** [[Natural Gift]], [[Solar Beam]], [[Extrasensory]], [[Bestow]]
+- **Amateur:** [[Leech_Seed]], [[Bullet_Seed]], [[Stun_Spore]], [[Poison_Powder]], [[Sleep_Powder]], [[Confusion]], [[Worry_Seed]]
+- **Ace:** [[Natural_Gift]], [[Solar_Beam]], [[Extrasensory]], [[Bestow]]
 - **Pro:** [[Nightmare]], [[Ingrain]], [[Curse]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0103_Exeggutor|Exeggutor]]

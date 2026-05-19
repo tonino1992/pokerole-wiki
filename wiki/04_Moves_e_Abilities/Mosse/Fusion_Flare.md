@@ -1,15 +1,17 @@
 ---
 title: "Fusion Flare"
 category: Move
-tags: [move, fire, special]
+locale: it
+tags: [move, fuoco, special]
 ---
 
 # Fusion Flare
-*Fire | Special*
+*Fuoco | Special*
 
 - **Accuracy:** Special + Channel
 - **Damage:** Special + 4
 - **Target:** Foe
-- **Effect:** Lethal. If the Move “Fusion Bolt” has already been used by anyone this Round, add 4 Extra Dice to the Damage Pool of this Move
+- **Traits:** [[Lethal]]
+- **Effect:** Letale. Se la mossa "Fusion Bolt" è già stata utilizzata da qualcuno in questo Round, aggiungi 4 Dice extra alla riserva Damage di questa mossa
 
-> The Pokemon sets ablaze a swirling pillar upon the target, said pillar will grow taller and swirl faster if there's a special kind of charge nearby.
+> Il Pokemon incendia un pilastro vorticoso sul bersaglio, detto pilastro diventerà più alto e ruoterà più velocemente se c'è un tipo speciale di carica nelle vicinanze.

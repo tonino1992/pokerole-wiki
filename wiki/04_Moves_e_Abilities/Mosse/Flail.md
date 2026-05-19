@@ -1,15 +1,16 @@
 ---
 title: "Flail"
 category: Move
-tags: [move, normal, physical]
+locale: it
+tags: [move, normale, physical]
 ---
 
 # Flail
-*Normal | Physical*
+*Normale | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 1
 - **Target:** Foe
-- **Effect:** Add 1 Dice to the Damage Roll for every missing HP the user has. Up to +5 Dice may be added this way.
+- **Effect:** Aggiungi 1 Dice al tiro Damage per ogni HP mancante dell'utente. In questo modo è possibile aggiungere fino a +5 Dice.
 
-> The User flails and struggles to survive. The more weakened it is the stronger this attack will be.
+> L'Utente si agita e lotta per sopravvivere. Più è indebolito, più forte sarà questo attacco.

@@ -1,15 +1,17 @@
 ---
 title: "Bonemerang"
 category: Move
-tags: [move, ground, physical]
+locale: it
+tags: [move, terra, physical]
 ---
 
 # Bonemerang
-*Ground | Physical*
+*Terra | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 2
 - **Target:** Foe
-- **Effect:** Ranged. Double Action. -1 Accuracy.
+- **Traits:** [[Physical_Ranged]], [[Double_Action]], [[Accuracy_Reduction]] (1)
+- **Effect:** A distanza. Doppia azione. -1Accuracy.
 
-> The Pokemon throws a bone to hit the foe. The bone returns like a boomerang, striking a second time.
+> Il Pokemon lancia un osso per colpire il nemico. L'osso ritorna come un boomerang, colpendo una seconda volta.

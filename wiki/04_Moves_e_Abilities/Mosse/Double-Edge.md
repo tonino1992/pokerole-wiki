@@ -1,15 +1,17 @@
 ---
 title: "Double-Edge"
 category: Move
-tags: [move, normal, physical]
+locale: it
+tags: [move, normale, physical]
 ---
 
 # Double-Edge
-*Normal | Physical*
+*Normale | Physical*
 
 - **Accuracy:** Strength + Brawl
 - **Damage:** Strength + 5
 - **Target:** Foe
-- **Effect:** Recoil.
+- **Traits:** [[Recoil]]
+- **Effect:** Rinculo.
 
-> The user recklessly slams its foe to deal a lot of damage, but it may also hurt itself in the process.
+> Chi lo usa colpisce incautamente il nemico provocando molti danni, ma potrebbe anche ferirsi nel processo.

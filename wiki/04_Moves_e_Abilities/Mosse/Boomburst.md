@@ -1,15 +1,17 @@
 ---
 title: "Boomburst"
 category: Move
-tags: [move, normal, special]
+locale: it
+tags: [move, normale, special]
 ---
 
 # Boomburst
-*Normal | Special*
+*Normale | Special*
 
 - **Accuracy:** Dexterity + Channel
 - **Damage:** Special + 6
 - **Target:** Area
-- **Effect:** Sound Based.
+- **Traits:** [[Sound_Based]]
+- **Effect:** Basato sul suono.
 
-> The user creates an explosive sound that deafens everyone in the battlefield.
+> Chi lo utilizza crea un suono esplosivo che assorda tutti sul campo di battaglia.

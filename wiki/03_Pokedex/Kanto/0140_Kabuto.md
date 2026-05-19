@@ -1,4 +1,4 @@
----
+﻿---
 title: "Kabuto (#0140)"
 category: Pokedex
 tags: [kabuto, kanto, rock, water]
@@ -30,8 +30,14 @@ tags: [kabuto, kanto, rock, water]
 ## Mosse (Learnset)
 
 - **Starter:** [[Scratch]], [[Harden]]
-- **Beginner:** [[Absorb]], [[Leer]], [[Sand Attack]]
-- **Amateur:** [[Mud Shot]], [[Endure]], [[Aqua Jet]], [[Mega Drain]], [[Metal Sound]]
-- **Ace:** [[Ancient Power]], [[Wring Out]]
-- **Pro:** [[Confuse Ray]], [[Stealth Rock]], [[Iron Defense]]
+- **Beginner:** [[Absorb]], [[Leer]], [[Sand_Attack]]
+- **Amateur:** [[Mud_Shot]], [[Endure]], [[Aqua_Jet]], [[Mega_Drain]], [[Metal_Sound]]
+- **Ace:** [[Ancient_Power]], [[Wring_Out]]
+- **Pro:** [[Confuse_Ray]], [[Stealth_Rock]], [[Iron_Defense]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0141_Kabutops|Kabutops]]

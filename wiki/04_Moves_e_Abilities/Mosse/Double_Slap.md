@@ -1,15 +1,17 @@
 ---
 title: "Double Slap"
 category: Move
-tags: [move, normal, physical]
+locale: it
+tags: [move, normale, physical]
 ---
 
 # Double Slap
-*Normal | Physical*
+*Normale | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 1
 - **Target:** Foe
-- **Effect:** Successive Actions. -2 Accuracy.
+- **Traits:** [[Successive_Actions]], [[Accuracy_Reduction]] (2)
+- **Effect:** Azioni successive. -2Accuracy.
 
-> The user attacks its foe with two or more slaps in the face.
+> Chi lo usa attacca il nemico con due o più schiaffi in faccia.

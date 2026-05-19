@@ -1,4 +1,4 @@
----
+﻿---
 title: "Hypno (#0097)"
 category: Pokedex
 tags: [hypno, kanto, psychic]
@@ -30,8 +30,14 @@ tags: [hypno, kanto, psychic]
 ## Mosse (Learnset)
 
 - **Starter:** [[Hypnosis]], [[Pound]]
-- **Beginner:** [[Confusion]], [[Disable]], [[Poison Gas]], [[Meditate]]
-- **Amateur:** [[Nightmare]], [[Headbutt]], [[Switcheroo]], [[Swagger]], [[Psybeam]], [[Headbutt]], [[Psych Up]], [[Synchronoise]], [[Zen Headbutt]]
-- **Ace:** [[Nasty Plot]], [[Psychic]], [[Psyshock]], [[Future Sight]]
-- **Pro:** [[Thunder Wave]], [[Substitute]], [[Metronome]]
+- **Beginner:** [[Confusion]], [[Disable]], [[Poison_Gas]], [[Meditate]]
+- **Amateur:** [[Nightmare]], [[Headbutt]], [[Switcheroo]], [[Swagger]], [[Psybeam]], [[Headbutt]], [[Psych_Up]], [[Synchronoise]], [[Zen_Headbutt]]
+- **Ace:** [[Nasty_Plot]], [[Psychic]], [[Psyshock]], [[Future_Sight]]
+- **Pro:** [[Thunder_Wave]], [[Substitute]], [[Metronome]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0096_Drowzee|Drowzee]]

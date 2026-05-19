@@ -1,15 +1,16 @@
 ---
 title: "Drill Peck"
 category: Move
-tags: [move, flying, physical]
+locale: it
+tags: [move, volante, physical]
 ---
 
 # Drill Peck
-*Flying | Physical*
+*Volante | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 3
 - **Target:** Foe
 - **Effect:** -
 
-> The user pierces the foe with its beak used as a drill. A dangerous move.
+> Chi la usa trafigge il nemico con il becco usato come un trapano. Una mossa pericolosa.

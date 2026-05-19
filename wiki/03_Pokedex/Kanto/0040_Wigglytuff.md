@@ -1,4 +1,4 @@
----
+﻿---
 title: "Wigglytuff (#0040)"
 category: Pokedex
 tags: [wigglytuff, kanto, normal, fairy]
@@ -29,7 +29,13 @@ tags: [wigglytuff, kanto, normal, fairy]
 
 ## Mosse (Learnset)
 
-- **Amateur:** [[Double Slap]], [[Play Rough]], [[Sing]], [[Disable]], [[Defense Curl]]
-- **Ace:** [[Double-Edge]], [[Fake Tears]]
-- **Pro:** [[Scary Face]], [[Heal Pulse]]
+- **Amateur:** [[Double_Slap]], [[Play_Rough]], [[Sing]], [[Disable]], [[Defense_Curl]]
+- **Ace:** [[Double-Edge]], [[Fake_Tears]]
+- **Pro:** [[Scary_Face]], [[Heal_Pulse]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0039_Jigglypuff|Jigglypuff]]

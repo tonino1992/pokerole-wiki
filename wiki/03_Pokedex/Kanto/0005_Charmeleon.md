@@ -1,4 +1,4 @@
----
+﻿---
 title: "Charmeleon (#0005)"
 category: Pokedex
 tags: [charmeleon, kanto, fire]
@@ -31,7 +31,14 @@ tags: [charmeleon, kanto, fire]
 
 - **Starter:** [[Scratch]], [[Growl]]
 - **Beginner:** [[Ember]], [[Smokescreen]]
-- **Amateur:** [[Dragon Rage]], [[Scary Face]], [[Fire Fang]], [[Flame Burst]], [[Slash]], [[Fire Spin]]
+- **Amateur:** [[Dragon_Rage]], [[Scary_Face]], [[Fire_Fang]], [[Flame_Burst]], [[Slash]], [[Fire_Spin]]
 - **Ace:** [[Flamethrower]], [[Inferno]]
-- **Pro:** [[Metal Claw]], [[Dragon Dance]], [[Fire Pledge]]
+- **Pro:** [[Metal_Claw]], [[Dragon_Dance]], [[Fire_Pledge]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0004_Charmander|Charmander]]
+- [[0006_Charizard|Charizard]]

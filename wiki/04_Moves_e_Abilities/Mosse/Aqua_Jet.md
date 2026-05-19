@@ -1,15 +1,17 @@
 ---
 title: "Aqua Jet"
 category: Move
-tags: [move, water, physical]
+locale: it
+tags: [move, acqua, physical]
 ---
 
 # Aqua Jet
-*Water | Physical*
+*Acqua | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 2
 - **Target:** Foe
-- **Effect:** Priority 1.
+- **Traits:** [[Priority]] (1)
+- **Effect:** Priorità 1.
 
-> The user propels itself with a blast of water and strikes at high speed.
+> L'utilizzatore si spinge con un getto d'acqua e colpisce ad alta velocità.

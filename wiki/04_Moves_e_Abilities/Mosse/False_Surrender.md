@@ -1,15 +1,17 @@
 ---
 title: "False Surrender"
 category: Move
-tags: [move, dark, physical]
+locale: it
+tags: [move, buio, physical]
 ---
 
 # False Surrender
-*Dark | Physical*
+*Buio | Physical*
 
 - **Accuracy:** Insight + Allure
 - **Damage:** Strength + 3
 - **Target:** Foe
-- **Effect:** Never Fail.
+- **Traits:** [[Never_Fail]]
+- **Effect:** Non fallire mai.
 
-> The Pokemon bows in defeat, begging for forgiveness, then backstabs its gullible foe.
+> Il Pokemon si inchina sconfitto, implorando perdono, quindi pugnala alle spalle il suo ingenuo nemico.

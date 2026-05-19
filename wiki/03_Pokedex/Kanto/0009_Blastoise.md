@@ -1,4 +1,4 @@
----
+﻿---
 title: "Blastoise (#0009)"
 category: Pokedex
 tags: [blastoise, kanto, water]
@@ -29,9 +29,16 @@ tags: [blastoise, kanto, water]
 
 ## Mosse (Learnset)
 
-- **Starter:** [[Tail Whip]], [[Tackle]]
-- **Beginner:** [[Withdraw]], [[Water Gun]]
-- **Amateur:** [[Rapid Spin]], [[Bubble]], [[Bite]], [[Flash Cannon]], [[Protect]], [[Water Pulse]], [[Aqua Tail]]
-- **Ace:** [[Skull Bash]], [[Iron Defense]], [[Rain Dance]], [[Hydro Pump]]
-- **Pro:** [[Zap Cannon]], [[Outrage]], [[Hydro Cannon]]
+- **Starter:** [[Tail_Whip]], [[Tackle]]
+- **Beginner:** [[Withdraw]], [[Water_Gun]]
+- **Amateur:** [[Rapid_Spin]], [[Bubble]], [[Bite]], [[Flash_Cannon]], [[Protect]], [[Water_Pulse]], [[Aqua_Tail]]
+- **Ace:** [[Skull_Bash]], [[Iron_Defense]], [[Rain_Dance]], [[Hydro_Pump]]
+- **Pro:** [[Zap_Cannon]], [[Outrage]], [[Hydro_Cannon]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0007_Squirtle|Squirtle]]
+- [[0008_Wartortle|Wartortle]]

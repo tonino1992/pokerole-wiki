@@ -1,4 +1,4 @@
----
+﻿---
 title: "Nidoran M (#0032)"
 category: Pokedex
 tags: [nidoranm, kanto, poison]
@@ -30,8 +30,15 @@ tags: [nidoranm, kanto, poison]
 ## Mosse (Learnset)
 
 - **Starter:** [[Peck]], [[Leer]]
-- **Beginner:** [[Focus Energy]], [[Double Kick]], [[Poison Sting]]
-- **Amateur:** [[Fury Attack]], [[Horn Attack]], [[Helping Hand]], [[Toxic Spikes]], [[Poison Jab]]
-- **Ace:** [[Flatter]], [[Captivate]], [[Horn Drill]]
-- **Pro:** [[Lovely Kiss]], [[Morning Sun]], [[Confusion]]
+- **Beginner:** [[Focus_Energy]], [[Double_Kick]], [[Poison_Sting]]
+- **Amateur:** [[Fury_Attack]], [[Horn_Attack]], [[Helping_Hand]], [[Toxic_Spikes]], [[Poison_Jab]]
+- **Ace:** [[Flatter]], [[Captivate]], [[Horn_Drill]]
+- **Pro:** [[Lovely_Kiss]], [[Morning_Sun]], [[Confusion]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0033_Nidorino|Nidorino]]
+- [[0034_Nidoking|Nidoking]]

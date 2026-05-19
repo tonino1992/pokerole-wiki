@@ -1,15 +1,17 @@
 ---
 title: "Crush Claw"
 category: Move
-tags: [move, normal, physical]
+locale: it
+tags: [move, normale, physical]
 ---
 
 # Crush Claw
-*Normal | Physical*
+*Normale | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 3
 - **Target:** Foe
-- **Effect:** Roll 5 Chance Dice to Reduce the target's Defense by 2. Lethal.
+- **Traits:** [[Lethal]], [[Stat_Changes]]
+- **Effect:** Tira 5 possibilità Dice di ridurre la difesa del bersaglio di 2. Letale.
 
-> The user crushes its claws against the foe, it may pierce the skin of the foe.
+> Chi lo usa schiaccia i suoi artigli contro il nemico, potrebbe perforargli la pelle.

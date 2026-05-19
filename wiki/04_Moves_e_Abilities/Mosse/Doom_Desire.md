@@ -1,15 +1,17 @@
 ---
 title: "Doom Desire"
 category: Move
-tags: [move, steel, special]
+locale: it
+tags: [move, acciaio, special]
 ---
 
 # Doom Desire
-*Steel | Special*
+*Acciaio | Special*
 
 - **Accuracy:** Insight + Allure
 - **Damage:** Special + 6
 - **Target:** Foe
-- **Effect:** Strikes at the end of the Round after the next. Bypass Shield Moves and Cover. If the target retires or switches out from battle, the damage will be dealt to the next opponent or to one of its allies. Extra effects may be added at Storyteller's Discretion
+- **Traits:** [[Status_Condition]] (DoomDesire)
+- **Effect:** Colpisce alla fine di Round dopo il successivo. Evita le mosse e la copertura dello scudo. Se il bersaglio si ritira o esce dalla battaglia, il danno verrà inflitto al prossimo avversario o a uno dei suoi alleati. Effetti extra possono essere aggiunti a discrezione del Narratore
 
-> Be careful what you wish for, this Pokemon will read your most intimate wishes and make them come true in very twisted ways.
+> Fai attenzione a ciò che desideri, questo Pokemon leggerà i tuoi desideri più intimi e li farà avverare in modi molto contorti.

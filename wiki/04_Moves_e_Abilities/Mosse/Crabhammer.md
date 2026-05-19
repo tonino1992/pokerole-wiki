@@ -1,15 +1,17 @@
 ---
 title: "Crabhammer"
 category: Move
-tags: [move, water, physical]
+locale: it
+tags: [move, acqua, physical]
 ---
 
 # Crabhammer
-*Water | Physical*
+*Acqua | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 3
 - **Target:** Foe
-- **Effect:** High Critical. -1 Accuracy.
+- **Traits:** [[High_Critical]], [[Accuracy_Reduction]] (1)
+- **Effect:** Alta critica. -1Accuracy.
 
-> A large pincer strikes with the power of a hammer. The demolition power is incredible.
+> Una grande tenaglia colpisce con la potenza di un martello. Il potere di demolizione è incredibile.

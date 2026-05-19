@@ -1,15 +1,17 @@
 ---
 title: "Double Kick"
 category: Move
-tags: [move, fighting, physical]
+locale: it
+tags: [move, lotta, physical]
 ---
 
 # Double Kick
-*Fighting | Physical*
+*Lotta | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 2
 - **Target:** Foe
-- **Effect:** Double Action.
+- **Traits:** [[Double_Action]]
+- **Effect:** Doppia azione.
 
-> The user throws two powerful kicks.
+> L'utilizzatore sferra due potenti calci.

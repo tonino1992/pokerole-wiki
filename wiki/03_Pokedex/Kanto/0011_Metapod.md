@@ -1,4 +1,4 @@
----
+﻿---
 title: "Metapod (#0011)"
 category: Pokedex
 tags: [metapod, kanto, bug]
@@ -30,5 +30,12 @@ tags: [metapod, kanto, bug]
 ## Mosse (Learnset)
 
 - **Starter:** [[Harden]]
-- **Amateur:** [[Iron Defense]], [[Electroweb]]
+- **Amateur:** [[Iron_Defense]], [[Electroweb]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0010_Caterpie|Caterpie]]
+- [[0012_Butterfree|Butterfree]]

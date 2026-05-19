@@ -1,15 +1,17 @@
 ---
 title: "Block"
 category: Move
-tags: [move, normal, support]
+locale: it
+tags: [move, normale, support]
 ---
 
 # Block
-*Normal | Support*
+*Normale | Support*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** N/A
 - **Target:** Foe
-- **Effect:** Blocks.
+- **Traits:** [[Block_Damage_Pool]] (0), [[Status_Condition]] (Block)
+- **Effect:** Blocchi.
 
-> The user moves swiftly, blocking the escape routes of the foe.
+> L'utilizzatore si muove rapidamente, bloccando le vie di fuga del nemico.

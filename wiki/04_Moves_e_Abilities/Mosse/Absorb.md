@@ -1,15 +1,17 @@
 ---
 title: "Absorb"
 category: Move
-tags: [move, grass, special]
+locale: it
+tags: [move, erba, special]
 ---
 
 # Absorb
-*Grass | Special*
+*Erba | Special*
 
 - **Accuracy:** Dexterity + Channel
 - **Damage:** Special + 1
 - **Target:** Foe
-- **Effect:** The user restores HP equal to half the damage dealt rounded down.
+- **Traits:** [[Heal]] (50%)
+- **Effect:** L'utilizzatore ripristina HP pari alla metà del danno inflitto arrotondato per difetto.
 
-> The user absorbs the vital energy of the foe.
+> L'utilizzatore assorbe l'energia vitale del nemico.

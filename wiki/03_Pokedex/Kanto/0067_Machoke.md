@@ -1,4 +1,4 @@
----
+﻿---
 title: "Machoke (#0067)"
 category: Pokedex
 tags: [machoke, kanto, fighting]
@@ -29,9 +29,16 @@ tags: [machoke, kanto, fighting]
 
 ## Mosse (Learnset)
 
-- **Starter:** [[Low Kick]], [[Leer]]
-- **Beginner:** [[Focus Energy]], [[Karate Chop]], [[Foresight]]
-- **Amateur:** [[Low Sweep]], [[Knock Off]], [[Seismic Toss]], [[Revenge]], [[Vital Throw]], [[Dual Chop]], [[Submission]], [[Wake-Up Slap]]
-- **Ace:** [[Bulk Up]], [[Cross Chop]], [[Scary Face]], [[Dynamic Punch]]
-- **Pro:** [[Meditate]], [[Bullet Punch]], [[Fire Punch]]
+- **Starter:** [[Low_Kick]], [[Leer]]
+- **Beginner:** [[Focus_Energy]], [[Karate_Chop]], [[Foresight]]
+- **Amateur:** [[Low_Sweep]], [[Knock_Off]], [[Seismic_Toss]], [[Revenge]], [[Vital_Throw]], [[Dual_Chop]], [[Submission]], [[Wake-Up_Slap]]
+- **Ace:** [[Bulk_Up]], [[Cross_Chop]], [[Scary_Face]], [[Dynamic_Punch]]
+- **Pro:** [[Meditate]], [[Bullet_Punch]], [[Fire_Punch]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0066_Machop|Machop]]
+- [[0068_Machamp|Machamp]]

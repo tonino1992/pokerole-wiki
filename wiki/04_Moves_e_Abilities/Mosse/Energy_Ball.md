@@ -1,15 +1,17 @@
 ---
 title: "Energy Ball"
 category: Move
-tags: [move, grass, special]
+locale: it
+tags: [move, erba, special]
 ---
 
 # Energy Ball
-*Grass | Special*
+*Erba | Special*
 
 - **Accuracy:** Dexterity + Channel
 - **Damage:** Special + 3
 - **Target:** Foe
-- **Effect:** Roll 1 Chance Dice to Reduce foe's Sp. Defense.
+- **Traits:** [[Stat_Changes]]
+- **Effect:** Lancia 1 possibilità Dice di ridurre la Sp del nemico. Difesa.
 
-> The Pokemon gathers nature's energy in a ball and hurls it at the foe. Trees and bushes may be left opaque and sad.
+> Il Pokemon raccoglie l'energia della natura in una palla e la scaglia contro il nemico. Alberi e cespugli possono rimanere opachi e tristi.

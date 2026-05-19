@@ -1,4 +1,4 @@
----
+﻿---
 title: "Vileplume (#0045)"
 category: Pokedex
 tags: [vileplume, kanto, grass, poison]
@@ -29,9 +29,16 @@ tags: [vileplume, kanto, grass, poison]
 
 ## Mosse (Learnset)
 
-- **Starter:** [[Mega Drain]]
-- **Beginner:** [[Aromatherapy]], [[Poison Powder]]
-- **Amateur:** [[Stun Spore]], [[Petal Dance]]
-- **Ace:** [[Petal Blizzard]], [[Solar Beam]]
-- **Pro:** [[Swords Dance]], [[Seed Bomb]], [[Drain Punch]]
+- **Starter:** [[Mega_Drain]]
+- **Beginner:** [[Aromatherapy]], [[Poison_Powder]]
+- **Amateur:** [[Stun_Spore]], [[Petal_Dance]]
+- **Ace:** [[Petal_Blizzard]], [[Solar_Beam]]
+- **Pro:** [[Swords_Dance]], [[Seed_Bomb]], [[Drain_Punch]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0043_Oddish|Oddish]]
+- [[0044_Gloom|Gloom]]

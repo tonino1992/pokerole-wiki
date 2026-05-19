@@ -1,15 +1,17 @@
 ---
 title: "Belch"
 category: Move
-tags: [move, poison, special]
+locale: it
+tags: [move, veleno, special]
 ---
 
 # Belch
-*Poison | Special*
+*Veleno | Special*
 
 - **Accuracy:** Special + Channel
 - **Damage:** Special + 5
 - **Target:** Foe
-- **Effect:** The user must eat something before using this Move. -1 Accuracy.
+- **Traits:** [[Accuracy_Reduction]] (1)
+- **Effect:** L'utente deve mangiare qualcosa prima di usare questa mossa. -1Accuracy.
 
-> The user lets out a horrible belch on the target. The air contains toxins that deal a terrible damage.
+> L'utilizzatore emette un orribile rutto sul bersaglio. L'aria contiene tossine che provocano danni terribili.

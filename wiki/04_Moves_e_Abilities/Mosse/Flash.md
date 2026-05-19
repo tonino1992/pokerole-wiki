@@ -1,15 +1,17 @@
 ---
 title: "Flash"
 category: Move
-tags: [move, normal, support]
+locale: it
+tags: [move, normale, support]
 ---
 
 # Flash
-*Normal | Support*
+*Normale | Support*
 
 - **Accuracy:** Special + Channel
 - **Damage:** N/A
 - **Target:** Foe
-- **Effect:** Reduce 1 success from all the foe's Accuracy rolls.
+- **Traits:** [[Status_Condition]] (Flash)
+- **Effect:** Riduci 1 successo da tutti i tiri Accuracy del nemico.
 
-> The user suddenly emits a blinding light around its body, dazing its opponent in the process.
+> L'utilizzatore emette improvvisamente una luce accecante attorno al proprio corpo, stordendo l'avversario.

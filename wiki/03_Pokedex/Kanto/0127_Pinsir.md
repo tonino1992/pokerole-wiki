@@ -1,4 +1,4 @@
----
+﻿---
 title: "Pinsir (#0127)"
 category: Pokedex
 tags: [pinsir, kanto, bug]
@@ -29,9 +29,9 @@ tags: [pinsir, kanto, bug]
 
 ## Mosse (Learnset)
 
-- **Starter:** [[Vice Grip]], [[Focus Energy]]
-- **Beginner:** [[Bind]], [[Seismic Toss]], [[Harden]]
-- **Amateur:** [[Revenge]], [[Brick Break]], [[Vital Throw]], [[Double Hit]], [[Submission]], [[X-Scissor]], [[Storm Throw]]
-- **Ace:** [[Thrash]], [[Swords Dance]], [[Superpower]], [[Guillotine]]
-- **Pro:** [[Iron Defense]], [[Stealth Rock]], [[Feint Attack]]
+- **Starter:** [[Vice_Grip]], [[Focus_Energy]]
+- **Beginner:** [[Bind]], [[Seismic_Toss]], [[Harden]]
+- **Amateur:** [[Revenge]], [[Brick_Break]], [[Vital_Throw]], [[Double_Hit]], [[Submission]], [[X-Scissor]], [[Storm_Throw]]
+- **Ace:** [[Thrash]], [[Swords_Dance]], [[Superpower]], [[Guillotine]]
+- **Pro:** [[Iron_Defense]], [[Stealth_Rock]], [[Feint_Attack]]
 

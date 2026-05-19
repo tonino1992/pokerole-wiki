@@ -1,15 +1,17 @@
 ---
 title: "Dizzy Punch"
 category: Move
-tags: [move, normal, physical]
+locale: it
+tags: [move, normale, physical]
 ---
 
 # Dizzy Punch
-*Normal | Physical*
+*Normale | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 3
 - **Target:** Foe
-- **Effect:** Roll 2 Chance Dice to Confuse the foe. Fist Based.
+- **Traits:** [[Fist_Based]], [[Status_Condition]] (Confuse Chance Dice 2)
+- **Effect:** Tira 2 possibilità Dice di Confondere il nemico. Basato sul pugno.
 
-> A swift punch to the jaw that spins the target and may leave it quite dizzy and disoriented.
+> Un pugno rapido alla mascella che fa girare il bersaglio e può lasciarlo piuttosto stordito e disorientato.

@@ -1,15 +1,17 @@
 ---
 title: "Baton Pass"
 category: Move
-tags: [move, normal, support]
+locale: it
+tags: [move, normale, support]
 ---
 
 # Baton Pass
-*Normal | Support*
+*Normale | Support*
 
 - **Accuracy:** Special + Channel
 - **Damage:** N/A
 - **Target:** User
-- **Effect:** Switcher Move. User switches out with another Pokemon. Any Attribute increase on the user is passed on the next Pokemon. The user can’t increase its Attributes again until the end of the scene.
+- **Traits:** [[Switcher_Move]]
+- **Effect:** Spostamento del commutatore. L'utente cambia con un altro Pokemon. Qualsiasi aumento di attributo sull'utente viene trasmesso al Pokemon successivo. L'utente non può aumentare nuovamente i suoi attributi fino alla fine della scena.
 
-> The user stores part of its power on a twig or a stick, anyone who touch the item will receive its might.
+> L'utente immagazzina parte del suo potere su un ramoscello o un bastone, chiunque tocchi l'oggetto riceverà la sua potenza.

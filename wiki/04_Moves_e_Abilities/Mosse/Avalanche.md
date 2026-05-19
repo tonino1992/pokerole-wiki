@@ -1,15 +1,17 @@
 ---
 title: "Avalanche"
 category: Move
-tags: [move, ice, physical]
+locale: it
+tags: [move, ghiaccio, physical]
 ---
 
 # Avalanche
-*Ice | Physical*
+*Ghiaccio | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 2
 - **Target:** Foe
-- **Effect:** Low Priority 4. If the user received damage from the target this Round, Add 2 Extra Dice to the Damage Pool.
+- **Traits:** [[Priority]] (-4)
+- **Effect:** Priorità bassa 4. Se l'utente ha ricevuto danni dal bersaglio in questo Round, aggiungi 2 Dice extra al pool Damage.
 
-> The user builds up a lot of snow around itself. If anything disturbs the snow, it will fall on the attacker like an avalanche.
+> L'utente accumula molta neve attorno a sé. Se qualcosa disturba la neve, cadrà sull'attaccante come una valanga.

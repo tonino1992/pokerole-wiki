@@ -1,4 +1,4 @@
----
+﻿---
 title: "Kakuna (#0014)"
 category: Pokedex
 tags: [kakuna, kanto, bug, poison]
@@ -30,5 +30,12 @@ tags: [kakuna, kanto, bug, poison]
 ## Mosse (Learnset)
 
 - **Starter:** [[Harden]]
-- **Amateur:** [[Iron Defense]], [[Electroweb]]
+- **Amateur:** [[Iron_Defense]], [[Electroweb]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0013_Weedle|Weedle]]
+- [[0015_Beedrill|Beedrill]]

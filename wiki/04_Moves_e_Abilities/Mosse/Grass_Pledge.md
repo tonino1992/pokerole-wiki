@@ -1,15 +1,17 @@
 ---
 title: "Grass Pledge"
 category: Move
-tags: [move, grass, special]
+locale: it
+tags: [move, erba, special]
 ---
 
 # Grass Pledge
-*Grass | Special*
+*Erba | Special*
 
 - **Accuracy:** Dexterity + Channel
 - **Damage:** Special + 2
 - **Target:** Battlefield and Area
-- **Effect:** Reduce the Dexterity of those affected.
+- **Traits:** [[Stat_Changes]]
+- **Effect:** Ridurre lo Dexterity delle persone colpite.
 
-> The Pokemon chants to invoke the power of Grass. Its pledge is heard then then soil trembles and the ground crumbles as vegetation rises to grapple anyone in the field.
+> Il Pokemon canta per invocare il potere dell'Erba. Si sente il suo impegno, poi il suolo trema e il terreno si sgretola mentre la vegetazione si solleva per afferrare chiunque si trovi nel campo.

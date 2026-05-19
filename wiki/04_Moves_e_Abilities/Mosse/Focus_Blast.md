@@ -1,15 +1,17 @@
 ---
 title: "Focus Blast"
 category: Move
-tags: [move, fighting, special]
+locale: it
+tags: [move, lotta, special]
 ---
 
 # Focus Blast
-*Fighting | Special*
+*Lotta | Special*
 
 - **Accuracy:** Special + Channel
 - **Damage:** Special + 5
 - **Target:** Foe
-- **Effect:** Roll 1 Chance Dice to Reduce foe's Sp. Defense. -2 Accuracy.
+- **Traits:** [[Accuracy_Reduction]] (2), [[Stat_Changes]]
+- **Effect:** Lancia 1 possibilità Dice di ridurre la Sp del nemico. Difesa. -2Accuracy.
 
-> The user concentrates and releases a blast of energy.
+> L'utente si concentra e rilascia un'esplosione di energia.

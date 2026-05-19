@@ -1,4 +1,4 @@
----
+﻿---
 title: "Electrode (#0101)"
 category: Pokedex
 tags: [electrode, kanto, electric]
@@ -30,8 +30,14 @@ tags: [electrode, kanto, electric]
 ## Mosse (Learnset)
 
 - **Starter:** [[Charge]], [[Tackle]]
-- **Beginner:** [[Eerie Impulse]], [[Sonic Boom]], [[Spark]]
-- **Amateur:** [[Magnetic Flux]], [[Rollout]], [[Screech]], [[Charge Beam]], [[Light Screen]], [[Electro Ball]], [[Self Destruct]], [[Swift]], [[Discharge]]
-- **Ace:** [[Magnet Rise]], [[Gyro Ball]], [[Explosion]], [[Mirror Coat]]
-- **Pro:** [[Foul Play]], [[Sucker Punch]], [[Endure]]
+- **Beginner:** [[Eerie_Impulse]], [[Sonic_Boom]], [[Spark]]
+- **Amateur:** [[Magnetic_Flux]], [[Rollout]], [[Screech]], [[Charge_Beam]], [[Light_Screen]], [[Electro_Ball]], [[Self_Destruct]], [[Swift]], [[Discharge]]
+- **Ace:** [[Magnet_Rise]], [[Gyro_Ball]], [[Explosion]], [[Mirror_Coat]]
+- **Pro:** [[Foul_Play]], [[Sucker_Punch]], [[Endure]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0100_Voltorb|Voltorb]]

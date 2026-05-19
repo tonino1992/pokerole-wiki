@@ -1,15 +1,16 @@
 ---
 title: "Core Enforcer"
 category: Move
-tags: [move, dragon, special]
+locale: it
+tags: [move, drago, special]
 ---
 
 # Core Enforcer
-*Dragon | Special*
+*Drago | Special*
 
 - **Accuracy:** Special + Channel
 - **Damage:** Special + 4
 - **Target:** Foe
-- **Effect:** If successful and the target of this Move has already inflicted damage this Round, remove the Foe's Ability for the rest of the Scene. (Battle Bond, Comatose, Disguise, Multitype, Power Construct, RKS System, Schooling, Stance Change & Shields Down are exceptions)
+- **Effect:** Se ha successo e il bersaglio di questa mossa ha già inflitto danni in questo Round, rimuovi l'abilità di Foe per il resto della scena. (Legame di battaglia, Coma, Travestimento, Multitipo, Costrutto potente, Sistema RKS, Addestramento, Cambio di posizione e Scudi abbassati sono eccezioni)
 
-> Zygarde shoots a beam that fractures the target to its core, rendering it unable to sustain even the most basic of its traits.
+> Zygarde spara un raggio che frattura il bersaglio nel profondo, rendendolo incapace di sostenere anche i suoi tratti più basilari.

@@ -1,15 +1,17 @@
 ---
 title: "Dragon Dance"
 category: Move
-tags: [move, dragon, support]
+locale: it
+tags: [move, drago, support]
 ---
 
 # Dragon Dance
-*Dragon | Support*
+*Drago | Support*
 
 - **Accuracy:** Tough + Perform
 - **Damage:** N/A
 - **Target:** User
-- **Effect:** Increase the User's Strength and Dexterity.
+- **Traits:** [[Stat_Changes]]
+- **Effect:** Aumenta Strength e Dexterity dell'utente.
 
-> The user performs a vigorous and mystical dance that boosts the fighting spirit and reflexes.
+> L'utente esegue una danza vigorosa e mistica che aumenta lo spirito combattivo e i riflessi.

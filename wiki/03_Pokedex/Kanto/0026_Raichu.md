@@ -1,4 +1,4 @@
----
+﻿---
 title: "Raichu (#0026)"
 category: Pokedex
 tags: [raichu, kanto, electric]
@@ -29,9 +29,15 @@ tags: [raichu, kanto, electric]
 
 ## Mosse (Learnset)
 
-- **Starter:** [[Thunder Shock]], [[Tail Whip]]
-- **Beginner:** [[Quick Attack]]
+- **Starter:** [[Thunder_Shock]], [[Tail_Whip]]
+- **Beginner:** [[Quick_Attack]]
 - **Amateur:** [[Thunderbolt]]
-- **Ace:** [[Fake Out]]
-- **Pro:** [[Wish]], [[Volt Tackle]]
+- **Ace:** [[Fake_Out]]
+- **Pro:** [[Wish]], [[Volt_Tackle]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0025_Pikachu|Pikachu]]

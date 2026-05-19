@@ -1,4 +1,4 @@
----
+﻿---
 title: "Dragonite (#0149)"
 category: Pokedex
 tags: [dragonite, kanto, dragon, flying]
@@ -30,8 +30,15 @@ tags: [dragonite, kanto, dragon, flying]
 ## Mosse (Learnset)
 
 - **Starter:** [[Leer]], [[Wrap]]
-- **Beginner:** [[Twister]], [[Thunder Wave]]
-- **Amateur:** [[Fire Punch]], [[Thunder Punch]], [[Roost]], [[Dragon Rage]], [[Slam]], [[Agility]], [[Dragon Tail]], [[Aqua Tail]], [[Dragon Rush]], [[Safeguard]], [[Wing Attack]]
-- **Ace:** [[Dragon Dance]], [[Outrage]], [[Hyper Beam]], [[Hurricane]]
-- **Pro:** [[Extreme Speed]], [[Draco Meteor]], [[Tailwind]]
+- **Beginner:** [[Twister]], [[Thunder_Wave]]
+- **Amateur:** [[Fire_Punch]], [[Thunder_Punch]], [[Roost]], [[Dragon_Rage]], [[Slam]], [[Agility]], [[Dragon_Tail]], [[Aqua_Tail]], [[Dragon_Rush]], [[Safeguard]], [[Wing_Attack]]
+- **Ace:** [[Dragon_Dance]], [[Outrage]], [[Hyper_Beam]], [[Hurricane]]
+- **Pro:** [[Extreme_Speed]], [[Draco_Meteor]], [[Tailwind]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0147_Dratini|Dratini]]
+- [[0148_Dragonair|Dragonair]]

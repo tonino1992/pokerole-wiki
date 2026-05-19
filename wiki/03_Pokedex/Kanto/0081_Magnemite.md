@@ -1,4 +1,4 @@
----
+﻿---
 title: "Magnemite (#0081)"
 category: Pokedex
 tags: [magnemite, kanto, electric, steel]
@@ -30,8 +30,14 @@ tags: [magnemite, kanto, electric, steel]
 ## Mosse (Learnset)
 
 - **Starter:** [[Tackle]], [[Supersonic]]
-- **Beginner:** [[Thunder Shock]], [[Sonic Boom]]
-- **Amateur:** [[Light Screen]], [[Thunder Wave]], [[Magnet Bomb]], [[Spark]], [[Mirror Shot]], [[Metal Sound]], [[Electro Ball]], [[Flash Cannon]], [[Screech]], [[Magnet Rise]], [[Lock-On]]
-- **Ace:** [[Discharge]], [[Gyro Ball]], [[Zap Cannon]]
-- **Pro:** [[Gravity]], [[Iron Defense]], [[Signal Beam]]
+- **Beginner:** [[Thunder_Shock]], [[Sonic_Boom]]
+- **Amateur:** [[Light_Screen]], [[Thunder_Wave]], [[Magnet_Bomb]], [[Spark]], [[Mirror_Shot]], [[Metal_Sound]], [[Electro_Ball]], [[Flash_Cannon]], [[Screech]], [[Magnet_Rise]], [[Lock-On]]
+- **Ace:** [[Discharge]], [[Gyro_Ball]], [[Zap_Cannon]]
+- **Pro:** [[Gravity]], [[Iron_Defense]], [[Signal_Beam]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0082_Magneton|Magneton]]

@@ -1,15 +1,17 @@
 ---
 title: "Flamethrower"
 category: Move
-tags: [move, fire, special]
+locale: it
+tags: [move, fuoco, special]
 ---
 
 # Flamethrower
-*Fire | Special*
+*Fuoco | Special*
 
 - **Accuracy:** Dexterity + Channel
 - **Damage:** Special + 3
 - **Target:** Foe
-- **Effect:** Roll 1 Chance Dice to Apply Burn 2 to the foe.
+- **Traits:** [[Status_Condition]] (Burn Chance Dice 1)
+- **Effect:** Tira 1 possibilità Dice di applicare Burn 2 al nemico.
 
-> The user lets out a powerful fire stream that leaves a scorched trail.
+> Chi lo utilizza emette un potente flusso di fuoco che lascia una scia bruciata.

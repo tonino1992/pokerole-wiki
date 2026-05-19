@@ -1,4 +1,4 @@
----
+﻿---
 title: "Nidoking (#0034)"
 category: Pokedex
 tags: [nidoking, kanto, poison, ground]
@@ -30,8 +30,15 @@ tags: [nidoking, kanto, poison, ground]
 ## Mosse (Learnset)
 
 - **Starter:** [[Peck]]
-- **Beginner:** [[Poison Sting]], [[Focus Energy]], [[Double Kick]]
-- **Amateur:** [[Chip Away]], [[Earth Power]]
-- **Ace:** [[Drill Run]], [[Megahorn]]
-- **Pro:** [[Poison Tail]], [[Thrash]], [[Head Smash]]
+- **Beginner:** [[Poison_Sting]], [[Focus_Energy]], [[Double_Kick]]
+- **Amateur:** [[Chip_Away]], [[Earth_Power]]
+- **Ace:** [[Drill_Run]], [[Megahorn]]
+- **Pro:** [[Poison_Tail]], [[Thrash]], [[Head_Smash]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0032_Nidoran_M|Nidoran M]]
+- [[0033_Nidorino|Nidorino]]

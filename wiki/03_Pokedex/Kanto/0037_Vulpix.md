@@ -1,4 +1,4 @@
----
+﻿---
 title: "Vulpix (#0037)"
 category: Pokedex
 tags: [vulpix, kanto, fire]
@@ -29,9 +29,15 @@ tags: [vulpix, kanto, fire]
 
 ## Mosse (Learnset)
 
-- **Starter:** [[Ember]], [[Tail Whip]]
-- **Beginner:** [[Roar]], [[Baby-Doll Eyes]], [[Quick Attack]]
-- **Amateur:** [[Fire Spin]], [[Confuse Ray]], [[Imprison]], [[Feint Attack]], [[Flame Burst]], [[Will-O-Wisp]], [[Hex]], [[Payback]], [[Extrasensory]]
-- **Ace:** [[Safeguard]], [[Flamethrower]], [[Captivate]], [[Grudge]], [[Fire Blast]], [[Inferno]]
-- **Pro:** [[Pain Split]], [[Spite]], [[Heat Wave]]
+- **Starter:** [[Ember]], [[Tail_Whip]]
+- **Beginner:** [[Roar]], [[Baby-Doll_Eyes]], [[Quick_Attack]]
+- **Amateur:** [[Fire_Spin]], [[Confuse_Ray]], [[Imprison]], [[Feint_Attack]], [[Flame_Burst]], [[Will-O-Wisp]], [[Hex]], [[Payback]], [[Extrasensory]]
+- **Ace:** [[Safeguard]], [[Flamethrower]], [[Captivate]], [[Grudge]], [[Fire_Blast]], [[Inferno]]
+- **Pro:** [[Pain_Split]], [[Spite]], [[Heat_Wave]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0038_Ninetales|Ninetales]]

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Hitmonchan (#0107)"
 category: Pokedex
 tags: [hitmonchan, kanto, fighting]
@@ -29,9 +29,9 @@ tags: [hitmonchan, kanto, fighting]
 
 ## Mosse (Learnset)
 
-- **Starter:** [[Revenge]], [[Comet Punch]]
-- **Beginner:** [[Agility]], [[Pursuit]], [[Mach Punch]]
-- **Amateur:** [[Bullet Punch]], [[Feint]], [[Vacuum Wave]], [[Quick Guard]], [[Thunder Punch]], [[Ice Punch]], [[Fire Punch]], [[Sky Uppercut]], [[Mega Punch]]
-- **Ace:** [[Detect]], [[Focus Punch]], [[Counter]], [[Close Combat]]
-- **Pro:** [[Rapid Spin]], [[Drain Punch]], [[High Jump Kick]]
+- **Starter:** [[Revenge]], [[Comet_Punch]]
+- **Beginner:** [[Agility]], [[Pursuit]], [[Mach_Punch]]
+- **Amateur:** [[Bullet_Punch]], [[Feint]], [[Vacuum_Wave]], [[Quick_Guard]], [[Thunder_Punch]], [[Ice_Punch]], [[Fire_Punch]], [[Sky_Uppercut]], [[Mega_Punch]]
+- **Ace:** [[Detect]], [[Focus_Punch]], [[Counter]], [[Close_Combat]]
+- **Pro:** [[Rapid_Spin]], [[Drain_Punch]], [[High_Jump_Kick]]
 

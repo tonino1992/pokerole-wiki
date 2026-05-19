@@ -1,4 +1,4 @@
----
+﻿---
 title: "Ekans (#0023)"
 category: Pokedex
 tags: [ekans, kanto, poison]
@@ -30,8 +30,14 @@ tags: [ekans, kanto, poison]
 ## Mosse (Learnset)
 
 - **Starter:** [[Wrap]], [[Leer]]
-- **Beginner:** [[Poison Sting]], [[Bite]], [[Glare]]
-- **Amateur:** [[Screech]], [[Acid]], [[Stockpile]], [[Spit Up]], [[Swallow]], [[Acid Spray]], [[Mud Bomb]]
-- **Ace:** [[Gastro Acid]], [[Belch]], [[Haze]], [[Coil]], [[Gunk Shot]]
-- **Pro:** [[Aqua Tail]], [[Scary Face]], [[Disable]]
+- **Beginner:** [[Poison_Sting]], [[Bite]], [[Glare]]
+- **Amateur:** [[Screech]], [[Acid]], [[Stockpile]], [[Spit_Up]], [[Swallow]], [[Acid_Spray]], [[Mud_Bomb]]
+- **Ace:** [[Gastro_Acid]], [[Belch]], [[Haze]], [[Coil]], [[Gunk_Shot]]
+- **Pro:** [[Aqua_Tail]], [[Scary_Face]], [[Disable]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0024_Arbok|Arbok]]

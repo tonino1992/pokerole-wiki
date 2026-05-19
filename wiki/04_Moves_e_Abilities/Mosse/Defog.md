@@ -1,15 +1,17 @@
 ---
 title: "Defog"
 category: Move
-tags: [move, flying, support]
+locale: it
+tags: [move, volante, support]
 ---
 
 # Defog
-*Flying | Support*
+*Volante | Support*
 
 - **Accuracy:** Insight + Nature
 - **Damage:** N/A
 - **Target:** Battlefield
-- **Effect:** Remove all Barriers (ie. Light Screen, Reflect), Entry Hazards (Toxic Spikes, Stealth Rock, etc.), and Terrains (Misty Terrain, Electric Terrain, etc.) from the battlefield.
+- **Traits:** [[Destroy_Shield]], [[ResetTerrain]]
+- **Effect:** Rimuovi tutte le barriere (ad esempio schermo luminoso, riflessione), pericoli di ingresso (punte tossiche, roccia invisibile, ecc.) e terreni (terreno nebbioso, terreno elettrico, ecc.) dal campo di battaglia.
 
-> A strong current of wind that blows away any fog and even invisible barriers.
+> Una forte corrente di vento che spazza via ogni nebbia e anche le barriere invisibili.

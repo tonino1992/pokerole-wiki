@@ -1,15 +1,17 @@
 ---
 title: "Earthquake"
 category: Move
-tags: [move, ground, physical]
+locale: it
+tags: [move, terra, physical]
 ---
 
 # Earthquake
-*Ground | Physical*
+*Terra | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 4
 - **Target:** Area
-- **Effect:** Area Attack. Ranged.
+- **Traits:** [[Physical_Ranged]]
+- **Effect:** Attacco d'area. A distanza.
 
-> The Pokemon focuses its energy into shaking the ground, everyone around will be thrown like a rag doll.
+> Il Pokemon concentra la sua energia nello scuotere il terreno, tutti intorno verranno lanciati come una bambola di pezza.

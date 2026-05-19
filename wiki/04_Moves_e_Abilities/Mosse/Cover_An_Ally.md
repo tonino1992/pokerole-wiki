@@ -1,15 +1,16 @@
 ---
 title: "Cover An Ally"
 category: Move
-tags: [move, typeless, support]
+locale: it
+tags: [move, senza tipo, support]
 ---
 
 # Cover An Ally
-*Typeless | Support*
+*Senza Tipo | Support*
 
 - **Accuracy:** N/A
 - **Damage:** N/A
 - **Target:** One Ally
-- **Effect:** The user will provide cover to the target from Ranged attacks and is more likely to be hit by close-range attacks. The level of Cover the user provides will depend on its size.
+- **Effect:** L'utente fornirà copertura al bersaglio dagli attacchi a distanza ed è più probabile che venga colpito da attacchi a distanza ravvicinata. Il livello di copertura fornito dall'utente dipenderà dalle sue dimensioni.
 
 > 

@@ -1,15 +1,17 @@
 ---
 title: "Barrage"
 category: Move
-tags: [move, normal, physical]
+locale: it
+tags: [move, normale, physical]
 ---
 
 # Barrage
-*Normal | Physical*
+*Normale | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 1
 - **Target:** Foe
-- **Effect:** Ranged. Successive Actions. -1 Accuracy.
+- **Traits:** [[Physical_Ranged]], [[Successive_Actions]], [[Accuracy_Reduction]] (1)
+- **Effect:** A distanza. Azioni successive. -1Accuracy.
 
-> The Pokemon Throws many round objects at the target, one after the other.
+> Il Pokemon lancia molti oggetti rotondi contro il bersaglio, uno dopo l'altro.

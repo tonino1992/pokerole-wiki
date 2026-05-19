@@ -1,15 +1,16 @@
 ---
 title: "False Swipe"
 category: Move
-tags: [move, normal, physical]
+locale: it
+tags: [move, normale, physical]
 ---
 
 # False Swipe
-*Normal | Physical*
+*Normale | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 2
 - **Target:** Foe
-- **Effect:** The foe can't go below 1 HP when hit by this Move.
+- **Effect:** Il nemico non può scendere sotto 1 HP quando viene colpito da questa mossa.
 
-> The user strikes the foe but lowers the power of the blow at the last second.
+> Chi la usa colpisce il nemico ma riduce la potenza del colpo all'ultimo secondo.

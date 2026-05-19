@@ -1,4 +1,4 @@
----
+﻿---
 title: "Poliwag (#0060)"
 category: Pokedex
 tags: [poliwag, kanto, water]
@@ -29,9 +29,16 @@ tags: [poliwag, kanto, water]
 
 ## Mosse (Learnset)
 
-- **Starter:** [[Water Sport]], [[Water Gun]]
+- **Starter:** [[Water_Sport]], [[Water_Gun]]
 - **Beginner:** [[Hypnosis]], [[Bubble]]
-- **Amateur:** [[Double Slap]], [[Rain Dance]], [[Body Slam]], [[Bubble Beam]], [[Mud Shot]]
-- **Ace:** [[Belly Drum]], [[Wake-Up Slap]], [[Hydro Pump]], [[Mud Bomb]]
-- **Pro:** [[Icy Wind]], [[Mind Reader]], [[Refresh]]
+- **Amateur:** [[Double_Slap]], [[Rain_Dance]], [[Body_Slam]], [[Bubble_Beam]], [[Mud_Shot]]
+- **Ace:** [[Belly_Drum]], [[Wake-Up_Slap]], [[Hydro_Pump]], [[Mud_Bomb]]
+- **Pro:** [[Icy_Wind]], [[Mind_Reader]], [[Refresh]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0061_Poliwhirl|Poliwhirl]]
+- [[0062_Poliwrath|Poliwrath]]

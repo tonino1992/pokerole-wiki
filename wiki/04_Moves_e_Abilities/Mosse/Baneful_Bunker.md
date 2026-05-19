@@ -1,15 +1,17 @@
 ---
 title: "Baneful Bunker"
 category: Move
-tags: [move, poison, support]
+locale: it
+tags: [move, veleno, support]
 ---
 
 # Baneful Bunker
-*Poison | Support*
+*Veleno | Support*
 
 - **Accuracy:** Vitality + Nature
 - **Damage:** N/A
 - **Target:** User
-- **Effect:** Priority 4. Shield. If the foe attacked using a Physical Move, it is now Poisoned. Reduce 3 Dice from the Foe's Damage Pool.
+- **Traits:** [[Shield]], [[Priority]] (4)
+- **Effect:** Priorità 4. Scudo. Se il nemico ha attaccato usando una mossa Physical, ora è avvelenato. Riduci 3 Dice dalla riserva Damage di Foe.
 
-> The user encloses itself inside its sturdy shell, which is covered by poisonous barbs. If a barb pinches the foe's skin the wound will start to fester.
+> L'utilizzatore si chiude all'interno del suo robusto guscio, ricoperto da aculei velenosi. Se un barbiglio pizzica la pelle del nemico, la ferita inizierà a peggiorare.

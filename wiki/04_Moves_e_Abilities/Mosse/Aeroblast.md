@@ -1,15 +1,17 @@
 ---
 title: "Aeroblast"
 category: Move
-tags: [move, flying, special]
+locale: it
+tags: [move, volante, special]
 ---
 
 # Aeroblast
-*Flying | Special*
+*Volante | Special*
 
 - **Accuracy:** Special + Channel
 - **Damage:** Special + 4
 - **Target:** Foe
-- **Effect:** Lethal. High Critical.
+- **Traits:** [[High_Critical]], [[Lethal]]
+- **Effect:** Letale. Alta critica.
 
-> The victim is trapped in a violently swirling vortex. The strong wind currents make debris fly everywhere.
+> La vittima è intrappolata in un violento vortice vorticoso. Le forti correnti di vento fanno volare detriti ovunque.

@@ -1,15 +1,17 @@
 ---
 title: "Earth Power"
 category: Move
-tags: [move, ground, special]
+locale: it
+tags: [move, terra, special]
 ---
 
 # Earth Power
-*Ground | Special*
+*Terra | Special*
 
 - **Accuracy:** Dexterity + Channel
 - **Damage:** Special + 3
 - **Target:** Foe
-- **Effect:** Roll 1 Chance Dice to Reduce the foe's Sp. Defense.
+- **Traits:** [[Stat_Changes]]
+- **Effect:** Lancia 1 possibilità Dice di ridurre la Sp del nemico. Difesa.
 
-> The user sends out a subterranean wave that bursts on the ground bellow the target. It looks like the earth molds to the Pokemon's will.
+> L'utilizzatore invia un'onda sotterranea che esplode al suolo sotto il bersaglio. Sembra che la terra si muova secondo la volontà dei Pokemon.

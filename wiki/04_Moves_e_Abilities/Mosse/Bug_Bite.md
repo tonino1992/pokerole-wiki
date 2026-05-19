@@ -1,15 +1,16 @@
 ---
 title: "Bug Bite"
 category: Move
-tags: [move, bug, physical]
+locale: it
+tags: [move, insetto, physical]
 ---
 
 # Bug Bite
-*Bug | Physical*
+*Insetto | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 2
 - **Target:** Foe
-- **Effect:** If the Target Pokemon is holding a berry, the user eats it and gains its effect.
+- **Effect:** Se il Pokemon Target ha in mano una bacca, l'utilizzatore la mangia e ne ottiene l'effetto.
 
-> The Pokemon nibbles its foe, if it finds something tasty it will eat it in an instant. It may try to eat almost anything.
+> Il Pokemon mordicchia il suo nemico, se trova qualcosa di gustoso lo mangerà in un attimo. Potrebbe provare a mangiare quasi qualsiasi cosa.

@@ -1,15 +1,17 @@
 ---
 title: "Aromatherapy"
 category: Move
-tags: [move, grass, support]
+locale: it
+tags: [move, erba, support]
 ---
 
 # Aromatherapy
-*Grass | Support*
+*Erba | Support*
 
 - **Accuracy:** Insight + Nature
 - **Damage:** N/A
 - **Target:** User and Allies
-- **Effect:** Cure User and Allies from Burn, Freeze, Paralysis, Poison, or Sleep.
+- **Traits:** [[Ailment_Heal]]
+- **Effect:** Cura utente e alleati da Burn, Freeze, Paralysis, Veleno o Sleep.
 
-> The Pokemon releases medicinal scents and vapors to refresh the user and its allies.
+> Il Pokemon rilascia profumi e vapori medicinali per rinfrescare l'utente e i suoi alleati.

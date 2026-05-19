@@ -1,15 +1,17 @@
 ---
 title: "Extreme Speed"
 category: Move
-tags: [move, normal, physical]
+locale: it
+tags: [move, normale, physical]
 ---
 
 # Extreme Speed
-*Normal | Physical*
+*Normale | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 3
 - **Target:** Foe
-- **Effect:** Priority 2. Triple the Pokemon's movement speed.
+- **Traits:** [[Priority]] (2), [[Status_Condition]] (ExtremeSpeed)
+- **Effect:** Priorità 2. Triplica la velocità di movimento del Pokemon.
 
-> The user charges at a blinding speed against the target.
+> L'utente carica ad una velocità accecante contro il bersaglio.

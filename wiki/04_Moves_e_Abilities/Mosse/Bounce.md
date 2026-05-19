@@ -1,15 +1,17 @@
----
+﻿---
 title: "Bounce"
 category: Move
-tags: [move, flying, physical]
+locale: it
+tags: [move, volante, physical]
 ---
 
 # Bounce
-*Flying | Physical*
+*Volante | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 3
 - **Target:** Foe
-- **Effect:** Charge Move. While charging this Move, the user will be out of range. Roll 3 Chance Dice to Paralyze the foe.
+- **Traits:** [[Charge_Trait]], [[Status_Condition]] (Paralyze Chance Dice 3)
+- **Effect:** Movimento di carica. Durante la ricarica di questa mossa, l'utente sarà fuori portata. Lancia 3 possibilità Dice di paralizzare il nemico.
 
-> The Pokemon will jump 30 feet in the air before landing on top of the foe. The user won't suffer any falling damage.
+> Il Pokemon salterà 30 piedi in aria prima di atterrare sopra il nemico. L'utente non subirà alcun danno da caduta.

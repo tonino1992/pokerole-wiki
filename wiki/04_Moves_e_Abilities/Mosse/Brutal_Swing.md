@@ -1,15 +1,17 @@
 ---
 title: "Brutal Swing"
 category: Move
-tags: [move, dark, physical]
+locale: it
+tags: [move, buio, physical]
 ---
 
 # Brutal Swing
-*Dark | Physical*
+*Buio | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 2
 - **Target:** All Foes
-- **Effect:** Lethal. Target all Foes in range.
+- **Traits:** [[Lethal]]
+- **Effect:** Letale. Target tutti i nemici nel raggio d'azione.
 
-> The Pokemon starts attacking at full force with its claws, anyone unfortunate enough to be in its path will end up severely wounded.
+> Il Pokemon inizia ad attaccare a tutta forza con i suoi artigli, chiunque abbia la sfortuna di trovarsi sul suo cammino finirà gravemente ferito.

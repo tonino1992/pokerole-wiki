@@ -1,15 +1,17 @@
 ---
 title: "Aurora Beam"
 category: Move
-tags: [move, ice, special]
+locale: it
+tags: [move, ghiaccio, special]
 ---
 
 # Aurora Beam
-*Ice | Special*
+*Ghiaccio | Special*
 
 - **Accuracy:** Dexterity + Channel
 - **Damage:** Special + 2
 - **Target:** Foe
-- **Effect:** Roll 1 Chance Dice to Reduce foe's Strength.
+- **Traits:** [[Stat_Changes]]
+- **Effect:** Lancia 1 possibilità Dice di ridurre lo Strength del nemico.
 
-> The Pokemon shoots a beautiful rainbow colored beam that may leave the foe flabbergasted.
+> Il Pokemon spara un bellissimo raggio color arcobaleno che potrebbe lasciare sbalordito il nemico.

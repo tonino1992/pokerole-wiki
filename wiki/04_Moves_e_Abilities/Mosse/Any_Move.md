@@ -1,6 +1,7 @@
 ---
 title: "Any Move"
 category: Move
+locale: it
 tags: [move, any, ???]
 ---
 
@@ -10,6 +11,6 @@ tags: [move, any, ???]
 - **Accuracy:** N/A
 - **Damage:** N/A
 - **Target:** Any
-- **Effect:** This move represents every possible move. Metronome but better.
+- **Effect:** Questa mossa rappresenta ogni mossa possibile. Metronomo ma meglio.
 
 > 

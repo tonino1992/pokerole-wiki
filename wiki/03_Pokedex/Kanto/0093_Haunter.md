@@ -1,4 +1,4 @@
----
+﻿---
 title: "Haunter (#0093)"
 category: Pokedex
 tags: [haunter, kanto, ghost, poison]
@@ -30,8 +30,15 @@ tags: [haunter, kanto, ghost, poison]
 ## Mosse (Learnset)
 
 - **Starter:** [[Spite]], [[Lick]]
-- **Beginner:** [[Curse]], [[Mean Look]], [[Night Shade]]
-- **Amateur:** [[Hypnosis]], [[Confuse Ray]], [[Sucker Punch]], [[Shadow Punch]], [[Payback]], [[Shadow Ball]], [[Dark Pulse]]
-- **Ace:** [[Dream Eater]], [[Destiny Bond]], [[Hex]], [[Nightmare]]
-- **Pro:** [[Icy Wind]], [[Grudge]], [[Trick]]
+- **Beginner:** [[Curse]], [[Mean_Look]], [[Night_Shade]]
+- **Amateur:** [[Hypnosis]], [[Confuse_Ray]], [[Sucker_Punch]], [[Shadow_Punch]], [[Payback]], [[Shadow_Ball]], [[Dark_Pulse]]
+- **Ace:** [[Dream_Eater]], [[Destiny_Bond]], [[Hex]], [[Nightmare]]
+- **Pro:** [[Icy_Wind]], [[Grudge]], [[Trick]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0092_Gastly|Gastly]]
+- [[0094_Gengar|Gengar]]

@@ -1,15 +1,17 @@
 ---
 title: "Fury Attack"
 category: Move
-tags: [move, normal, physical]
+locale: it
+tags: [move, normale, physical]
 ---
 
 # Fury Attack
-*Normal | Physical*
+*Normale | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 1
 - **Target:** Foe
-- **Effect:** Successive Actions. -1 Accuracy.
+- **Traits:** [[Successive_Actions]], [[Accuracy_Reduction]] (1)
+- **Effect:** Azioni successive. -1Accuracy.
 
-> The Pokemon goes at it with everything its got in a rather disordered way.
+> Il Pokemon lo fa con tutto ciò che ha in modo piuttosto disordinato.

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Goldeen (#0118)"
 category: Pokedex
 tags: [goldeen, kanto, water]
@@ -29,9 +29,15 @@ tags: [goldeen, kanto, water]
 
 ## Mosse (Learnset)
 
-- **Starter:** [[Peck]], [[Water Sport]]
-- **Beginner:** [[Supersonic]], [[Horn Attack]], [[Water Pulse]]
-- **Amateur:** [[Flail]], [[Aqua Ring]], [[Fury Attack]], [[Waterfall]]
-- **Ace:** [[Horn Drill]], [[Agility]], [[Soak]], [[Megahorn]]
-- **Pro:** [[Bounce]], [[Mud Sport]], [[Drill Run]]
+- **Starter:** [[Peck]], [[Water_Sport]]
+- **Beginner:** [[Supersonic]], [[Horn_Attack]], [[Water_Pulse]]
+- **Amateur:** [[Flail]], [[Aqua_Ring]], [[Fury_Attack]], [[Waterfall]]
+- **Ace:** [[Horn_Drill]], [[Agility]], [[Soak]], [[Megahorn]]
+- **Pro:** [[Bounce]], [[Mud_Sport]], [[Drill_Run]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0119_Seaking|Seaking]]

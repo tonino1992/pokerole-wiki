@@ -1,4 +1,4 @@
----
+﻿---
 title: "Diglett (#0050)"
 category: Pokedex
 tags: [diglett, kanto, ground]
@@ -29,9 +29,15 @@ tags: [diglett, kanto, ground]
 
 ## Mosse (Learnset)
 
-- **Starter:** [[Scratch]], [[Sand Attack]]
-- **Beginner:** [[Growl]], [[Astonish]], [[Mud Slap]]
-- **Amateur:** [[Magnitude]], [[Bulldoze]], [[Sucker Punch]], [[Mud Bomb]], [[Earth Power]], [[Dig]]
+- **Starter:** [[Scratch]], [[Sand_Attack]]
+- **Beginner:** [[Growl]], [[Astonish]], [[Mud_Slap]]
+- **Amateur:** [[Magnitude]], [[Bulldoze]], [[Sucker_Punch]], [[Mud_Bomb]], [[Earth_Power]], [[Dig]]
 - **Ace:** [[Slash]], [[Earthquake]], [[Fissure]]
-- **Pro:** [[Screech]], [[Stealth Rock]], [[Feint Attack]]
+- **Pro:** [[Screech]], [[Stealth_Rock]], [[Feint_Attack]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0051_Dugtrio|Dugtrio]]

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Nidoran F (#0029)"
 category: Pokedex
 tags: [nidoranf, kanto, poison]
@@ -30,8 +30,15 @@ tags: [nidoranf, kanto, poison]
 ## Mosse (Learnset)
 
 - **Starter:** [[Scratch]], [[Growl]]
-- **Beginner:** [[Tail Whip]], [[Double Kick]], [[Poison Sting]]
-- **Amateur:** [[Fury Swipes]], [[Bite]], [[Helping Hand]], [[Toxic Spikes]], [[Poison Fang]]
+- **Beginner:** [[Tail_Whip]], [[Double_Kick]], [[Poison_Sting]]
+- **Amateur:** [[Fury_Swipes]], [[Bite]], [[Helping_Hand]], [[Toxic_Spikes]], [[Poison_Fang]]
 - **Ace:** [[Flatter]], [[Captivate]], [[Crunch]]
-- **Pro:** [[Lovely Kiss]], [[Moonlight]], [[Charm]]
+- **Pro:** [[Lovely_Kiss]], [[Moonlight]], [[Charm]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0030_Nidorina|Nidorina]]
+- [[0031_Nidoqueen|Nidoqueen]]

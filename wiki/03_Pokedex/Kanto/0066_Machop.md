@@ -1,4 +1,4 @@
----
+﻿---
 title: "Machop (#0066)"
 category: Pokedex
 tags: [machop, kanto, fighting]
@@ -29,9 +29,16 @@ tags: [machop, kanto, fighting]
 
 ## Mosse (Learnset)
 
-- **Starter:** [[Low Kick]], [[Leer]]
-- **Beginner:** [[Focus Energy]], [[Karate Chop]], [[Foresight]]
-- **Amateur:** [[Low Sweep]], [[Knock Off]], [[Seismic Toss]], [[Revenge]], [[Vital Throw]], [[Dual Chop]], [[Submission]], [[Wake-Up Slap]]
-- **Ace:** [[Bulk Up]], [[Cross Chop]], [[Scary Face]], [[Dynamic Punch]]
-- **Pro:** [[Meditate]], [[Bullet Punch]], [[Ice Punch]]
+- **Starter:** [[Low_Kick]], [[Leer]]
+- **Beginner:** [[Focus_Energy]], [[Karate_Chop]], [[Foresight]]
+- **Amateur:** [[Low_Sweep]], [[Knock_Off]], [[Seismic_Toss]], [[Revenge]], [[Vital_Throw]], [[Dual_Chop]], [[Submission]], [[Wake-Up_Slap]]
+- **Ace:** [[Bulk_Up]], [[Cross_Chop]], [[Scary_Face]], [[Dynamic_Punch]]
+- **Pro:** [[Meditate]], [[Bullet_Punch]], [[Ice_Punch]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0067_Machoke|Machoke]]
+- [[0068_Machamp|Machamp]]

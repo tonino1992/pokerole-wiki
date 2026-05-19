@@ -1,4 +1,4 @@
----
+﻿---
 title: "Mr. Mime (#0122)"
 category: Pokedex
 tags: [mr.mime, kanto, psychic, fairy]
@@ -30,8 +30,8 @@ tags: [mr.mime, kanto, psychic, fairy]
 ## Mosse (Learnset)
 
 - **Starter:** [[Barrier]], [[Confusion]]
-- **Beginner:** [[Quick Guard]], [[Wide Guard]], [[Magical Leaf]], [[Trick]]
-- **Amateur:** [[Power Swap]], [[Guard Swap]], [[Copycat]], [[Meditate]], [[Double Slap]], [[Mimic]], [[Psywave]], [[Encore]], [[Light Screen]], [[Reflect]], [[Psybeam]], [[Substitute]]
-- **Ace:** [[Recycle]], [[Misty Terrain]], [[Psychic]], [[Role Play]], [[Baton Pass]], [[Safeguard]]
-- **Pro:** [[Confuse Ray]], [[Fake Out]], [[Nasty Plot]]
+- **Beginner:** [[Quick_Guard]], [[Wide_Guard]], [[Magical_Leaf]], [[Trick]]
+- **Amateur:** [[Power_Swap]], [[Guard_Swap]], [[Copycat]], [[Meditate]], [[Double_Slap]], [[Mimic]], [[Psywave]], [[Encore]], [[Light_Screen]], [[Reflect]], [[Psybeam]], [[Substitute]]
+- **Ace:** [[Recycle]], [[Misty_Terrain]], [[Psychic]], [[Role_Play]], [[Baton_Pass]], [[Safeguard]]
+- **Pro:** [[Confuse_Ray]], [[Fake_Out]], [[Nasty_Plot]]
 

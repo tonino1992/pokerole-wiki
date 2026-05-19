@@ -1,4 +1,4 @@
----
+﻿---
 title: "Seaking (#0119)"
 category: Pokedex
 tags: [seaking, kanto, water]
@@ -29,9 +29,15 @@ tags: [seaking, kanto, water]
 
 ## Mosse (Learnset)
 
-- **Starter:** [[Peck]], [[Water Sport]]
-- **Beginner:** [[Horn Attack]], [[Tail Whip]], [[Supersonic]]
-- **Amateur:** [[Poison Jab]], [[Water Pulse]], [[Flail]], [[Aqua Ring]], [[Fury Attack]], [[Waterfall]]
-- **Ace:** [[Horn Drill]], [[Agility]], [[Soak]], [[Megahorn]]
-- **Pro:** [[Bounce]], [[Mud Sport]], [[Drill Run]]
+- **Starter:** [[Peck]], [[Water_Sport]]
+- **Beginner:** [[Horn_Attack]], [[Tail_Whip]], [[Supersonic]]
+- **Amateur:** [[Poison_Jab]], [[Water_Pulse]], [[Flail]], [[Aqua_Ring]], [[Fury_Attack]], [[Waterfall]]
+- **Ace:** [[Horn_Drill]], [[Agility]], [[Soak]], [[Megahorn]]
+- **Pro:** [[Bounce]], [[Mud_Sport]], [[Drill_Run]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0118_Goldeen|Goldeen]]

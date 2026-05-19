@@ -1,15 +1,17 @@
 ---
 title: "Astonish"
 category: Move
-tags: [move, ghost, physical]
+locale: it
+tags: [move, spettro, physical]
 ---
 
 # Astonish
-*Ghost | Physical*
+*Spettro | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 1
 - **Target:** Foe
-- **Effect:** Roll 3 Chance Dice to Flinch the foe.
+- **Traits:** [[Status_Condition]] (Flinch Chance Dice 3)
+- **Effect:** Tira 3 possibilità Dice di Flinch il nemico.
 
-> The user sneaks close and startles the foe.
+> L'utilizzatore si avvicina furtivamente e spaventa il nemico.

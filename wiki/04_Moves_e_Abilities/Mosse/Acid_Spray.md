@@ -1,15 +1,17 @@
 ---
 title: "Acid Spray"
 category: Move
-tags: [move, poison, special]
+locale: it
+tags: [move, veleno, special]
 ---
 
 # Acid Spray
-*Poison | Special*
+*Veleno | Special*
 
 - **Accuracy:** Dexterity + Channel
 - **Damage:** Special + 2
 - **Target:** Foe
-- **Effect:** Reduce the foe's Special by 2.
+- **Traits:** [[Stat_Changes]]
+- **Effect:** Riduci lo Special del nemico di 2.
 
-> The user spits a corrosive substance, the burning sensation doesn't allow it to focus on attacking.
+> L'utilizzatore sputa una sostanza corrosiva, la sensazione di bruciore non gli permette di concentrarsi sull'attacco.

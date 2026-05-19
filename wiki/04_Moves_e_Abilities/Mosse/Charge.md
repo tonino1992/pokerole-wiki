@@ -1,15 +1,17 @@
 ---
 title: "Charge"
 category: Move
-tags: [move, electric, support]
+locale: it
+tags: [move, elettro, support]
 ---
 
 # Charge
-*Electric | Support*
+*Elettro | Support*
 
 - **Accuracy:** Insight + Nature
 - **Damage:** N/A
 - **Target:** User
-- **Effect:** Add 2 Dice to the Damage Pool to the next Electric Damaging move the user performs.
+- **Traits:** [[Status_Condition]] (Charge)
+- **Effect:** Aggiungi 2 Dice alla riserva Damage alla successiva mossa di danno elettrico eseguita dall'utente.
 
-> The user concentrates all the electricity in its body to be released.
+> L'utente concentra tutta l'elettricità nel suo corpo per essere rilasciata.

@@ -1,15 +1,17 @@
 ---
 title: "Fiery Dance"
 category: Move
-tags: [move, fire, special]
+locale: it
+tags: [move, fuoco, special]
 ---
 
 # Fiery Dance
-*Fire | Special*
+*Fuoco | Special*
 
 - **Accuracy:** Dexterity + Perform
 - **Damage:** Special + 3
 - **Target:** Foe
-- **Effect:** Roll 5 Chance Dice to Increase the User's Special.
+- **Traits:** [[Stat_Changes]]
+- **Effect:** Lancia 5 possibilità Dice per aumentare il Special dell'utente.
 
-> The user cloaks itself in flames and shoots them while dancing gracefully.
+> L'utilizzatore si avvolge nelle fiamme e le spara mentre balla con grazia.

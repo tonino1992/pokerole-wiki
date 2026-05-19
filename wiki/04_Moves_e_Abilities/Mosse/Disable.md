@@ -1,15 +1,17 @@
 ---
 title: "Disable"
 category: Move
-tags: [move, normal, support]
+locale: it
+tags: [move, normale, support]
 ---
 
 # Disable
-*Normal | Support*
+*Normale | Support*
 
 - **Accuracy:** Insight + Channel
 - **Damage:** N/A
 - **Target:** Foe
-- **Effect:** The Target cannot use the last move it performed. Lasts 4 Rounds.
+- **Traits:** [[Status_Condition]] (Disable)
+- **Effect:** Target non può utilizzare l'ultima mossa eseguita. Dura 4 Rounds.
 
-> The user hits a nerve on the foe, impeding it from performing its previous action for a short while.
+> Chi la usa tocca un nervo scoperto del nemico, impedendogli di eseguire l'azione precedente per un breve periodo.

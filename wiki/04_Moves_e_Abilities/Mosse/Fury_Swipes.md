@@ -1,15 +1,17 @@
 ---
 title: "Fury Swipes"
 category: Move
-tags: [move, normal, physical]
+locale: it
+tags: [move, normale, physical]
 ---
 
 # Fury Swipes
-*Normal | Physical*
+*Normale | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 1
 - **Target:** Foe
-- **Effect:** Successive Actions. -1 Accuracy.
+- **Traits:** [[Successive_Actions]], [[Accuracy_Reduction]] (1)
+- **Effect:** Azioni successive. -1Accuracy.
 
-> The user swiftly uses its claws to strike the foe multiple times.
+> Chi la usa usa rapidamente i suoi artigli per colpire il nemico più volte.

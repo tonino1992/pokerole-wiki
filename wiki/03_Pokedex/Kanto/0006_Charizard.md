@@ -1,4 +1,4 @@
----
+﻿---
 title: "Charizard (#0006)"
 category: Pokedex
 tags: [charizard, kanto, fire, flying]
@@ -31,7 +31,14 @@ tags: [charizard, kanto, fire, flying]
 
 - **Starter:** [[Scratch]], [[Smokescreen]]
 - **Beginner:** [[Ember]], [[Growl]]
-- **Amateur:** [[Fire Fang]], [[Dragon Rage]], [[Air Slash]], [[Slash]], [[Scary Face]], [[Fire Spin]], [[Flame Burst]], [[Wing Attack]]
-- **Ace:** [[Dragon Claw]], [[Flamethrower]], [[Shadow Claw]], [[Flare Blitz]], [[Heat Wave]]
-- **Pro:** [[Inferno]], [[Thunder Punch]], [[Outrage]], [[Blast Burn]]
+- **Amateur:** [[Fire_Fang]], [[Dragon_Rage]], [[Air_Slash]], [[Slash]], [[Scary_Face]], [[Fire_Spin]], [[Flame_Burst]], [[Wing_Attack]]
+- **Ace:** [[Dragon_Claw]], [[Flamethrower]], [[Shadow_Claw]], [[Flare_Blitz]], [[Heat_Wave]]
+- **Pro:** [[Inferno]], [[Thunder_Punch]], [[Outrage]], [[Blast_Burn]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0004_Charmander|Charmander]]
+- [[0005_Charmeleon|Charmeleon]]

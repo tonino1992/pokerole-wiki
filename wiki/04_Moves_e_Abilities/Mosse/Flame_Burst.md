@@ -1,15 +1,16 @@
 ---
 title: "Flame Burst"
 category: Move
-tags: [move, fire, special]
+locale: it
+tags: [move, fuoco, special]
 ---
 
 # Flame Burst
-*Fire | Special*
+*Fuoco | Special*
 
 - **Accuracy:** Dexterity + Channel
 - **Damage:** Special + 3
 - **Target:** Foe
-- **Effect:** After dealing damage, the user may roll 1 Dice of Damage against two other Targets.
+- **Effect:** Dopo aver inflitto il danno, l'utente può lanciare 1 Dice di Damage contro altri due bersagli.
 
-> A concentrated flameball that bursts on contact with the foe, scattering smaller flames around.
+> Una palla di fuoco concentrata che esplode al contatto con il nemico, spargendo fiamme più piccole intorno.

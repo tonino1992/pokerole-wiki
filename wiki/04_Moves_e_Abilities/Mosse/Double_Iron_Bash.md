@@ -1,15 +1,17 @@
 ---
 title: "Double Iron Bash"
 category: Move
-tags: [move, steel, physical]
+locale: it
+tags: [move, acciaio, physical]
 ---
 
 # Double Iron Bash
-*Steel | Physical*
+*Acciaio | Physical*
 
 - **Accuracy:** Special + Channel
 - **Damage:** Strength + 2
 - **Target:** Foe
-- **Effect:** Roll 3 Chance Dice to Flinch the Foe.
+- **Traits:** [[Status_Condition]] (Flinch Chance Dice 3)
+- **Effect:** Lancia 3 possibilità da Dice a Flinch Foe.
 
-> The user hardens its limbs and then rotates them at great speed to hit the foe twice in a row. The blow can leave the victim crushed on the floor.
+> L'utilizzatore indurisce i suoi arti e poi li ruota a grande velocità per colpire il nemico due volte di seguito. Il colpo può lasciare la vittima schiacciata sul pavimento.

@@ -1,15 +1,17 @@
 ---
 title: "Constrict"
 category: Move
-tags: [move, normal, physical]
+locale: it
+tags: [move, normale, physical]
 ---
 
 # Constrict
-*Normal | Physical*
+*Normale | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 1
 - **Target:** Foe
-- **Effect:** Blocks. Roll 2 Dice of Damage against the foe at the end of each Round. Lasts 4 Rounds.
+- **Traits:** [[Block_Damage_Pool]] (2), [[Status_Condition]] (Block)
+- **Effect:** Blocchi. Tira 2 Dice di Damage contro il nemico alla fine di ogni Round. Dura 4 Rounds.
 
-> The Pokemon uses its body to hold and constrict the foe. It won't let go easily.
+> Il Pokemon usa il suo corpo per trattenere e costringere il nemico. Non si lascerà andare facilmente.

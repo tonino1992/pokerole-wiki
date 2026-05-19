@@ -1,4 +1,4 @@
----
+﻿---
 title: "Marowak (#0105)"
 category: Pokedex
 tags: [marowak, kanto, ground]
@@ -29,9 +29,15 @@ tags: [marowak, kanto, ground]
 
 ## Mosse (Learnset)
 
-- **Starter:** [[Growl]], [[Tail Whip]]
-- **Beginner:** [[Bone Club]], [[Focus Energy]], [[Leer]]
-- **Amateur:** [[Headbutt]], [[Bonemerang]], [[Rage]], [[False Swipe]], [[Endeavor]], [[Fling]]
-- **Ace:** [[Bone Rush]], [[Stomping Tantrum]], [[Thrash]], [[Double-Edge]], [[Retaliate]]
-- **Pro:** [[Perish Song]], [[Outrage]], [[Detect]]
+- **Starter:** [[Growl]], [[Tail_Whip]]
+- **Beginner:** [[Bone_Club]], [[Focus_Energy]], [[Leer]]
+- **Amateur:** [[Headbutt]], [[Bonemerang]], [[Rage]], [[False_Swipe]], [[Endeavor]], [[Fling]]
+- **Ace:** [[Bone_Rush]], [[Stomping_Tantrum]], [[Thrash]], [[Double-Edge]], [[Retaliate]]
+- **Pro:** [[Perish_Song]], [[Outrage]], [[Detect]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0104_Cubone|Cubone]]

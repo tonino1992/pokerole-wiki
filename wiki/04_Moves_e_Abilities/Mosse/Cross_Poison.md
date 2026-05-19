@@ -1,15 +1,17 @@
 ---
 title: "Cross Poison"
 category: Move
-tags: [move, poison, physical]
+locale: it
+tags: [move, veleno, physical]
 ---
 
 # Cross Poison
-*Poison | Physical*
+*Veleno | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 3
 - **Target:** Foe
-- **Effect:** High Critical. Roll 1 Chance Dice to Poison the foe.
+- **Traits:** [[High_Critical]], [[Status_Condition]] (Poison Chance Dice 1)
+- **Effect:** Alta critica. Lancia 1 possibilità Dice per Veleno il nemico.
 
-> The Pokemon drenches poison into its pincers to slash the enemy in a brutal way.
+> Il Pokemon inzuppa il veleno nelle sue chele per tagliare il nemico in modo brutale.

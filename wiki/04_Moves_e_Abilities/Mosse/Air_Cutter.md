@@ -1,15 +1,17 @@
 ---
 title: "Air Cutter"
 category: Move
-tags: [move, flying, special]
+locale: it
+tags: [move, volante, special]
 ---
 
 # Air Cutter
-*Flying | Special*
+*Volante | Special*
 
 - **Accuracy:** Dexterity + Channel
 - **Damage:** Special + 2
 - **Target:** All Foes
-- **Effect:** Target all foes in Range. High Critical.
+- **Traits:** [[High_Critical]]
+- **Effect:** Target tutti i nemici a portata. Alta critica.
 
-> The user will send out a wave of sharp wind that will harm anything it touches.
+> L'utente emetterà un'ondata di forte vento che danneggerà qualsiasi cosa tocchi.

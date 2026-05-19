@@ -1,15 +1,17 @@
 ---
 title: "Amnesia"
 category: Move
-tags: [move, psychic, support]
+locale: it
+tags: [move, psico, support]
 ---
 
 # Amnesia
-*Psychic | Support*
+*Psico | Support*
 
 - **Accuracy:** Insight + Alert
 - **Damage:** N/A
 - **Target:** User
-- **Effect:** Increase the User's Sp. Defense by 2.
+- **Traits:** [[Stat_Changes]]
+- **Effect:** Aumenta gli SP dell'utente. Difesa di 2.
 
-> As a fine example of mind over matter, the user temporarily empties its mind to make it more resilient.
+> Come ottimo esempio di mente sulla materia, l'utilizzatore svuota temporaneamente la propria mente per renderla più resiliente.

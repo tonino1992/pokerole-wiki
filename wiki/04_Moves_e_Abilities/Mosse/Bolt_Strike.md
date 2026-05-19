@@ -1,15 +1,17 @@
 ---
 title: "Bolt Strike"
 category: Move
-tags: [move, electric, physical]
+locale: it
+tags: [move, elettro, physical]
 ---
 
 # Bolt Strike
-*Electric | Physical*
+*Elettro | Physical*
 
 - **Accuracy:** Strength + Brawl
 - **Damage:** Strength + 6
 - **Target:** Foe
-- **Effect:** Roll 2 Chance Dice to Paralyze the foe. -2 Accuracy.
+- **Traits:** [[Accuracy_Reduction]] (2), [[Status_Condition]] (Paralyze Chance Dice 2)
+- **Effect:** Lancia 2 possibilità Dice di paralizzare il nemico. -2Accuracy.
 
-> Zekrom delivers a powerful tackle while discharging lightning through its body. The foe is rendered unable to move, either by the strike or the electricity
+> Zekrom sferra un potente contrasto mentre scarica fulmini attraverso il suo corpo. Il nemico viene reso incapace di muoversi, sia a causa del colpo che dell'elettricità

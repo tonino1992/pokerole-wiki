@@ -1,4 +1,4 @@
----
+﻿---
 title: "Jigglypuff (#0039)"
 category: Pokedex
 tags: [jigglypuff, kanto, normal, fairy]
@@ -30,8 +30,14 @@ tags: [jigglypuff, kanto, normal, fairy]
 ## Mosse (Learnset)
 
 - **Starter:** [[Sing]], [[Pound]]
-- **Beginner:** [[Defense Curl]], [[Play Nice]], [[Round]]
-- **Amateur:** [[Disable]], [[Rollout]], [[Double Slap]], [[Stockpile]], [[Spit Up]], [[Swallow]], [[Disarming Voice]], [[Body Slam]]
-- **Ace:** [[Gyro Ball]], [[Wake-Up Slap]], [[Rest]], [[Hyper Voice]]
-- **Pro:** [[Mimic]], [[Double-Edge]], [[Heal Pulse]]
+- **Beginner:** [[Defense_Curl]], [[Play_Nice]], [[Round]]
+- **Amateur:** [[Disable]], [[Rollout]], [[Double_Slap]], [[Stockpile]], [[Spit_Up]], [[Swallow]], [[Disarming_Voice]], [[Body_Slam]]
+- **Ace:** [[Gyro_Ball]], [[Wake-Up_Slap]], [[Rest]], [[Hyper_Voice]]
+- **Pro:** [[Mimic]], [[Double-Edge]], [[Heal_Pulse]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0040_Wigglytuff|Wigglytuff]]

@@ -1,15 +1,16 @@
 ---
 title: "Covet"
 category: Move
-tags: [move, normal, physical]
+locale: it
+tags: [move, normale, physical]
 ---
 
 # Covet
-*Normal | Physical*
+*Normale | Physical*
 
 - **Accuracy:** Clever + Stealth
 - **Damage:** Strength + 2
 - **Target:** Foe
-- **Effect:** If the user is not holding an item, Steal the target's Held Item.
+- **Effect:** Se l'utente non ha in mano un oggetto, ruba l'oggetto tenuto dal bersaglio.
 
-> The User approaches with caution, deals a quick strike and takes the chance to steal the target's item.
+> L'Utente si avvicina con cautela, sferra un colpo rapido e coglie l'occasione per rubare l'oggetto del bersaglio.

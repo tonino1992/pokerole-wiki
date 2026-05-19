@@ -1,4 +1,4 @@
----
+﻿---
 title: "Cloyster (#0091)"
 category: Pokedex
 tags: [cloyster, kanto, water, ice]
@@ -31,7 +31,13 @@ tags: [cloyster, kanto, water, ice]
 
 - **Starter:** [[Withdraw]]
 - **Beginner:** [[Protect]], [[Supersonic]]
-- **Amateur:** [[Spike Cannon]], [[Aurora Beam]], [[Toxic Spikes]]
-- **Ace:** [[Hydro Pump]], [[Shell Smash]], [[Spikes]], [[Icicle Crash]]
-- **Pro:** [[Aqua Ring]], [[Rock Blast]], [[Self Destruct]]
+- **Amateur:** [[Spike_Cannon]], [[Aurora_Beam]], [[Toxic_Spikes]]
+- **Ace:** [[Hydro_Pump]], [[Shell_Smash]], [[Spikes]], [[Icicle_Crash]]
+- **Pro:** [[Aqua_Ring]], [[Rock_Blast]], [[Self_Destruct]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0090_Shellder|Shellder]]

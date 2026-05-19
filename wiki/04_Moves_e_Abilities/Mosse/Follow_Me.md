@@ -1,15 +1,17 @@
 ---
 title: "Follow Me"
 category: Move
-tags: [move, normal, support]
+locale: it
+tags: [move, normale, support]
 ---
 
 # Follow Me
-*Normal | Support*
+*Normale | Support*
 
 - **Accuracy:** Cool + Perform
 - **Damage:** N/A
 - **Target:** User
-- **Effect:** Foes will target the user this Round. Priority 5.
+- **Traits:** [[Priority]] (5), [[Status_Condition]] (FollowMeSpotlight)
+- **Effect:** I nemici prenderanno di mira l'utente questo Round. Priorità 5.
 
-> The Pokemon will draw everyone's attention. All foes are taunted to do their worst.
+> I Pokemon attireranno l'attenzione di tutti. Tutti i nemici vengono provocati a fare del loro peggio.

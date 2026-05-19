@@ -1,15 +1,17 @@
 ---
 title: "Dragon Darts"
 category: Move
-tags: [move, dragon, physical]
+locale: it
+tags: [move, drago, physical]
 ---
 
 # Dragon Darts
-*Dragon | Physical*
+*Drago | Physical*
 
 - **Accuracy:** Dexterity + Channel
 - **Damage:** Strength + 2
 - **Target:** Foe
-- **Effect:** Ranged. Double Action
+- **Traits:** [[Physical_Ranged]], [[Double_Action]]
+- **Effect:** A distanza. Doppia azione
 
-> The Pokemon's head is a nest for its less evolved forms, the younglings will sometimes be used as projectiles.
+> La testa del Pokemon è un nido per le sue forme meno evolute, i piccoli verranno talvolta usati come proiettili.

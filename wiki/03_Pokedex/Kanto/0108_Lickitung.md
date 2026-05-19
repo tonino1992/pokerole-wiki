@@ -1,4 +1,4 @@
----
+﻿---
 title: "Lickitung (#0108)"
 category: Pokedex
 tags: [lickitung, kanto, normal]
@@ -30,8 +30,8 @@ tags: [lickitung, kanto, normal]
 ## Mosse (Learnset)
 
 - **Starter:** [[Lick]], [[Supersonic]]
-- **Beginner:** [[Defense Curl]], [[Knock Off]]
-- **Amateur:** [[Wrap]], [[Stomp]], [[Disable]], [[Slam]], [[Rollout]], [[Chip Away]], [[Me First]]
-- **Ace:** [[Refresh]], [[Screech]], [[Power Whip]], [[Wring Out]]
-- **Pro:** [[Belly Drum]], [[Aqua Tail]], [[Zen Headbutt]]
+- **Beginner:** [[Defense_Curl]], [[Knock_Off]]
+- **Amateur:** [[Wrap]], [[Stomp]], [[Disable]], [[Slam]], [[Rollout]], [[Chip_Away]], [[Me_First]]
+- **Ace:** [[Refresh]], [[Screech]], [[Power_Whip]], [[Wring_Out]]
+- **Pro:** [[Belly_Drum]], [[Aqua_Tail]], [[Zen_Headbutt]]
 

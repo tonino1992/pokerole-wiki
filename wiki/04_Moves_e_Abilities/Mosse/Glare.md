@@ -1,15 +1,17 @@
 ---
 title: "Glare"
 category: Move
-tags: [move, normal, support]
+locale: it
+tags: [move, normale, support]
 ---
 
 # Glare
-*Normal | Support*
+*Normale | Support*
 
 - **Accuracy:** Tough + Intimidate
 - **Damage:** N/A
 - **Target:** Foe
-- **Effect:** Paralyze the foe. -1 Accuracy.
+- **Traits:** [[Accuracy_Reduction]] (1), [[Status_Condition]] (Paralyze)
+- **Effect:** Paralizza il nemico. -1Accuracy.
 
-> The Pokemon uses its intimidating glare to paralyze the foe with sheer terror.
+> Il Pokemon usa il suo sguardo intimidatorio per paralizzare il nemico con puro terrore.

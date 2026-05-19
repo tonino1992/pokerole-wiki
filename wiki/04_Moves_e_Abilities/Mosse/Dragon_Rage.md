@@ -1,15 +1,17 @@
 ---
 title: "Dragon Rage"
 category: Move
-tags: [move, dragon, special]
+locale: it
+tags: [move, drago, special]
 ---
 
 # Dragon Rage
-*Dragon | Special*
+*Drago | Special*
 
 - **Accuracy:** Dexterity + Channel
 - **Damage:** N/A
 - **Target:** Foe
-- **Effect:** This moves always inflicts 2 damage.
+- **Traits:** [[Fixed_Damage]]
+- **Effect:** Questa mossa infligge sempre 2 danni.
 
-> A dual colored flame that always leaves the same burn marks on everything it touches.
+> Una fiamma bicolore che lascia sempre le stesse bruciature su tutto ciò che tocca.

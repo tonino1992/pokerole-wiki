@@ -1,15 +1,17 @@
 ---
 title: "Clamp"
 category: Move
-tags: [move, water, physical]
+locale: it
+tags: [move, acqua, physical]
 ---
 
 # Clamp
-*Water | Physical*
+*Acqua | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 2
 - **Target:** Foe
-- **Effect:** Block. Deal 2 Dice of Damage at the end of each Round. Lasts 4 Rounds. -1 Accuracy.
+- **Traits:** [[Block_Damage_Pool]] (2), [[Accuracy_Reduction]] (1), [[Status_Condition]] (Block)
+- **Effect:** Bloccare. Distribuisci 2 Dice di Damage alla fine di ogni Round. Dura 4 Rounds. -1Accuracy.
 
-> The user traps and crushes the opponent using its thick and sturdy shell.
+> Chi lo utilizza intrappola e schiaccia l'avversario utilizzando il suo guscio spesso e robusto.

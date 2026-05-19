@@ -1,4 +1,4 @@
----
+﻿---
 title: "Hitmonlee (#0106)"
 category: Pokedex
 tags: [hitmonlee, kanto, fighting]
@@ -29,9 +29,9 @@ tags: [hitmonlee, kanto, fighting]
 
 ## Mosse (Learnset)
 
-- **Starter:** [[Double Kick]], [[Revenge]]
-- **Beginner:** [[Meditate]], [[Rolling Kick]], [[Jump Kick]]
-- **Amateur:** [[Brick Break]], [[Focus Energy]], [[Feint]], [[High Jump Kick]], [[Mind Reader]], [[Foresight]], [[Wide Guard]], [[Blaze Kick]]
-- **Ace:** [[Endure]], [[Mega Kick]], [[Close Combat]], [[Reversal]]
-- **Pro:** [[Bounce]], [[Rapid Spin]], [[Mach Punch]]
+- **Starter:** [[Double_Kick]], [[Revenge]]
+- **Beginner:** [[Meditate]], [[Rolling_Kick]], [[Jump_Kick]]
+- **Amateur:** [[Brick_Break]], [[Focus_Energy]], [[Feint]], [[High_Jump_Kick]], [[Mind_Reader]], [[Foresight]], [[Wide_Guard]], [[Blaze_Kick]]
+- **Ace:** [[Endure]], [[Mega_Kick]], [[Close_Combat]], [[Reversal]]
+- **Pro:** [[Bounce]], [[Rapid_Spin]], [[Mach_Punch]]
 

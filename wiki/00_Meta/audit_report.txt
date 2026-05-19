@@ -1,0 +1,1229 @@
+﻿
+==========================================
+ WIKI LINK AUDIT REPORT
+==========================================
+
+Total .md files: 933
+Total valid links: 3666
+Total BROKEN links: 521
+Total orphan files (no inbound links): 404
+Duplicate basenames: 1
+
+--- DUPLICATE BASENAMES ---
+  'Charge': C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Charge.md vs C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Tratti\Charge.md
+
+--- BROKEN LINKS ---
+
+  MISSING: 'Erba' (referenced 14 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\schede\Bulbasaur_Scheda.md [[[Erba]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\schede\Bulbasaur_Scheda.md [[[Erba]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\schede\Bulbasaur_Scheda.md [[[Erba]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\schede\Bulbasaur_Scheda.md [[[Erba]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\schede\Bulbasaur_Scheda.md [[[Erba]]]
+    ... and 9 more
+
+  MISSING: 'Swift_Swim' (referenced 14 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0054_Psyduck.md [[[Swift Swim]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0055_Golduck.md [[[Swift Swim]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0060_Poliwag.md [[[Swift Swim]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0061_Poliwhirl.md [[[Swift Swim]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0062_Poliwrath.md [[[Swift Swim]]]
+    ... and 9 more
+
+  MISSING: 'Tipi_Pokemon\' (referenced 12 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\01_Regole_Base\Meteo_e_Scenario.md [[[Tipi_Pokemon\|Fuoco]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\01_Regole_Base\Meteo_e_Scenario.md [[[Tipi_Pokemon\|Acqua]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\01_Regole_Base\Status_Conditions.md [[[Tipi_Pokemon\|Fuoco]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\01_Regole_Base\Status_Conditions.md [[[Tipi_Pokemon\|Fuoco]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\01_Regole_Base\Status_Conditions.md [[[Tipi_Pokemon\|Fuoco]]]
+    ... and 7 more
+
+  MISSING: 'Chlorophyll' (referenced 12 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0001_Bulbasaur.md [[[Chlorophyll]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0002_Ivysaur.md [[[Chlorophyll]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0003_Venusaur.md [[[Chlorophyll]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0043_Oddish.md [[[Chlorophyll]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0044_Gloom.md [[[Chlorophyll]]]
+    ... and 7 more
+
+  MISSING: 'Inner_Focus' (referenced 11 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0041_Zubat.md [[[Inner Focus]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0042_Golbat.md [[[Inner Focus]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0063_Abra.md [[[Inner Focus]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0064_Kadabra.md [[[Inner Focus]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0065_Alakazam.md [[[Inner Focus]]]
+    ... and 6 more
+
+  MISSING: 'TerrainEffect' (referenced 11 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Grassy_Terrain.md [[[TerrainEffect]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Gravity.md [[[TerrainEffect]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Hail.md [[[TerrainEffect]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Misty_Terrain.md [[[TerrainEffect]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Mud_Sport.md [[[TerrainEffect]]]
+    ... and 6 more
+
+  MISSING: 'Rock_Head' (referenced 9 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0074_Geodude.md [[[Rock Head]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0075_Graveler.md [[[Rock Head]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0076_Golem.md [[[Rock Head]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0095_Onix.md [[[Rock Head]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0104_Cubone.md [[[Rock Head]]]
+    ... and 4 more
+
+  MISSING: 'Damp' (referenced 9 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0046_Paras.md [[[Damp]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0047_Parasect.md [[[Damp]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0054_Psyduck.md [[[Damp]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0055_Golduck.md [[[Damp]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0060_Poliwag.md [[[Damp]]]
+    ... and 4 more
+
+  MISSING: 'Lightning_Rod' (referenced 8 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0025_Pikachu.md [[[Lightning Rod]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0026_Raichu.md [[[Lightning Rod]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0104_Cubone.md [[[Lightning Rod]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0105_Marowak.md [[[Lightning Rod]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0111_Rhyhorn.md [[[Lightning Rod]]]
+    ... and 3 more
+
+  MISSING: 'Keen_Eye' (referenced 7 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0016_Pidgey.md [[[Keen Eye]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0017_Pidgeotto.md [[[Keen Eye]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0018_Pidgeot.md [[[Keen Eye]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0021_Spearow.md [[[Keen Eye]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0022_Fearow.md [[[Keen Eye]]]
+    ... and 2 more
+
+  MISSING: 'Overgrow' (referenced 7 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\ingest_queue.md [[[Overgrow]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0001_Bulbasaur.md [[[Overgrow]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0002_Ivysaur.md [[[Overgrow]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0003_Venusaur.md [[[Overgrow]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\schede\Bulbasaur_Scheda.md [[[Overgrow]]]
+    ... and 2 more
+
+  MISSING: 'Flash_Fire' (referenced 7 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0037_Vulpix.md [[[Flash Fire]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0038_Ninetales.md [[[Flash Fire]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0058_Growlithe.md [[[Flash Fire]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0059_Arcanine.md [[[Flash Fire]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0077_Ponyta.md [[[Flash Fire]]]
+    ... and 2 more
+
+  MISSING: 'Sand_Veil' (referenced 7 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0027_Sandshrew.md [[[Sand Veil]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0028_Sandslash.md [[[Sand Veil]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0050_Diglett.md [[[Sand Veil]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0051_Dugtrio.md [[[Sand Veil]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0074_Geodude.md [[[Sand Veil]]]
+    ... and 2 more
+
+  MISSING: 'Shell_Armor' (referenced 7 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0090_Shellder.md [[[Shell Armor]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0091_Cloyster.md [[[Shell Armor]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0098_Krabby.md [[[Shell Armor]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0099_Kingler.md [[[Shell Armor]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0131_Lapras.md [[[Shell Armor]]]
+    ... and 2 more
+
+  MISSING: 'Poison_Point' (referenced 6 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0029_Nidoran_F.md [[[Poison Point]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0030_Nidorina.md [[[Poison Point]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0031_Nidoqueen.md [[[Poison Point]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0032_Nidoran_M.md [[[Poison Point]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0033_Nidorino.md [[[Poison Point]]]
+    ... and 1 more
+
+  MISSING: 'Shed_Skin' (referenced 6 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0011_Metapod.md [[[Shed Skin]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0014_Kakuna.md [[[Shed Skin]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0023_Ekans.md [[[Shed Skin]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0024_Arbok.md [[[Shed Skin]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0147_Dratini.md [[[Shed Skin]]]
+    ... and 1 more
+
+  MISSING: 'Unnerve' (referenced 6 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0023_Ekans.md [[[Unnerve]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0024_Arbok.md [[[Unnerve]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0052_Meowth.md [[[Unnerve]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0053_Persian.md [[[Unnerve]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0142_Aerodactyl.md [[[Unnerve]]]
+    ... and 1 more
+
+  MISSING: 'Static' (referenced 6 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0025_Pikachu.md [[[Static]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0026_Raichu.md [[[Static]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0100_Voltorb.md [[[Static]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0101_Electrode.md [[[Static]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0125_Electabuzz.md [[[Static]]]
+    ... and 1 more
+
+  MISSING: 'Rivalry' (referenced 6 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0029_Nidoran_F.md [[[Rivalry]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0030_Nidorina.md [[[Rivalry]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0031_Nidoqueen.md [[[Rivalry]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0032_Nidoran_M.md [[[Rivalry]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0033_Nidorino.md [[[Rivalry]]]
+    ... and 1 more
+
+  MISSING: 'Guts' (referenced 6 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0019_Rattata.md [[[Guts]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0020_Raticate.md [[[Guts]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0066_Machop.md [[[Guts]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0067_Machoke.md [[[Guts]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0068_Machamp.md [[[Guts]]]
+    ... and 1 more
+
+  MISSING: 'Hustle' (referenced 6 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0019_Rattata.md [[[Hustle]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0020_Raticate.md [[[Hustle]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0029_Nidoran_F.md [[[Hustle]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0030_Nidorina.md [[[Hustle]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0032_Nidoran_M.md [[[Hustle]]]
+    ... and 1 more
+
+  MISSING: 'Intimidate' (referenced 6 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0023_Ekans.md [[[Intimidate]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0024_Arbok.md [[[Intimidate]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0058_Growlithe.md [[[Intimidate]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0059_Arcanine.md [[[Intimidate]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0128_Tauros.md [[[Intimidate]]]
+    ... and 1 more
+
+  MISSING: 'Status_Conditions\' (referenced 6 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\01_Regole_Base\Meteo_e_Scenario.md [[[Status_Conditions\|*Frozen*]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\01_Regole_Base\Meteo_e_Scenario.md [[[Status_Conditions\|*Burn*]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\01_Regole_Base\Meteo_e_Scenario.md [[[Status_Conditions\|*Burn*]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\01_Regole_Base\Meteo_e_Scenario.md [[[Status_Conditions\|*Burn*]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\01_Regole_Base\Meteo_e_Scenario.md [[[Status_Conditions\|*Burn*]]]
+    ... and 1 more
+
+  MISSING: 'Sturdy' (referenced 6 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0074_Geodude.md [[[Sturdy]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0075_Graveler.md [[[Sturdy]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0076_Golem.md [[[Sturdy]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0081_Magnemite.md [[[Sturdy]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0082_Magneton.md [[[Sturdy]]]
+    ... and 1 more
+
+  MISSING: 'Natures\' (referenced 6 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\02_Allenatori\Creazione_Personaggio.md [[[Natures\|Nature]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\02_Allenatori\Creazione_Personaggio.md [[[Natures\|Nature]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\02_Allenatori\Creazione_Personaggio.md [[[Natures\|Nature]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\02_Allenatori\Creazione_Pokemon.md [[[Natures\|Nature]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\02_Allenatori\Happiness_e_Loyalty.md [[[Natures\|Nature]]]
+    ... and 1 more
+
+  MISSING: 'Pressure' (referenced 5 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0142_Aerodactyl.md [[[Pressure]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0144_Articuno.md [[[Pressure]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0145_Zapdos.md [[[Pressure]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0146_Moltres.md [[[Pressure]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0150_Mewtwo.md [[[Pressure]]]
+
+  MISSING: 'Magic_Guard' (referenced 5 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0035_Clefairy.md [[[Magic Guard]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0036_Clefable.md [[[Magic Guard]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0063_Abra.md [[[Magic Guard]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0064_Kadabra.md [[[Magic Guard]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0065_Alakazam.md [[[Magic Guard]]]
+
+  MISSING: 'Pokemon_Contests' (referenced 5 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\index.md [[[Pokemon_Contests]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\01_Regole_Base\Attributes_e_Skills.md [[[Pokemon_Contests]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\01_Regole_Base\Status_Conditions.md [[[Pokemon_Contests]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\02_Allenatori\Natures.md [[[Pokemon_Contests]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\02_Allenatori\Natures.md [[[Pokemon_Contests]]]
+
+  MISSING: 'Sniper' (referenced 5 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0015_Beedrill.md [[[Sniper]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0021_Spearow.md [[[Sniper]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0022_Fearow.md [[[Sniper]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0116_Horsea.md [[[Sniper]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0117_Seadra.md [[[Sniper]]]
+
+  MISSING: 'Analytic' (referenced 5 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0081_Magnemite.md [[[Analytic]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0082_Magneton.md [[[Analytic]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0120_Staryu.md [[[Analytic]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0121_Starmie.md [[[Analytic]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0137_Porygon.md [[[Analytic]]]
+
+  MISSING: 'Sheer_Force' (referenced 5 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0031_Nidoqueen.md [[[Sheer Force]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0034_Nidoking.md [[[Sheer Force]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0098_Krabby.md [[[Sheer Force]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0099_Kingler.md [[[Sheer Force]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0128_Tauros.md [[[Sheer Force]]]
+
+  MISSING: 'Weak_Armor' (referenced 5 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0095_Onix.md [[[Weak Armor]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0138_Omanyte.md [[[Weak Armor]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0139_Omastar.md [[[Weak Armor]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0140_Kabuto.md [[[Weak Armor]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0141_Kabutops.md [[[Weak Armor]]]
+
+  MISSING: 'Tangled_Feet' (referenced 5 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0016_Pidgey.md [[[Tangled Feet]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0017_Pidgeotto.md [[[Tangled Feet]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0018_Pidgeot.md [[[Tangled Feet]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0084_Doduo.md [[[Tangled Feet]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0085_Dodrio.md [[[Tangled Feet]]]
+
+  MISSING: 'IgnoreShield' (referenced 5 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Feint.md [[[IgnoreShield]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Hyperspace_Fury.md [[[IgnoreShield]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Hyperspace_Hole.md [[[IgnoreShield]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Moongeist_Beam.md [[[IgnoreShield]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Sunsteel_Strike.md [[[IgnoreShield]]]
+
+  MISSING: 'UserFaints' (referenced 5 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Explosion.md [[[UserFaints]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Final_Gambit.md [[[UserFaints]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Healing_Wish.md [[[UserFaints]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Lunar_Dance.md [[[UserFaints]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Self_Destruct.md [[[UserFaints]]]
+
+  MISSING: 'Ranking\' (referenced 5 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\02_Allenatori\Creazione_Personaggio.md [[[Ranking\|Rank]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\02_Allenatori\Creazione_Pokemon.md [[[Ranking\|Rank]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\02_Allenatori\Scheda_Allenatore.md [[[Ranking\|Rank]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\02_Allenatori\Scheda_Allenatore.md [[[Ranking\|Rank]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Pokedex_Introduzione.md [[[Ranking\|Rank]]]
+
+  MISSING: 'Stench' (referenced 5 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0044_Gloom.md [[[Stench]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0088_Grimer.md [[[Stench]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0089_Muk.md [[[Stench]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0109_Koffing.md [[[Stench]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0110_Weezing.md [[[Stench]]]
+
+  MISSING: 'Water_Absorb' (referenced 5 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0060_Poliwag.md [[[Water Absorb]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0061_Poliwhirl.md [[[Water Absorb]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0062_Poliwrath.md [[[Water Absorb]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0131_Lapras.md [[[Water Absorb]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0134_Vaporeon.md [[[Water Absorb]]]
+
+  MISSING: 'Rain_Dish' (referenced 5 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0007_Squirtle.md [[[Rain Dish]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0008_Wartortle.md [[[Rain Dish]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0009_Blastoise.md [[[Rain Dish]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0072_Tentacool.md [[[Rain Dish]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0073_Tentacruel.md [[[Rain Dish]]]
+
+  MISSING: 'Oblivious' (referenced 4 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0079_Slowpoke.md [[[Oblivious]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0080_Slowbro.md [[[Oblivious]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0108_Lickitung.md [[[Oblivious]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0124_Jynx.md [[[Oblivious]]]
+
+  MISSING: 'Flame_Body' (referenced 4 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0077_Ponyta.md [[[Flame Body]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0078_Rapidash.md [[[Flame Body]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0126_Magmar.md [[[Flame Body]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0146_Moltres.md [[[Flame Body]]]
+
+  MISSING: 'Hydration' (referenced 4 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0086_Seel.md [[[Hydration]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0087_Dewgong.md [[[Hydration]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0131_Lapras.md [[[Hydration]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0134_Vaporeon.md [[[Hydration]]]
+
+  MISSING: 'Vital_Spirit' (referenced 4 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0056_Mankey.md [[[Vital Spirit]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0057_Primeape.md [[[Vital Spirit]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0125_Electabuzz.md [[[Vital Spirit]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0126_Magmar.md [[[Vital Spirit]]]
+
+  MISSING: 'Technician' (referenced 4 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0052_Meowth.md [[[Technician]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0053_Persian.md [[[Technician]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0122_Mr_Mime.md [[[Technician]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0123_Scyther.md [[[Technician]]]
+
+  MISSING: 'Cute_Charm' (referenced 4 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0035_Clefairy.md [[[Cute Charm]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0036_Clefable.md [[[Cute Charm]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0039_Jigglypuff.md [[[Cute Charm]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0040_Wigglytuff.md [[[Cute Charm]]]
+
+  MISSING: 'Battle_Armor' (referenced 4 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0104_Cubone.md [[[Battle Armor]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0105_Marowak.md [[[Battle Armor]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0140_Kabuto.md [[[Battle Armor]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0141_Kabutops.md [[[Battle Armor]]]
+
+  MISSING: 'Steadfast' (referenced 4 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0066_Machop.md [[[Steadfast]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0067_Machoke.md [[[Steadfast]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0068_Machamp.md [[[Steadfast]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0123_Scyther.md [[[Steadfast]]]
+
+  MISSING: 'Levitate' (referenced 4 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0092_Gastly.md [[[Levitate]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0093_Haunter.md [[[Levitate]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0109_Koffing.md [[[Levitate]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0110_Weezing.md [[[Levitate]]]
+
+  MISSING: 'Gluttony' (referenced 4 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0069_Bellsprout.md [[[Gluttony]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0070_Weepinbell.md [[[Gluttony]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0071_Victreebel.md [[[Gluttony]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0143_Snorlax.md [[[Gluttony]]]
+
+  MISSING: 'HP_e_Will\' (referenced 4 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\02_Allenatori\Creazione_Personaggio.md [[[HP_e_Will\|Health Points]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\02_Allenatori\Creazione_Personaggio.md [[[HP_e_Will\|Will Points]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\02_Allenatori\Natures.md [[[HP_e_Will\|Will Points]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\02_Allenatori\Scheda_Allenatore.md [[[HP_e_Will\|Health Point]]]
+
+  MISSING: 'Veleno' (referenced 4 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\schede\Bulbasaur_Scheda.md [[[Veleno]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\schede\Bulbasaur_Scheda.md [[[Veleno]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\schede\Bulbasaur_Scheda.md [[[Veleno]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\schede\Venusaur_Scheda.md [[[Veleno]]]
+
+  MISSING: 'Synchronize' (referenced 4 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0063_Abra.md [[[Synchronize]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0064_Kadabra.md [[[Synchronize]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0065_Alakazam.md [[[Synchronize]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0151_Mew.md [[[Synchronize]]]
+
+  MISSING: 'Defiant' (referenced 3 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0056_Mankey.md [[[Defiant]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0057_Primeape.md [[[Defiant]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0083_Farfetch'd.md [[[Defiant]]]
+
+  MISSING: 'Anger_Point' (referenced 3 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0056_Mankey.md [[[Anger Point]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0057_Primeape.md [[[Anger Point]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0128_Tauros.md [[[Anger Point]]]
+
+  MISSING: 'AlwaysCrit' (referenced 3 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Frost_Breath.md [[[AlwaysCrit]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Storm_Throw.md [[[AlwaysCrit]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Zippy_Zap.md [[[AlwaysCrit]]]
+
+  MISSING: 'Limber' (referenced 3 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0053_Persian.md [[[Limber]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0106_Hitmonlee.md [[[Limber]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0132_Ditto.md [[[Limber]]]
+
+  MISSING: 'Forewarn' (referenced 3 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0096_Drowzee.md [[[Forewarn]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0097_Hypno.md [[[Forewarn]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0124_Jynx.md [[[Forewarn]]]
+
+  MISSING: 'Allenare_Pokemon\' (referenced 3 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\02_Allenatori\Happiness_e_Loyalty.md [[[Allenare_Pokemon\|Evoluzione]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Pokedex_Introduzione.md [[[Allenare_Pokemon\|Evoluzione]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Moves_Introduzione.md [[[Allenare_Pokemon\|Overank]]]
+
+  MISSING: 'Cloud_Nine' (referenced 3 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0054_Psyduck.md [[[Cloud Nine]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0055_Golduck.md [[[Cloud Nine]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0108_Lickitung.md [[[Cloud Nine]]]
+
+  MISSING: 'Regenerator' (referenced 3 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0079_Slowpoke.md [[[Regenerator]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0080_Slowbro.md [[[Regenerator]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0114_Tangela.md [[[Regenerator]]]
+
+  MISSING: 'Own_Tempo' (referenced 3 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0079_Slowpoke.md [[[Own Tempo]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0080_Slowbro.md [[[Own Tempo]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0108_Lickitung.md [[[Own Tempo]]]
+
+  MISSING: 'Thick_Fat' (referenced 3 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0086_Seel.md [[[Thick Fat]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0087_Dewgong.md [[[Thick Fat]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0143_Snorlax.md [[[Thick Fat]]]
+
+  MISSING: 'Early_Bird' (referenced 3 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0084_Doduo.md [[[Early Bird]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0085_Dodrio.md [[[Early Bird]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0115_Kangaskhan.md [[[Early Bird]]]
+
+  MISSING: 'No_Guard' (referenced 3 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0066_Machop.md [[[No Guard]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0067_Machoke.md [[[No Guard]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0068_Machamp.md [[[No Guard]]]
+
+  MISSING: 'Rampage' (referenced 3 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Outrage.md [[[Rampage]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Petal_Dance.md [[[Rampage]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Thrash.md [[[Rampage]]]
+
+  MISSING: 'Volante' (referenced 3 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\schede\Bulbasaur_Scheda.md [[[Volante]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\schede\Bulbasaur_Scheda.md [[[Volante]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\schede\Venusaur_Scheda.md [[[Volante]]]
+
+  MISSING: 'Fuoco' (referenced 3 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\schede\Bulbasaur_Scheda.md [[[Fuoco]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\schede\Bulbasaur_Scheda.md [[[Fuoco]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\schede\Venusaur_Scheda.md [[[Fuoco]]]
+
+  MISSING: 'Hyper_Cutter' (referenced 3 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0098_Krabby.md [[[Hyper Cutter]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0099_Kingler.md [[[Hyper Cutter]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0127_Pinsir.md [[[Hyper Cutter]]]
+
+  MISSING: 'Reckless' (referenced 3 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0106_Hitmonlee.md [[[Reckless]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0111_Rhyhorn.md [[[Reckless]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0112_Rhydon.md [[[Reckless]]]
+
+  MISSING: 'Shield_Dust' (referenced 3 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0010_Caterpie.md [[[Shield Dust]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0013_Weedle.md [[[Shield Dust]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0049_Venomoth.md [[[Shield Dust]]]
+
+  MISSING: 'Torrent' (referenced 3 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0007_Squirtle.md [[[Torrent]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0008_Wartortle.md [[[Torrent]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0009_Blastoise.md [[[Torrent]]]
+
+  MISSING: 'Big_Pecks' (referenced 3 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0016_Pidgey.md [[[Big Pecks]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0017_Pidgeotto.md [[[Big Pecks]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0018_Pidgeot.md [[[Big Pecks]]]
+
+  MISSING: 'Natural_Cure' (referenced 3 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0113_Chansey.md [[[Natural Cure]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0120_Staryu.md [[[Natural Cure]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0121_Starmie.md [[[Natural Cure]]]
+
+  MISSING: 'Tinted_Lens' (referenced 3 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0012_Butterfree.md [[[Tinted Lens]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0048_Venonat.md [[[Tinted Lens]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0049_Venomoth.md [[[Tinted Lens]]]
+
+  MISSING: 'Solar_Power' (referenced 3 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0004_Charmander.md [[[Solar Power]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0005_Charmeleon.md [[[Solar Power]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0006_Charizard.md [[[Solar Power]]]
+
+  MISSING: 'Soundproof' (referenced 3 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0100_Voltorb.md [[[Soundproof]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0101_Electrode.md [[[Soundproof]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0122_Mr_Mime.md [[[Soundproof]]]
+
+  MISSING: 'Blaze' (referenced 3 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0004_Charmander.md [[[Blaze]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0005_Charmeleon.md [[[Blaze]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0006_Charizard.md [[[Blaze]]]
+
+  MISSING: 'Effect_Spore' (referenced 3 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0045_Vileplume.md [[[Effect Spore]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0046_Paras.md [[[Effect Spore]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0047_Parasect.md [[[Effect Spore]]]
+
+  MISSING: 'Dry_Skin' (referenced 3 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0046_Paras.md [[[Dry Skin]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0047_Parasect.md [[[Dry Skin]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0124_Jynx.md [[[Dry Skin]]]
+
+  MISSING: 'Elettro' (referenced 2 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\schede\Bulbasaur_Scheda.md [[[Elettro]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\schede\Venusaur_Scheda.md [[[Elettro]]]
+
+  MISSING: 'Water_Veil' (referenced 2 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0118_Goldeen.md [[[Water Veil]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0119_Seaking.md [[[Water Veil]]]
+
+  MISSING: 'Moxie' (referenced 2 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0127_Pinsir.md [[[Moxie]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0130_Gyarados.md [[[Moxie]]]
+
+  MISSING: 'Skill_Link' (referenced 2 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0090_Shellder.md [[[Skill Link]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0091_Cloyster.md [[[Skill Link]]]
+
+  MISSING: 'Folletto' (referenced 2 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\schede\Bulbasaur_Scheda.md [[[Folletto]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\schede\Venusaur_Scheda.md [[[Folletto]]]
+
+  MISSING: 'Poison_Touch' (referenced 2 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0088_Grimer.md [[[Poison Touch]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0089_Muk.md [[[Poison Touch]]]
+
+  MISSING: 'Illuminate' (referenced 2 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0120_Staryu.md [[[Illuminate]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0121_Starmie.md [[[Illuminate]]]
+
+  MISSING: 'Lotta' (referenced 2 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\schede\Bulbasaur_Scheda.md [[[Lotta]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\schede\Venusaur_Scheda.md [[[Lotta]]]
+
+  MISSING: 'Acqua' (referenced 2 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\schede\Bulbasaur_Scheda.md [[[Acqua]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\schede\Venusaur_Scheda.md [[[Acqua]]]
+
+  MISSING: 'ResistedWithDefense' (referenced 2 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Psyshock.md [[[ResistedWithDefense]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Psystrike.md [[[ResistedWithDefense]]]
+
+  MISSING: 'Neutralizing_Gas' (referenced 2 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0109_Koffing.md [[[Neutralizing Gas]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0110_Weezing.md [[[Neutralizing Gas]]]
+
+  MISSING: 'Harvest' (referenced 2 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0102_Exeggcute.md [[[Harvest]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0103_Exeggutor.md [[[Harvest]]]
+
+  MISSING: 'Insomnia' (referenced 2 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0096_Drowzee.md [[[Insomnia]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0097_Hypno.md [[[Insomnia]]]
+
+  MISSING: 'Aftermath' (referenced 2 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0100_Voltorb.md [[[Aftermath]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0101_Electrode.md [[[Aftermath]]]
+
+  MISSING: 'Marvel_Scale' (referenced 2 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0147_Dratini.md [[[Marvel Scale]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0148_Dragonair.md [[[Marvel Scale]]]
+
+  MISSING: 'Psico' (referenced 2 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\schede\Bulbasaur_Scheda.md [[[Psico]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\schede\Venusaur_Scheda.md [[[Psico]]]
+
+  MISSING: 'Overcoat' (referenced 2 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0090_Shellder.md [[[Overcoat]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0091_Cloyster.md [[[Overcoat]]]
+
+  MISSING: 'Ghiaccio' (referenced 2 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\schede\Bulbasaur_Scheda.md [[[Ghiaccio]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\schede\Venusaur_Scheda.md [[[Ghiaccio]]]
+
+  MISSING: 'Pokeball' (referenced 2 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\index.md [[[Pokeball]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\05_Strumenti_e_Oggetti\Equipaggiamento_Base.md [[[Pokeball]]]
+
+  MISSING: 'Drought' (referenced 2 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0037_Vulpix.md [[[Drought]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0038_Ninetales.md [[[Drought]]]
+
+  MISSING: 'Competitive' (referenced 2 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0039_Jigglypuff.md [[[Competitive]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0040_Wigglytuff.md [[[Competitive]]]
+
+  MISSING: 'Infiltrator' (referenced 2 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0041_Zubat.md [[[Infiltrator]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0042_Golbat.md [[[Infiltrator]]]
+
+  MISSING: 'Swarm' (referenced 2 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0015_Beedrill.md [[[Swarm]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0123_Scyther.md [[[Swarm]]]
+
+  MISSING: 'Attributes_e_Skills\' (referenced 2 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\02_Allenatori\Creare_una_Storia.md [[[Attributes_e_Skills\|Skills]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\02_Allenatori\Happiness_e_Loyalty.md [[[Attributes_e_Skills\|Social Attribute]]]
+
+  MISSING: 'Catturare_Pokemon' (referenced 2 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\index.md [[[Catturare_Pokemon]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\02_Allenatori\Happiness_e_Loyalty.md [[[Catturare_Pokemon]]]
+
+  MISSING: 'Allenare_Pokemon' (referenced 2 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\index.md [[[Allenare_Pokemon]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\02_Allenatori\Happiness_e_Loyalty.md [[[Allenare_Pokemon]]]
+
+  MISSING: 'Sand_Rush' (referenced 2 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0027_Sandshrew.md [[[Sand Rush]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0028_Sandslash.md [[[Sand Rush]]]
+
+  MISSING: 'Il_Mondo_dei_Pokemon' (referenced 2 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\index.md [[[Il_Mondo_dei_Pokemon]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\02_Allenatori\Creare_una_Storia.md [[[Il_Mondo_dei_Pokemon]]]
+
+  MISSING: 'Friend_Guard' (referenced 2 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0035_Clefairy.md [[[Friend Guard]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0039_Jigglypuff.md [[[Friend Guard]]]
+
+  MISSING: 'Introduzione' (referenced 2 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\index.md [[[Introduzione]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\02_Allenatori\Creare_una_Storia.md [[[Introduzione]]]
+
+  MISSING: 'Clear_Body' (referenced 2 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0072_Tentacool.md [[[Clear Body]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0073_Tentacruel.md [[[Clear Body]]]
+
+  MISSING: 'Ice_Body' (referenced 2 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0086_Seel.md [[[Ice Body]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0087_Dewgong.md [[[Ice Body]]]
+
+  MISSING: 'Liquid_Ooze' (referenced 2 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0072_Tentacool.md [[[Liquid Ooze]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0073_Tentacruel.md [[[Liquid Ooze]]]
+
+  MISSING: 'Magnet_Pull' (referenced 2 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0081_Magnemite.md [[[Magnet Pull]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0082_Magneton.md [[[Magnet Pull]]]
+
+  MISSING: 'Arena_Trap' (referenced 2 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0050_Diglett.md [[[Arena Trap]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0051_Dugtrio.md [[[Arena Trap]]]
+
+  MISSING: 'Justified' (referenced 2 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0058_Growlithe.md [[[Justified]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0059_Arcanine.md [[[Justified]]]
+
+  MISSING: 'Sand_Force' (referenced 2 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0050_Diglett.md [[[Sand Force]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0051_Dugtrio.md [[[Sand Force]]]
+
+  MISSING: 'Sticky_Hold' (referenced 2 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0088_Grimer.md [[[Sticky Hold]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0089_Muk.md [[[Sticky Hold]]]
+
+  MISSING: 'Compound_Eyes' (referenced 2 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0012_Butterfree.md [[[Compound Eyes]]]
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0048_Venonat.md [[[Compound Eyes]]]
+
+  MISSING: 'Multiscale' (referenced 1 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0149_Dragonite.md [[[Multiscale]]]
+
+  MISSING: 'Nome' (referenced 1 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\log.md [[[Nome]]]
+
+  MISSING: 'Strategie_di_Combattimento\' (referenced 1 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Moves_Introduzione.md [[[Strategie_di_Combattimento\|Clash]]]
+
+  MISSING: 'Abilities_Introduzione\' (referenced 1 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Pokedex_Introduzione.md [[[Abilities_Introduzione\|AbilitÃ  Speciali]]]
+
+  MISSING: 'ResetTerrain' (referenced 1 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Defog.md [[[ResetTerrain]]]
+
+  MISSING: 'Come_Funziona_il_Combattimento\' (referenced 1 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\01_Regole_Base\Status_Conditions.md [[[Come_Funziona_il_Combattimento\|Initiative]]]
+
+  MISSING: 'Snow_Cloak' (referenced 1 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0144_Articuno.md [[[Snow Cloak]]]
+
+  MISSING: 'Sfide_Avanzate' (referenced 1 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\index.md [[[Sfide_Avanzate]]]
+
+  MISSING: 'Z-Moves' (referenced 1 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\index.md [[[Z-Moves]]]
+
+  MISSING: 'Strength_Dexterity_Chart' (referenced 1 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\index.md [[[Strength_Dexterity_Chart]]]
+
+  MISSING: 'Typeless_Maneuvers' (referenced 1 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\index.md [[[Typeless_Maneuvers]]]
+
+  MISSING: 'Max_Moves' (referenced 1 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\index.md [[[Max_Moves]]]
+
+  MISSING: 'FAQ_Moves' (referenced 1 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\index.md [[[FAQ_Moves]]]
+
+  MISSING: 'Held_Items' (referenced 1 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\index.md [[[Held_Items]]]
+
+  MISSING: 'Happiness_e_Loyalty\' (referenced 1 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\05_Strumenti_e_Oggetti\Healing_Items.md [[[Happiness_e_Loyalty\|Happiness]]]
+
+  MISSING: 'Pokemon_Care_Items' (referenced 1 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\index.md [[[Pokemon_Care_Items]]]
+
+  MISSING: 'Evolutionary_Items' (referenced 1 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\index.md [[[Evolutionary_Items]]]
+
+  MISSING: 'Serene_Grace' (referenced 1 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0113_Chansey.md [[[Serene Grace]]]
+
+  MISSING: 'Unaware' (referenced 1 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0036_Clefable.md [[[Unaware]]]
+
+  MISSING: 'Healer' (referenced 1 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0113_Chansey.md [[[Healer]]]
+
+  MISSING: 'Scrappy' (referenced 1 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0115_Kangaskhan.md [[[Scrappy]]]
+
+  MISSING: 'Leaf_Guard' (referenced 1 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0114_Tangela.md [[[Leaf Guard]]]
+
+  MISSING: 'Iron_Fist' (referenced 1 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0107_Hitmonchan.md [[[Iron Fist]]]
+
+  MISSING: 'Pickup' (referenced 1 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0052_Meowth.md [[[Pickup]]]
+
+  MISSING: 'Cursed_Body' (referenced 1 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0094_Gengar.md [[[Cursed Body]]]
+
+  MISSING: 'Wonder_Skin' (referenced 1 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0049_Venomoth.md [[[Wonder Skin]]]
+
+  MISSING: 'Unburden' (referenced 1 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0106_Hitmonlee.md [[[Unburden]]]
+
+  MISSING: 'Frisk' (referenced 1 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0040_Wigglytuff.md [[[Frisk]]]
+
+  MISSING: 'Quick_Feet' (referenced 1 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0135_Jolteon.md [[[Quick Feet]]]
+
+  MISSING: 'Volt_Absorb' (referenced 1 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0135_Jolteon.md [[[Volt Absorb]]]
+
+  MISSING: 'Trace' (referenced 1 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0137_Porygon.md [[[Trace]]]
+
+  MISSING: 'Immunity' (referenced 1 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0143_Snorlax.md [[[Immunity]]]
+
+  MISSING: 'Download' (referenced 1 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0137_Porygon.md [[[Download]]]
+
+  MISSING: 'Anticipation' (referenced 1 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0133_Eevee.md [[[Anticipation]]]
+
+  MISSING: 'Mold_Breaker' (referenced 1 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0127_Pinsir.md [[[Mold Breaker]]]
+
+  MISSING: 'Filter' (referenced 1 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0122_Mr_Mime.md [[[Filter]]]
+
+  MISSING: 'Rattled' (referenced 1 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0129_Magikarp.md [[[Rattled]]]
+
+  MISSING: 'Adaptability' (referenced 1 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0133_Eevee.md [[[Adaptability]]]
+
+  MISSING: 'Imposter' (referenced 1 times)
+    <- C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0132_Ditto.md [[[Imposter]]]
+
+--- ORPHAN FILES (no inbound wikilinks) ---
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0001_Bulbasaur.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0002_Ivysaur.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0003_Venusaur.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0004_Charmander.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0005_Charmeleon.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0006_Charizard.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0007_Squirtle.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0008_Wartortle.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0009_Blastoise.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0010_Caterpie.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0011_Metapod.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0012_Butterfree.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0013_Weedle.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0014_Kakuna.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0015_Beedrill.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0016_Pidgey.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0017_Pidgeotto.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0018_Pidgeot.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0019_Rattata.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0020_Raticate.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0021_Spearow.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0022_Fearow.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0023_Ekans.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0024_Arbok.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0025_Pikachu.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0026_Raichu.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0027_Sandshrew.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0028_Sandslash.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0029_Nidoran_F.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0030_Nidorina.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0031_Nidoqueen.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0032_Nidoran_M.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0033_Nidorino.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0034_Nidoking.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0035_Clefairy.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0036_Clefable.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0037_Vulpix.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0038_Ninetales.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0039_Jigglypuff.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0040_Wigglytuff.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0041_Zubat.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0042_Golbat.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0043_Oddish.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0044_Gloom.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0045_Vileplume.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0046_Paras.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0047_Parasect.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0048_Venonat.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0049_Venomoth.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0050_Diglett.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0051_Dugtrio.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0052_Meowth.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0053_Persian.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0054_Psyduck.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0055_Golduck.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0056_Mankey.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0057_Primeape.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0058_Growlithe.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0059_Arcanine.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0060_Poliwag.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0061_Poliwhirl.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0062_Poliwrath.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0063_Abra.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0064_Kadabra.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0065_Alakazam.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0066_Machop.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0067_Machoke.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0068_Machamp.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0069_Bellsprout.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0070_Weepinbell.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0071_Victreebel.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0072_Tentacool.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0073_Tentacruel.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0074_Geodude.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0075_Graveler.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0076_Golem.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0077_Ponyta.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0078_Rapidash.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0079_Slowpoke.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0080_Slowbro.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0081_Magnemite.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0082_Magneton.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0083_Farfetch'd.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0084_Doduo.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0085_Dodrio.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0086_Seel.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0087_Dewgong.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0088_Grimer.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0089_Muk.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0090_Shellder.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0091_Cloyster.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0092_Gastly.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0093_Haunter.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0094_Gengar.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0095_Onix.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0096_Drowzee.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0097_Hypno.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0098_Krabby.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0099_Kingler.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0100_Voltorb.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0101_Electrode.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0102_Exeggcute.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0103_Exeggutor.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0104_Cubone.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0105_Marowak.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0106_Hitmonlee.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0107_Hitmonchan.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0108_Lickitung.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0109_Koffing.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0110_Weezing.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0111_Rhyhorn.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0112_Rhydon.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0113_Chansey.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0114_Tangela.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0115_Kangaskhan.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0116_Horsea.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0117_Seadra.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0118_Goldeen.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0119_Seaking.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0120_Staryu.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0121_Starmie.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0122_Mr_Mime.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0123_Scyther.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0124_Jynx.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0125_Electabuzz.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0126_Magmar.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0127_Pinsir.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0128_Tauros.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0129_Magikarp.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0130_Gyarados.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0131_Lapras.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0132_Ditto.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0133_Eevee.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0134_Vaporeon.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0135_Jolteon.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0136_Flareon.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0137_Porygon.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0138_Omanyte.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0139_Omastar.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0140_Kabuto.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0141_Kabutops.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0142_Aerodactyl.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0143_Snorlax.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0144_Articuno.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0145_Zapdos.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0146_Moltres.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0147_Dratini.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0148_Dragonair.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0149_Dragonite.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0150_Mewtwo.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\03_Pokedex\Kanto\0151_Mew.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Accelerock.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Aeroblast.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Anchor_Shot.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Any_Move.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Apple_Acid.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Arm_Thrust.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Aromatic_Mist.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Attack_Order.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Attract.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Aura_Sphere.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Aura_Wheel.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Autotomize.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Baddy_Bad.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Baneful_Bunker.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Beak_Blast.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Behemoth_Bash.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Behemoth_Blade.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Bide.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Blue_Flare.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Body_Press.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Bolt_Beak.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Bolt_Strike.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Boomburst.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Bouncy_Bubble.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Branch_Poke.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Breaking_Swipe.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Brutal_Swing.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Buzzy_Buzz.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Calm_Mind.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Chatter.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Clanging_Scales.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Clangorous_Soul.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Confide.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Core_Enforcer.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Cotton_Guard.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Cotton_Spore.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Court_Change.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Cover_An_Ally.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Crafty_Shield.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Crush_Grip.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Curse_(Non-Ghost_User).md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Cut.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Dark_Void.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Darkest_Lariat.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Dazzling_Gleam.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Decorate.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Defend_Order.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Diamond_Storm.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Doom_Desire.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Double_Iron_Bash.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Dragon_Ascent.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Dragon_Darts.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Dragon_Hammer.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Drum_Beating.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Dynamax_Cannon.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Echoed_Voice.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Electrify.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Embargo.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Energy_Ball.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Entrainment.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Eruption.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Eternabeam.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Facade.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Fairy_Lock.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Fairy_Wind.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\False_Surrender.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Fiery_Dance.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Fire_Lash.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\First_Impression.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Fishious_Rend.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Flash.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Fleur_Cannon.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Floaty_Fall.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Floral_Healing.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Flower_Shield.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Fly.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Flying_Press.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Focus_Blast.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Force_Palm.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Forest's_Curse.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Freeze_Shock.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Freezy_Frost.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Frost_Breath.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Frustration.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Fusion_Bolt.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Fusion_Flare.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Gear_Grind.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Gear_Up.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Geomancy.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Glaciate.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Glitzy_Glow.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Grapple.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Grass_Knot.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Grass_Whistle.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Grav_Apple.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Growl_(Cute).md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Growl_(Tough).md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Guard_Split.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Head_Charge.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Heal_Block.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Heal_Order.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Heart_Swap.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Heat_Crash.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Help_Another.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Hidden_Power.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Hone_Claws.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Horn_Leech.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Hyperspace_Fury.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Hyperspace_Hole.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Ice_Ball.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Ice_Burn.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Ice_Hammer.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Incinerate.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Infestation.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Instruct.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Ion_Deluge.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Jaw_Lock.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Judgment.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\King's_Shield.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Land's_Wrath.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Laser_Focus.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Leafage.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Life_Dew.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Light_Of_Ruin.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Liquidation.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Lunar_Dance.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Lunge.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Luster_Purge.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Magic_Powder.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Magic_Room.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Magma_Storm.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Mat_Block.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Metal_Burst.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Meteor_Assault.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Milk_Drink.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Mind_Blown.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Mist_Ball.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Moongeist_Beam.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Multi-Attack.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Mystical_Fire.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Nature_Power.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Nature's_Madness.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Needle_Arm.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Night_Daze.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\No_Retreat.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Noble_Roar.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Oblivion_Wing.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Obstruct.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Octolock.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Origin_Pulse.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Overdrive.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Parabolic_Charge.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Parting_Shot.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Phantom_Force.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Photon_Geyser.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Photon_Geyser_(Physical).md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Photon_Geyser_(Special).md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Pika_Papow.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Plasma_Fists.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Pollen_Puff.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Poltergeist.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Powder.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Power_Split.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Power_Trick.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Power_Trip.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Power-Up_Punch.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Precipice_Blades.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Prismatic_Laser.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Psychic_Fangs.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Psychic_Terrain.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Psycho_Boost.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Psycho_Shift.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Psystrike.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Purify.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Pyro_Ball.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Quash.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Relic_Song.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Return.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Revelation_Dance.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Roar_Of_Time.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Rock_Smash.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Rock_Wrecker.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Sacred_Fire.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Sacred_Sword.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Sappy_Seed.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Scald.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Searing_Shot.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Secret_Power.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Secret_Sword.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Seed_Flare.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Shadow_Bone.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Shadow_Force.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Shell_Trap.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Shift_Gear.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Shore_Up.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Simple_Beam.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Sizzly_Slide.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Sketch.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Skill_Swap.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Smelling_Salts.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Snap_Trap.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Snarl.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Snipe_Shot.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Solar_Blade.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Spacial_Rend.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Sparkling_Aria.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Sparkly_Swirl.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Spectral_Thief.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Speed_Swap.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Spider_Web.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Spiky_Shield.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Spirit_Break.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Spirit_Shackle.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Splishy_Splash.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Stabilize_An_Ally.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Steam_Eruption.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Steel_Beam.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Sticky_Web.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Strange_Steam.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Strength_Sap.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Struggle.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Struggle_(Physical).md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Struggle_(Special).md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Struggle_Bug.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Stuff_Cheeks.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Sunsteel_Strike.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Sweet_Kiss.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Tail_Glow.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Tail_Slap.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Tar_Shot.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Tearful_Look.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Teatime.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Techno_Blast.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Teeter_Dance.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Thief.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Thousand_Arrows.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Thousand_Waves.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Throat_Chop.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Topsy-Turvy.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Torment.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Toxic_Thread.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Trick_Room.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Trick-Or-Treat.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Triple_Kick.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Trop_Kick.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\U-Turn.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\V-Create.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Veevee_Volley.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Volt_Switch.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Water_Shuriken.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Water_Spout.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Zing_Zap.md
+  C:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse\Zippy_Zap.md
+
+  (Total real orphans: 404)
+
+--- INDEX.MD LINK INTEGRITY ---
+  BROKEN links in index.md:
+    - [[Introduzione]]
+    - [[Typeless_Maneuvers]]
+    - [[Max_Moves]]
+    - [[Z-Moves]]
+    - [[Strength_Dexterity_Chart]]
+    - [[FAQ_Moves]]
+    - [[Pokeball]]
+    - [[Pokemon_Care_Items]]
+    - [[Evolutionary_Items]]
+    - [[Held_Items]]
+    - [[Il_Mondo_dei_Pokemon]]
+    - [[Catturare_Pokemon]]
+    - [[Allenare_Pokemon]]
+    - [[Pokemon_Contests]]
+    - [[Sfide_Avanzate]]
+
+==========================================
+ END OF AUDIT
+==========================================

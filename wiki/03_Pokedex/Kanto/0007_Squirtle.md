@@ -1,4 +1,4 @@
----
+﻿---
 title: "Squirtle (#0007)"
 category: Pokedex
 tags: [squirtle, kanto, water]
@@ -29,9 +29,16 @@ tags: [squirtle, kanto, water]
 
 ## Mosse (Learnset)
 
-- **Starter:** [[Tackle]], [[Tail Whip]]
-- **Beginner:** [[Water Gun]], [[Withdraw]]
-- **Amateur:** [[Bubble]], [[Bite]], [[Rapid Spin]], [[Protect]], [[Water Pulse]], [[Aqua Tail]]
-- **Ace:** [[Skull Bash]], [[Iron Defense]], [[Rain Dance]], [[Hydro Pump]]
-- **Pro:** [[Aqua Jet]], [[Water Pledge]], [[Icy Wind]]
+- **Starter:** [[Tackle]], [[Tail_Whip]]
+- **Beginner:** [[Water_Gun]], [[Withdraw]]
+- **Amateur:** [[Bubble]], [[Bite]], [[Rapid_Spin]], [[Protect]], [[Water_Pulse]], [[Aqua_Tail]]
+- **Ace:** [[Skull_Bash]], [[Iron_Defense]], [[Rain_Dance]], [[Hydro_Pump]]
+- **Pro:** [[Aqua_Jet]], [[Water_Pledge]], [[Icy_Wind]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0008_Wartortle|Wartortle]]
+- [[0009_Blastoise|Blastoise]]

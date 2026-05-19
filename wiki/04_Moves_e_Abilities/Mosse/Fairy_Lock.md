@@ -1,15 +1,17 @@
 ---
 title: "Fairy Lock"
 category: Move
-tags: [move, fairy, support]
+locale: it
+tags: [move, folletto, support]
 ---
 
 # Fairy Lock
-*Fairy | Support*
+*Folletto | Support*
 
 - **Accuracy:** Insight + Nature
 - **Damage:** N/A
 - **Target:** Battlefield
-- **Effect:** Blocks. Last 1 Round.
+- **Traits:** [[Block_Damage_Pool]] (0), [[Status_Condition]] (Block)
+- **Effect:** Blocchi. Ultimo 1 Round.
 
-> The user moves as if locking a door. It takes a few moments before everyone realizes that they are not really trapped.
+> L'utente si muove come se chiudesse una porta. Ci vogliono alcuni istanti prima che tutti si rendano conto che non sono realmente intrappolati.

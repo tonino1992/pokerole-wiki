@@ -1,15 +1,17 @@
 ---
 title: "Eerie Impulse"
 category: Move
-tags: [move, electric, support]
+locale: it
+tags: [move, elettro, support]
 ---
 
 # Eerie Impulse
-*Electric | Support*
+*Elettro | Support*
 
 - **Accuracy:** Insight + Nature
 - **Damage:** N/A
 - **Target:** Foe
-- **Effect:** Reduce foe's Special by 2.
+- **Traits:** [[Stat_Changes]]
+- **Effect:** Riduci lo Special del nemico di 2.
 
-> The user radiates electricity around itself, the foe will think twice about attacking.
+> L'utilizzatore irradia elettricità attorno a sé, il nemico ci penserà due volte prima di attaccare.

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Kangaskhan (#0115)"
 category: Pokedex
 tags: [kangaskhan, kanto, normal]
@@ -29,9 +29,9 @@ tags: [kangaskhan, kanto, normal]
 
 ## Mosse (Learnset)
 
-- **Starter:** [[Comet Punch]], [[Leer]]
-- **Beginner:** [[Fake Out]], [[Tail Whip]], [[Bite]]
-- **Amateur:** [[Double Hit]], [[Rage]], [[Mega Punch]], [[Chip Away]], [[Dizzy Punch]], [[Crunch]]
-- **Ace:** [[Endure]], [[Outrage]], [[Sucker Punch]], [[Reversal]]
-- **Pro:** [[Aqua Tail]], [[Captivate]], [[Counter]]
+- **Starter:** [[Comet_Punch]], [[Leer]]
+- **Beginner:** [[Fake_Out]], [[Tail_Whip]], [[Bite]]
+- **Amateur:** [[Double_Hit]], [[Rage]], [[Mega_Punch]], [[Chip_Away]], [[Dizzy_Punch]], [[Crunch]]
+- **Ace:** [[Endure]], [[Outrage]], [[Sucker_Punch]], [[Reversal]]
+- **Pro:** [[Aqua_Tail]], [[Captivate]], [[Counter]]
 

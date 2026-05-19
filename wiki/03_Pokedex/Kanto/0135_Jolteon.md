@@ -1,4 +1,4 @@
----
+﻿---
 title: "Jolteon (#0135)"
 category: Pokedex
 tags: [jolteon, kanto, electric]
@@ -29,9 +29,15 @@ tags: [jolteon, kanto, electric]
 
 ## Mosse (Learnset)
 
-- **Starter:** [[Tackle]], [[Helping Hand]]
-- **Beginner:** [[Tail Whip]], [[Sand Attack]], [[Thunder Shock]]
-- **Amateur:** [[Quick Attack]], [[Double Kick]], [[Thunder Fang]], [[Pin Missile]], [[Agility]], [[Thunder Wave]]
-- **Ace:** [[Discharge]], [[Last Resort]], [[Thunder]]
-- **Pro:** [[Wish]], [[Magnet Rise]], [[Endure]]
+- **Starter:** [[Tackle]], [[Helping_Hand]]
+- **Beginner:** [[Tail_Whip]], [[Sand_Attack]], [[Thunder_Shock]]
+- **Amateur:** [[Quick_Attack]], [[Double_Kick]], [[Thunder_Fang]], [[Pin_Missile]], [[Agility]], [[Thunder_Wave]]
+- **Ace:** [[Discharge]], [[Last_Resort]], [[Thunder]]
+- **Pro:** [[Wish]], [[Magnet_Rise]], [[Endure]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0133_Eevee|Eevee]]

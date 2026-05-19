@@ -1,4 +1,4 @@
----
+﻿---
 title: "Electabuzz (#0125)"
 category: Pokedex
 tags: [electabuzz, kanto, electric]
@@ -29,9 +29,9 @@ tags: [electabuzz, kanto, electric]
 
 ## Mosse (Learnset)
 
-- **Starter:** [[Quick Attack]], [[Leer]]
-- **Beginner:** [[Thunder Shock]], [[Low Kick]]
-- **Amateur:** [[Swift]], [[Shock Wave]], [[Thunder Wave]], [[Electro Ball]], [[Light Screen]], [[Thunder Punch]]
+- **Starter:** [[Quick_Attack]], [[Leer]]
+- **Beginner:** [[Thunder_Shock]], [[Low_Kick]]
+- **Amateur:** [[Swift]], [[Shock_Wave]], [[Thunder_Wave]], [[Electro_Ball]], [[Light_Screen]], [[Thunder_Punch]]
 - **Ace:** [[Discharge]], [[Screech]], [[Thunderbolt]], [[Thunder]]
-- **Pro:** [[Dual Chop]], [[Ice Punch]], [[Meditate]]
+- **Pro:** [[Dual_Chop]], [[Ice_Punch]], [[Meditate]]
 

@@ -1,15 +1,17 @@
 ---
 title: "Attack Order"
 category: Move
-tags: [move, bug, physical]
+locale: it
+tags: [move, insetto, physical]
 ---
 
 # Attack Order
-*Bug | Physical*
+*Insetto | Physical*
 
 - **Accuracy:** Tough + Nature
 - **Damage:** Strength + 3
 - **Target:** Foe
-- **Effect:** High Critical. Ranged.
+- **Traits:** [[High_Critical]], [[Physical_Ranged]]
+- **Effect:** Alta critica. A distanza.
 
-> The user calls upon her swarm and heeds them to charge against you. No matter where you run, they will surround you. Hope you are not allergic to bees.
+> L'utente invoca il suo sciame e li ascolta per attaccare contro di te. Non importa dove corri, ti circonderanno. Spero che tu non sia allergico alle api.

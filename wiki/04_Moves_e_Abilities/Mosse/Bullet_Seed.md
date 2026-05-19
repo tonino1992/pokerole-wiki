@@ -1,15 +1,17 @@
 ---
 title: "Bullet Seed"
 category: Move
-tags: [move, grass, physical]
+locale: it
+tags: [move, erba, physical]
 ---
 
 # Bullet Seed
-*Grass | Physical*
+*Erba | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 1
 - **Target:** Foe
-- **Effect:** Ranged. Successive Actions.
+- **Traits:** [[Physical_Ranged]], [[Successive_Actions]]
+- **Effect:** A distanza. Azioni successive.
 
-> The Pokemon shoots seeds rapidly as if they were bullets.
+> Il Pokemon spara semi rapidamente come se fossero proiettili.

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Golbat (#0042)"
 category: Pokedex
 tags: [golbat, kanto, poison, flying]
@@ -30,8 +30,14 @@ tags: [golbat, kanto, poison, flying]
 ## Mosse (Learnset)
 
 - **Starter:** [[Absorb]]
-- **Beginner:** [[Wing Attack]], [[Supersonic]], [[Astonish]]
-- **Amateur:** [[Bite]], [[Screech]], [[Confuse Ray]], [[Air Cutter]], [[Swift]], [[Poison Fang]], [[Mean Look]], [[Leech Life]]
-- **Ace:** [[Acrobatics]], [[Haze]], [[Venoshock]], [[Air Slash]], [[Quick Guard]]
-- **Pro:** [[Nasty Plot]], [[Super Fang]], [[Venom Drench]]
+- **Beginner:** [[Wing_Attack]], [[Supersonic]], [[Astonish]]
+- **Amateur:** [[Bite]], [[Screech]], [[Confuse_Ray]], [[Air_Cutter]], [[Swift]], [[Poison_Fang]], [[Mean_Look]], [[Leech_Life]]
+- **Ace:** [[Acrobatics]], [[Haze]], [[Venoshock]], [[Air_Slash]], [[Quick_Guard]]
+- **Pro:** [[Nasty_Plot]], [[Super_Fang]], [[Venom_Drench]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0041_Zubat|Zubat]]

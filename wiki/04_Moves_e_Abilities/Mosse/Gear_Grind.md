@@ -1,15 +1,17 @@
 ---
 title: "Gear Grind"
 category: Move
-tags: [move, steel, physical]
+locale: it
+tags: [move, acciaio, physical]
 ---
 
 # Gear Grind
-*Steel | Physical*
+*Acciaio | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 2
 - **Target:** Foe
-- **Effect:** Double Action. -1 Accuracy.
+- **Traits:** [[Double_Action]], [[Accuracy_Reduction]] (1)
+- **Effect:** Doppia azione. -1Accuracy.
 
-> The user traps the foe between its gears and crushes it with two painful grinds.
+> Chi la usa intrappola il nemico tra i suoi ingranaggi e lo schiaccia con due dolorosi colpi.

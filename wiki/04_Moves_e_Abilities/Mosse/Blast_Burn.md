@@ -1,15 +1,17 @@
 ---
 title: "Blast Burn"
 category: Move
-tags: [move, fire, special]
+locale: it
+tags: [move, fuoco, special]
 ---
 
 # Blast Burn
-*Fire | Special*
+*Fuoco | Special*
 
 - **Accuracy:** Special + Channel
 - **Damage:** Special + 6
 - **Target:** Foe
-- **Effect:** Lethal. Must Recharge. -1 Accuracy.
+- **Traits:** [[Lethal]], [[Must_Recharge]], [[Accuracy_Reduction]] (1)
+- **Effect:** Letale. Deve ricaricare. -1Accuracy.
 
-> The Pokemon uses all of its power to deliver an infernal blast to the foe. The user is left exhausted.
+> Il Pokemon usa tutto il suo potere per sferrare un'esplosione infernale al nemico. L'utente rimane esausto.

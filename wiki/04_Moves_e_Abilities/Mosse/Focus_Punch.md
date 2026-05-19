@@ -1,15 +1,17 @@
----
+﻿---
 title: "Focus Punch"
 category: Move
-tags: [move, fighting, physical]
+locale: it
+tags: [move, lotta, physical]
 ---
 
 # Focus Punch
-*Fighting | Physical*
+*Lotta | Physical*
 
 - **Accuracy:** Strength + Brawl
 - **Damage:** Strength + 6
 - **Target:** Foe
-- **Effect:** Fist Based. Charge Move. The User will flinch if it gets hit before releasing this attack.
+- **Traits:** [[Charge_Trait]], [[Fist_Based]]
+- **Effect:** Basato sul pugno. Movimento di carica. L'Utente sussulterà se viene colpito prima di rilasciare questo attacco.
 
-> A brutal punch that requires calm and concentration
+> Un pugno brutale che richiede calma e concentrazione

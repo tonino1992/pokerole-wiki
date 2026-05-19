@@ -1,4 +1,4 @@
----
+﻿---
 title: "Tauros (#0128)"
 category: Pokedex
 tags: [tauros, kanto, normal]
@@ -29,9 +29,9 @@ tags: [tauros, kanto, normal]
 
 ## Mosse (Learnset)
 
-- **Starter:** [[Tackle]], [[Tail Whip]]
-- **Beginner:** [[Rage]], [[Horn Attack]], [[Pursuit]]
-- **Amateur:** [[Scary Face]], [[Rest]], [[Payback]], [[Work Up]], [[Zen Headbutt]], [[Take Down]]
-- **Ace:** [[Swagger]], [[Thrash]], [[Giga Impact]]
-- **Pro:** [[Smart Strike]], [[Outrage]], [[Sleep Talk]]
+- **Starter:** [[Tackle]], [[Tail_Whip]]
+- **Beginner:** [[Rage]], [[Horn_Attack]], [[Pursuit]]
+- **Amateur:** [[Scary_Face]], [[Rest]], [[Payback]], [[Work_Up]], [[Zen_Headbutt]], [[Take_Down]]
+- **Ace:** [[Swagger]], [[Thrash]], [[Giga_Impact]]
+- **Pro:** [[Smart_Strike]], [[Outrage]], [[Sleep_Talk]]
 

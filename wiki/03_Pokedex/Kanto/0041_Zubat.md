@@ -1,4 +1,4 @@
----
+﻿---
 title: "Zubat (#0041)"
 category: Pokedex
 tags: [zubat, kanto, poison, flying]
@@ -31,7 +31,13 @@ tags: [zubat, kanto, poison, flying]
 
 - **Starter:** [[Absorb]]
 - **Beginner:** [[Supersonic]], [[Astonish]]
-- **Amateur:** [[Bite]], [[Wing Attack]], [[Confuse Ray]], [[Air Cutter]], [[Swift]], [[Poison Fang]], [[Mean Look]], [[Leech Life]]
-- **Ace:** [[Acrobatics]], [[Haze]], [[Venoshock]], [[Air Slash]], [[Quick Guard]]
-- **Pro:** [[Nasty Plot]], [[Super Fang]], [[Venom Drench]]
+- **Amateur:** [[Bite]], [[Wing_Attack]], [[Confuse_Ray]], [[Air_Cutter]], [[Swift]], [[Poison_Fang]], [[Mean_Look]], [[Leech_Life]]
+- **Ace:** [[Acrobatics]], [[Haze]], [[Venoshock]], [[Air_Slash]], [[Quick_Guard]]
+- **Pro:** [[Nasty_Plot]], [[Super_Fang]], [[Venom_Drench]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0042_Golbat|Golbat]]

@@ -1,15 +1,17 @@
 ---
 title: "Electroweb"
 category: Move
-tags: [move, electric, special]
+locale: it
+tags: [move, elettro, special]
 ---
 
 # Electroweb
-*Electric | Special*
+*Elettro | Special*
 
 - **Accuracy:** Dexterity + Channel
 - **Damage:** Special + 2
 - **Target:** All Foes
-- **Effect:** Reduce Dexterity of those affected.
+- **Traits:** [[Stat_Changes]]
+- **Effect:** Ridurre Dexterity delle persone colpite.
 
-> Shoots an electrified web at all foes to restrict their movement. Walking through this web can be painful.
+> Spara una ragnatela elettrizzata contro tutti i nemici per limitarne i movimenti. Camminare in questa rete può essere doloroso.

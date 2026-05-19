@@ -1,4 +1,4 @@
----
+﻿---
 title: "Dugtrio (#0051)"
 category: Pokedex
 tags: [dugtrio, kanto, ground]
@@ -29,9 +29,15 @@ tags: [dugtrio, kanto, ground]
 
 ## Mosse (Learnset)
 
-- **Starter:** [[Scratch]], [[Sand Attack]]
-- **Beginner:** [[Growl]], [[Astonish]], [[Mud Slap]]
-- **Amateur:** [[Magnitude]], [[Bulldoze]], [[Earth Power]], [[Mud Bomb]], [[Rototiller]], [[Dig]], [[Tri Attack]]
-- **Ace:** [[Sand Tomb]], [[Night Slash]], [[Sucker Punch]], [[Slash]], [[Earthquake]], [[Fissure]]
-- **Pro:** [[Rock Slide]], [[Ancient Power]], [[Stealth Rock]]
+- **Starter:** [[Scratch]], [[Sand_Attack]]
+- **Beginner:** [[Growl]], [[Astonish]], [[Mud_Slap]]
+- **Amateur:** [[Magnitude]], [[Bulldoze]], [[Earth_Power]], [[Mud_Bomb]], [[Rototiller]], [[Dig]], [[Tri_Attack]]
+- **Ace:** [[Sand_Tomb]], [[Night_Slash]], [[Sucker_Punch]], [[Slash]], [[Earthquake]], [[Fissure]]
+- **Pro:** [[Rock_Slide]], [[Ancient_Power]], [[Stealth_Rock]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0050_Diglett|Diglett]]

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Raticate (#0020)"
 category: Pokedex
 tags: [raticate, kanto, normal]
@@ -8,7 +8,7 @@ tags: [raticate, kanto, normal]
 *Mouse Pokemon*
 
 **Type:** Normal
-**Abilities:** [[Run Away]], [[Guts]], [[Hustle]] *(Hidden)*
+**Abilities:** [[Run_Away]], [[Guts]], [[Hustle]] *(Hidden)*
 **Base HP:** 4
 
 > Raticate's sturdy fangs grow quickly. To keep them ground down, it gnaws on hard materials. It may even chew on the walls of houses. Its has water-proof fur, webbed feet and its a capable swimmer.
@@ -29,9 +29,15 @@ tags: [raticate, kanto, normal]
 
 ## Mosse (Learnset)
 
-- **Starter:** [[Tail Whip]], [[Tackle]]
-- **Beginner:** [[Focus Energy]], [[Quick Attack]], [[Bite]]
-- **Amateur:** [[Pursuit]], [[Flame Wheel]], [[Hyper Fang]], [[Sucker Punch]], [[Scary Face]], [[Assurance]]
-- **Ace:** [[Crunch]], [[Double-Edge]], [[Super Fang]], [[Endeavor]]
-- **Pro:** [[Swords Dance]], [[Last Resort]], [[Final Gambit]]
+- **Starter:** [[Tail_Whip]], [[Tackle]]
+- **Beginner:** [[Focus_Energy]], [[Quick_Attack]], [[Bite]]
+- **Amateur:** [[Pursuit]], [[Flame_Wheel]], [[Hyper_Fang]], [[Sucker_Punch]], [[Scary_Face]], [[Assurance]]
+- **Ace:** [[Crunch]], [[Double-Edge]], [[Super_Fang]], [[Endeavor]]
+- **Pro:** [[Swords_Dance]], [[Last_Resort]], [[Final_Gambit]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0019_Rattata|Rattata]]

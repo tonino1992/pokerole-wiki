@@ -1,15 +1,17 @@
 ---
 title: "Eternabeam"
 category: Move
-tags: [move, dragon, special]
+locale: it
+tags: [move, drago, special]
 ---
 
 # Eternabeam
-*Dragon | Special*
+*Drago | Special*
 
 - **Accuracy:** Special + Channel
 - **Damage:** Special + 7
 - **Target:** Foe
-- **Effect:** Lethal. Must Recharge. -1 Accuracy.
+- **Traits:** [[Lethal]], [[Must_Recharge]], [[Accuracy_Reduction]] (1)
+- **Effect:** Letale. Deve ricaricare. -1Accuracy.
 
-> The Pokemon shoots an incredibly powerful beam towards the sky. The energy released might keep traveling through space thousands of years later.
+> Il Pokemon spara un raggio incredibilmente potente verso il cielo. L’energia rilasciata potrebbe continuare a viaggiare nello spazio migliaia di anni dopo.

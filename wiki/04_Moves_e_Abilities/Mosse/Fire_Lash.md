@@ -1,15 +1,17 @@
 ---
 title: "Fire Lash"
 category: Move
-tags: [move, fire, physical]
+locale: it
+tags: [move, fuoco, physical]
 ---
 
 # Fire Lash
-*Fire | Physical*
+*Fuoco | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 3
 - **Target:** Foe
-- **Effect:** Reduce Foe's Defense.
+- **Traits:** [[Stat_Changes]]
+- **Effect:** Riduci la difesa di Foe.
 
-> With a whip of fire, the Pokemon ensnares its foe, who is left defenseless and at its mercy.
+> Con una frusta infuocata il Pokemon intrappola il nemico, che rimane indifeso e alla sua mercé.

@@ -1,15 +1,16 @@
 ---
 title: "Camouflage"
 category: Move
-tags: [move, normal, support]
+locale: it
+tags: [move, normale, support]
 ---
 
 # Camouflage
-*Normal | Support*
+*Normale | Support*
 
 - **Accuracy:** Special + Nature
 - **Damage:** N/A
 - **Target:** User
-- **Effect:** For the rest of the scene the User changes type to one that fits the terrain it is in (i.e. Usar is in a rocky cave, becoming rock type)
+- **Effect:** Per il resto della scena l'Utente cambia tipo in uno che si adatta al terreno in cui si trova (ad esempio Usar è in una grotta rocciosa, diventando di tipo Roccia)
 
-> The user mimics the environment, it becomes one with the surroundings.
+> L'utente imita l'ambiente, diventa tutt'uno con l'ambiente circostante.

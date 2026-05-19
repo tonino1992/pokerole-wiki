@@ -1,15 +1,17 @@
 ---
 title: "Aura Sphere"
 category: Move
-tags: [move, fighting, special]
+locale: it
+tags: [move, lotta, special]
 ---
 
 # Aura Sphere
-*Fighting | Special*
+*Lotta | Special*
 
 - **Accuracy:** Dexterity + Channel
 - **Damage:** Special + 3
 - **Target:** Foe
-- **Effect:** Never Fail.
+- **Traits:** [[Never_Fail]]
+- **Effect:** Non fallire mai.
 
-> The user channels its aura and launches this power in the form of a sphere The foe's aura is hit, leaving the target unscratched but deeply hurt.
+> Chi la usa canalizza la sua aura e lancia questo potere sotto forma di una sfera. L'aura del nemico viene colpita, lasciando il bersaglio illeso ma profondamente ferito.

@@ -1,15 +1,16 @@
 ---
 title: "Flower Shield"
 category: Move
-tags: [move, fairy, support]
+locale: it
+tags: [move, folletto, support]
 ---
 
 # Flower Shield
-*Fairy | Support*
+*Folletto | Support*
 
 - **Accuracy:** Insight + Nature
 - **Damage:** N/A
 - **Target:** Battlefield
-- **Effect:** Increase the Defense of All Grass Type Pokemon on the field.
+- **Effect:** Aumenta la difesa di tutti i Pokemon di tipo Erba sul campo.
 
-> The Pokemon uses a mysterious power that causes flowers to bloom beneath every Grass Pokemon nearby. Flora in this field is more resilient and beautiful.
+> Il Pokemon usa un potere misterioso che fa sbocciare fiori sotto ogni Pokemon Erba nelle vicinanze. La flora in questo campo è più resistente e bella.

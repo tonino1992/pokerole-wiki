@@ -1,4 +1,4 @@
----
+﻿---
 title: "Alakazam (#0065)"
 category: Pokedex
 tags: [alakazam, kanto, psychic]
@@ -30,8 +30,15 @@ tags: [alakazam, kanto, psychic]
 ## Mosse (Learnset)
 
 - **Starter:** [[Teleport]], [[Kinesis]]
-- **Beginner:** [[Confusion]], [[Disable]], [[Miracle Eye]]
-- **Amateur:** [[Ally Switch]], [[Psybeam]], [[Reflect]], [[Telekinesis]], [[Role Play]], [[Psycho Cut]]
-- **Ace:** [[Recover]], [[Psychic]], [[Future Sight]], [[Trick]]
-- **Pro:** [[Snatch]], [[Foul Play]], [[Wonder Room]]
+- **Beginner:** [[Confusion]], [[Disable]], [[Miracle_Eye]]
+- **Amateur:** [[Ally_Switch]], [[Psybeam]], [[Reflect]], [[Telekinesis]], [[Role_Play]], [[Psycho_Cut]]
+- **Ace:** [[Recover]], [[Psychic]], [[Future_Sight]], [[Trick]]
+- **Pro:** [[Snatch]], [[Foul_Play]], [[Wonder_Room]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0063_Abra|Abra]]
+- [[0064_Kadabra|Kadabra]]

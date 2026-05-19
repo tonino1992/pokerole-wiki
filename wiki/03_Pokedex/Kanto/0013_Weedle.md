@@ -1,4 +1,4 @@
----
+﻿---
 title: "Weedle (#0013)"
 category: Pokedex
 tags: [weedle, kanto, bug, poison]
@@ -8,7 +8,7 @@ tags: [weedle, kanto, bug, poison]
 *Hairy Pokemon*
 
 **Type:** Bug / Poison
-**Abilities:** [[Shield Dust]], [[Run Away]] *(Hidden)*
+**Abilities:** [[Shield Dust]], [[Run_Away]] *(Hidden)*
 **Base HP:** 3
 
 > Often found in forests eating leaves. It has a sharp, venomous stinger on its head for defense. It has an acute sense of smell to find food, and its bright-colored body is intended to warn off predators.
@@ -29,7 +29,14 @@ tags: [weedle, kanto, bug, poison]
 
 ## Mosse (Learnset)
 
-- **Starter:** [[Poison Sting]], [[String Shot]]
-- **Beginner:** [[Bug Bite]]
+- **Starter:** [[Poison_Sting]], [[String_Shot]]
+- **Beginner:** [[Bug_Bite]]
 - **Amateur:** [[Electroweb]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0014_Kakuna|Kakuna]]
+- [[0015_Beedrill|Beedrill]]

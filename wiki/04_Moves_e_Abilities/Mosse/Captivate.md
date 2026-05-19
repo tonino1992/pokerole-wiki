@@ -1,15 +1,17 @@
 ---
 title: "Captivate"
 category: Move
-tags: [move, normal, support]
+locale: it
+tags: [move, normale, support]
 ---
 
 # Captivate
-*Normal | Support*
+*Normale | Support*
 
 - **Accuracy:** Beauty + Allure
 - **Damage:** N/A
 - **Target:** All Foes
-- **Effect:** If the affected targets are from the opposite gender, Reduce their Special by 2.
+- **Traits:** [[Stat_Changes]]
+- **Effect:** Se i bersagli colpiti appartengono al sesso opposto, riduci il loro Special di 2.
 
-> The Pokemon shows off its attractiveness and even flirts with the opponents, those who fall for its charms can’t focus on the battle.
+> Il Pokemon mostra la sua attrattiva e flirta anche con gli avversari, chi cade nel suo fascino non riesce a concentrarsi sulla battaglia.

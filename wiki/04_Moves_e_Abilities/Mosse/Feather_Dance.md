@@ -1,15 +1,17 @@
 ---
 title: "Feather Dance"
 category: Move
-tags: [move, flying, support]
+locale: it
+tags: [move, volante, support]
 ---
 
 # Feather Dance
-*Flying | Support*
+*Volante | Support*
 
 - **Accuracy:** Beauty + Perform
 - **Damage:** N/A
 - **Target:** Foe
-- **Effect:** Reduce the foe's Strength by 2.
+- **Traits:** [[Stat_Changes]]
+- **Effect:** Riduci lo Strength del nemico di 2.
 
-> A beautiful dance that soothes the hearts of those who watch it, reducing their aggressive intentions.
+> Una danza bellissima che rasserena il cuore di chi la guarda, attenuandone le intenzioni aggressive.

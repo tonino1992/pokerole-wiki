@@ -1,15 +1,17 @@
 ---
 title: "Aqua Ring"
 category: Move
-tags: [move, water, support]
+locale: it
+tags: [move, acqua, support]
 ---
 
 # Aqua Ring
-*Water | Support*
+*Acqua | Support*
 
 - **Accuracy:** Special + Nature
 - **Damage:** N/A
 - **Target:** User
-- **Effect:** If successful spent 1 Will point to activate. At the end of each Round, recover 1 HP. Lasts 4 Rounds.
+- **Traits:** [[Status_Condition]] (AquaRingLifeDew)
+- **Effect:** In caso di successo, spendi 1 punto Will per l'attivazione. Alla fine di ogni Round, recupera 1 HP. Dura 4 Rounds.
 
-> The user coats itself in a ring of special flowing water that lessens the pain.
+> L'utilizzatore si avvolge in un anello di speciale acqua corrente che allevia il dolore.

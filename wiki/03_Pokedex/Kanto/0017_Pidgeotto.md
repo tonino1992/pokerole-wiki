@@ -1,4 +1,4 @@
----
+﻿---
 title: "Pidgeotto (#0017)"
 category: Pokedex
 tags: [pidgeotto, kanto, normal, flying]
@@ -29,9 +29,16 @@ tags: [pidgeotto, kanto, normal, flying]
 
 ## Mosse (Learnset)
 
-- **Starter:** [[Tackle]], [[Sand Attack]]
+- **Starter:** [[Tackle]], [[Sand_Attack]]
 - **Beginner:** [[Gust]], [[Twister]]
-- **Amateur:** [[Whirlwind]], [[Quick Attack]], [[Feather Dance]], [[Agility]], [[Wing Attack]], [[Mirror Move]]
-- **Ace:** [[Tailwind]], [[Roost]], [[Air Slash]], [[Feint Attack]]
-- **Pro:** [[Hurricane]], [[Uproar]], [[Steel Wing]]
+- **Amateur:** [[Whirlwind]], [[Quick_Attack]], [[Feather_Dance]], [[Agility]], [[Wing_Attack]], [[Mirror_Move]]
+- **Ace:** [[Tailwind]], [[Roost]], [[Air_Slash]], [[Feint_Attack]]
+- **Pro:** [[Hurricane]], [[Uproar]], [[Steel_Wing]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0016_Pidgey|Pidgey]]
+- [[0018_Pidgeot|Pidgeot]]

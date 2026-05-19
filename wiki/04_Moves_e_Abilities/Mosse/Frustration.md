@@ -1,15 +1,16 @@
 ---
 title: "Frustration"
 category: Move
-tags: [move, normal, physical]
+locale: it
+tags: [move, normale, physical]
 ---
 
 # Frustration
-*Normal | Physical*
+*Normale | Physical*
 
 - **Accuracy:** Dexterity + BRAWL
 - **Damage:** Strength + Missing happiness
 - **Target:** Foe
-- **Effect:** Add +1 Dice to the Damage Roll for every missing point of Happiness on the User.
+- **Effect:** Aggiungi +1 Dice al tiro Damage per ogni punto di Felicità mancante sull'Utente.
 
-> A move that relies on how badly a Pokemon has been treated to make it vicious and uncaring.
+> Una mossa che si basa su quanto male è stato trattato un Pokemon per renderlo feroce e indifferente.

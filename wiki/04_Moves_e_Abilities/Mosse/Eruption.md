@@ -1,15 +1,17 @@
 ---
 title: "Eruption"
 category: Move
-tags: [move, fire, special]
+locale: it
+tags: [move, fuoco, special]
 ---
 
 # Eruption
-*Fire | Special*
+*Fuoco | Special*
 
 - **Accuracy:** Special + Channel
 - **Damage:** Special + 6
 - **Target:** All Foes
-- **Effect:** Lethal. Reduce 1 Dice from the Damage Pool for every missing HP the User has. Up to 5 dice may be removed this way.
+- **Traits:** [[Lethal]]
+- **Effect:** Letale. Ridurre 1 Dice dal Pool Damage per ogni HP mancante dell'Utente. In questo modo si possono rimuovere fino a 5 dadi.
 
-> A fierce burst of lava coming from the user at full force charring whatever comes in contact with it.
+> Una violenta esplosione di lava proveniente dall'utilizzatore a tutta forza carbonizza qualunque cosa entri in contatto con essa.

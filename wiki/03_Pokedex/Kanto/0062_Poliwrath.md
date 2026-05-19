@@ -1,4 +1,4 @@
----
+﻿---
 title: "Poliwrath (#0062)"
 category: Pokedex
 tags: [poliwrath, kanto, water, fighting]
@@ -29,8 +29,15 @@ tags: [poliwrath, kanto, water, fighting]
 
 ## Mosse (Learnset)
 
-- **Beginner:** [[Circle Throw]], [[Hypnosis]]
-- **Amateur:** [[Bubble Beam]], [[Double Slap]], [[Submission]]
-- **Ace:** [[Dynamic Punch]], [[Mind Reader]]
-- **Pro:** [[Ice Punch]], [[Seismic Toss]], [[Counter]]
+- **Beginner:** [[Circle_Throw]], [[Hypnosis]]
+- **Amateur:** [[Bubble_Beam]], [[Double_Slap]], [[Submission]]
+- **Ace:** [[Dynamic_Punch]], [[Mind_Reader]]
+- **Pro:** [[Ice_Punch]], [[Seismic_Toss]], [[Counter]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0060_Poliwag|Poliwag]]
+- [[0061_Poliwhirl|Poliwhirl]]

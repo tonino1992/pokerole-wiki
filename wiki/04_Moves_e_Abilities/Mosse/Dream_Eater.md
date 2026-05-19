@@ -1,15 +1,17 @@
 ---
 title: "Dream Eater"
 category: Move
-tags: [move, psychic, special]
+locale: it
+tags: [move, psico, special]
 ---
 
 # Dream Eater
-*Psychic | Special*
+*Psico | Special*
 
 - **Accuracy:** Special + Channel
 - **Damage:** Special + 4
 - **Target:** Foe
-- **Effect:** The user restores HP equal to half the damage dealt, rounded down. The target must be asleep, this move will fail otherwise.
+- **Traits:** [[Heal]] (50%)
+- **Effect:** L'utilizzatore ripristina HP pari alla metà del danno inflitto, arrotondato per difetto. Il bersaglio deve essere addormentato, altrimenti la mossa fallirà.
 
-> The user eats the dreams of a sleeping target. When the foe wakes up, it will feel weak and empty.
+> L'utente mangia i sogni di un bersaglio addormentato. Quando il nemico si sveglierà, si sentirà debole e vuoto.

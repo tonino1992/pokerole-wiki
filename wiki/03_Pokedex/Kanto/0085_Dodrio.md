@@ -1,4 +1,4 @@
----
+﻿---
 title: "Dodrio (#0085)"
 category: Pokedex
 tags: [dodrio, kanto, normal, flying]
@@ -8,7 +8,7 @@ tags: [dodrio, kanto, normal, flying]
 *Triple Bird Pokemon*
 
 **Type:** Normal / Flying
-**Abilities:** [[Run Away]], [[Early Bird]], [[Tangled Feet]] *(Hidden)*
+**Abilities:** [[Run_Away]], [[Early Bird]], [[Tangled Feet]] *(Hidden)*
 **Base HP:** 4
 
 > A third head comes to change the dynamic the two original had. It is common to see the three heads fighting. Each one has its own personality, but when they work as a team they can be very powerful.
@@ -30,8 +30,14 @@ tags: [dodrio, kanto, normal, flying]
 ## Mosse (Learnset)
 
 - **Starter:** [[Peck]], [[Growl]]
-- **Beginner:** [[Quick Attack]], [[Rage]]
-- **Amateur:** [[Fury Attack]], [[Pursuit]], [[Pluck]], [[Uproar]], [[Acupressure]], [[Tri Attack]], [[Swords Dance]], [[Agility]]
-- **Ace:** [[Jump Kick]], [[Drill Peck]], [[Endeavor]], [[Thrash]]
-- **Pro:** [[Mirror Move]], [[Feint Attack]], [[Brave Bird]]
+- **Beginner:** [[Quick_Attack]], [[Rage]]
+- **Amateur:** [[Fury_Attack]], [[Pursuit]], [[Pluck]], [[Uproar]], [[Acupressure]], [[Tri_Attack]], [[Swords_Dance]], [[Agility]]
+- **Ace:** [[Jump_Kick]], [[Drill_Peck]], [[Endeavor]], [[Thrash]]
+- **Pro:** [[Mirror_Move]], [[Feint_Attack]], [[Brave_Bird]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0084_Doduo|Doduo]]

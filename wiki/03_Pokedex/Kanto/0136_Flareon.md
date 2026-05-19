@@ -1,4 +1,4 @@
----
+﻿---
 title: "Flareon (#0136)"
 category: Pokedex
 tags: [flareon, kanto, fire]
@@ -29,9 +29,15 @@ tags: [flareon, kanto, fire]
 
 ## Mosse (Learnset)
 
-- **Starter:** [[Tackle]], [[Helping Hand]]
-- **Beginner:** [[Tail Whip]], [[Sand Attack]], [[Ember]]
-- **Amateur:** [[Quick Attack]], [[Bite]], [[Fire Fang]], [[Fire Spin]], [[Scary Face]], [[Smog]]
-- **Ace:** [[Lava Plume]], [[Last Resort]], [[Flare Blitz]]
-- **Pro:** [[Wish]], [[Detect]], [[Heat Wave]]
+- **Starter:** [[Tackle]], [[Helping_Hand]]
+- **Beginner:** [[Tail_Whip]], [[Sand_Attack]], [[Ember]]
+- **Amateur:** [[Quick_Attack]], [[Bite]], [[Fire_Fang]], [[Fire_Spin]], [[Scary_Face]], [[Smog]]
+- **Ace:** [[Lava_Plume]], [[Last_Resort]], [[Flare_Blitz]]
+- **Pro:** [[Wish]], [[Detect]], [[Heat_Wave]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0133_Eevee|Eevee]]

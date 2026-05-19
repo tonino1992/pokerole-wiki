@@ -1,15 +1,17 @@
 ---
 title: "Giga Impact"
 category: Move
-tags: [move, normal, physical]
+locale: it
+tags: [move, normale, physical]
 ---
 
 # Giga Impact
-*Normal | Physical*
+*Normale | Physical*
 
 - **Accuracy:** Strength + Brawl
 - **Damage:** Strength + 6
 - **Target:** Foe
-- **Effect:** Must Recharge. Lethal. -1 Accuracy.
+- **Traits:** [[Lethal]], [[Must_Recharge]], [[Accuracy_Reduction]] (1)
+- **Effect:** Deve ricaricare. Letale. -1Accuracy.
 
-> The Pokemon strikes with a brutal force using all its body. The impact leaves the user somewhat stunned.
+> Il Pokemon colpisce con forza brutale utilizzando tutto il suo corpo. L'impatto lascia l'utente alquanto sbalordito.

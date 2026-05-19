@@ -1,4 +1,4 @@
----
+﻿---
 title: "Doduo (#0084)"
 category: Pokedex
 tags: [doduo, kanto, normal, flying]
@@ -8,7 +8,7 @@ tags: [doduo, kanto, normal, flying]
 *Twin Bird Pokemon*
 
 **Type:** Normal / Flying
-**Abilities:** [[Run Away]], [[Early Bird]], [[Tangled Feet]] *(Hidden)*
+**Abilities:** [[Run_Away]], [[Early Bird]], [[Tangled Feet]] *(Hidden)*
 **Base HP:** 3
 
 > It can fly, but it prefers to run in the prairies. The two heads usually get along. While one is eating or sleeping, the other one is alert for predators. It is known that they share a brain and their ideas are connected.
@@ -30,8 +30,14 @@ tags: [doduo, kanto, normal, flying]
 ## Mosse (Learnset)
 
 - **Starter:** [[Peck]], [[Growl]]
-- **Beginner:** [[Quick Attack]], [[Rage]]
-- **Amateur:** [[Fury Attack]], [[Pursuit]], [[Pluck]], [[Uproar]], [[Acupressure]], [[Double Hit]], [[Swords Dance]], [[Agility]]
-- **Ace:** [[Jump Kick]], [[Drill Peck]], [[Endeavor]], [[Thrash]]
-- **Pro:** [[Mirror Move]], [[Feint Attack]], [[Brave Bird]]
+- **Beginner:** [[Quick_Attack]], [[Rage]]
+- **Amateur:** [[Fury_Attack]], [[Pursuit]], [[Pluck]], [[Uproar]], [[Acupressure]], [[Double_Hit]], [[Swords_Dance]], [[Agility]]
+- **Ace:** [[Jump_Kick]], [[Drill_Peck]], [[Endeavor]], [[Thrash]]
+- **Pro:** [[Mirror_Move]], [[Feint_Attack]], [[Brave_Bird]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0085_Dodrio|Dodrio]]

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Rattata (#0019)"
 category: Pokedex
 tags: [rattata, kanto, normal]
@@ -8,7 +8,7 @@ tags: [rattata, kanto, normal]
 *Mouse Pokemon*
 
 **Type:** Normal
-**Abilities:** [[Run Away]], [[Guts]], [[Hustle]] *(Hidden)*
+**Abilities:** [[Run_Away]], [[Guts]], [[Hustle]] *(Hidden)*
 **Base HP:** 3
 
 > It can live anywhere it can find food, but they are often in cities and fields. They form large families in their burrows. Since they are often preyed on, Rattatas are always alert and quick to flee.
@@ -29,9 +29,15 @@ tags: [rattata, kanto, normal]
 
 ## Mosse (Learnset)
 
-- **Starter:** [[Tackle]], [[Tail Whip]]
-- **Beginner:** [[Quick Attack]], [[Focus Energy]], [[Bite]]
-- **Amateur:** [[Pursuit]], [[Hyper Fang]], [[Sucker Punch]], [[Assurance]]
-- **Ace:** [[Crunch]], [[Super Fang]], [[Double-Edge]], [[Endeavor]]
-- **Pro:** [[Flame Wheel]], [[Screech]], [[Iron Tail]]
+- **Starter:** [[Tackle]], [[Tail_Whip]]
+- **Beginner:** [[Quick_Attack]], [[Focus_Energy]], [[Bite]]
+- **Amateur:** [[Pursuit]], [[Hyper_Fang]], [[Sucker_Punch]], [[Assurance]]
+- **Ace:** [[Crunch]], [[Super_Fang]], [[Double-Edge]], [[Endeavor]]
+- **Pro:** [[Flame_Wheel]], [[Screech]], [[Iron_Tail]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0020_Raticate|Raticate]]

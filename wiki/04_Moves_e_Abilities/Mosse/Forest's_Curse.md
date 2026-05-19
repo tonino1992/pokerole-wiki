@@ -1,15 +1,16 @@
 ---
 title: "Forest's Curse"
 category: Move
-tags: [move, grass, support]
+locale: it
+tags: [move, erba, support]
 ---
 
 # Forest's Curse
-*Grass | Support*
+*Erba | Support*
 
 - **Accuracy:** Will + Nature
 - **Damage:** N/A
 - **Target:** Foe
-- **Effect:** Add the Grass Type to the Target's Type (ie. Nidoran will now be Poison/Grass Heracross will now be Bug/Fight/Grass). If the Pokemon already has a third type attached then replace it.
+- **Effect:** Aggiungi il tipo Erba al tipo Target (es. Nidoran ora sarà Veleno/Erba Heracross ora sarà Insetto/Fight/Erba). Se il Pokemon ha già un terzo tipo collegato, sostituiscilo.
 
-> The user calls the forest to lay a curse upon the target, making it grow vines and vegetation around its whole body. The curse will not be easily lifted without a medium's help.
+> L'utilizzatore richiama la foresta per lanciare una maledizione sul bersaglio, facendogli crescere rampicanti e vegetazione attorno a tutto il suo corpo. La maledizione non sarà facilmente spezzata senza l'aiuto di un medium.

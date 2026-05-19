@@ -1,15 +1,17 @@
 ---
 title: "Ally Switch"
 category: Move
-tags: [move, psychic, support]
+locale: it
+tags: [move, psico, support]
 ---
 
 # Ally Switch
-*Psychic | Support*
+*Psico | Support*
 
 - **Accuracy:** Special + Channel
 - **Damage:** N/A
 - **Target:** One Ally
-- **Effect:** User switches back. Choose another Pokemon to take its place. It will be ready to fight on the next Round. Switcher Move.
+- **Traits:** [[Switcher_Move]]
+- **Effect:** L'utente torna indietro. Scegli un altro Pokemon per prendere il suo posto. Sarà pronto a combattere il prossimo Round. Spostamento del commutatore.
 
-> The user teleports, switching its place with someone.
+> L'utente si teletrasporta, scambiando il suo posto con qualcuno.

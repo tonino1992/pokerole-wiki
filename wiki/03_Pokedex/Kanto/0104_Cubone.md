@@ -1,4 +1,4 @@
----
+﻿---
 title: "Cubone (#0104)"
 category: Pokedex
 tags: [cubone, kanto, ground]
@@ -29,9 +29,15 @@ tags: [cubone, kanto, ground]
 
 ## Mosse (Learnset)
 
-- **Starter:** [[Growl]], [[Tail Whip]]
-- **Beginner:** [[Bone Club]], [[Focus Energy]], [[Leer]]
-- **Amateur:** [[Headbutt]], [[Bonemerang]], [[Rage]], [[False Swipe]], [[Endeavor]], [[Fling]]
-- **Ace:** [[Bone Rush]], [[Stomping Tantrum]], [[Thrash]], [[Double-Edge]], [[Retaliate]]
-- **Pro:** [[Iron Defense]], [[Double Kick]], [[Detect]]
+- **Starter:** [[Growl]], [[Tail_Whip]]
+- **Beginner:** [[Bone_Club]], [[Focus_Energy]], [[Leer]]
+- **Amateur:** [[Headbutt]], [[Bonemerang]], [[Rage]], [[False_Swipe]], [[Endeavor]], [[Fling]]
+- **Ace:** [[Bone_Rush]], [[Stomping_Tantrum]], [[Thrash]], [[Double-Edge]], [[Retaliate]]
+- **Pro:** [[Iron_Defense]], [[Double_Kick]], [[Detect]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0105_Marowak|Marowak]]

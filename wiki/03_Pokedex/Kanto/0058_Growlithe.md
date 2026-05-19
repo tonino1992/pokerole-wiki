@@ -1,4 +1,4 @@
----
+﻿---
 title: "Growlithe (#0058)"
 category: Pokedex
 tags: [growlithe, kanto, fire]
@@ -30,8 +30,14 @@ tags: [growlithe, kanto, fire]
 ## Mosse (Learnset)
 
 - **Starter:** [[Roar]], [[Bite]]
-- **Beginner:** [[Ember]], [[Leer]], [[Odor Sleuth]], [[Helping Hand]]
-- **Amateur:** [[Flame Wheel]], [[Reversal]], [[Fire Fang]], [[Take Down]], [[Flame Burst]], [[Agility]], [[Retaliate]], [[Flamethrower]]
-- **Ace:** [[Crunch]], [[Heat Wave]], [[Outrage]], [[Flare Blitz]]
-- **Pro:** [[Howl]], [[Close Combat]], [[Charm]]
+- **Beginner:** [[Ember]], [[Leer]], [[Odor_Sleuth]], [[Helping_Hand]]
+- **Amateur:** [[Flame_Wheel]], [[Reversal]], [[Fire_Fang]], [[Take_Down]], [[Flame_Burst]], [[Agility]], [[Retaliate]], [[Flamethrower]]
+- **Ace:** [[Crunch]], [[Heat_Wave]], [[Outrage]], [[Flare_Blitz]]
+- **Pro:** [[Howl]], [[Close_Combat]], [[Charm]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0059_Arcanine|Arcanine]]

@@ -1,15 +1,17 @@
 ---
 title: "Drill Run"
 category: Move
-tags: [move, ground, physical]
+locale: it
+tags: [move, terra, physical]
 ---
 
 # Drill Run
-*Ground | Physical*
+*Terra | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 3
 - **Target:** Foe
-- **Effect:** High Critical.
+- **Traits:** [[High_Critical]]
+- **Effect:** Alta critica.
 
-> The user rotates its body imitating a drill and crashes against the foe. This attack may pierce through walls and floors with ease and great precision.
+> L'utilizzatore ruota il proprio corpo imitando un trapano e si schianta contro il nemico. Questo attacco può perforare muri e pavimenti con facilità e grande precisione.

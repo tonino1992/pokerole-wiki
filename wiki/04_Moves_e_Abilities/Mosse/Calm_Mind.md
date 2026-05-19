@@ -1,15 +1,17 @@
 ---
 title: "Calm Mind"
 category: Move
-tags: [move, psychic, support]
+locale: it
+tags: [move, psico, support]
 ---
 
 # Calm Mind
-*Psychic | Support*
+*Psico | Support*
 
 - **Accuracy:** Insight + Channel
 - **Damage:** N/A
 - **Target:** User
-- **Effect:** Increase the User's Special and Sp. Defense.
+- **Traits:** [[Stat_Changes]]
+- **Effect:** Aumenta Special e Sp. dell'utente. Difesa.
 
-> The user quietly calms its spirit to strengthen its mind and body.
+> L'utente calma silenziosamente il suo spirito per rafforzare la sua mente e il suo corpo.

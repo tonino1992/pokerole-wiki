@@ -1,15 +1,17 @@
 ---
 title: "Comet Punch"
 category: Move
-tags: [move, normal, physical]
+locale: it
+tags: [move, normale, physical]
 ---
 
 # Comet Punch
-*Normal | Physical*
+*Normale | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 1
 - **Target:** Foe
-- **Effect:** Successive Actions. Fist Based.
+- **Traits:** [[Fist_Based]], [[Successive_Actions]]
+- **Effect:** Azioni successive. Basato sul pugno.
 
-> The user throws a quick series of punches at the foe.
+> L'utilizzatore sferra una rapida serie di pugni al nemico.

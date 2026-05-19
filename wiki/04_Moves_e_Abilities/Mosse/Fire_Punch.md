@@ -1,15 +1,17 @@
 ---
 title: "Fire Punch"
 category: Move
-tags: [move, fire, physical]
+locale: it
+tags: [move, fuoco, physical]
 ---
 
 # Fire Punch
-*Fire | Physical*
+*Fuoco | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 3
 - **Target:** Foe
-- **Effect:** Fist Based. Roll 1 Chance Dice to apply Burn 2 to the foe.
+- **Traits:** [[Fist_Based]], [[Status_Condition]] (Burn Chance Dice 1)
+- **Effect:** Basato sul pugno. Lancia 1 possibilità Dice di applicare Burn 2 al nemico.
 
-> The User can ignite its fists for a brief moment without any danger of getting burned. The foe may not be so lucky.
+> L'Utente può incendiare i suoi pugni per un breve istante senza pericolo di ustionarsi. Il nemico potrebbe non essere così fortunato.

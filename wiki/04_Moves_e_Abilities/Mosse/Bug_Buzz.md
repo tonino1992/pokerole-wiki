@@ -1,15 +1,17 @@
 ---
 title: "Bug Buzz"
 category: Move
-tags: [move, bug, special]
+locale: it
+tags: [move, insetto, special]
 ---
 
 # Bug Buzz
-*Bug | Special*
+*Insetto | Special*
 
 - **Accuracy:** Special + Perform
 - **Damage:** Special + 3
 - **Target:** Foe
-- **Effect:** Sound Based. Roll 1 Chance Dice to reduce foe's Sp. Defense.
+- **Traits:** [[Sound_Based]], [[Stat_Changes]]
+- **Effect:** Basato sul suono. Lancia 1 possibilità Dice di ridurre la Sp del nemico. Difesa.
 
-> The Pokemon uses its wings or part of its body to emit sound waves that harm and affect the target.
+> Il Pokemon usa le sue ali o parte del suo corpo per emettere onde sonore che danneggiano e influenzano il bersaglio.

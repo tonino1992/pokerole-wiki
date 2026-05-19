@@ -1,15 +1,17 @@
----
+﻿---
 title: "Freeze Shock"
 category: Move
-tags: [move, ice, physical]
+locale: it
+tags: [move, ghiaccio, physical]
 ---
 
 # Freeze Shock
-*Ice | Physical*
+*Ghiaccio | Physical*
 
 - **Accuracy:** Special + Channel
 - **Damage:** Strength + 6
 - **Target:** Foe
-- **Effect:** Lethal. Ranged. Charge Move. Roll 3 Chance Dice to Paralyze the Foe. -1 Accuracy.
+- **Traits:** [[Lethal]], [[Physical_Ranged]], [[Charge_Trait]], [[Accuracy_Reduction]] (1), [[Status_Condition]] (Paralyze Chance Dice 3)
+- **Effect:** Letale. A distanza. Movimento di carica. Tira 3 possibilità Dice di paralizzare lo Foe. -1Accuracy.
 
-> The user appears to become a block of ice, then it releases itself from the ice with a devastating discharge. The exploding ice shards and the lightning fly all over the battlefield.
+> Chi lo utilizza sembra diventare un blocco di ghiaccio, per poi liberarsi dal ghiaccio con una scarica devastante. I frammenti di ghiaccio che esplodono e i fulmini volano su tutto il campo di battaglia.

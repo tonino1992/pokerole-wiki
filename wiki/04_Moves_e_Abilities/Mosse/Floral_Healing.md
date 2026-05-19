@@ -1,15 +1,17 @@
 ---
 title: "Floral Healing"
 category: Move
-tags: [move, fairy, support]
+locale: it
+tags: [move, folletto, support]
 ---
 
 # Floral Healing
-*Fairy | Support*
+*Folletto | Support*
 
 - **Accuracy:** Insight + Nature
 - **Damage:** N/A
 - **Target:** One Ally
-- **Effect:** Basic Heal. If performed over Grassy Terrain this move is a Complete Heal.
+- **Traits:** [[Heal]]
+- **Effect:** Guarigione di base. Se eseguita su terreno erboso, questa mossa è una guarigione completa.
 
-> The user creates a flower crown that heals and relaxes its wearer. Under the right conditions this move also creates a flower patch around its target.
+> Chi la utilizza crea una corona di fiori che guarisce e rilassa chi la indossa. Nelle giuste condizioni questa mossa crea anche un mazzo di fiori attorno al suo bersaglio.

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Ponyta (#0077)"
 category: Pokedex
 tags: [ponyta, kanto, fire]
@@ -8,7 +8,7 @@ tags: [ponyta, kanto, fire]
 *Fire Horse Pokemon*
 
 **Type:** Fire
-**Abilities:** [[Run Away]], [[Flash Fire]], [[Flame Body]] *(Hidden)*
+**Abilities:** [[Run_Away]], [[Flash Fire]], [[Flame Body]] *(Hidden)*
 **Base HP:** 3
 
 > It’s not very common to see one stay still for more than a few seconds. Soon after it’s born, its flames begin to burn. It is weak at first but soon begins to develop a great speed chasing after its parents.
@@ -30,8 +30,14 @@ tags: [ponyta, kanto, fire]
 ## Mosse (Learnset)
 
 - **Starter:** [[Tackle]], [[Growl]]
-- **Beginner:** [[Tail Whip]], [[Ember]], [[Flame Wheel]], [[Take Down]]
-- **Amateur:** [[Flame Charge]], [[Fire Spin]], [[Stomp]], [[Inferno]]
-- **Ace:** [[Agility]], [[Fire Blast]], [[Bounce]], [[Flare Blitz]]
-- **Pro:** [[Morning Sun]], [[Double Kick]], [[Hypnosis]]
+- **Beginner:** [[Tail_Whip]], [[Ember]], [[Flame_Wheel]], [[Take_Down]]
+- **Amateur:** [[Flame_Charge]], [[Fire_Spin]], [[Stomp]], [[Inferno]]
+- **Ace:** [[Agility]], [[Fire_Blast]], [[Bounce]], [[Flare_Blitz]]
+- **Pro:** [[Morning_Sun]], [[Double_Kick]], [[Hypnosis]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0078_Rapidash|Rapidash]]

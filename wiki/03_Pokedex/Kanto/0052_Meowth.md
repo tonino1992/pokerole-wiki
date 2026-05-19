@@ -1,4 +1,4 @@
----
+﻿---
 title: "Meowth (#0052)"
 category: Pokedex
 tags: [meowth, kanto, normal]
@@ -30,8 +30,14 @@ tags: [meowth, kanto, normal]
 ## Mosse (Learnset)
 
 - **Starter:** [[Scratch]], [[Growl]]
-- **Beginner:** [[Bite]], [[Fake Out]], [[Fury Swipes]]
-- **Amateur:** [[Screech]], [[Feint Attack]], [[Taunt]], [[Pay Day]], [[Slash]], [[Captivate]]
-- **Ace:** [[Assurance]], [[Nasty Plot]], [[Night Slash]], [[Feint]]
+- **Beginner:** [[Bite]], [[Fake_Out]], [[Fury_Swipes]]
+- **Amateur:** [[Screech]], [[Feint_Attack]], [[Taunt]], [[Pay_Day]], [[Slash]], [[Captivate]]
+- **Ace:** [[Assurance]], [[Nasty_Plot]], [[Night_Slash]], [[Feint]]
 - **Pro:** [[Charm]], [[Sing]], [[Snatch]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0053_Persian|Persian]]

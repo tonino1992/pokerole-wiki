@@ -1,15 +1,17 @@
 ---
 title: "Force Palm"
 category: Move
-tags: [move, fighting, physical]
+locale: it
+tags: [move, lotta, physical]
 ---
 
 # Force Palm
-*Fighting | Physical*
+*Lotta | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 2
 - **Target:** Foe
-- **Effect:** Roll 3 Chance Dice to Paralyze the foe.
+- **Traits:** [[Status_Condition]] (Paralyze Chance Dice 3)
+- **Effect:** Lancia 3 possibilità Dice di paralizzare il nemico.
 
-> A powerful open palm hit that knocks the foe away and may leave him unable to move.
+> Un potente colpo a palmo aperto che respinge il nemico e può renderlo incapace di muoversi.

@@ -1,15 +1,17 @@
 ---
 title: "Double Team"
 category: Move
-tags: [move, normal, support]
+locale: it
+tags: [move, normale, support]
 ---
 
 # Double Team
-*Normal | Support*
+*Normale | Support*
 
 - **Accuracy:** Dexterity + Evasion
 - **Damage:** N/A
 - **Target:** User
-- **Effect:** The User can now make up to 5 Evasions per Round.
+- **Traits:** [[Status_Condition]] (SpedUp)
+- **Effect:** L'Utente può ora effettuare fino a 5 Evasioni per Round.
 
-> The user moves rapidly around the foe, creating illusory copies of itself.
+> Chi la usa si muove rapidamente attorno al nemico, creando copie illusorie di se stesso.

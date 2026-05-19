@@ -1,15 +1,17 @@
 ---
 title: "Fake Out"
 category: Move
-tags: [move, normal, physical]
+locale: it
+tags: [move, normale, physical]
 ---
 
 # Fake Out
-*Normal | Physical*
+*Normale | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 2
 - **Target:** Foe
-- **Effect:** Priority 1. Flinch the foe. This move will only work the First Round the Pokemon is out in battle. From the second round on, it will fail automatically.
+- **Traits:** [[Priority]] (1), [[Status_Condition]] (Flinch)
+- **Effect:** Priorità 1. Flinch il nemico. Questa mossa funzionerà solo il primo Round in cui il Pokemon sarà in battaglia. Dal secondo round in poi, fallirà automaticamente.
 
-> While still preparing for battle, the user will suddenly attack the foe.
+> Mentre si sta ancora preparando per la battaglia, l'utilizzatore attaccherà improvvisamente il nemico.

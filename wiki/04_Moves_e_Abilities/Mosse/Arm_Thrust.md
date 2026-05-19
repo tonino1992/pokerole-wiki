@@ -1,15 +1,17 @@
 ---
 title: "Arm Thrust"
 category: Move
-tags: [move, fighting, physical]
+locale: it
+tags: [move, lotta, physical]
 ---
 
 # Arm Thrust
-*Fighting | Physical*
+*Lotta | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 1
 - **Target:** Foe
-- **Effect:** Successive Actions.
+- **Traits:** [[Successive_Actions]]
+- **Effect:** Azioni successive.
 
-> The user quickly throws blows of open-palmed thrusts against the foe.
+> L'utilizzatore sferra rapidamente colpi a palmo aperto contro il nemico.

@@ -1,15 +1,17 @@
 ---
 title: "Extrasensory"
 category: Move
-tags: [move, psychic, special]
+locale: it
+tags: [move, psico, special]
 ---
 
 # Extrasensory
-*Psychic | Special*
+*Psico | Special*
 
 - **Accuracy:** Dexterity + Channel
 - **Damage:** Special + 3
 - **Target:** Foe
-- **Effect:** Roll 1 Chance Dice to Flinch the foe.
+- **Traits:** [[Status_Condition]] (Flinch Chance Dice 1)
+- **Effect:** Lancia 1 possibilità Dice per Flinch il nemico.
 
-> The user attacks with an odd, almost invisible power.
+> Chi lo usa attacca con un potere strano, quasi invisibile.

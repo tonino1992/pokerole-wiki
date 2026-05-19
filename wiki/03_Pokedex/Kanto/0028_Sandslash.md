@@ -1,4 +1,4 @@
----
+﻿---
 title: "Sandslash (#0028)"
 category: Pokedex
 tags: [sandslash, kanto, ground]
@@ -29,9 +29,15 @@ tags: [sandslash, kanto, ground]
 
 ## Mosse (Learnset)
 
-- **Starter:** [[Scratch]], [[Defense Curl]]
-- **Beginner:** [[Sand Attack]], [[Poison Sting]], [[Rollout]]
-- **Amateur:** [[Rapid Spin]], [[Swift]], [[Fury Cutter]], [[Magnitude]], [[Fury Swipes]], [[Crush Claw]], [[Sand Tomb]], [[Dig]]
-- **Ace:** [[Slash]], [[Gyro Ball]], [[Swords Dance]], [[Night Slash]], [[Earthquake]], [[Sandstorm]]
-- **Pro:** [[Stealth Rock]], [[Counter]]
+- **Starter:** [[Scratch]], [[Defense_Curl]]
+- **Beginner:** [[Sand_Attack]], [[Poison_Sting]], [[Rollout]]
+- **Amateur:** [[Rapid_Spin]], [[Swift]], [[Fury_Cutter]], [[Magnitude]], [[Fury_Swipes]], [[Crush_Claw]], [[Sand_Tomb]], [[Dig]]
+- **Ace:** [[Slash]], [[Gyro_Ball]], [[Swords_Dance]], [[Night_Slash]], [[Earthquake]], [[Sandstorm]]
+- **Pro:** [[Stealth_Rock]], [[Counter]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0027_Sandshrew|Sandshrew]]

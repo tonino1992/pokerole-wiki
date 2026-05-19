@@ -1,15 +1,17 @@
 ---
 title: "Grassy Terrain"
 category: Move
-tags: [move, grass, support]
+locale: it
+tags: [move, erba, support]
 ---
 
 # Grassy Terrain
-*Grass | Support*
+*Erba | Support*
 
 - **Accuracy:** Special + Nature
 - **Damage:** N/A
 - **Target:** Battlefield
-- **Effect:** If successful, spend 1 Will point to activate. Everyone in the user's side of the field heals 1 HP at the end of each round. Add 1 Extra Dice to the Damage Rolls of Grass Type Moves.
+- **Traits:** [[TerrainEffect]]
+- **Effect:** In caso di successo, spendi 1 punto Will per l'attivazione. Tutti nel lato del campo dell'utente curano 1 HP alla fine di ogni round. Aggiungi 1 Dice extra alle mosse di tipo Erba Damage.
 
-> The Pokemon calls upon the healing power of nature to grow a patch of miraculous grass on its side of the battlefield.
+> Il Pokemon fa appello al potere curativo della natura per far crescere una macchia di erba miracolosa sul suo lato del campo di battaglia.

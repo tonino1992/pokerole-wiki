@@ -1,4 +1,4 @@
----
+﻿---
 title: "Beedrill (#0015)"
 category: Pokedex
 tags: [beedrill, kanto, bug, poison]
@@ -29,9 +29,16 @@ tags: [beedrill, kanto, bug, poison]
 
 ## Mosse (Learnset)
 
-- **Starter:** [[Fury Attack]]
-- **Beginner:** [[Focus Energy]], [[Twineedle]]
-- **Amateur:** [[Rage]], [[Pursuit]], [[Venoshock]], [[Toxic Spikes]], [[Pin Missile]], [[Agility]]
-- **Ace:** [[Assurance]], [[Poison Jab]], [[Ominous Wind]], [[Fell Stinger]]
-- **Pro:** [[Drill Run]], [[Tailwind]], [[Endeavor]]
+- **Starter:** [[Fury_Attack]]
+- **Beginner:** [[Focus_Energy]], [[Twineedle]]
+- **Amateur:** [[Rage]], [[Pursuit]], [[Venoshock]], [[Toxic_Spikes]], [[Pin_Missile]], [[Agility]]
+- **Ace:** [[Assurance]], [[Poison_Jab]], [[Ominous_Wind]], [[Fell_Stinger]]
+- **Pro:** [[Drill_Run]], [[Tailwind]], [[Endeavor]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0013_Weedle|Weedle]]
+- [[0014_Kakuna|Kakuna]]

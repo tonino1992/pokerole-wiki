@@ -1,4 +1,4 @@
----
+﻿---
 title: "Exeggutor (#0103)"
 category: Pokedex
 tags: [exeggutor, kanto, grass, psychic]
@@ -31,7 +31,13 @@ tags: [exeggutor, kanto, grass, psychic]
 
 - **Starter:** [[Barrage]]
 - **Beginner:** [[Confusion]], [[Hypnosis]]
-- **Amateur:** [[Seed Bomb]], [[Stomp]], [[Psyshock]], [[Egg Bomb]]
-- **Ace:** [[Wood Hammer]], [[Leaf Storm]]
-- **Pro:** [[Nightmare]], [[Grassy Terrain]], [[Curse]]
+- **Amateur:** [[Seed_Bomb]], [[Stomp]], [[Psyshock]], [[Egg_Bomb]]
+- **Ace:** [[Wood_Hammer]], [[Leaf_Storm]]
+- **Pro:** [[Nightmare]], [[Grassy_Terrain]], [[Curse]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0102_Exeggcute|Exeggcute]]

@@ -1,15 +1,17 @@
 ---
 title: "Body Slam"
 category: Move
-tags: [move, normal, physical]
+locale: it
+tags: [move, normale, physical]
 ---
 
 # Body Slam
-*Normal | Physical*
+*Normale | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 3
 - **Target:** Foe
-- **Effect:** Roll 3 Chance Dice to Paralyze the foe.
+- **Traits:** [[Status_Condition]] (Paralyze Chance Dice 3)
+- **Effect:** Lancia 3 possibilità Dice di paralizzare il nemico.
 
-> The user charges against the foe using its body to knock it down, leaving the target stunned.
+> Chi la usa carica contro il nemico usando il suo corpo per abbatterlo, lasciandolo stordito.

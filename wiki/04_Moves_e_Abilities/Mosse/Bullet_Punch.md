@@ -1,15 +1,17 @@
 ---
 title: "Bullet Punch"
 category: Move
-tags: [move, steel, physical]
+locale: it
+tags: [move, acciaio, physical]
 ---
 
 # Bullet Punch
-*Steel | Physical*
+*Acciaio | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 2
 - **Target:** Foe
-- **Effect:** Fist Based. Priority 1.
+- **Traits:** [[Fist_Based]], [[Priority]] (1)
+- **Effect:** Basato sul pugno. Priorità 1.
 
-> The user launches itself against the foe to strike it with an iron fist.
+> Chi la usa si lancia contro il nemico per colpirlo con il pugno di ferro.

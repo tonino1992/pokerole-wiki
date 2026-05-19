@@ -1,15 +1,17 @@
----
+﻿---
 title: "Dive"
 category: Move
-tags: [move, water, physical]
+locale: it
+tags: [move, acqua, physical]
 ---
 
 # Dive
-*Water | Physical*
+*Acqua | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 2
 - **Target:** Foe
-- **Effect:** Charge Move. While charging this move, the User will be out of range. Allows the Pokemon to swim into Deep Waters.
+- **Traits:** [[Charge_Trait]], [[Status_Condition]] (Diving)
+- **Effect:** Movimento di carica. Durante la carica di questa mossa, l'Utente sarà fuori portata. Permette ai Pokemon di nuotare nelle acque profonde.
 
-> The user submerges into the water and continues diving at an insane speed.
+> L'utente si immerge in acqua e continua a immergersi a una velocità folle.

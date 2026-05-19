@@ -1,15 +1,17 @@
 ---
 title: "Glitzy Glow"
 category: Move
-tags: [move, psychic, special]
+locale: it
+tags: [move, psico, special]
 ---
 
 # Glitzy Glow
-*Psychic | Special*
+*Psico | Special*
 
 - **Accuracy:** Special + Channel
 - **Damage:** Special + 3
 - **Target:** Foe
-- **Effect:** If successful, for the next 4 Rounds the User and Allies will receive 1 less damage from Special Attacks. This effect does not stack. If the user of this Move is at its Final Stage of Evolution, this move fails.
+- **Traits:** [[Status_Condition]] (GlitzyGlow)
+- **Effect:** In caso di successo, per i successivi 4 Rounds l'Utente e gli Alleati riceveranno 1 danno in meno dagli attacchi Special. Questo effetto non è cumulabile. Se l'utente di questa mossa è nella fase finale dell'evoluzione, questa mossa fallisce.
 
-> The user surrounds itself with a glamorous light, releasing it as a psychic blast, the soft glowing particles remain in the field protecting its fabulousness.
+> L'utente si circonda di una luce affascinante, rilasciandola come un'esplosione psichica, le particelle morbide e luminose rimangono nel campo proteggendo la sua favolosità.

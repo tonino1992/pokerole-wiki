@@ -1,15 +1,17 @@
 ---
 title: "Endeavor"
 category: Move
-tags: [move, normal, physical]
+locale: it
+tags: [move, normale, physical]
 ---
 
 # Endeavor
-*Normal | Physical*
+*Normale | Physical*
 
 - **Accuracy:** Will + Channel
 - **Damage:** N/A
 - **Target:** Foe
-- **Effect:** Roll Damage equal to the Difference between user's Full HP and its Current HP (up to 10). User cannot reduce the target's HP to lower than its own remaining HP. Ignore foe's Defenses.
+- **Traits:** [[Ignore_Defenses]]
+- **Effect:** Lancia Damage uguale alla differenza tra il HP completo dell'utente e il suo HP attuale (fino a 10). L'utente non può ridurre il valore HP del bersaglio a un valore inferiore al proprio HP rimanente. Ignora le difese del nemico.
 
-> With pure willpower, the user struggles with its foe despite the pain
+> Con pura forza di volontà, chi lo utilizza lotta con il nemico nonostante il dolore

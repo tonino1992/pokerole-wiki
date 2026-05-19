@@ -1,15 +1,16 @@
 ---
 title: "Body Press"
 category: Move
-tags: [move, fighting, physical]
+locale: it
+tags: [move, lotta, physical]
 ---
 
 # Body Press
-*Fighting | Physical*
+*Lotta | Physical*
 
 - **Accuracy:** Strength + Brawl
 - **Damage:** Vitality + 3
 - **Target:** Foe
 - **Effect:** -
 
-> The Pokemon makes a judo maneuver, using its body mass instead of its strength against the target.
+> Il Pokemon esegue una manovra di judo, usando la massa corporea invece della forza contro il bersaglio.

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Gengar (#0094)"
 category: Pokedex
 tags: [gengar, kanto, ghost, poison]
@@ -30,8 +30,15 @@ tags: [gengar, kanto, ghost, poison]
 ## Mosse (Learnset)
 
 - **Starter:** [[Spite]], [[Lick]]
-- **Beginner:** [[Curse]], [[Mean Look]], [[Night Shade]]
-- **Amateur:** [[Hypnosis]], [[Confuse Ray]], [[Sucker Punch]], [[Shadow Punch]], [[Payback]], [[Shadow Ball]], [[Dark Pulse]]
-- **Ace:** [[Dream Eater]], [[Destiny Bond]], [[Hex]], [[Nightmare]]
-- **Pro:** [[Perish Song]], [[Icy Wind]], [[Giga Drain]]
+- **Beginner:** [[Curse]], [[Mean_Look]], [[Night_Shade]]
+- **Amateur:** [[Hypnosis]], [[Confuse_Ray]], [[Sucker_Punch]], [[Shadow_Punch]], [[Payback]], [[Shadow_Ball]], [[Dark_Pulse]]
+- **Ace:** [[Dream_Eater]], [[Destiny_Bond]], [[Hex]], [[Nightmare]]
+- **Pro:** [[Perish_Song]], [[Icy_Wind]], [[Giga_Drain]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0092_Gastly|Gastly]]
+- [[0093_Haunter|Haunter]]

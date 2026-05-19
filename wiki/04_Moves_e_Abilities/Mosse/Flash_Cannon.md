@@ -1,15 +1,17 @@
 ---
 title: "Flash Cannon"
 category: Move
-tags: [move, steel, special]
+locale: it
+tags: [move, acciaio, special]
 ---
 
 # Flash Cannon
-*Steel | Special*
+*Acciaio | Special*
 
 - **Accuracy:** Dexterity + Channel
 - **Damage:** Special + 3
 - **Target:** Foe
-- **Effect:** Roll 1 Chance Dice to Reduce the foe's Sp. Defense.
+- **Traits:** [[Stat_Changes]]
+- **Effect:** Lancia 1 possibilità Dice di ridurre la Sp del nemico. Difesa.
 
-> The Pokemon absorbs the reflecting light on its body, releasing a powerful beam against the foe.
+> Il Pokemon assorbe la luce riflessa sul suo corpo, rilasciando un potente raggio contro il nemico.

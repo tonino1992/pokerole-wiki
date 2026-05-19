@@ -1,15 +1,17 @@
 ---
 title: "Gear Up"
 category: Move
-tags: [move, steel, support]
+locale: it
+tags: [move, acciaio, support]
 ---
 
 # Gear Up
-*Steel | Support*
+*Acciaio | Support*
 
 - **Accuracy:** Vitality + Channel
 - **Damage:** N/A
 - **Target:** One Ally
-- **Effect:** Increase the Strength and Special of one Steel-Type or Electric-Type Ally.
+- **Traits:** [[Stat_Changes]]
+- **Effect:** Aumenta Strength e Special di uno Ally di tipo acciaio o elettrico.
 
-> The user engages its gears on an ally to leave the ally's body working like a welloiled machine.
+> L'utente innesta i suoi ingranaggi su un alleato per lasciare che il corpo dell'alleato funzioni come una macchina ben oliata.

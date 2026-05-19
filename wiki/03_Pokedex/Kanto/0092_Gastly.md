@@ -1,4 +1,4 @@
----
+﻿---
 title: "Gastly (#0092)"
 category: Pokedex
 tags: [gastly, kanto, ghost, poison]
@@ -30,8 +30,15 @@ tags: [gastly, kanto, ghost, poison]
 ## Mosse (Learnset)
 
 - **Starter:** [[Spite]], [[Lick]]
-- **Beginner:** [[Night Shade]], [[Mean Look]], [[Curse]]
-- **Amateur:** [[Hypnosis]], [[Confuse Ray]], [[Sucker Punch]], [[Payback]], [[Shadow Ball]], [[Dark Pulse]]
-- **Ace:** [[Dream Eater]], [[Destiny Bond]], [[Hex]], [[Nightmare]]
-- **Pro:** [[Clear Smog]], [[Icy Wind]], [[Grudge]]
+- **Beginner:** [[Night_Shade]], [[Mean_Look]], [[Curse]]
+- **Amateur:** [[Hypnosis]], [[Confuse_Ray]], [[Sucker_Punch]], [[Payback]], [[Shadow_Ball]], [[Dark_Pulse]]
+- **Ace:** [[Dream_Eater]], [[Destiny_Bond]], [[Hex]], [[Nightmare]]
+- **Pro:** [[Clear_Smog]], [[Icy_Wind]], [[Grudge]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0093_Haunter|Haunter]]
+- [[0094_Gengar|Gengar]]

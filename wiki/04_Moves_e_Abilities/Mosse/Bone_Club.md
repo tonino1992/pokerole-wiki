@@ -1,15 +1,17 @@
 ---
 title: "Bone Club"
 category: Move
-tags: [move, ground, physical]
+locale: it
+tags: [move, terra, physical]
 ---
 
 # Bone Club
-*Ground | Physical*
+*Terra | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 2
 - **Target:** Foe
-- **Effect:** Roll 2 Chance Dice to Flinch the Foe. -2 Accuracy.
+- **Traits:** [[Accuracy_Reduction]] (2), [[Status_Condition]] (Flinch Chance Dice 2)
+- **Effect:** Lancia 2 possibilità da Dice a Flinch o Foe. -2Accuracy.
 
-> The user hits the target with a bone, the smack may leave a bump on the target's head.
+> L'utilizzatore colpisce il bersaglio con un osso, il colpo può lasciare un bernoccolo sulla testa del bersaglio.

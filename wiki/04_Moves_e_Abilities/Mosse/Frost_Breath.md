@@ -1,15 +1,17 @@
 ---
 title: "Frost Breath"
 category: Move
-tags: [move, ice, special]
+locale: it
+tags: [move, ghiaccio, special]
 ---
 
 # Frost Breath
-*Ice | Special*
+*Ghiaccio | Special*
 
 - **Accuracy:** Dexterity + Channel
 - **Damage:** Special + 2
 - **Target:** Foe
-- **Effect:** This Move is always a Critical Hit and it gets the proper bonus for it. -1 Accuracy.
+- **Traits:** [[Accuracy_Reduction]] (1), [[AlwaysCrit]]
+- **Effect:** Questa mossa è sempre Critical Hit e ottiene il bonus appropriato. -1Accuracy.
 
-> The user shoots a gelid breath against the target that sends a chill through the spine. The sudden change of temperature can bring anyone to its knees.
+> L'utilizzatore emette un soffio gelido contro il bersaglio che gli provoca un brivido lungo la schiena. Lo sbalzo improvviso della temperatura può mettere in ginocchio chiunque.

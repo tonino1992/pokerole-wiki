@@ -1,15 +1,17 @@
 ---
 title: "Circle Throw"
 category: Move
-tags: [move, fighting, physical]
+locale: it
+tags: [move, lotta, physical]
 ---
 
 # Circle Throw
-*Fighting | Physical*
+*Lotta | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 2
 - **Target:** Foe
-- **Effect:** Low Priority 1. The target is hit and knocked back to its trainer forcing them to send out another Pokemon. In the wild the target is sent away. Switcher Move. -1 Accuracy.
+- **Traits:** [[Switcher_Move]], [[Accuracy_Reduction]] (1), [[Priority]] (-1)
+- **Effect:** Priorità bassa 1. Il bersaglio viene colpito e respinto verso il suo allenatore costringendolo a inviare un altro Pokemon. In natura il bersaglio viene allontanato. Spostamento del commutatore. -1Accuracy.
 
-> The user throws the target 60 feet out of the battlefield.
+> Chi la usa scaglia il bersaglio a 18 metri fuori dal campo di battaglia.

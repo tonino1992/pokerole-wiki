@@ -1,4 +1,4 @@
----
+﻿---
 title: "Eevee (#0133)"
 category: Pokedex
 tags: [eevee, kanto, normal]
@@ -8,7 +8,7 @@ tags: [eevee, kanto, normal]
 *Evolution Pokemon*
 
 **Type:** Normal
-**Abilities:** [[Run Away]], [[Adaptability]], [[Anticipation]] *(Hidden)*
+**Abilities:** [[Run_Away]], [[Adaptability]], [[Anticipation]] *(Hidden)*
 **Base HP:** 3
 
 > This Pokemon is extremely rare to find. Eevee has an unstable genetic makeup that suddenly mutates to fit its environment. Radiation from various stones causes this Pokemon to evolve.
@@ -29,9 +29,15 @@ tags: [eevee, kanto, normal]
 
 ## Mosse (Learnset)
 
-- **Starter:** [[Helping Hand]], [[Growl]]
-- **Beginner:** [[Tackle]], [[Tail Whip]], [[Sand Attack]]
-- **Amateur:** [[Baby-Doll Eyes]], [[Swift]], [[Quick Attack]], [[Bite]], [[Refresh]], [[Covet]], [[Take Down]], [[Charm]]
-- **Ace:** [[Baton Pass]], [[Double-Edge]], [[Last Resort]], [[Trump Card]]
-- **Pro:** [[Wish]], [[Tickle]], [[Fake Tears]]
+- **Starter:** [[Helping_Hand]], [[Growl]]
+- **Beginner:** [[Tackle]], [[Tail_Whip]], [[Sand_Attack]]
+- **Amateur:** [[Baby-Doll_Eyes]], [[Swift]], [[Quick_Attack]], [[Bite]], [[Refresh]], [[Covet]], [[Take_Down]], [[Charm]]
+- **Ace:** [[Baton_Pass]], [[Double-Edge]], [[Last_Resort]], [[Trump_Card]]
+- **Pro:** [[Wish]], [[Tickle]], [[Fake_Tears]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0134_Vaporeon|Vaporeon]]

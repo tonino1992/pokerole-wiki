@@ -1,15 +1,17 @@
 ---
 title: "Aqua Tail"
 category: Move
-tags: [move, water, physical]
+locale: it
+tags: [move, acqua, physical]
 ---
 
 # Aqua Tail
-*Water | Physical*
+*Acqua | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 3
 - **Target:** Foe
-- **Effect:** Roll 3 Chance Dice to Flinch the foe. -1 Accuracy.
+- **Traits:** [[Accuracy_Reduction]] (1), [[Status_Condition]] (Flinch Chance Dice 3)
+- **Effect:** Lancia 3 possibilità Dice di Flinch il nemico. -1Accuracy.
 
-> The user swings its tail as if it were a vicious wave in a raging storm.
+> Chi la usa agita la coda come se fosse un'onda violenta in una tempesta violenta.

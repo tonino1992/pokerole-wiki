@@ -1,4 +1,4 @@
----
+﻿---
 title: "Magmar (#0126)"
 category: Pokedex
 tags: [magmar, kanto, fire]
@@ -30,8 +30,8 @@ tags: [magmar, kanto, fire]
 ## Mosse (Learnset)
 
 - **Starter:** [[Smog]], [[Leer]], [[Ember]]
-- **Beginner:** [[Smokescreen]], [[Feint Attack]], [[Fire Spin]]
-- **Amateur:** [[Clear Smog]], [[Flame Burst]], [[Confuse Ray]], [[Fire Punch]], [[Sunny Day]]
-- **Ace:** [[Lava Plume]], [[Flamethrower]], [[Fire Blast]]
-- **Pro:** [[Heat Wave]], [[Karate Chop]], [[Dual Chop]]
+- **Beginner:** [[Smokescreen]], [[Feint_Attack]], [[Fire_Spin]]
+- **Amateur:** [[Clear_Smog]], [[Flame_Burst]], [[Confuse_Ray]], [[Fire_Punch]], [[Sunny_Day]]
+- **Ace:** [[Lava_Plume]], [[Flamethrower]], [[Fire_Blast]]
+- **Pro:** [[Heat_Wave]], [[Karate_Chop]], [[Dual_Chop]]
 

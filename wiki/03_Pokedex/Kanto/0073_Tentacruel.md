@@ -1,4 +1,4 @@
----
+﻿---
 title: "Tentacruel (#0073)"
 category: Pokedex
 tags: [tentacruel, kanto, water, poison]
@@ -29,9 +29,15 @@ tags: [tentacruel, kanto, water, poison]
 
 ## Mosse (Learnset)
 
-- **Starter:** [[Poison Sting]], [[Supersonic]]
+- **Starter:** [[Poison_Sting]], [[Supersonic]]
 - **Beginner:** [[Constrict]], [[Acid]]
-- **Amateur:** [[Brine]], [[Poison Jab]], [[Toxic Spikes]], [[Bubble Beam]], [[Wrap]], [[Acid Spray]], [[Barrier]], [[Water Pulse]]
-- **Ace:** [[Reflect Type]], [[Wring Out]], [[Screech]], [[Hex]], [[Hydro Pump]], [[Sludge Wave]]
-- **Pro:** [[Giga Drain]], [[Mirror Coat]], [[Aqua Ring]]
+- **Amateur:** [[Brine]], [[Poison_Jab]], [[Toxic_Spikes]], [[Bubble_Beam]], [[Wrap]], [[Acid_Spray]], [[Barrier]], [[Water_Pulse]]
+- **Ace:** [[Reflect_Type]], [[Wring_Out]], [[Screech]], [[Hex]], [[Hydro_Pump]], [[Sludge_Wave]]
+- **Pro:** [[Giga_Drain]], [[Mirror_Coat]], [[Aqua_Ring]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0072_Tentacool|Tentacool]]

@@ -1,15 +1,17 @@
 ---
 title: "Fury Cutter"
 category: Move
-tags: [move, bug, physical]
+locale: it
+tags: [move, insetto, physical]
 ---
 
 # Fury Cutter
-*Bug | Physical*
+*Insetto | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 1
 - **Target:** Foe
-- **Effect:** Successive Actions.
+- **Traits:** [[Successive_Actions]]
+- **Effect:** Azioni successive.
 
-> The Pokemon makes use of its claws or scythes to land as many hits as possible.
+> Il Pokemon usa i suoi artigli o le sue falci per sferrare quanti più colpi possibili.

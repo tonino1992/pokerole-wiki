@@ -1,15 +1,17 @@
 ---
 title: "Cotton Guard"
 category: Move
-tags: [move, grass, support]
+locale: it
+tags: [move, erba, support]
 ---
 
 # Cotton Guard
-*Grass | Support*
+*Erba | Support*
 
 - **Accuracy:** Insight + Channel
 - **Damage:** N/A
 - **Target:** Foe
-- **Effect:** Increase the User's Defense by 3.
+- **Traits:** [[Stat_Changes]]
+- **Effect:** Aumenta la Difesa dell'Utente di 3.
 
-> The user covers itself in cotton puffs that severely reduce the impact of physical attacks.
+> L'utente si ricopre con piumini di cotone che riducono gravemente l'impatto degli attacchi fisici.

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Bulbasaur (#0001)"
 category: Pokedex
 tags: [bulbasaur, kanto, grass, poison]
@@ -30,8 +30,15 @@ tags: [bulbasaur, kanto, grass, poison]
 ## Mosse (Learnset)
 
 - **Starter:** [[Tackle]], [[Growl]]
-- **Beginner:** [[Leech Seed]], [[Vine Whip]]
-- **Amateur:** [[Poison Powder]], [[Sleep Powder]], [[Take Down]], [[Razor Leaf]], [[Sweet Scent]], [[Growth]]
-- **Ace:** [[Worry Seed]], [[Double-Edge]], [[Synthesis]]
-- **Pro:** [[Solar Beam]], [[Grassy Terrain]], [[Amnesia]], [[Grass Pledge]]
+- **Beginner:** [[Leech_Seed]], [[Vine_Whip]]
+- **Amateur:** [[Poison_Powder]], [[Sleep_Powder]], [[Take_Down]], [[Razor_Leaf]], [[Sweet_Scent]], [[Growth]]
+- **Ace:** [[Worry_Seed]], [[Double-Edge]], [[Synthesis]]
+- **Pro:** [[Solar_Beam]], [[Grassy_Terrain]], [[Amnesia]], [[Grass_Pledge]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0002_Ivysaur|Ivysaur]]
+- [[0003_Venusaur|Venusaur]]

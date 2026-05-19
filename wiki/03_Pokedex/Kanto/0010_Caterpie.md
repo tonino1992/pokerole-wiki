@@ -1,4 +1,4 @@
----
+﻿---
 title: "Caterpie (#0010)"
 category: Pokedex
 tags: [caterpie, kanto, bug]
@@ -8,7 +8,7 @@ tags: [caterpie, kanto, bug]
 *Worm Pokemon*
 
 **Type:** Bug
-**Abilities:** [[Shield Dust]], [[Run Away]] *(Hidden)*
+**Abilities:** [[Shield Dust]], [[Run_Away]] *(Hidden)*
 **Base HP:** 3
 
 > It is very common in the forests. Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a foul odor from its antennae if it feels threatened.
@@ -29,7 +29,14 @@ tags: [caterpie, kanto, bug]
 
 ## Mosse (Learnset)
 
-- **Starter:** [[Tackle]], [[String Shot]]
-- **Beginner:** [[Bug Bite]]
+- **Starter:** [[Tackle]], [[String_Shot]]
+- **Beginner:** [[Bug_Bite]]
 - **Amateur:** [[Electroweb]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0011_Metapod|Metapod]]
+- [[0012_Butterfree|Butterfree]]

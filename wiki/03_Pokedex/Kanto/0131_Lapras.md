@@ -1,4 +1,4 @@
----
+﻿---
 title: "Lapras (#0131)"
 category: Pokedex
 tags: [lapras, kanto, water, ice]
@@ -30,8 +30,8 @@ tags: [lapras, kanto, water, ice]
 ## Mosse (Learnset)
 
 - **Starter:** [[Sing]], [[Growl]]
-- **Beginner:** [[Water Gun]], [[Mist]]
-- **Amateur:** [[Confuse Ray]], [[Ice Shard]], [[Water Pulse]], [[Body Slam]], [[Rain Dance]], [[Brine]], [[Ice Beam]]
-- **Ace:** [[Perish Song]], [[Safeguard]], [[Hydro Pump]], [[Sheer Cold]]
-- **Pro:** [[Dragon Dance]], [[Freeze Dry]], [[Outrage]]
+- **Beginner:** [[Water_Gun]], [[Mist]]
+- **Amateur:** [[Confuse_Ray]], [[Ice_Shard]], [[Water_Pulse]], [[Body_Slam]], [[Rain_Dance]], [[Brine]], [[Ice_Beam]]
+- **Ace:** [[Perish_Song]], [[Safeguard]], [[Hydro_Pump]], [[Sheer_Cold]]
+- **Pro:** [[Dragon_Dance]], [[Freeze_Dry]], [[Outrage]]
 

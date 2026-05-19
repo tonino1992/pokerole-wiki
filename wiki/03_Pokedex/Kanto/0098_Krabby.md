@@ -1,4 +1,4 @@
----
+﻿---
 title: "Krabby (#0098)"
 category: Pokedex
 tags: [krabby, kanto, water]
@@ -29,9 +29,15 @@ tags: [krabby, kanto, water]
 
 ## Mosse (Learnset)
 
-- **Starter:** [[Bubble]], [[Mud Sport]]
-- **Beginner:** [[Vice Grip]], [[Leer]], [[Harden]]
-- **Amateur:** [[Bubble Beam]], [[Mud Shot]], [[Metal Claw]], [[Stomp]], [[Protect]], [[Slam]]
+- **Starter:** [[Bubble]], [[Mud_Sport]]
+- **Beginner:** [[Vice_Grip]], [[Leer]], [[Harden]]
+- **Amateur:** [[Bubble_Beam]], [[Mud_Shot]], [[Metal_Claw]], [[Stomp]], [[Protect]], [[Slam]]
 - **Ace:** [[Guillotine]], [[Brine]], [[Crabhammer]], [[Flail]]
-- **Pro:** [[Agility]], [[Iron Defense]], [[Mimic]]
+- **Pro:** [[Agility]], [[Iron_Defense]], [[Mimic]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0099_Kingler|Kingler]]

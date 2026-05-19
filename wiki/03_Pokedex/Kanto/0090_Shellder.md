@@ -1,4 +1,4 @@
----
+﻿---
 title: "Shellder (#0090)"
 category: Pokedex
 tags: [shellder, kanto, water]
@@ -30,8 +30,14 @@ tags: [shellder, kanto, water]
 ## Mosse (Learnset)
 
 - **Starter:** [[Tackle]]
-- **Beginner:** [[Water Gun]], [[Protect]], [[Supersonic]]
-- **Amateur:** [[Icicle Spear]], [[Withdraw]], [[Leer]], [[Clamp]], [[Ice Shard]], [[Razor Shell]], [[Aurora Beam]], [[Whirlpool]], [[Brine]]
-- **Ace:** [[Iron Defense]], [[Ice Beam]], [[Shell Smash]], [[Hydro Pump]]
-- **Pro:** [[Aqua Ring]], [[Rock Blast]], [[Rapid Spin]]
+- **Beginner:** [[Water_Gun]], [[Protect]], [[Supersonic]]
+- **Amateur:** [[Icicle_Spear]], [[Withdraw]], [[Leer]], [[Clamp]], [[Ice_Shard]], [[Razor_Shell]], [[Aurora_Beam]], [[Whirlpool]], [[Brine]]
+- **Ace:** [[Iron_Defense]], [[Ice_Beam]], [[Shell_Smash]], [[Hydro_Pump]]
+- **Pro:** [[Aqua_Ring]], [[Rock_Blast]], [[Rapid_Spin]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0091_Cloyster|Cloyster]]

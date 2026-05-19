@@ -1,15 +1,17 @@
 ---
 title: "Foresight"
 category: Move
-tags: [move, normal, support]
+locale: it
+tags: [move, normale, support]
 ---
 
 # Foresight
-*Normal | Support*
+*Normale | Support*
 
 - **Accuracy:** Insight + Alert
 - **Damage:** N/A
 - **Target:** Foe
-- **Effect:** The Foe cannot evade moves performed by the user. User's Normal and Fighting Moves can affect Ghost Types and Ghost Moves can affect Normal Types.
+- **Traits:** [[Status_Condition]] (ForesightOdorSleuth)
+- **Effect:** Lo Foe non può eludere le mosse eseguite dall'utente. Le mosse normali e di combattimento dell'utente possono influenzare i tipi di fantasma e le mosse fantasma possono influenzare i tipi normali.
 
-> The Pokemon uses its developed senses and mental ability to foresee the immediate future.
+> Il Pokemon usa i suoi sensi sviluppati e la capacità mentale per prevedere il futuro immediato.

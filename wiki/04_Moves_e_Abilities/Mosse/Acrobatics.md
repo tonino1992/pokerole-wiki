@@ -1,15 +1,16 @@
 ---
 title: "Acrobatics"
 category: Move
-tags: [move, flying, physical]
+locale: it
+tags: [move, volante, physical]
 ---
 
 # Acrobatics
-*Flying | Physical*
+*Volante | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 4
 - **Target:** Foe
-- **Effect:** If the User has a Held Item, remove 2 Dice from the Damage Roll.
+- **Effect:** Se l'Utente ha un Oggetto Trattenuto, rimuovi 2 Dice dal Rullo Damage.
 
-> The user makes quick and graceful acrobatic moves to hit the foe, it will be swifter if nothing gets in the way.
+> L'utente effettua mosse acrobatiche rapide e aggraziate per colpire il nemico, sarà più veloce se nulla si frappone.

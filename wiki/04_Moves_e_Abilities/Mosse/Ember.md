@@ -1,15 +1,17 @@
 ---
 title: "Ember"
 category: Move
-tags: [move, fire, special]
+locale: it
+tags: [move, fuoco, special]
 ---
 
 # Ember
-*Fire | Special*
+*Fuoco | Special*
 
 - **Accuracy:** Dexterity + Channel
 - **Damage:** Special + 2
 - **Target:** Foe
-- **Effect:** Roll 1 Chance Dice to Burn the foe.
+- **Traits:** [[Status_Condition]] (Burn Chance Dice 1)
+- **Effect:** Lancia 1 possibilità Dice per Burn il nemico.
 
-> The user shoots a small flame against the target that may cause a first-degree burn.
+> Chi la utilizza spara una piccola fiamma contro il bersaglio che può provocare un'ustione di primo grado.

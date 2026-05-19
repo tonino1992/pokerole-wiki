@@ -1,15 +1,16 @@
 ---
 title: "Freeze Dry"
 category: Move
-tags: [move, ice, special]
+locale: it
+tags: [move, ghiaccio, special]
 ---
 
 # Freeze Dry
-*Ice | Special*
+*Ghiaccio | Special*
 
 - **Accuracy:** Dexterity + Channel
 - **Damage:** Special + 3
 - **Target:** Foe
-- **Effect:** Water type Pokemon are dealt 2 Extra Damage.
+- **Effect:** I Pokemon di tipo Acqua ricevono 2 Damage extra.
 
-> The user freezes all moisture in the environment, water type Pokemon suffer greatly.
+> L'utente congela tutta l'umidità nell'ambiente, i Pokemon di tipo acqua soffrono molto.

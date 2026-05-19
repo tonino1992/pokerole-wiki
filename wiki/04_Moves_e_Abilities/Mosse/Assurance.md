@@ -1,15 +1,16 @@
 ---
 title: "Assurance"
 category: Move
-tags: [move, dark, physical]
+locale: it
+tags: [move, buio, physical]
 ---
 
 # Assurance
-*Dark | Physical*
+*Buio | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 2
 - **Target:** Foe
-- **Effect:** If the User has already received damage from the target this Round add 2 Extra Dice to the Damage Pool.
+- **Effect:** Se l'Utente ha già ricevuto danni dal bersaglio questo Round aggiungi 2 Extra Dice al Pool Damage.
 
-> The user retaliates against the foe, the rush of adrenaline allows it to hit harder.
+> L'utilizzatore si vendica contro il nemico, la scarica di adrenalina gli permette di colpire più forte.

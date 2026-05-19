@@ -1,15 +1,17 @@
 ---
 title: "Bone Rush"
 category: Move
-tags: [move, ground, physical]
+locale: it
+tags: [move, terra, physical]
 ---
 
 # Bone Rush
-*Ground | Physical*
+*Terra | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 1
 - **Target:** Foe
-- **Effect:** Successive Actions. -1 Accuracy.
+- **Traits:** [[Successive_Actions]], [[Accuracy_Reduction]] (1)
+- **Effect:** Azioni successive. -1Accuracy.
 
-> The user quickly strikes the foe with a bone, one blow after another.
+> Chi lo usa colpisce rapidamente il nemico con un osso, un colpo dopo l'altro.

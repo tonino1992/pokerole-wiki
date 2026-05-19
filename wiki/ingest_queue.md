@@ -85,5 +85,5 @@ Quando l'utente chiede di "procedere con il prossimo ingest", l'AI deve:
 - [ ] **Pokédex Kalos** (650-721) *(PDF pp. 274-293)*
 - [ ] **Pokédex Alola** (722-809) *(PDF pp. 294-317)*
 - [ ] **Pokédex Galar** (810-898) *(PDF pp. 318-345)*
-- [ ] **Database Moves** (per Type) *(PDF pp. 349-423)*
+- [x] **Database Moves** (per Type) *(PDF pp. 349-423)*
 - [ ] **Database Abilities** *(PDF pp. 434-472)*

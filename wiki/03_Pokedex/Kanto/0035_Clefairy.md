@@ -1,4 +1,4 @@
----
+﻿---
 title: "Clefairy (#0035)"
 category: Pokedex
 tags: [clefairy, kanto, fairy]
@@ -30,8 +30,14 @@ tags: [clefairy, kanto, fairy]
 ## Mosse (Learnset)
 
 - **Starter:** [[Growl]], [[Pound]]
-- **Beginner:** [[Sing]], [[Disarming Voice]], [[Double Slap]], [[Encore]], [[Defense Curl]]
-- **Amateur:** [[Metronome]], [[Bestow]], [[Follow Me]], [[Minimize]], [[Wake-Up Slap]], [[After You]], [[Stored Power]], [[Spotlight]], [[Cosmic Power]], [[Lucky Chant]]
-- **Ace:** [[Body Slam]], [[Moonlight]], [[Moonblast]], [[Gravity]], [[Meteor Mash]], [[Healing Wish]]
-- **Pro:** [[Swift]], [[Heal Bell]], [[Heal Pulse]]
+- **Beginner:** [[Sing]], [[Disarming_Voice]], [[Double_Slap]], [[Encore]], [[Defense_Curl]]
+- **Amateur:** [[Metronome]], [[Bestow]], [[Follow_Me]], [[Minimize]], [[Wake-Up_Slap]], [[After_You]], [[Stored_Power]], [[Spotlight]], [[Cosmic_Power]], [[Lucky_Chant]]
+- **Ace:** [[Body_Slam]], [[Moonlight]], [[Moonblast]], [[Gravity]], [[Meteor_Mash]], [[Healing_Wish]]
+- **Pro:** [[Swift]], [[Heal_Bell]], [[Heal_Pulse]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0036_Clefable|Clefable]]

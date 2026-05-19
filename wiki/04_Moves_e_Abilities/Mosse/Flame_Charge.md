@@ -1,15 +1,17 @@
 ---
 title: "Flame Charge"
 category: Move
-tags: [move, fire, physical]
+locale: it
+tags: [move, fuoco, physical]
 ---
 
 # Flame Charge
-*Fire | Physical*
+*Fuoco | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 2
 - **Target:** Foe
-- **Effect:** Increase the User's Dexterity.
+- **Traits:** [[Stat_Changes]]
+- **Effect:** Aumenta lo Dexterity dell'utente.
 
-> The Pokemon uses its flames as propulsion to strike the foe.
+> Il Pokemon usa le sue fiamme come propulsione per colpire il nemico.

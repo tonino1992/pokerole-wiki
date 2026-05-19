@@ -1,15 +1,17 @@
 ---
 title: "Coil"
 category: Move
-tags: [move, poison, support]
+locale: it
+tags: [move, veleno, support]
 ---
 
 # Coil
-*Poison | Support*
+*Veleno | Support*
 
 - **Accuracy:** Tough + Intimidate
 - **Damage:** N/A
 - **Target:** User
-- **Effect:** Increase the User's Strength, Defense, and Accuracy.
+- **Traits:** [[Stat_Changes]]
+- **Effect:** Aumenta Strength, Difesa e Accuracy dell'utente.
 
-> The Pokemon curls up its body. In a calm but menacing position it prepares to deliver its strike.
+> Il Pokemon raggomitola il suo corpo. In una posizione calma ma minacciosa si prepara a sferrare il suo colpo.

@@ -1,15 +1,17 @@
 ---
 title: "Dual Chop"
 category: Move
-tags: [move, dragon, physical]
+locale: it
+tags: [move, drago, physical]
 ---
 
 # Dual Chop
-*Dragon | Physical*
+*Drago | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 2
 - **Target:** Foe
-- **Effect:** Double Action. -1 Accuracy.
+- **Traits:** [[Double_Action]], [[Accuracy_Reduction]] (1)
+- **Effect:** Doppia azione. -1Accuracy.
 
-> The Pokemon strikes the foe with brutal blows.
+> Il Pokemon colpisce il nemico con colpi brutali.

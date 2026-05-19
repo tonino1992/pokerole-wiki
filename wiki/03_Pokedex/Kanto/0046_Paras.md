@@ -1,4 +1,4 @@
----
+﻿---
 title: "Paras (#0046)"
 category: Pokedex
 tags: [paras, kanto, bug, grass]
@@ -29,9 +29,15 @@ tags: [paras, kanto, bug, grass]
 
 ## Mosse (Learnset)
 
-- **Starter:** [[Scratch]], [[Stun Spore]]
-- **Beginner:** [[Poison Powder]], [[Absorb]]
-- **Amateur:** [[Fury Cutter]], [[Spore]], [[Slash]], [[Growth]], [[Giga Drain]]
-- **Ace:** [[Aromatherapy]], [[Rage Powder]], [[X-Scissor]]
-- **Pro:** [[Wide Guard]], [[Rototiller]], [[Leech Seed]]
+- **Starter:** [[Scratch]], [[Stun_Spore]]
+- **Beginner:** [[Poison_Powder]], [[Absorb]]
+- **Amateur:** [[Fury_Cutter]], [[Spore]], [[Slash]], [[Growth]], [[Giga_Drain]]
+- **Ace:** [[Aromatherapy]], [[Rage_Powder]], [[X-Scissor]]
+- **Pro:** [[Wide_Guard]], [[Rototiller]], [[Leech_Seed]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0047_Parasect|Parasect]]

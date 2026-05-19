@@ -1,15 +1,17 @@
 ---
 title: "Floaty Fall"
 category: Move
-tags: [move, flying, physical]
+locale: it
+tags: [move, volante, physical]
 ---
 
 # Floaty Fall
-*Flying | Physical*
+*Volante | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 3
 - **Target:** Foe
-- **Effect:** Roll 3 Chance Dice to Flinch the Foe. If the user of this Move is at its Final Stage of Evolution, this move fails.
+- **Traits:** [[Status_Condition]] (Flinch Chance Dice 3)
+- **Effect:** Lancia 3 possibilità da Dice a Flinch Foe. Se l'utente di questa mossa è nella fase finale dell'evoluzione, questa mossa fallisce.
 
-> With the help of some air balloons, the user jumps up high and falls on top of its foe. The use of balloons in-battle is questionable, but the referee will allow them.
+> Con l'aiuto di alcuni palloni aerostatici, l'utilizzatore salta in alto e cade addosso al nemico. L'uso dei palloncini in battaglia è discutibile, ma l'arbitro lo consentirà.

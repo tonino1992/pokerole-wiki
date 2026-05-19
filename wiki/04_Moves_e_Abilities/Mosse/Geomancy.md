@@ -1,15 +1,17 @@
----
+﻿---
 title: "Geomancy"
 category: Move
-tags: [move, fairy, support]
+locale: it
+tags: [move, folletto, support]
 ---
 
 # Geomancy
-*Fairy | Support*
+*Folletto | Support*
 
 - **Accuracy:** Insight + Nature
 - **Damage:** N/A
 - **Target:** User
-- **Effect:** Charge Move. The user charges, then Increases by 2 its Dexterity, Special and Sp. Defense scores on its next Turn.
+- **Traits:** [[Charge_Trait]]
+- **Effect:** Movimento di carica. L'utente addebita, quindi aumenta di 2 i suoi Dexterity, Special e Sp. La difesa segna al prossimo Turn.
 
-> Through a mystical connection this Pokemon absorbs the life force of earth itself to increase its power.
+> Attraverso una connessione mistica questo Pokemon assorbe la forza vitale della terra stessa per aumentare il suo potere.

@@ -252,14 +252,14 @@ possible within official matches. It’s your choice to fight,
 just remember why your Pokémon are doing it.
 A Pokémon battle is divided into four simple stages:
  
-     Initiative 
+     Initiative
 During this stage we decide the attacking order: who 
 goes first and who goes last. 
 Once the order is established, it will stay that way until 
-the end of the fight.  
+the end of the fight. 
 Pokémon may use priority Moves to temporarily change 
 the initiative order, or moves that strategically make 
-others go last.  
+others go last.
     Round
 A Round is a period about 10 seconds long, within that 
 timeframe the Pokémon and Trainers perform their 
@@ -268,8 +268,8 @@ If a Pokémon is fast and experienced it may only need a
 few seconds to perform many attacks in the same Round. 
 A low rank Pokémon might need the whole Round to 
 perform only one attack.
-    Turns
- A Turn is a fraction of the Round when a Pokémon uses 
+  Turns
+A Turn is a fraction of the Round when a Pokémon uses 
 its action to perform a Move. 
     End of the Round 
 Once all Pokémon have performed their respective 

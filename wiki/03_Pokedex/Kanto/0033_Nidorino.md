@@ -1,4 +1,4 @@
----
+﻿---
 title: "Nidorino (#0033)"
 category: Pokedex
 tags: [nidorino, kanto, poison]
@@ -30,8 +30,15 @@ tags: [nidorino, kanto, poison]
 ## Mosse (Learnset)
 
 - **Starter:** [[Peck]], [[Leer]]
-- **Beginner:** [[Focus Energy]], [[Double Kick]], [[Poison Sting]]
-- **Amateur:** [[Fury Attack]], [[Horn Attack]], [[Helping Hand]], [[Toxic Spikes]], [[Poison Jab]]
-- **Ace:** [[Flatter]], [[Captivate]], [[Horn Drill]]
-- **Pro:** [[Lovely Kiss]], [[Morning Sun]], [[Smart Strike]]
+- **Beginner:** [[Focus_Energy]], [[Double_Kick]], [[Poison_Sting]]
+- **Amateur:** [[Fury_Attack]], [[Horn_Attack]], [[Helping_Hand]], [[Toxic_Spikes]], [[Poison_Jab]]
+- **Ace:** [[Flatter]], [[Captivate]], [[Horn_Drill]]
+- **Pro:** [[Lovely_Kiss]], [[Morning_Sun]], [[Smart_Strike]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0032_Nidoran_M|Nidoran M]]
+- [[0034_Nidoking|Nidoking]]

@@ -1,15 +1,17 @@
 ---
 title: "Autotomize"
 category: Move
-tags: [move, steel, support]
+locale: it
+tags: [move, acciaio, support]
 ---
 
 # Autotomize
-*Steel | Support*
+*Acciaio | Support*
 
 - **Accuracy:** Dexterity + Channel
 - **Damage:** N/A
 - **Target:** User
-- **Effect:** Increase the User's Dexterity by 2. User's weight is halved for the rest of Scene.
+- **Traits:** [[Stat_Changes]], [[Status_Condition]] (Autotomize)
+- **Effect:** Aumenta lo Dexterity dell'utente di 2. Il peso dell'utente viene dimezzato per il resto della scena.
 
-> The Pokemon sheds pieces and starts rotating other parts of its body for easier and lighter movement.
+> Il Pokemon perde pezzi e inizia a ruotare altre parti del suo corpo per movimenti più facili e leggeri.

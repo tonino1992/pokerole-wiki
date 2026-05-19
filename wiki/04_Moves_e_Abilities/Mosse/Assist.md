@@ -1,15 +1,16 @@
 ---
 title: "Assist"
 category: Move
-tags: [move, normal, support]
+locale: it
+tags: [move, normale, support]
 ---
 
 # Assist
-*Normal | Support*
+*Normale | Support*
 
 - **Accuracy:** Clever + Perform
 - **Damage:** N/A
 - **Target:** One Ally
-- **Effect:** Choose one Move known by a random member of your party. You performed that Move using the Accuracy roll from Assist.
+- **Effect:** Scegli una mossa conosciuta da un membro casuale del tuo gruppo. Hai eseguito quella mossa utilizzando il tiro Accuracy di Assist.
 
-> The Pokemon hurriedly remembers one action performed by a partner. Some Pokemon can even do what a human does and assist him with any tasks.
+> Il Pokemon ricorda velocemente un'azione eseguita da un partner. Alcuni Pokemon possono persino fare ciò che fa un essere umano e assisterlo in qualsiasi compito.

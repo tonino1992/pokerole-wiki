@@ -1,15 +1,17 @@
 ---
 title: "Focus Energy"
 category: Move
-tags: [move, normal, support]
+locale: it
+tags: [move, normale, support]
 ---
 
 # Focus Energy
-*Normal | Support*
+*Normale | Support*
 
 - **Accuracy:** Insight + Channel
 - **Damage:** N/A
 - **Target:** User
-- **Effect:** All of the user's damage moves now have High Critical. This effect lasts until end of scene or the user is removed from battle.
+- **Traits:** [[High_Critical]], [[Status_Condition]] (FocusEnergy)
+- **Effect:** Tutte le mosse di danno dell'utente ora hanno un livello critico elevato. Questo effetto dura fino alla fine della scena o fino alla rimozione dell'utilizzatore dalla battaglia.
 
-> The Pokemon's energy is raised to make all strikes much more precise.
+> L'energia del Pokemon viene aumentata per rendere tutti i colpi molto più precisi.

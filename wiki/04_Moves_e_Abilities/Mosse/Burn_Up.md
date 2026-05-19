@@ -1,15 +1,17 @@
 ---
 title: "Burn Up"
 category: Move
-tags: [move, fire, special]
+locale: it
+tags: [move, fuoco, special]
 ---
 
 # Burn Up
-*Fire | Special*
+*Fuoco | Special*
 
 - **Accuracy:** Will + Channel
 - **Damage:** Special + 7
 - **Target:** Foe
-- **Effect:** Lethal. After Damage is dealt, the user is no longer considered a Fire-Type for the rest of the day (if its only type was Fire, it is now considered Typeless). Fire-type Moves won't add their Power to the Damage pool of this Pokemon for the rest of the day.
+- **Traits:** [[Lethal]]
+- **Effect:** Letale. Dopo che Damage è stato distribuito, l'utente non è più considerato di tipo Fuoco per il resto della giornata (se il suo unico tipo era Fuoco, ora è considerato Senza tipo). Le mosse di tipo Fuoco non aggiungeranno il loro potere alla riserva Damage di questo Pokemon per il resto della giornata.
 
-> The User unleashes all of its might through a massive blast of raging fire. Although the damage is devastating the Pokemon is left unable to produce more fire for at least a day.
+> L'Utilizzatore scatena tutta la sua potenza attraverso una massiccia esplosione di fuoco violento. Sebbene il danno sia devastante, il Pokemon non è in grado di produrre altro fuoco per almeno un giorno.

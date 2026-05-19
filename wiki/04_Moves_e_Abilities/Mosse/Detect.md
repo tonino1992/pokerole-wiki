@@ -1,15 +1,17 @@
 ---
 title: "Detect"
 category: Move
-tags: [move, fighting, support]
+locale: it
+tags: [move, lotta, support]
 ---
 
 # Detect
-*Fighting | Support*
+*Lotta | Support*
 
 - **Accuracy:** Insight + Alert
 - **Damage:** N/A
 - **Target:** User
-- **Effect:** Priority. Shield Move. Reduce 3 Damage this pokemon would receive from a Damaging Move. Negate effects of Support Moves that target the user. Reduce to zero the set damage from a move the user would take.
+- **Traits:** [[Shield]]
+- **Effect:** Priorità. Movimento dello scudo. Riduci 3 Damage che questo Pokemon riceverebbe da una mossa dannosa. Effetti negativi delle mosse Support che prendono di mira l'utente. Riduci a zero il danno impostato da una mossa che l'utente farebbe.
 
-> The user detects the intentions of the attacker and acts out to minimize the damage.
+> L'utente rileva le intenzioni dell'aggressore e agisce per ridurre al minimo il danno.

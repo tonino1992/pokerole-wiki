@@ -1,15 +1,17 @@
 ---
 title: "Baby-Doll Eyes"
 category: Move
-tags: [move, fairy, support]
+locale: it
+tags: [move, folletto, support]
 ---
 
 # Baby-Doll Eyes
-*Fairy | Support*
+*Folletto | Support*
 
 - **Accuracy:** Cute + Allure
 - **Damage:** N/A
 - **Target:** Foe
-- **Effect:** Priority 1. Reduce foe's Strength.
+- **Traits:** [[Priority]] (1), [[Stat_Changes]]
+- **Effect:** Priorità 1. Ridurre lo Strength del nemico.
 
-> Before anyone acts in battle, the user looks at the foe with the cutest eyes.
+> Prima che qualcuno agisca in battaglia, l'utilizzatore guarda il nemico con gli occhi più teneri.

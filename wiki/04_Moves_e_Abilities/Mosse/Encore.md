@@ -1,15 +1,17 @@
 ---
 title: "Encore"
 category: Move
-tags: [move, normal, support]
+locale: it
+tags: [move, normale, support]
 ---
 
 # Encore
-*Normal | Support*
+*Normale | Support*
 
 - **Accuracy:** Cool + Allure
 - **Damage:** N/A
 - **Target:** Foe
-- **Effect:** For the duration of this effect, the target will repeat the exact same action sequence it had this round. Target must have had an action sequence. Last 4 Rounds. Priority 3.
+- **Traits:** [[Priority]] (3)
+- **Effect:** Per la durata di questo effetto, il bersaglio ripeterà esattamente la stessa sequenza di azioni che ha avuto in questo round. Target deve aver avuto una sequenza di azioni. Ultimi 4 Rounds. Priorità 3.
 
-> The user claps and cheers at the target to encourage it to repeat what it just did.
+> L'utente applaude e applaude il bersaglio per incoraggiarlo a ripetere ciò che ha appena fatto.

@@ -1,15 +1,16 @@
 ---
 title: "Flying Press"
 category: Move
-tags: [move, fighting, physical]
+locale: it
+tags: [move, lotta, physical]
 ---
 
 # Flying Press
-*Fighting | Physical*
+*Lotta | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 3
 - **Target:** Foe
-- **Effect:** When Dealing damage with this move, it counts as if this move was also Flying Type.
+- **Effect:** Quando si infligge danno con questa mossa, conta come se anche questa mossa fosse di tipo Volante.
 
-> The user flies towards the foe from the sky in pure Lucha Libre style.
+> L'utilizzatore vola verso il nemico dal cielo in puro stile Lucha Libre.

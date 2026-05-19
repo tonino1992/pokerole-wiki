@@ -1,15 +1,16 @@
 ---
 title: "Electro Ball"
 category: Move
-tags: [move, electric, special]
+locale: it
+tags: [move, elettro, special]
 ---
 
 # Electro Ball
-*Electric | Special*
+*Elettro | Special*
 
 - **Accuracy:** Dexterity + Channel
 - **Damage:** Special + 2
 - **Target:** Foe
-- **Effect:** The user adds 1 Dice to the Damage Pool for every Dexterity point the User has that surpasses the foe's. Up to 4 Dice may be added.
+- **Effect:** L'utente aggiunge 1 Dice al pool Damage per ogni punto Dexterity che supera quello del nemico. Si possono aggiungere fino a 4 Dice.
 
-> The Pokemon creates a small electricity orb that is hurled at the target. If the user is faster, the impact will be bigger.
+> Il Pokemon crea una piccola sfera elettrica che viene lanciata contro il bersaglio. Se l’utente è più veloce, l’impatto sarà maggiore.

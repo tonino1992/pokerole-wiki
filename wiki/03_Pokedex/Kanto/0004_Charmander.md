@@ -1,4 +1,4 @@
----
+﻿---
 title: "Charmander (#0004)"
 category: Pokedex
 tags: [charmander, kanto, fire]
@@ -32,7 +32,14 @@ It needs proper care and discipline or else it may rebel later on.
 
 - **Starter:** [[Scratch]], [[Growl]]
 - **Beginner:** [[Ember]], [[Smokescreen]]
-- **Amateur:** [[Dragon Rage]], [[Scary Face]], [[Fire Fang]], [[Flame Burst]], [[Slash]], [[Fire Spin]]
+- **Amateur:** [[Dragon_Rage]], [[Scary_Face]], [[Fire_Fang]], [[Flame_Burst]], [[Slash]], [[Fire_Spin]]
 - **Ace:** [[Flamethrower]], [[Inferno]]
-- **Pro:** [[Metal Claw]], [[Dragon Dance]], [[Fire Pledge]]
+- **Pro:** [[Metal_Claw]], [[Dragon_Dance]], [[Fire_Pledge]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0005_Charmeleon|Charmeleon]]
+- [[0006_Charizard|Charizard]]

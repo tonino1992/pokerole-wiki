@@ -1,15 +1,17 @@
 ---
 title: "Chatter"
 category: Move
-tags: [move, flying, special]
+locale: it
+tags: [move, volante, special]
 ---
 
 # Chatter
-*Flying | Special*
+*Volante | Special*
 
 - **Accuracy:** Insight + Perform
 - **Damage:** Special + 2
 - **Target:** Foe
-- **Effect:** Roll 3 Chance Dice to Confuse the foe. Sound based move.
+- **Traits:** [[Sound_Based]], [[Status_Condition]] (Confuse Chance Dice 3)
+- **Effect:** Tira 3 possibilità Dice di Confondere il nemico. Mossa basata sul suono.
 
-> The user starts talking and giving orders in human language. It may be extremely confusing for the foes.
+> L'utente inizia a parlare e dare ordini in linguaggio umano. Potrebbe essere estremamente confuso per i nemici.

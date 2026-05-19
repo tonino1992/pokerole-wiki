@@ -1,4 +1,4 @@
----
+﻿---
 title: "Golduck (#0055)"
 category: Pokedex
 tags: [golduck, kanto, water]
@@ -29,9 +29,15 @@ tags: [golduck, kanto, water]
 
 ## Mosse (Learnset)
 
-- **Starter:** [[Water Sport]], [[Scratch]]
-- **Beginner:** [[Tail Whip]], [[Water Gun]], [[Disable]], [[Confusion]]
-- **Amateur:** [[Amnesia]], [[Aqua Jet]], [[Water Pulse]], [[Fury Swipes]], [[Screech]], [[Soak]], [[Zen Headbutt]]
-- **Ace:** [[Psych Up]], [[Me First]], [[Hydro Pump]], [[Wonder Room]]
-- **Pro:** [[Tri Attack]], [[Confuse Ray]], [[Future Sight]]
+- **Starter:** [[Water_Sport]], [[Scratch]]
+- **Beginner:** [[Tail_Whip]], [[Water_Gun]], [[Disable]], [[Confusion]]
+- **Amateur:** [[Amnesia]], [[Aqua_Jet]], [[Water_Pulse]], [[Fury_Swipes]], [[Screech]], [[Soak]], [[Zen_Headbutt]]
+- **Ace:** [[Psych_Up]], [[Me_First]], [[Hydro_Pump]], [[Wonder_Room]]
+- **Pro:** [[Tri_Attack]], [[Confuse_Ray]], [[Future_Sight]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0054_Psyduck|Psyduck]]

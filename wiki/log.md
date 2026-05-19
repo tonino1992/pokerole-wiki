@@ -174,6 +174,25 @@ Registro cronologico append-only. Ogni operazione viene registrata con data, tip
 - **File creato:** `05_Strumenti_e_Oggetti/Healing_Items.md`
 - **Contenuto:** Catalogo completo degli oggetti curativi. Pozioni (in "Unità" da 2 a 14, con Max Potion e Full Restore bannate dalle competizioni per bypass dei limiti). Status Heals (Antidoti, Ice Heal, ecc.). Bacche curative (da consumare intere in natura). Erboristeria (Energy Root, Heal Powder, ecc.: cure potenti ma dal sapore terribile che riducono l'Happiness del Pokémon). Revive (frammenti di pietre magiche non creabili dai giocatori). Energy Drinks per il recupero fuori combattimento. Le tabelle non sono state estratte come immagini ma trascritte in Markdown per facilitare la ricerca e l'accessibilità.
 
+## [2026-05-18] ingest | database-moves
+- **Tipo:** Ingest / API Script
+- **Fonte:** Database Ufficiale `Pokerole-Data` su GitHub (`v2.0/Moves/`)
+- **Azioni eseguite:**
+  1. Aggiornato `wiki/00_Meta/ingest_moves_json.py` con supporto **resume**: le mosse già presenti su disco vengono saltate automaticamente, permettendo di riprendere l'ingest senza riscrivere i file esistenti.
+  2. Aggiunto import mancante `urllib.parse` per la codifica corretta degli URL con spazi e caratteri speciali.
+  3. Eseguito lo script: 261 mosse già presenti saltate, **473 mosse generate in questa sessione**.
+  4. Totale finale: **734 file Markdown** in `wiki/04_Moves_e_Abilities/Mosse/`, dalla A (Absorb) alla Z (Zippy Zap).
+- **Formato file:** Ogni Move include frontmatter YAML (title, category, tags), intestazione con Tipo e Categoria, campi Accuracy / Damage / Target / Effect, e descrizione narrativa.
+- **Aggiornamenti:** `ingest_queue.md` (segnato `[x]`).
+
+## [2026-05-18] ingest | mosse-tratti-icons
+- **Tipo:** Ingest / API Script
+- **Fonte:** Database Ufficiale `Pokerole-Data` su GitHub
+- **Azioni eseguite:**
+  1. Scaricato master zip repository per ottenere tutti i file JSON delle mosse localmente.
+  2. Generati 23 file Markdown esplicativi dentro `wiki/04_Moves_e_Abilities/Tratti/` corrispondenti ai vecchi "icon effects" (es. Lethal, Sound Based, Status Condition).
+  3. Modificate tutte le 734 mosse esistenti, inserendo il campo `- **Traits:**` con Wikilink dinamici (es. `[[Status_Condition]] (Burn Chance Dice 1)`) tramite lettura di `Attributes` e `AddedEffects` nativi dei JSON originali.
+
 ## [2026-05-16] ingest | pokedex-kanto-json-revised
 - **Tipo:** Ingest / API Script
 - **Fonte:** Database Ufficiale `Pokerole-Data` su GitHub
@@ -183,3 +202,33 @@ Registro cronologico append-only. Ogni operazione viene registrata con data, tip
   3. Eliminati i vecchi file generati ed eliminate le vecchie immagini PNG a pagina intera dalla cartella assets.
   4. Rieseguito lo script per generare 151 file Markdown puri, perfetti e pronti per connettersi al database delle mosse futuro.
 - **Aggiornamenti:** `ingest_queue.md` (segnato `[x]`).
+
+## [2026-05-18] ingest | creazione-scheda-bulbasaur-base
+- **Tipo:** Ingest / Creazione Personaggio
+- **Fonte:** Regole di creazione da `wiki/02_Allenatori/Creazione_Pokemon.md` e statistiche da `wiki/03_Pokedex/Kanto/0001_Bulbasaur.md`
+- **File creato:** `wiki/02_Allenatori/Scheda_Pokemon_Bulbasaur.md`
+- **Contenuto:** Scheda personaggio compilata di un Bulbasaur base di Rank *Starter* pronto all'uso, con calcoli di HP, Will, Initiative, Evasion, Clash, attribuzione delle 5 starting Skill, scelta della natura *Docile* (Confidence 7), dell'abilità *Overgrow* e pre-calcolo dei dadi di precisione (Accuracy) e danno delle mosse di partenza (*Tackle* e *Growl*).
+- **Aggiornamenti:** `wiki/index.md` (aggiunto link all'indice generale).
+
+## [2026-05-18] ingest | riorganizzazione-schede-e-venusaur-ace
+- **Tipo:** Ingest / Riorganizzazione e Creazione Personaggio
+- **Fonte:** Regole di creazione da `wiki/02_Allenatori/Creazione_Pokemon.md` e statistiche da `wiki/03_Pokedex/Kanto/0003_Venusaur.md`
+- **File creati:** `wiki/schede/Venusaur_Scheda.md` (Venusaur Ace Rank) e `wiki/schede/Bulbasaur_Scheda.md` (Bulbasaur Starter Rank, spostato per uniformità).
+- **Contenuto:** 
+  1. Creazione della nuova cartella dedicata `wiki/schede/` per raggruppare tutte le schede dei Pokémon.
+  2. Compilazione della scheda personaggio per un Venusaur di Rank *Ace* pronto all'uso, con calcoli avanzati di HP (9), Will (6), Initiative (5), Evasion (6), Clash (5), Defense (4), Special Defense (4), attribuzione di 14 punti Skill e 6 punti Social extra, scelta della natura *Calm* (Confidence 8), dell'abilità *Overgrow* e pre-calcolo delle mosse *[[Tackle]]*, *[[Leech_Seed]]*, *[[Vine_Whip]]*, *[[Razor_Leaf]]*, *[[Synthesis]]*, *[[Solar_Beam]]*.
+  3. Spostamento di Bulbasaur base nella cartella `schede/`.
+- **Aggiornamenti:** `wiki/index.md` (aggiornati i link semantici all'indice generale).
+
+## [2026-05-19] lint | audit-completo-e-pulizia-link
+
+- **Tipo:** Lint / Manutenzione
+- **Azioni eseguite:**
+  1. **Audit completo:** Analizzati 933 file .md, 3.666 link validi, 521 link rotti identificati, 404 file orfani censiti.
+  2. **Tratti mancanti creati (7):** `TerrainEffect.md`, `IgnoreShield.md`, `UserFaints.md`, `AlwaysCrit.md`, `Rampage.md`, `ResistedWithDefense.md`, `ResetTerrain.md` in `04_Moves_e_Abilities/Tratti/`. Risolti ~30 link rotti dalle mosse.
+  3. **Duplicato Charge risolto:** Rinominato `Tratti/Charge.md` → `Tratti/Charge_Trait.md`. Aggiornate 15 mosse che referenziavano `[[Charge]]` come trait → `[[Charge_Trait]]`.
+  4. **Pagine Tipo individuali create (18):** Generata cartella `03_Pokedex/Tipi/` con file per ogni tipo in italiano (Fuoco.md, Acqua.md, Erba.md, ecc.). Risolti ~30 link rotti dalle schede compilate.
+  5. **Index.md ripulito:** 15 link a pagine non ancora create marcati con 🔥 e nota *(da creare)* per chiarezza.
+  6. **Catene evolutive aggiunte:** Inserita sezione `## Correlati` con `### Catena Evolutiva` in 124 Pokémon Kanto, collegandoli ai loro compagni di linea evolutiva.
+- **Link rotti residui:** ~300 link a Abilities mancanti (es. `[[Overgrow]]`, `[[Chlorophyll]]`). Richiedono ingest dedicato dal repository Pokerole-Data.
+- **Script di audit:** Salvato in `00_Meta/audit_links.ps1` per futuri controlli.

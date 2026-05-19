@@ -1,4 +1,4 @@
----
+﻿---
 title: "Dragonair (#0148)"
 category: Pokedex
 tags: [dragonair, kanto, dragon]
@@ -30,8 +30,15 @@ tags: [dragonair, kanto, dragon]
 ## Mosse (Learnset)
 
 - **Starter:** [[Wrap]], [[Leer]]
-- **Beginner:** [[Thunder Wave]], [[Twister]]
-- **Amateur:** [[Dragon Rage]], [[Slam]], [[Agility]], [[Dragon Tail]], [[Aqua Tail]], [[Dragon Rush]], [[Safeguard]]
-- **Ace:** [[Dragon Dance]], [[Outrage]], [[Hyper Beam]]
-- **Pro:** [[Aqua Jet]], [[Extreme Speed]], [[Mist]]
+- **Beginner:** [[Thunder_Wave]], [[Twister]]
+- **Amateur:** [[Dragon_Rage]], [[Slam]], [[Agility]], [[Dragon_Tail]], [[Aqua_Tail]], [[Dragon_Rush]], [[Safeguard]]
+- **Ace:** [[Dragon_Dance]], [[Outrage]], [[Hyper_Beam]]
+- **Pro:** [[Aqua_Jet]], [[Extreme_Speed]], [[Mist]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0147_Dratini|Dratini]]
+- [[0149_Dragonite|Dragonite]]

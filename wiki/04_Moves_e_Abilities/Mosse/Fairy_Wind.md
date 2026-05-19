@@ -1,15 +1,16 @@
 ---
 title: "Fairy Wind"
 category: Move
-tags: [move, fairy, special]
+locale: it
+tags: [move, folletto, special]
 ---
 
 # Fairy Wind
-*Fairy | Special*
+*Folletto | Special*
 
 - **Accuracy:** Dexterity + Channel
 - **Damage:** Special + 2
 - **Target:** Foe
 - **Effect:** -
 
-> The Pokemon strikes with a wind covered in fairy dust. It causes itching.
+> Il Pokemon colpisce con un vento ricoperto di polvere di fata. Provoca prurito.

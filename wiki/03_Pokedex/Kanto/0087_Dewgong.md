@@ -1,4 +1,4 @@
----
+﻿---
 title: "Dewgong (#0087)"
 category: Pokedex
 tags: [dewgong, kanto, water, ice]
@@ -29,9 +29,15 @@ tags: [dewgong, kanto, water, ice]
 
 ## Mosse (Learnset)
 
-- **Starter:** [[Signal Beam]], [[Growl]]
-- **Beginner:** [[Encore]], [[Icy Wind]], [[Take Down]]
-- **Amateur:** [[Ice Shard]], [[Rest]], [[Aqua Ring]], [[Aurora Beam]], [[Aqua Jet]], [[Brine]], [[Sheer Cold]], [[Headbutt]], [[Dive]]
-- **Ace:** [[Aqua Tail]], [[Ice Beam]], [[Safeguard]], [[Hail]]
-- **Pro:** [[Avalanche]], [[Perish Song]], [[Horn Drill]]
+- **Starter:** [[Signal_Beam]], [[Growl]]
+- **Beginner:** [[Encore]], [[Icy_Wind]], [[Take_Down]]
+- **Amateur:** [[Ice_Shard]], [[Rest]], [[Aqua_Ring]], [[Aurora_Beam]], [[Aqua_Jet]], [[Brine]], [[Sheer_Cold]], [[Headbutt]], [[Dive]]
+- **Ace:** [[Aqua_Tail]], [[Ice_Beam]], [[Safeguard]], [[Hail]]
+- **Pro:** [[Avalanche]], [[Perish_Song]], [[Horn_Drill]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0086_Seel|Seel]]

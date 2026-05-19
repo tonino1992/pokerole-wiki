@@ -1,15 +1,17 @@
 ---
 title: "Draco Meteor"
 category: Move
-tags: [move, dragon, special]
+locale: it
+tags: [move, drago, special]
 ---
 
 # Draco Meteor
-*Dragon | Special*
+*Drago | Special*
 
 - **Accuracy:** Special + Channel
 - **Damage:** Special + 6
 - **Target:** Foe
-- **Effect:** Lethal. Reduce User's Special by 2. -1 Accuracy.
+- **Traits:** [[Lethal]], [[Accuracy_Reduction]] (1), [[Stat_Changes]]
+- **Effect:** Letale. Riduci Special dell'utente di 2. -1 Accuracy.
 
-> The Pokemon calls a comet that falls from the sky to deal a brutal amount of damage. This feat demands a lot from the user.
+> Il Pokemon evoca una cometa che cade dal cielo per infliggere una quantità brutale di danni. Questa impresa richiede molto dall'utente.

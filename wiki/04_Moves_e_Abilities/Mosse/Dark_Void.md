@@ -1,15 +1,17 @@
 ---
 title: "Dark Void"
 category: Move
-tags: [move, dark, support]
+locale: it
+tags: [move, buio, support]
 ---
 
 # Dark Void
-*Dark | Support*
+*Buio | Support*
 
 - **Accuracy:** Insight + Channel
 - **Damage:** N/A
 - **Target:** All Foes
-- **Effect:** All Foes in Range have the Sleep condition.  -3 Accuracy.
+- **Traits:** [[Accuracy_Reduction]] (3), [[Status_Condition]] (Sleep)
+- **Effect:** Tutti i nemici a portata hanno la condizione Sleep.  -3Accuracy.
 
-> A portal opens and transports all foes to a world of darkness, inside they can't see or feel anything, it's like they are trapped in an eternal slumber.
+> Un portale si apre e trasporta tutti i nemici in un mondo di oscurità, all'interno non possono vedere né sentire nulla, è come se fossero intrappolati in un sonno eterno.

@@ -1,15 +1,17 @@
----
+﻿---
 title: "Dig"
 category: Move
-tags: [move, ground, physical]
+locale: it
+tags: [move, terra, physical]
 ---
 
 # Dig
-*Ground | Physical*
+*Terra | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 3
 - **Target:** Foe
-- **Effect:** Charge Move. While charging this move, the User will be out of range. Can be hit by Earthquake, Magnitude, or a similar move.
+- **Traits:** [[Charge_Trait]], [[Status_Condition]] (Dig)
+- **Effect:** Movimento di carica. Durante la carica di questa mossa, l'Utente sarà fuori portata. Può essere colpito da Terremoto, Magnitudo o mosse simili.
 
-> The user digs a tunnel on the ground and attacks while coming out from below.
+> L'utilizzatore scava un tunnel sul terreno e attacca uscendo dal basso.

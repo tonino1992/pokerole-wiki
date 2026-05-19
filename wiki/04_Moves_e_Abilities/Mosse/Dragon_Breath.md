@@ -1,15 +1,17 @@
 ---
 title: "Dragon Breath"
 category: Move
-tags: [move, dragon, special]
+locale: it
+tags: [move, drago, special]
 ---
 
 # Dragon Breath
-*Dragon | Special*
+*Drago | Special*
 
 - **Accuracy:** Dexterity + Channel
 - **Damage:** Special + 2
 - **Target:** Foe
-- **Effect:** Roll 3 Chance Dice to Paralyze the foe.
+- **Traits:** [[Status_Condition]] (Paralyze Chance Dice 3)
+- **Effect:** Lancia 3 possibilità Dice di paralizzare il nemico.
 
-> The user lets out a mystical green breath that hinders the movement of anyone it touches.
+> Chi lo usa emette un mistico soffio verde che ostacola il movimento di chiunque tocchi.

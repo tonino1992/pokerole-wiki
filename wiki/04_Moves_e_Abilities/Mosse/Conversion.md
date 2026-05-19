@@ -1,15 +1,17 @@
 ---
 title: "Conversion"
 category: Move
-tags: [move, normal, support]
+locale: it
+tags: [move, normale, support]
 ---
 
 # Conversion
-*Normal | Support*
+*Normale | Support*
 
 - **Accuracy:** Will + Channel
 - **Damage:** N/A
 - **Target:** User
-- **Effect:** The user changes its type at random.
+- **Traits:** [[Status_Condition]] (Conversion)
+- **Effect:** L'utente cambia il suo tipo in modo casuale.
 
-> The Pokemon downloads the data of a Move to add it to its code.
+> Il Pokemon scarica i dati di una mossa per aggiungerli al suo codice.

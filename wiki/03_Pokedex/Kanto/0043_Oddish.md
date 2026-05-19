@@ -1,4 +1,4 @@
----
+﻿---
 title: "Oddish (#0043)"
 category: Pokedex
 tags: [oddish, kanto, grass, poison]
@@ -8,7 +8,7 @@ tags: [oddish, kanto, grass, poison]
 *Weed Pokemon*
 
 **Type:** Grass / Poison
-**Abilities:** [[Chlorophyll]], [[Run Away]] *(Hidden)*
+**Abilities:** [[Chlorophyll]], [[Run_Away]] *(Hidden)*
 **Base HP:** 3
 
 > This Pokemon grows by absorbing moonlight. During daytime, it buries itself in the ground, leaving only its leaves exposed to avoid detection by its predators. You can locate it by the smell its leaves release.
@@ -30,8 +30,15 @@ tags: [oddish, kanto, grass, poison]
 ## Mosse (Learnset)
 
 - **Starter:** [[Growth]], [[Absorb]]
-- **Beginner:** [[Sweet Scent]], [[Acid]]
-- **Amateur:** [[Poison Powder]], [[Stun Spore]], [[Sleep Powder]], [[Mega Drain]], [[Lucky Chant]], [[Natural Gift]], [[Moonlight]]
-- **Ace:** [[Giga Drain]], [[Petal Dance]], [[Moonblast]], [[Grassy Terrain]]
-- **Pro:** [[Charm]], [[Gastro Acid]], [[Endure]]
+- **Beginner:** [[Sweet_Scent]], [[Acid]]
+- **Amateur:** [[Poison_Powder]], [[Stun_Spore]], [[Sleep_Powder]], [[Mega_Drain]], [[Lucky_Chant]], [[Natural_Gift]], [[Moonlight]]
+- **Ace:** [[Giga_Drain]], [[Petal_Dance]], [[Moonblast]], [[Grassy_Terrain]]
+- **Pro:** [[Charm]], [[Gastro_Acid]], [[Endure]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0044_Gloom|Gloom]]
+- [[0045_Vileplume|Vileplume]]

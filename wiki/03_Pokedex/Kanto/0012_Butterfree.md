@@ -1,4 +1,4 @@
----
+﻿---
 title: "Butterfree (#0012)"
 category: Pokedex
 tags: [butterfree, kanto, bug, flying]
@@ -30,8 +30,15 @@ tags: [butterfree, kanto, bug, flying]
 ## Mosse (Learnset)
 
 - **Starter:** [[Confusion]], [[Gust]]
-- **Beginner:** [[Stun Spore]], [[Sleep Powder]], [[Poison Powder]]
-- **Amateur:** [[Supersonic]], [[Whirlwind]], [[Psybeam]], [[Silver Wind]], [[Tailwind]], [[Rage Powder]], [[Captivate]]
-- **Ace:** [[Safeguard]], [[Electroweb]], [[Air Slash]], [[Quiver Dance]]
-- **Pro:** [[Nightmare]], [[Signal Beam]], [[Bug Buzz]]
+- **Beginner:** [[Stun_Spore]], [[Sleep_Powder]], [[Poison_Powder]]
+- **Amateur:** [[Supersonic]], [[Whirlwind]], [[Psybeam]], [[Silver_Wind]], [[Tailwind]], [[Rage_Powder]], [[Captivate]]
+- **Ace:** [[Safeguard]], [[Electroweb]], [[Air_Slash]], [[Quiver_Dance]]
+- **Pro:** [[Nightmare]], [[Signal_Beam]], [[Bug_Buzz]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0010_Caterpie|Caterpie]]
+- [[0011_Metapod|Metapod]]

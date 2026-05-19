@@ -1,4 +1,4 @@
----
+﻿---
 title: "Snorlax (#0143)"
 category: Pokedex
 tags: [snorlax, kanto, normal]
@@ -29,9 +29,9 @@ tags: [snorlax, kanto, normal]
 
 ## Mosse (Learnset)
 
-- **Starter:** [[Tackle]], [[Defense Curl]]
+- **Starter:** [[Tackle]], [[Defense_Curl]]
 - **Beginner:** [[Amnesia]], [[Lick]], [[Yawn]]
-- **Amateur:** [[Chip Away]], [[Body Slam]], [[Rest]], [[Snore]], [[Sleep Talk]], [[Rollout]], [[Block]], [[Crunch]]
-- **Ace:** [[Belly Drum]], [[Heavy Slam]], [[Giga Impact]], [[High Horsepower]]
-- **Pro:** [[Outrage]], [[Gunk Shot]], [[Self Destruct]]
+- **Amateur:** [[Chip_Away]], [[Body_Slam]], [[Rest]], [[Snore]], [[Sleep_Talk]], [[Rollout]], [[Block]], [[Crunch]]
+- **Ace:** [[Belly_Drum]], [[Heavy_Slam]], [[Giga_Impact]], [[High_Horsepower]]
+- **Pro:** [[Outrage]], [[Gunk_Shot]], [[Self_Destruct]]
 

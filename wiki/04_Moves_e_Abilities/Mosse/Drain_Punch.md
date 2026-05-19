@@ -1,15 +1,17 @@
 ---
 title: "Drain Punch"
 category: Move
-tags: [move, fighting, physical]
+locale: it
+tags: [move, lotta, physical]
 ---
 
 # Drain Punch
-*Fighting | Physical*
+*Lotta | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 3
 - **Target:** Foe
-- **Effect:** Fist Based. The user restore HP equal to half the damage dealt, rounded down.
+- **Traits:** [[Fist_Based]], [[Heal]] (50%)
+- **Effect:** Basato sul pugno. L'utente ripristina HP pari alla metà del danno inflitto, arrotondato per difetto.
 
-> The Pokemon strikes with a powerful punch. Through contact, it absorbs some vital energy.
+> Il Pokemon colpisce con un potente pugno. Attraverso il contatto assorbe parte dell'energia vitale.

@@ -1,15 +1,17 @@
 ---
 title: "Egg Bomb"
 category: Move
-tags: [move, normal, physical]
+locale: it
+tags: [move, normale, physical]
 ---
 
 # Egg Bomb
-*Normal | Physical*
+*Normale | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 4
 - **Target:** Foe
-- **Effect:** Ranged. -2 Accuracy.
+- **Traits:** [[Physical_Ranged]], [[Accuracy_Reduction]] (2)
+- **Effect:** A distanza. -2Accuracy.
 
-> The user throws a big egg with great force against its foe.
+> Chi lo usa lancia un grosso uovo con grande forza contro il nemico.

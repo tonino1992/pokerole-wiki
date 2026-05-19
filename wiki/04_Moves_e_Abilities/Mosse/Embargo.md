@@ -1,15 +1,17 @@
 ---
 title: "Embargo"
 category: Move
-tags: [move, dark, support]
+locale: it
+tags: [move, buio, support]
 ---
 
 # Embargo
-*Dark | Support*
+*Buio | Support*
 
 - **Accuracy:** Tough + Intimidate
 - **Damage:** N/A
 - **Target:** Foe
-- **Effect:** The target cannot use its held item nor can its trainer use items on it.
+- **Traits:** [[Status_Condition]] (Embargo)
+- **Effect:** Il bersaglio non può usare l'oggetto che tiene, né il suo allenatore può usare gli oggetti su di esso.
 
-> The user quickly takes out the held item of a Pokemon. It also empties the bag of the trainer and forces everyone to stay away from their own properties. Evildoers master this Move.
+> L'utente estrae rapidamente l'oggetto tenuto da un Pokemon. Svuota anche la borsa dell'allenatore e costringe tutti a stare lontani dalle proprie proprietà. I malfattori padroneggiano questa mossa.

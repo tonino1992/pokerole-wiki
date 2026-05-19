@@ -92,24 +92,28 @@ Di seguito l'elenco dei bersagli validi:
 
 Il sistema di Pokérole abbonda di effetti secondari. Ecco la traduzione completa delle icone Effetto:
 
-- **Chance Dice:** Si tirano a parte per vedere se l'effetto si applica. Basta **un solo successo** sui dadi aggiuntivi per innescare l'effetto secondario (es. *Paralysis*).
-- **Heal:** Le mosse curative richiedono sempre di spendere **1 Will Point** per essere attivate.
-- **Block:** Il bersaglio non può fuggire né essere sostituito.
-- **Charge:** Richiede un'azione per caricare la mossa e si lancia nel turno successivo.
-- **Fist Based:** La mossa richiede l'uso di mani o pugni.
-- **High Crit:** Mette a segno un *Critical Hit* richiedendo 1 successo in meno del normale.
-- **Lethal:** Infligge Danni Letali (*Lethal Damage*).
-- **Must Recharge:** Dopo aver colpito, l'User deve riposare durante la sua prima azione del Round successivo.
-- **Never Fail:** La mossa **non può essere evasa**, ma può subire un *Clash*.
-- **Priority / Low Priority:** Le mosse con *Priority* alta ignorano l'iniziativa e agiscono subito. Quelle a bassa priorità agiscono sempre alla fine del round.
-- **Rampage:** Può essere usata fino a 3 volte nello stesso Round, ma l'User non può evadere e, alla fine della furia, sarà *Confused*.
-- **Recoil:** L'User subisce danni dalla propria mossa. Ogni successo del danno inflitto viene tirato di nuovo come danno diretto all'User.
-- **Shield:** Se si usa una mossa scudo consecutivamente, la sua *Accuracy* subisce un malus di 2 dadi al secondo utilizzo.
-- **Sound Based:** Queste mosse ignorano barriere come *Substitute, Light Screen, Reflect*.
-- **Successive Actions:** Mosse che permettono colpi multipli (2 o 5) prima che il nemico possa reagire.
-- **Switcher Move:** Sostituisce un Pokémon in campo con uno in panchina (max 1 a round).
+- [[Status_Condition]]: Infligge uno stato alterato (*Burn, Freeze, Poison, Sleep, Confusion, Paralysis, Flinch, Infatuation*). Usa i *Chance Dice*.
+- [[Heal]]: Le mosse curative richiedono sempre di spendere **1 Will Point** per essere attivate. Include anche [[Ailment_Heal]] (cura alterazioni di stato).
+- **Block:** Il bersaglio non può fuggire né essere sostituito. (Spesso associato a [[Block_Damage_Pool]]).
+- [[Charge]]: Richiede un'azione per caricare la mossa e si lancia nel turno successivo.
+- [[Double_Action]]: Richiede due azioni consecutive per completare l'effetto.
+- [[Fist_Based]]: La mossa richiede l'uso di mani o pugni.
+- [[High_Critical]]: Mette a segno un *Critical Hit* richiedendo 1 successo in meno del normale.
+- [[Lethal]]: Infligge Danni Letali (*Lethal Damage*).
+- [[Must_Recharge]]: Dopo aver colpito, l'User deve riposare durante la sua prima azione del Round successivo.
+- [[Never_Fail]]: La mossa **non può essere evasa**, ma può subire un *Clash*.
+- [[Priority]]: Le mosse con *Priority* alta ignorano l'iniziativa e agiscono subito. Quelle a bassa priorità agiscono sempre alla fine del round.
+- **Rampage:** Può essere usata fino a 3 volte nello stesso Round (spesso associata a blocchi e confusione finale).
+- [[Recoil]]: L'User subisce danni di contraccolpo.
+- [[Shield]]: Una mossa scudo. Usata consecutivamente, la sua *Accuracy* subisce un malus di 2 dadi al secondo utilizzo.
+- [[Destroy_Shield]]: Distrugge attivamente le barriere nemiche.
+- [[Sound_Based]]: Queste mosse ignorano barriere come *Substitute, Light Screen, Reflect*.
+- [[Successive_Actions]]: Mosse che permettono colpi multipli (2 o 5) prima che il nemico possa reagire.
+- [[Switcher_Move]]: Sostituisce un Pokémon in campo con uno in panchina (max 1 a round).
+- [[Stat_Changes]]: Aumenta o riduce le statistiche (*Accuracy_Reduction*, *Ignore_Defenses*).
+- [[Physical_Ranged]]: Mossa fisica che può colpire a distanza senza causare contatto.
+- [[Fixed_Damage]]: Infligge una quantità di danno fissa che bypassa i normali calcoli.
 - **Weather:** Cambia il clima sul campo di battaglia.
-- **Status Condition Box:** Indica che la mossa infligge uno stato alterato (*Burn, Freeze, Poison, Sleep, Confusion, Paralysis, Flinch, Infatuation*).
 
 ![Moves Icons - Effects](../assets/images/moves_icons_2.png)
 

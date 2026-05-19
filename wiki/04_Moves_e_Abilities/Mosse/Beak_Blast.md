@@ -1,15 +1,17 @@
----
+﻿---
 title: "Beak Blast"
 category: Move
-tags: [move, flying, physical]
+locale: it
+tags: [move, volante, physical]
 ---
 
 # Beak Blast
-*Flying | Physical*
+*Volante | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 4
 - **Target:** Foe
-- **Effect:** Ranged. Charge Move. Low Priority 3. If the User is hit by a Non Ranged Physical Attack while this move is charging, apply Burn 2 to the foe.
+- **Traits:** [[Physical_Ranged]], [[Charge_Trait]], [[Priority]] (-3), [[Status_Condition]] (BeakBlast)
+- **Effect:** A distanza. Movimento di carica. Priorità bassa 3. Se l'utente viene colpito da un attacco Physical non a distanza mentre la mossa è in carica, applica Burn 2 al nemico.
 
-> The Pokemon gets ready to release a boiling gas through its beak, which gets incredibly hot. The resulting blast sounds like a train's horn.
+> Il Pokemon si prepara a rilasciare attraverso il becco un gas bollente, che diventa incredibilmente caldo. L'esplosione risultante suona come il clacson di un treno.

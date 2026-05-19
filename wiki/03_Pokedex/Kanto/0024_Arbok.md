@@ -1,4 +1,4 @@
----
+﻿---
 title: "Arbok (#0024)"
 category: Pokedex
 tags: [arbok, kanto, poison]
@@ -30,8 +30,14 @@ tags: [arbok, kanto, poison]
 ## Mosse (Learnset)
 
 - **Starter:** [[Leer]], [[Wrap]]
-- **Beginner:** [[Bite]], [[Poison Sting]], [[Glare]]
-- **Amateur:** [[Screech]], [[Acid]], [[Ice Fang]], [[Thunder Fang]], [[Fire Fang]], [[Crunch]], [[Stockpile]], [[Spit Up]], [[Swallow]], [[Acid Spray]], [[Mud Bomb]]
-- **Ace:** [[Gastro Acid]], [[Belch]], [[Haze]], [[Coil]], [[Gunk Shot]], [[Spite]]
-- **Pro:** [[Aqua Tail]], [[Iron Tail]]
+- **Beginner:** [[Bite]], [[Poison_Sting]], [[Glare]]
+- **Amateur:** [[Screech]], [[Acid]], [[Ice_Fang]], [[Thunder_Fang]], [[Fire_Fang]], [[Crunch]], [[Stockpile]], [[Spit_Up]], [[Swallow]], [[Acid_Spray]], [[Mud_Bomb]]
+- **Ace:** [[Gastro_Acid]], [[Belch]], [[Haze]], [[Coil]], [[Gunk_Shot]], [[Spite]]
+- **Pro:** [[Aqua_Tail]], [[Iron_Tail]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0023_Ekans|Ekans]]

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Bellsprout (#0069)"
 category: Pokedex
 tags: [bellsprout, kanto, grass, poison]
@@ -29,9 +29,16 @@ tags: [bellsprout, kanto, grass, poison]
 
 ## Mosse (Learnset)
 
-- **Starter:** [[Vine Whip]], [[Growth]]
-- **Beginner:** [[Wrap]], [[Sleep Powder]], [[Poison Powder]]
-- **Amateur:** [[Stun Spore]], [[Acid]], [[Knock Off]], [[Sweet Scent]], [[Gastro Acid]], [[Razor Leaf]]
-- **Ace:** [[Slam]], [[Poison Jab]], [[Wring Out]]
-- **Pro:** [[Ingrain]], [[Tickle]], [[Weather Ball]]
+- **Starter:** [[Vine_Whip]], [[Growth]]
+- **Beginner:** [[Wrap]], [[Sleep_Powder]], [[Poison_Powder]]
+- **Amateur:** [[Stun_Spore]], [[Acid]], [[Knock_Off]], [[Sweet_Scent]], [[Gastro_Acid]], [[Razor_Leaf]]
+- **Ace:** [[Slam]], [[Poison_Jab]], [[Wring_Out]]
+- **Pro:** [[Ingrain]], [[Tickle]], [[Weather_Ball]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0070_Weepinbell|Weepinbell]]
+- [[0071_Victreebel|Victreebel]]

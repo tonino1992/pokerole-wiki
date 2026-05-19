@@ -1,15 +1,17 @@
 ---
 title: "Glaciate"
 category: Move
-tags: [move, ice, special]
+locale: it
+tags: [move, ghiaccio, special]
 ---
 
 # Glaciate
-*Ice | Special*
+*Ghiaccio | Special*
 
 - **Accuracy:** Dexterity + Channel
 - **Damage:** Special + 2
 - **Target:** All Foes
-- **Effect:** Lethal. All Foes in Range. Reduce the Dexterity of those affected.
+- **Traits:** [[Lethal]], [[Stat_Changes]]
+- **Effect:** Letale. Tutti i nemici a portata. Ridurre lo Dexterity delle persone colpite.
 
-> The air is so cold it hurts to move, to see, to breath. Escaping should be your top priority, for every second you don't your life will be at peril.
+> L'aria è così fredda che fa male muoversi, vedere, respirare. Fuggire dovrebbe essere la tua massima priorità, perché per ogni secondo in cui non lo farai la tua vita sarà in pericolo.

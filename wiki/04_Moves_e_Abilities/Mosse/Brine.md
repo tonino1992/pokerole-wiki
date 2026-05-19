@@ -1,15 +1,16 @@
 ---
 title: "Brine"
 category: Move
-tags: [move, water, special]
+locale: it
+tags: [move, acqua, special]
 ---
 
 # Brine
-*Water | Special*
+*Acqua | Special*
 
 - **Accuracy:** Dexterity + Channel
 - **Damage:** Special + 2
 - **Target:** Foe
-- **Effect:** If the foe is at half HP or less, add 3 Extra Dice to the Damage Pool.
+- **Effect:** Se il nemico è a metà HP o meno, aggiungi 3 Dice extra alla riserva Damage.
 
-> The user blasts the foe with extremely dense water, if the target is tired he may be swept away easily by the pressure.
+> L'utilizzatore fa esplodere il nemico con acqua estremamente densa, se il bersaglio è stanco può essere facilmente spazzato via dalla pressione.

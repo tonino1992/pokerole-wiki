@@ -1,15 +1,17 @@
 ---
 title: "Bouncy Bubble"
 category: Move
-tags: [move, water, special]
+locale: it
+tags: [move, acqua, special]
 ---
 
 # Bouncy Bubble
-*Water | Special*
+*Acqua | Special*
 
 - **Accuracy:** Dexterity + Channel
 - **Damage:** Special + 3
 - **Target:** Foe
-- **Effect:** The user restores HP equal to half the damage dealt, rounded down. If the user of this Move is at its Final Stage of Evolution, this move fails.
+- **Traits:** [[Heal]] (50%)
+- **Effect:** L'utilizzatore ripristina HP pari alla metà del danno inflitto, arrotondato per difetto. Se l'utilizzatore di questa mossa è nella fase finale dell'evoluzione, la mossa fallisce.
 
-> The user shoots bubbles at its target, the bubbles fill up with fresh water upon contact and bounce back towards the user. Should you drink the water inside? Who cares? It's fun!
+> L'utente spara bolle al bersaglio, le bolle si riempiono di acqua fresca al contatto e rimbalzano verso l'utente. Dovresti bere l'acqua all'interno? Che importa? È divertente!

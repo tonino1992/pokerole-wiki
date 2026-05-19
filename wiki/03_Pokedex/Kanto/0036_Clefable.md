@@ -1,4 +1,4 @@
----
+﻿---
 title: "Clefable (#0036)"
 category: Pokedex
 tags: [clefable, kanto, fairy]
@@ -30,7 +30,13 @@ tags: [clefable, kanto, fairy]
 ## Mosse (Learnset)
 
 - **Beginner:** [[Spotlight]], [[Sing]]
-- **Amateur:** [[Moonblast]], [[Minimize]], [[Double Slap]]
-- **Ace:** [[Drain Punch]], [[Metronome]]
-- **Pro:** [[Heal Pulse]], [[Wish]]
+- **Amateur:** [[Moonblast]], [[Minimize]], [[Double_Slap]]
+- **Ace:** [[Drain_Punch]], [[Metronome]]
+- **Pro:** [[Heal_Pulse]], [[Wish]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0035_Clefairy|Clefairy]]

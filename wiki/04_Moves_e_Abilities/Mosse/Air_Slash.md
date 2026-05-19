@@ -1,15 +1,17 @@
 ---
 title: "Air Slash"
 category: Move
-tags: [move, flying, special]
+locale: it
+tags: [move, volante, special]
 ---
 
 # Air Slash
-*Flying | Special*
+*Volante | Special*
 
 - **Accuracy:** Dexterity + Channel
 - **Damage:** Special + 3
 - **Target:** Foe
-- **Effect:** Roll 3 Chance Dice to Flinch the foe.
+- **Traits:** [[Status_Condition]] (Flinch Chance Dice 3)
+- **Effect:** Tira 3 possibilità Dice di Flinch il nemico.
 
-> The user will surround the foe with razor-like wind that may knock it down.
+> L'utilizzatore circonderà il nemico con un vento tagliente che potrebbe abbatterlo.

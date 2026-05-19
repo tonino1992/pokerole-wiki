@@ -1,15 +1,17 @@
 ---
 title: "Dynamic Punch"
 category: Move
-tags: [move, fighting, physical]
+locale: it
+tags: [move, lotta, physical]
 ---
 
 # Dynamic Punch
-*Fighting | Physical*
+*Lotta | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 4
 - **Target:** Foe
-- **Effect:** Fist Based. Confuse the foe. -3 Accuracy.
+- **Traits:** [[Fist_Based]], [[Accuracy_Reduction]] (3), [[Status_Condition]] (Confuse)
+- **Effect:** Basato sul pugno. Confondere il nemico. -3Accuracy.
 
-> A punch that hits a small pressure point. It leavers the foe disoriented.
+> Un pugno che colpisce un piccolo punto di pressione. Lascia il nemico disorientato.

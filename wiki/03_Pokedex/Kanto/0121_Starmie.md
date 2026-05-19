@@ -1,4 +1,4 @@
----
+﻿---
 title: "Starmie (#0121)"
 category: Pokedex
 tags: [starmie, kanto, water, psychic]
@@ -30,8 +30,14 @@ tags: [starmie, kanto, water, psychic]
 ## Mosse (Learnset)
 
 - **Starter:** [[Spotlight]]
-- **Beginner:** [[Water Gun]], [[Recover]]
-- **Amateur:** [[Swift]], [[Rapid Spin]]
-- **Ace:** [[Confuse Ray]], [[Hydro Pump]]
-- **Pro:** [[Signal Beam]], [[Thunder Wave]], [[Twister]]
+- **Beginner:** [[Water_Gun]], [[Recover]]
+- **Amateur:** [[Swift]], [[Rapid_Spin]]
+- **Ace:** [[Confuse_Ray]], [[Hydro_Pump]]
+- **Pro:** [[Signal_Beam]], [[Thunder_Wave]], [[Twister]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0120_Staryu|Staryu]]

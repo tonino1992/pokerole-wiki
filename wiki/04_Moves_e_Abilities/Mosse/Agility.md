@@ -1,15 +1,17 @@
 ---
 title: "Agility"
 category: Move
-tags: [move, psychic, support]
+locale: it
+tags: [move, psico, support]
 ---
 
 # Agility
-*Psychic | Support*
+*Psico | Support*
 
 - **Accuracy:** Dexterity + Athletic
 - **Damage:** N/A
 - **Target:** User
-- **Effect:** Increase the User's Dexterity by 2.
+- **Traits:** [[Stat_Changes]]
+- **Effect:** Aumenta lo Dexterity dell'utente di 2.
 
-> The user relaxes and lightens its body to move faster.
+> L'utente si rilassa e alleggerisce il proprio corpo per muoversi più velocemente.

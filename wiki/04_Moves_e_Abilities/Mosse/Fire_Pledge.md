@@ -1,15 +1,16 @@
 ---
 title: "Fire Pledge"
 category: Move
-tags: [move, fire, special]
+locale: it
+tags: [move, fuoco, special]
 ---
 
 # Fire Pledge
-*Fire | Special*
+*Fuoco | Special*
 
 - **Accuracy:** Dexterity + Channel
 - **Damage:** Special + 2
 - **Target:** Battlefield and Area
-- **Effect:** All flammable plants and objects in the battlefield are covered in flames. Roll 1 Dice of Fire Damage at the end of every Round against everyone on the field.
+- **Effect:** Tutte le piante e gli oggetti infiammabili sul campo di battaglia sono coperti di fiamme. Lancia 1 Dice di Fuoco Damage alla fine di ogni Round contro tutti in campo.
 
-> The Pokemon chants to invoke the power of Fire. Its pledge is heard, then the flames consume everything around.
+> Il Pokemon canta per invocare il potere del Fuoco. Si sente la sua promessa, poi le fiamme consumano tutto intorno.

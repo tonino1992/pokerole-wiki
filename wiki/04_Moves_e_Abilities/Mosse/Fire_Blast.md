@@ -1,15 +1,17 @@
 ---
 title: "Fire Blast"
 category: Move
-tags: [move, fire, special]
+locale: it
+tags: [move, fuoco, special]
 ---
 
 # Fire Blast
-*Fire | Special*
+*Fuoco | Special*
 
 - **Accuracy:** Special + Channel
 - **Damage:** Special + 5
 - **Target:** Foe
-- **Effect:** Lethal. Roll 3 Chance Dice to apply Burn 3 to the foe. -2 Accuracy.
+- **Traits:** [[Lethal]], [[Accuracy_Reduction]] (2), [[Status_Condition]] (Burn Chance Dice 3)
+- **Effect:** Letale. Tira 3 Possibilità Dice di applicare Burn 3 al nemico. -2Accuracy.
 
-> The Pokemon shoots a giant fireball that explodes on contact with the foe, blasting fire in all directions.
+> Il Pokemon spara una gigantesca palla di fuoco che esplode al contatto con il nemico, lanciando fuoco in tutte le direzioni.

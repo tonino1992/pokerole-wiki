@@ -1,15 +1,17 @@
 ---
 title: "Clangorous Soul"
 category: Move
-tags: [move, dragon, support]
+locale: it
+tags: [move, drago, support]
 ---
 
 # Clangorous Soul
-*Dragon | Support*
+*Drago | Support*
 
 - **Accuracy:** Tough + Perform
 - **Damage:** N/A
 - **Target:** User
-- **Effect:** User deals Damage to itself equal to Half of its total HP rounded down. Increase User's Strength, Dexterity, Special, Defense and Sp. Defense.
+- **Traits:** [[Stat_Changes]], [[Fixed_Damage]]
+- **Effect:** L'utente distribuisce a se stesso Damage pari alla metà del suo totale HP arrotondato per difetto. Aumenta Strength, Dexterity, Special, Difesa e Sp. Difesa.
 
-> The Pokemon shakes its scales around, to sharpen, shed, and rearrange them. It's a bit rough, but in the end the Pokemon feels more focused for battle.
+> Il Pokemon scuote le sue scaglie, per affilarle, liberarle e riorganizzarle. È un po' difficile, ma alla fine i Pokemon si sentono più concentrati sulla battaglia.

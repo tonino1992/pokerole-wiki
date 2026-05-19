@@ -1,15 +1,17 @@
 ---
 title: "Dragon Rush"
 category: Move
-tags: [move, dragon, physical]
+locale: it
+tags: [move, drago, physical]
 ---
 
 # Dragon Rush
-*Dragon | Physical*
+*Drago | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 4
 - **Target:** Foe
-- **Effect:** Roll 2 Chance Dice to Flinch the foe. -2 Accuracy.
+- **Traits:** [[Accuracy_Reduction]] (2), [[Status_Condition]] (Flinch Chance Dice 2)
+- **Effect:** Tira 2 possibilità Dice di Flinch il nemico. -2Accuracy.
 
-> The user charges rapidly against the foe. The strike may leave thetarget gasping for air.
+> Chi lo utilizza carica rapidamente contro il nemico. Il colpo potrebbe lasciare il bersaglio senza fiato.

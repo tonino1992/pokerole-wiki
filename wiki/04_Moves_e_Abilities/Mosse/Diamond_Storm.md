@@ -1,15 +1,17 @@
 ---
 title: "Diamond Storm"
 category: Move
-tags: [move, rock, physical]
+locale: it
+tags: [move, roccia, physical]
 ---
 
 # Diamond Storm
-*Rock | Physical*
+*Roccia | Physical*
 
 - **Accuracy:** Dexterity + Channel
 - **Damage:** Strength + 4
 - **Target:** All Foes
-- **Effect:** Ranged. Roll 5 Chance Dice to Increase the User's Defense by 2.
+- **Traits:** [[Physical_Ranged]], [[Stat_Changes]]
+- **Effect:** A distanza. Lancia 5 possibilità Dice di aumentare la difesa dell'utilizzatore di 2.
 
-> The Pokemon summons a storm of diamonds over the field, these diamonds also serve as barriers the user can take cover into.
+> Il Pokemon evoca una tempesta di diamanti sul campo, questi diamanti servono anche come barriere in cui l'utente può ripararsi.

@@ -1,15 +1,17 @@
 ---
 title: "Counter"
 category: Move
-tags: [move, fighting, physical]
+locale: it
+tags: [move, lotta, physical]
 ---
 
 # Counter
-*Fighting | Physical*
+*Lotta | Physical*
 
 - **Accuracy:** Insight + Brawl
 - **Damage:** 2
 - **Target:** Foe
-- **Effect:** This Move can only deal damage if the Foe has dealt Physical Damage to the User this Round. Roll the same Damage Pool as your Foe plus 2 Extra Dice. Ignore the foe's Defenses.
+- **Traits:** [[Ignore_Defenses]]
+- **Effect:** Questa mossa può infliggere danni solo se Foe ha inflitto Physical Damage all'utente questo Round. Tira lo stesso Damage Pool del tuo Foe più 2 Extra Dice. Ignora le difese del nemico.
 
-> The user prepares to receive damage, then returns the same damage and more.
+> L'utente si prepara a ricevere il danno, quindi restituisce lo stesso danno e altro ancora.

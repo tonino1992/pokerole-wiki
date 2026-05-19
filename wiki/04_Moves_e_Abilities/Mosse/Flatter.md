@@ -1,15 +1,17 @@
 ---
 title: "Flatter"
 category: Move
-tags: [move, dark, support]
+locale: it
+tags: [move, buio, support]
 ---
 
 # Flatter
-*Dark | Support*
+*Buio | Support*
 
 - **Accuracy:** Cool + Allure
 - **Damage:** N/A
 - **Target:** Foe
-- **Effect:** Increase the foe's Special. Confuse foe.
+- **Traits:** [[Stat_Changes]], [[Status_Condition]] (Confuse)
+- **Effect:** Aumenta lo Special del nemico. Confondere il nemico.
 
-> The user starts flattering and admiring its opponent. It sure makes it feel good about itself, but why?
+> L'utente inizia ad adulare e ad ammirare il suo avversario. Sicuramente lo fa sentire bene con se stesso, ma perché?

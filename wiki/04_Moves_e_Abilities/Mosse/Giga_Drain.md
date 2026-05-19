@@ -1,15 +1,17 @@
 ---
 title: "Giga Drain"
 category: Move
-tags: [move, grass, special]
+locale: it
+tags: [move, erba, special]
 ---
 
 # Giga Drain
-*Grass | Special*
+*Erba | Special*
 
 - **Accuracy:** Dexterity + Channel
 - **Damage:** Special + 3
 - **Target:** Foe
-- **Effect:** The user restores HP equal to half the damage dealt, rounded down.
+- **Traits:** [[Heal]] (50%)
+- **Effect:** L'utilizzatore ripristina HP pari alla metà del danno inflitto, arrotondato per difetto.
 
-> The Pokemon extracts a great amount of vital energy from the foe's body.
+> Il Pokemon estrae una grande quantità di energia vitale dal corpo del nemico.

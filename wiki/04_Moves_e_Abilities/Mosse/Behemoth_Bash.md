@@ -1,15 +1,16 @@
 ---
 title: "Behemoth Bash"
 category: Move
-tags: [move, steel, physical]
+locale: it
+tags: [move, acciaio, physical]
 ---
 
 # Behemoth Bash
-*Steel | Physical*
+*Acciaio | Physical*
 
 - **Accuracy:** Vitality + Brawl
 - **Damage:** Strength + 4
 - **Target:** Foe
-- **Effect:** If the Foe is under the effects of Dynamax, This Move becomes Lethal and you add 4 Extra Dice to the Damage Pool.
+- **Effect:** Se Foe è sotto l'effetto di Dynamax, questa mossa diventa letale e aggiungi 4 Dice extra al pool Damage.
 
-> The Pokemon becomes a giant energy shield that tramples everything in its wake. If the foe is under the effects of the Dynamax phenomenon all its energy will be swept away.
+> Il Pokemon diventa un gigantesco scudo energetico che calpesta tutto ciò che incontra. Se il nemico è sotto l'effetto del fenomeno Dynamax, tutta la sua energia verrà spazzata via.

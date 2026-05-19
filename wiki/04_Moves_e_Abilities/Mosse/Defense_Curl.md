@@ -1,15 +1,17 @@
 ---
 title: "Defense Curl"
 category: Move
-tags: [move, normal, support]
+locale: it
+tags: [move, normale, support]
 ---
 
 # Defense Curl
-*Normal | Support*
+*Normale | Support*
 
 - **Accuracy:** Vitality + Brawl
 - **Damage:** N/A
 - **Target:** User
-- **Effect:** Increase the User's Defense.
+- **Traits:** [[Stat_Changes]]
+- **Effect:** Aumenta la difesa dell'utente.
 
-> The user curls like a ball to protect against most threats.
+> L'utente si arriccia come una palla per proteggersi dalla maggior parte delle minacce.

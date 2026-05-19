@@ -1,4 +1,4 @@
----
+﻿---
 title: "Slowpoke (#0079)"
 category: Pokedex
 tags: [slowpoke, kanto, water, psychic]
@@ -30,8 +30,14 @@ tags: [slowpoke, kanto, water, psychic]
 ## Mosse (Learnset)
 
 - **Starter:** [[Yawn]], [[Tackle]]
-- **Beginner:** [[Curse]], [[Growl]], [[Water Gun]]
-- **Amateur:** [[Confusion]], [[Disable]], [[Headbutt]], [[Water Pulse]], [[Zen Headbutt]], [[Slack Off]], [[Amnesia]]
-- **Ace:** [[Psychic]], [[Rain Dance]], [[Psych Up]], [[Heal Pulse]]
-- **Pro:** [[Future Sight]], [[Mud Sport]], [[Icy Wind]]
+- **Beginner:** [[Curse]], [[Growl]], [[Water_Gun]]
+- **Amateur:** [[Confusion]], [[Disable]], [[Headbutt]], [[Water_Pulse]], [[Zen_Headbutt]], [[Slack_Off]], [[Amnesia]]
+- **Ace:** [[Psychic]], [[Rain_Dance]], [[Psych_Up]], [[Heal_Pulse]]
+- **Pro:** [[Future_Sight]], [[Mud_Sport]], [[Icy_Wind]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0080_Slowbro|Slowbro]]

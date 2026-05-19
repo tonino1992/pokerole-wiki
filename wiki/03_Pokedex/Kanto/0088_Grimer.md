@@ -1,4 +1,4 @@
----
+﻿---
 title: "Grimer (#0088)"
 category: Pokedex
 tags: [grimer, kanto, poison]
@@ -29,9 +29,15 @@ tags: [grimer, kanto, poison]
 
 ## Mosse (Learnset)
 
-- **Starter:** [[Pound]], [[Poison Gas]]
-- **Beginner:** [[Harden]], [[Mud Slap]], [[Disable]]
-- **Amateur:** [[Sludge]], [[Minimize]], [[Mud Bomb]], [[Sludge Bomb]], [[Fling]], [[Screech]]
-- **Ace:** [[Sludge Wave]], [[Acid Armor]], [[Gunk Shot]], [[Belch]], [[Memento]]
-- **Pro:** [[Shadow Sneak]], [[Giga Drain]], [[Scary Face]]
+- **Starter:** [[Pound]], [[Poison_Gas]]
+- **Beginner:** [[Harden]], [[Mud_Slap]], [[Disable]]
+- **Amateur:** [[Sludge]], [[Minimize]], [[Mud_Bomb]], [[Sludge_Bomb]], [[Fling]], [[Screech]]
+- **Ace:** [[Sludge_Wave]], [[Acid_Armor]], [[Gunk_Shot]], [[Belch]], [[Memento]]
+- **Pro:** [[Shadow_Sneak]], [[Giga_Drain]], [[Scary_Face]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0089_Muk|Muk]]

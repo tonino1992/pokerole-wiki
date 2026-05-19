@@ -1,15 +1,17 @@
 ---
 title: "Fire Fang"
 category: Move
-tags: [move, fire, physical]
+locale: it
+tags: [move, fuoco, physical]
 ---
 
 # Fire Fang
-*Fire | Physical*
+*Fuoco | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 2
 - **Target:** Foe
-- **Effect:** Roll 2 Chance to Flinch the Foe. Roll 2 Chance Dice to Burn the foe. -1 Accuracy.
+- **Traits:** [[Accuracy_Reduction]] (1), [[Status_Condition]] (Flinch Chance Dice 2, Burn Chance Dice 2)
+- **Effect:** Lancia 2 possibilità di Flinch o Foe. Tira 2 possibilità Dice di Burn il nemico. -1Accuracy.
 
-> The user breathes fire from its mouth while biting the target.
+> L'utilizzatore sputa fuoco dalla bocca mentre morde il bersaglio.

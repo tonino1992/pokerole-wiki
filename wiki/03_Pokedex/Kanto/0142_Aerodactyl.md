@@ -1,4 +1,4 @@
----
+﻿---
 title: "Aerodactyl (#0142)"
 category: Pokedex
 tags: [aerodactyl, kanto, rock, flying]
@@ -29,9 +29,9 @@ tags: [aerodactyl, kanto, rock, flying]
 
 ## Mosse (Learnset)
 
-- **Starter:** [[Wing Attack]], [[Supersonic]]
-- **Beginner:** [[Bite]], [[Scary Face]], [[Take Down]]
-- **Amateur:** [[Ice Fang]], [[Thunder Fang]], [[Fire Fang]], [[Roar]], [[Agility]], [[Crunch]], [[Iron Head]], [[Sky Drop]]
-- **Ace:** [[Hyper Beam]], [[Rock Slide]], [[Giga Impact]]
-- **Pro:** [[Dragon Breath]], [[Roost]], [[Aqua Tail]]
+- **Starter:** [[Wing_Attack]], [[Supersonic]]
+- **Beginner:** [[Bite]], [[Scary_Face]], [[Take_Down]]
+- **Amateur:** [[Ice_Fang]], [[Thunder_Fang]], [[Fire_Fang]], [[Roar]], [[Agility]], [[Crunch]], [[Iron_Head]], [[Sky_Drop]]
+- **Ace:** [[Hyper_Beam]], [[Rock_Slide]], [[Giga_Impact]]
+- **Pro:** [[Dragon_Breath]], [[Roost]], [[Aqua_Tail]]
 

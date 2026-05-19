@@ -1,15 +1,17 @@
 ---
 title: "Explosion"
 category: Move
-tags: [move, normal, physical]
+locale: it
+tags: [move, normale, physical]
 ---
 
 # Explosion
-*Normal | Physical*
+*Normale | Physical*
 
 - **Accuracy:** Strength + Brawl
 - **Damage:** Strength + 10
 - **Target:** Area
-- **Effect:** After the damage is dealt the User faints. Lethal.
+- **Traits:** [[Lethal]], [[UserFaints]]
+- **Effect:** Dopo che il danno è stato inflitto, l'Utente sviene. Letale.
 
-> The user focuses on exploding its body, the explosion deals a massive wave of damage. A very dangerous move.
+> L'utente si concentra sull'esplosione del proprio corpo, l'esplosione infligge un'enorme ondata di danni. Una mossa molto pericolosa.

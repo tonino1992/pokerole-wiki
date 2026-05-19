@@ -1,4 +1,4 @@
----
+﻿---
 title: "Scyther (#0123)"
 category: Pokedex
 tags: [scyther, kanto, bug, flying]
@@ -29,9 +29,9 @@ tags: [scyther, kanto, bug, flying]
 
 ## Mosse (Learnset)
 
-- **Starter:** [[Quick Attack]], [[Leer]]
-- **Beginner:** [[Vacuum Wave]], [[Focus Energy]], [[False Swipe]]
-- **Amateur:** [[Pursuit]], [[Agility]], [[Wing Attack]], [[Fury Cutter]], [[Slash]], [[Razor Wind]], [[Double Team]], [[Double Hit]]
-- **Ace:** [[Night Slash]], [[X-Scissor]], [[Air Slash]], [[Swords Dance]]
-- **Pro:** [[Feint]], [[Tailwind]], [[Steel Wing]]
+- **Starter:** [[Quick_Attack]], [[Leer]]
+- **Beginner:** [[Vacuum_Wave]], [[Focus_Energy]], [[False_Swipe]]
+- **Amateur:** [[Pursuit]], [[Agility]], [[Wing_Attack]], [[Fury_Cutter]], [[Slash]], [[Razor_Wind]], [[Double_Team]], [[Double_Hit]]
+- **Ace:** [[Night_Slash]], [[X-Scissor]], [[Air_Slash]], [[Swords_Dance]]
+- **Pro:** [[Feint]], [[Tailwind]], [[Steel_Wing]]
 

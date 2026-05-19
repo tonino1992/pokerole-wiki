@@ -1,4 +1,4 @@
----
+﻿---
 title: "Staryu (#0120)"
 category: Pokedex
 tags: [staryu, kanto, water]
@@ -30,8 +30,14 @@ tags: [staryu, kanto, water]
 ## Mosse (Learnset)
 
 - **Starter:** [[Tackle]], [[Harden]]
-- **Beginner:** [[Water Gun]], [[Rapid Spin]], [[Recover]]
-- **Amateur:** [[Psywave]], [[Swift]], [[Bubble Beam]], [[Camouflage]], [[Gyro Ball]], [[Brine]], [[Minimize]], [[Reflect Type]], [[Power Gem]]
-- **Ace:** [[Confuse Ray]], [[Psychic]], [[Light Screen]], [[Cosmic Power]], [[Hydro Pump]]
-- **Pro:** [[Thunder Wave]], [[Signal Beam]], [[Twister]]
+- **Beginner:** [[Water_Gun]], [[Rapid_Spin]], [[Recover]]
+- **Amateur:** [[Psywave]], [[Swift]], [[Bubble_Beam]], [[Camouflage]], [[Gyro_Ball]], [[Brine]], [[Minimize]], [[Reflect_Type]], [[Power_Gem]]
+- **Ace:** [[Confuse_Ray]], [[Psychic]], [[Light_Screen]], [[Cosmic_Power]], [[Hydro_Pump]]
+- **Pro:** [[Thunder_Wave]], [[Signal_Beam]], [[Twister]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0121_Starmie|Starmie]]

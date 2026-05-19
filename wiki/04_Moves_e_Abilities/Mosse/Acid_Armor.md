@@ -1,15 +1,17 @@
 ---
 title: "Acid Armor"
 category: Move
-tags: [move, poison, support]
+locale: it
+tags: [move, veleno, support]
 ---
 
 # Acid Armor
-*Poison | Support*
+*Veleno | Support*
 
 - **Accuracy:** Special + Nature
 - **Damage:** N/A
 - **Target:** User
-- **Effect:** Increase the User's Defense by 2.
+- **Traits:** [[Stat_Changes]]
+- **Effect:** Aumenta la Difesa dell'Utente di 2.
 
-> A liquid acid substance seeps through this Pokemon's body turning it into a liquid-like state. The acid deters foes from touching this Pokemon at full force.
+> Una sostanza acida liquida filtra attraverso il corpo di questo Pokemon trasformandolo in uno stato liquido. L'acido scoraggia i nemici dal toccare questo Pokemon con tutta la sua forza.

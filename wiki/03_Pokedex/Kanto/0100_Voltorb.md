@@ -1,4 +1,4 @@
----
+﻿---
 title: "Voltorb (#0100)"
 category: Pokedex
 tags: [voltorb, kanto, electric]
@@ -30,8 +30,14 @@ tags: [voltorb, kanto, electric]
 ## Mosse (Learnset)
 
 - **Starter:** [[Charge]], [[Tackle]]
-- **Beginner:** [[Sonic Boom]], [[Eerie Impulse]], [[Spark]]
-- **Amateur:** [[Rollout]], [[Screech]], [[Charge Beam]], [[Light Screen]], [[Electro Ball]], [[Self Destruct]], [[Swift]], [[Discharge]]
-- **Ace:** [[Magnet Rise]], [[Gyro Ball]], [[Explosion]], [[Mirror Coat]]
-- **Pro:** [[Endure]], [[Sucker Punch]], [[Foul Play]]
+- **Beginner:** [[Sonic_Boom]], [[Eerie_Impulse]], [[Spark]]
+- **Amateur:** [[Rollout]], [[Screech]], [[Charge_Beam]], [[Light_Screen]], [[Electro_Ball]], [[Self_Destruct]], [[Swift]], [[Discharge]]
+- **Ace:** [[Magnet_Rise]], [[Gyro_Ball]], [[Explosion]], [[Mirror_Coat]]
+- **Pro:** [[Endure]], [[Sucker_Punch]], [[Foul_Play]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0101_Electrode|Electrode]]

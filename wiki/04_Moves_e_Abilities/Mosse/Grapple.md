@@ -1,15 +1,16 @@
 ---
 title: "Grapple"
 category: Move
-tags: [move, typeless, support]
+locale: it
+tags: [move, senza tipo, support]
 ---
 
 # Grapple
-*Typeless | Support*
+*Senza Tipo | Support*
 
 - **Accuracy:** Strength + Brawl
 - **Damage:** N/A
 - **Target:** Foe
-- **Effect:** The foe is Blocked. Foe can resist this Maneuver by rolling their Strength or Dexterity score and scoring the same or more successes than the user.
+- **Effect:** Il nemico è Bloccato. Foe può resistere a questa manovra lanciando il punteggio Strength o Dexterity e ottenendo gli stessi o più successi dell'utente.
 
 > 

@@ -1,15 +1,17 @@
 ---
 title: "Disarming Voice"
 category: Move
-tags: [move, fairy, special]
+locale: it
+tags: [move, folletto, special]
 ---
 
 # Disarming Voice
-*Fairy | Special*
+*Folletto | Special*
 
 - **Accuracy:** Insight + Perform
 - **Damage:** Special + 2
 - **Target:** All Foes
-- **Effect:** Sound Based. Never Fail. Targets All foes in range.
+- **Traits:** [[Sound_Based]], [[Never_Fail]]
+- **Effect:** Basato sul suono. Non fallire mai. Bersagli Tutti i nemici nel raggio d'azione.
 
-> With a charming and manipulative cry, the user deals emotional damage to its opponent. This move always makes the target feel bad.
+> Con un grido affascinante e manipolativo, chi lo utilizza infligge danni emotivi al suo avversario. Questa mossa fa sempre sentire male il bersaglio.

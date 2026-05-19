@@ -1,4 +1,4 @@
----
+﻿---
 title: "Chansey (#0113)"
 category: Pokedex
 tags: [chansey, kanto, normal]
@@ -29,9 +29,9 @@ tags: [chansey, kanto, normal]
 
 ## Mosse (Learnset)
 
-- **Starter:** [[Pound]], [[Defense Curl]]
-- **Beginner:** [[Refresh]], [[Growl]], [[Soft Boiled]], [[Double Slap]]
-- **Amateur:** [[Heal Pulse]], [[Bestow]], [[Minimize]], [[Take Down]], [[Sing]]
-- **Ace:** [[Fling]], [[Double-Edge]], [[Egg Bomb]], [[Light Screen]], [[Healing Wish]]
-- **Pro:** [[Heal Bell]], [[Seismic Toss]], [[Present]]
+- **Starter:** [[Pound]], [[Defense_Curl]]
+- **Beginner:** [[Refresh]], [[Growl]], [[Soft_Boiled]], [[Double_Slap]]
+- **Amateur:** [[Heal_Pulse]], [[Bestow]], [[Minimize]], [[Take_Down]], [[Sing]]
+- **Ace:** [[Fling]], [[Double-Edge]], [[Egg_Bomb]], [[Light_Screen]], [[Healing_Wish]]
+- **Pro:** [[Heal_Bell]], [[Seismic_Toss]], [[Present]]
 

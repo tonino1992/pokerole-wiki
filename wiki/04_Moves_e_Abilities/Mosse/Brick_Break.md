@@ -1,15 +1,17 @@
 ---
 title: "Brick Break"
 category: Move
-tags: [move, fighting, physical]
+locale: it
+tags: [move, lotta, physical]
 ---
 
 # Brick Break
-*Fighting | Physical*
+*Lotta | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 3
 - **Target:** Foe
-- **Effect:** If a Barrier is in place on the foe's side (ie. Light Screen, Reflect) destroy the barrier and add 2 Extra Dice to the Damage Pool.
+- **Traits:** [[Destroy_Shield]]
+- **Effect:** Se è presente una barriera dalla parte del nemico (es. Schermo luminoso, Riflessione) distruggi la barriera e aggiungi 2 Dice extra alla riserva Damage.
 
-> The Pokemon uses its palm or claws to perform a one-armed chop that shatters even invisible barriers.
+> Il Pokemon usa il palmo o gli artigli per eseguire un colpo con un braccio solo che frantuma anche le barriere invisibili.

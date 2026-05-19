@@ -1,15 +1,17 @@
 ---
 title: "Bite"
 category: Move
-tags: [move, dark, physical]
+locale: it
+tags: [move, buio, physical]
 ---
 
 # Bite
-*Dark | Physical*
+*Buio | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 2
 - **Target:** Foe
-- **Effect:** Roll 3 Chance Dice to Flinch the foe.
+- **Traits:** [[Status_Condition]] (Flinch Chance Dice 3)
+- **Effect:** Tira 3 possibilità Dice di Flinch il nemico.
 
-> The user lands a vicious bite that may leave an ugly bruise.
+> Chi lo usa provoca un morso feroce che può lasciare un brutto livido.

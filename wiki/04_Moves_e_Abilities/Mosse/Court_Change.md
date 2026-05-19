@@ -1,15 +1,16 @@
 ---
 title: "Court Change"
 category: Move
-tags: [move, normal, support]
+locale: it
+tags: [move, normale, support]
 ---
 
 # Court Change
-*Normal | Support*
+*Normale | Support*
 
 - **Accuracy:** Clever + Etiquette
 - **Damage:** N/A
 - **Target:** Battlefield
-- **Effect:** Swap any Barriers (i.e.Light Screen, Reflect etc.), Entry Hazards (i.e. Toxic Spikes, Sticky Web etc.) and Effects on the foe's side of the field (i.e. Tailwind, Grassy Terrain etc.) for the one's on the User's side.
+- **Effect:** Scambia eventuali barriere (ad esempio schermo luminoso, riflessione ecc.), pericoli di entrata (ad esempio punte tossiche, ragnatela appiccicosa ecc.) ed effetti sul lato del campo del nemico (ad esempio vento in coda, terreno erboso ecc.) con quelli dalla parte dell'utente.
 
-> The Pokemon signals the referee for half-time, the referee complies and both parties swap their sides of the field. Wait. Did we forget something?
+> Il Pokemon segnala all'arbitro l'intervallo, l'arbitro obbedisce ed entrambe le parti si scambiano i lati del campo. Aspettare. Abbiamo dimenticato qualcosa?

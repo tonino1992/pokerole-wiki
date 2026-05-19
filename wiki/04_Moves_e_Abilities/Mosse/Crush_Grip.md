@@ -1,15 +1,17 @@
 ---
 title: "Crush Grip"
 category: Move
-tags: [move, normal, physical]
+locale: it
+tags: [move, normale, physical]
 ---
 
 # Crush Grip
-*Normal | Physical*
+*Normale | Physical*
 
 - **Accuracy:** Strength + Brawl
 - **Damage:** Strength + 1
 - **Target:** Foe
-- **Effect:** Lethal. If the foe has a Base HP higher than 3, add 1 Die to the Damage pool for every exceeding point. Up to 9 Dice may be added this way
+- **Traits:** [[Lethal]]
+- **Effect:** Letale. Se il nemico ha un Base HP superiore a 3, aggiungi 1 dado alla riserva Damage per ogni punto eccedente. In questo modo si possono aggiungere fino a 9 Dice
 
-> The Pokemon grips the foe and starts crushing it. Small targets are difficult to grasp but larger bodies will not be released until they break.
+> Il Pokemon afferra il nemico e inizia a schiacciarlo. I bersagli piccoli sono difficili da afferrare, ma i corpi più grandi non verranno rilasciati finché non si rompono.

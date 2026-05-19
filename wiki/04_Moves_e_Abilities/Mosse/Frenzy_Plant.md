@@ -1,15 +1,17 @@
 ---
 title: "Frenzy Plant"
 category: Move
-tags: [move, grass, special]
+locale: it
+tags: [move, erba, special]
 ---
 
 # Frenzy Plant
-*Grass | Special*
+*Erba | Special*
 
 - **Accuracy:** Special + Channel
 - **Damage:** Special + 6
 - **Target:** Foe
-- **Effect:** Must Recharge. -1 Accuracy.
+- **Traits:** [[Must_Recharge]], [[Accuracy_Reduction]] (1)
+- **Effect:** Deve ricaricare. -1Accuracy.
 
-> The user roots down and calls the plants to grow in a frenzy around the foe, though it leaves the user exhausted.
+> L'utilizzatore si radica e invita le piante a crescere freneticamente attorno al nemico, anche se questo lascia l'utilizzatore esausto.

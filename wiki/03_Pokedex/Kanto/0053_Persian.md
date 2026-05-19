@@ -1,4 +1,4 @@
----
+﻿---
 title: "Persian (#0053)"
 category: Pokedex
 tags: [persian, kanto, normal]
@@ -30,8 +30,14 @@ tags: [persian, kanto, normal]
 ## Mosse (Learnset)
 
 - **Starter:** [[Scratch]], [[Growl]]
-- **Beginner:** [[Bite]], [[Fake Out]], [[Fury Swipes]]
-- **Amateur:** [[Captivate]], [[Play Rough]], [[Screech]], [[Feint Attack]], [[Taunt]], [[Swift]], [[Power Gem]], [[Slash]]
-- **Ace:** [[Switcheroo]], [[Assurance]], [[Nasty Plot]], [[Night Slash]], [[Feint]]
+- **Beginner:** [[Bite]], [[Fake_Out]], [[Fury_Swipes]]
+- **Amateur:** [[Captivate]], [[Play_Rough]], [[Screech]], [[Feint_Attack]], [[Taunt]], [[Swift]], [[Power_Gem]], [[Slash]]
+- **Ace:** [[Switcheroo]], [[Assurance]], [[Nasty_Plot]], [[Night_Slash]], [[Feint]]
 - **Pro:** [[Hypnosis]], [[Amnesia]], [[Assist]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0052_Meowth|Meowth]]

@@ -1,15 +1,17 @@
 ---
 title: "Charm"
 category: Move
-tags: [move, fairy, support]
+locale: it
+tags: [move, folletto, support]
 ---
 
 # Charm
-*Fairy | Support*
+*Folletto | Support*
 
 - **Accuracy:** Cute + Allure
 - **Damage:** N/A
 - **Target:** Foe
-- **Effect:** Reduce foe's Strength by 2.
+- **Traits:** [[Stat_Changes]]
+- **Effect:** Riduci lo Strength del nemico di 2.
 
-> The Pokemon uses a cute and harmless attitude to make the foe less wary and aggresive.
+> Il Pokemon usa un atteggiamento carino e innocuo per rendere il nemico meno diffidente e aggressivo.

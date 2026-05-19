@@ -1,15 +1,17 @@
 ---
 title: "Fissure"
 category: Move
-tags: [move, ground, physical]
+locale: it
+tags: [move, terra, physical]
 ---
 
 # Fissure
-*Ground | Physical*
+*Terra | Physical*
 
 - **Accuracy:** Strength + Brawl
 - **Damage:** N/A
 - **Target:** Foe
-- **Effect:** Ranged. Deal damage to the Target equal to their remaining HP plus 1 lethal damage. -5 Accuracy.
+- **Traits:** [[Physical_Ranged]], [[Accuracy_Reduction]] (5), [[Fixed_Damage]]
+- **Effect:** A distanza. Infliggi danni agli Target pari ai loro HP rimanenti più 1 danno letale. -5Accuracy.
 
-> The user tears the ground apart in a monstrous display of force. If the foe falls through the fissure it might need a rescue team to get it out.
+> L'utente fa a pezzi il terreno in una mostruosa dimostrazione di forza. Se il nemico cade attraverso la fessura, potrebbe aver bisogno di una squadra di soccorso per tirarlo fuori.

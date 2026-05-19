@@ -1,15 +1,17 @@
 ---
 title: "Baddy Bad"
 category: Move
-tags: [move, dark, special]
+locale: it
+tags: [move, buio, special]
 ---
 
 # Baddy Bad
-*Dark | Special*
+*Buio | Special*
 
 - **Accuracy:** Dexterity + Channel
 - **Damage:** Special + 3
 - **Target:** Foe
-- **Effect:** If successful, for the next 4 Rounds the User and Allies will receive 1 less damage from Physical Attacks. This effect does not stack. If the user of this Move is at its Final Stage of Evolution, this move fails.
+- **Traits:** [[Status_Condition]] (BaddyBad)
+- **Effect:** In caso di successo, per i successivi 4 Rounds l'Utente e gli Alleati riceveranno 1 danno in meno dagli attacchi Physical. Questo effetto non è cumulabile. Se l'utente di questa mossa è nella fase finale dell'evoluzione, questa mossa fallisce.
 
-> The Pokemon acts like a thug and channels its own dark aura as protection for itself and its allies.
+> Il Pokemon si comporta come un delinquente e canalizza la propria aura oscura come protezione per se stesso e per i suoi alleati.

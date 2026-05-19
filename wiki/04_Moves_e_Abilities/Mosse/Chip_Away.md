@@ -1,15 +1,17 @@
 ---
 title: "Chip Away"
 category: Move
-tags: [move, normal, physical]
+locale: it
+tags: [move, normale, physical]
 ---
 
 # Chip Away
-*Normal | Physical*
+*Normale | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 3
 - **Target:** Foe
-- **Effect:** This attack ignores Defense and Evasion modifiers on the foe.
+- **Traits:** [[Ignore_Defenses]]
+- **Effect:** Questo attacco ignora i modificatori di Difesa e Evasion del nemico.
 
-> The user looks for an opening and strikes directly there. It nibbles bit by bit even the toughest of surfaces.
+> L'utente cerca un'apertura e colpisce direttamente lì. Sgranocchia poco a poco anche le superfici più dure.

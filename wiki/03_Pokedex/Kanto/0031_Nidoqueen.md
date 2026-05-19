@@ -1,4 +1,4 @@
----
+﻿---
 title: "Nidoqueen (#0031)"
 category: Pokedex
 tags: [nidoqueen, kanto, poison, ground]
@@ -30,8 +30,15 @@ tags: [nidoqueen, kanto, poison, ground]
 ## Mosse (Learnset)
 
 - **Starter:** [[Scratch]]
-- **Beginner:** [[Growl]], [[Tail Whip]], [[Double Kick]]
-- **Amateur:** [[Poison Sting]], [[Chip Away]], [[Body Slam]]
-- **Ace:** [[Earth Power]], [[Poison Tail]], [[Shock Wave]]
-- **Pro:** [[Superpower]], [[Icy Wind]]
+- **Beginner:** [[Growl]], [[Tail_Whip]], [[Double_Kick]]
+- **Amateur:** [[Poison_Sting]], [[Chip_Away]], [[Body_Slam]]
+- **Ace:** [[Earth_Power]], [[Poison_Tail]], [[Shock_Wave]]
+- **Pro:** [[Superpower]], [[Icy_Wind]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0029_Nidoran_F|Nidoran F]]
+- [[0030_Nidorina|Nidorina]]

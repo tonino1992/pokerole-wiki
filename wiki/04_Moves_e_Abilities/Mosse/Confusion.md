@@ -1,15 +1,17 @@
 ---
 title: "Confusion"
 category: Move
-tags: [move, psychic, special]
+locale: it
+tags: [move, psico, special]
 ---
 
 # Confusion
-*Psychic | Special*
+*Psico | Special*
 
 - **Accuracy:** Dexterity + Channel
 - **Damage:** Special + 2
 - **Target:** Foe
-- **Effect:** Roll 1 Chance Dice to Confuse the foe.
+- **Traits:** [[Status_Condition]] (Confuse Chance Dice 1)
+- **Effect:** Lancia 1 possibilità Dice di confondere il nemico.
 
-> The target's mind is hit by a weak psychic force that leaves them wondering if they were hit by an invisible enemy. Sometimes the foe is left seeing things that aren't really there.
+> La mente del bersaglio viene colpita da una debole forza psichica che lo porta a chiedersi se sia stato colpito da un nemico invisibile. A volte il nemico vede cose che in realtà non esistono.

@@ -1,15 +1,17 @@
 ---
 title: "Curse"
 category: Move
-tags: [move, ghost, support]
+locale: it
+tags: [move, spettro, support]
 ---
 
 # Curse
-*Ghost | Support*
+*Spettro | Support*
 
 - **Accuracy:** Will + Channel
 - **Damage:** N/A
 - **Target:** Foe
-- **Effect:** Roll half the user's HP as damage dice to itself, ignoring Defenses. The target will remove 1 success from all their rolls until the Curse is lifted.
+- **Traits:** [[Status_Condition]] (Curse)
+- **Effect:** Lancia metà dei dadi di danno HP dell'utilizzatore, ignorando le Difese. Il bersaglio rimuoverà 1 successo da tutti i suoi tiri finché la Maledizione non verrà rimossa.
 
-> The user mutters words that become an evil incantation, the curse may only be lifted by a medium or through divine intervention.
+> L'utilizzatore mormora parole che diventano un incantesimo malvagio, la maledizione può essere spezzata solo da un medium o tramite l'intervento divino.

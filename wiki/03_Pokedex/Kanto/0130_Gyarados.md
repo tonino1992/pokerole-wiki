@@ -1,4 +1,4 @@
----
+﻿---
 title: "Gyarados (#0130)"
 category: Pokedex
 tags: [gyarados, kanto, water, flying]
@@ -29,9 +29,9 @@ tags: [gyarados, kanto, water, flying]
 
 ## Mosse (Learnset)
 
-- **Starter:** [[Dragon Rage]], [[Leer]]
-- **Beginner:** [[Twister]], [[Ice Fang]], [[Scary Face]], [[Bite]], [[Hurricane]]
-- **Amateur:** [[Thrash]], [[Aqua Tail]], [[Rain Dance]], [[Crunch]], [[Dragon Dance]]
-- **Ace:** [[Hydro Pump]], [[Hyper Beam]]
-- **Pro:** [[Thunder Wave]], [[Outrage]], [[Bounce]]
+- **Starter:** [[Dragon_Rage]], [[Leer]]
+- **Beginner:** [[Twister]], [[Ice_Fang]], [[Scary_Face]], [[Bite]], [[Hurricane]]
+- **Amateur:** [[Thrash]], [[Aqua_Tail]], [[Rain_Dance]], [[Crunch]], [[Dragon_Dance]]
+- **Ace:** [[Hydro_Pump]], [[Hyper_Beam]]
+- **Pro:** [[Thunder_Wave]], [[Outrage]], [[Bounce]]
 

@@ -1,15 +1,16 @@
 ---
 title: "Acupressure"
 category: Move
-tags: [move, normal, support]
+locale: it
+tags: [move, normale, support]
 ---
 
 # Acupressure
-*Normal | Support*
+*Normale | Support*
 
 - **Accuracy:** Dexterity + Nature
 - **Damage:** N/A
 - **Target:** User
-- **Effect:** Increase a Random Attribute. If this Move is used again, the previous Attribute Modifier is removed.
+- **Effect:** Aumenta un attributo casuale. Se questa mossa viene utilizzata nuovamente, il precedente modificatore di attributo viene rimosso.
 
-> The user starts pushing its pressure points, releasing the energy that was stored in its body.
+> L'utente inizia a premere i suoi punti di pressione, rilasciando l'energia immagazzinata nel suo corpo.

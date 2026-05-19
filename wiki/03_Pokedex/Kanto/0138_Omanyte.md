@@ -1,4 +1,4 @@
----
+﻿---
 title: "Omanyte (#0138)"
 category: Pokedex
 tags: [omanyte, kanto, rock, water]
@@ -30,8 +30,14 @@ tags: [omanyte, kanto, rock, water]
 ## Mosse (Learnset)
 
 - **Starter:** [[Constrict]], [[Withdraw]]
-- **Beginner:** [[Bite]], [[Water Gun]], [[Rollout]]
-- **Amateur:** [[Leer]], [[Mud Shot]], [[Brine]], [[Protect]], [[Ancient Power]], [[Tickle]]
-- **Ace:** [[Rock Blast]], [[Shell Smash]], [[Hydro Pump]]
-- **Pro:** [[Toxic Spikes]], [[Spikes]], [[Iron Defense]]
+- **Beginner:** [[Bite]], [[Water_Gun]], [[Rollout]]
+- **Amateur:** [[Leer]], [[Mud_Shot]], [[Brine]], [[Protect]], [[Ancient_Power]], [[Tickle]]
+- **Ace:** [[Rock_Blast]], [[Shell_Smash]], [[Hydro_Pump]]
+- **Pro:** [[Toxic_Spikes]], [[Spikes]], [[Iron_Defense]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0139_Omastar|Omastar]]

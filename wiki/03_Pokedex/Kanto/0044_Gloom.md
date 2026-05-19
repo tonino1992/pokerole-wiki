@@ -1,4 +1,4 @@
----
+﻿---
 title: "Gloom (#0044)"
 category: Pokedex
 tags: [gloom, kanto, grass, poison]
@@ -30,7 +30,14 @@ tags: [gloom, kanto, grass, poison]
 ## Mosse (Learnset)
 
 - **Starter:** [[Growth]], [[Absorb]]
-- **Beginner:** [[Sweet Scent]], [[Acid]], [[Poison Powder]]
-- **Amateur:** [[Stun Spore]], [[Sleep Powder]], [[Mega Drain]], [[Lucky Chant]], [[Natural Gift]], [[Toxic]], [[Moonlight]]
-- **Ace:** [[Giga Drain]], [[Petal Blizzard]], [[Petal Dance]], [[Grassy Terrain]]
+- **Beginner:** [[Sweet_Scent]], [[Acid]], [[Poison_Powder]]
+- **Amateur:** [[Stun_Spore]], [[Sleep_Powder]], [[Mega_Drain]], [[Lucky_Chant]], [[Natural_Gift]], [[Toxic]], [[Moonlight]]
+- **Ace:** [[Giga_Drain]], [[Petal_Blizzard]], [[Petal_Dance]], [[Grassy_Terrain]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0043_Oddish|Oddish]]
+- [[0045_Vileplume|Vileplume]]

@@ -1,15 +1,17 @@
 ---
 title: "Dark Pulse"
 category: Move
-tags: [move, dark, special]
+locale: it
+tags: [move, buio, special]
 ---
 
 # Dark Pulse
-*Dark | Special*
+*Buio | Special*
 
 - **Accuracy:** Insight + Channel
 - **Damage:** Special + 3
 - **Target:** Random Foe
-- **Effect:** Targets random foe. Roll 2 Chance Dice to Flinch the foe.
+- **Traits:** [[Status_Condition]] (Flinch Chance Dice 2)
+- **Effect:** Prende di mira un nemico casuale. Lancia 2 possibilità Dice di Flinch il nemico.
 
-> The Pokemon sends a wave of dark feelings that affect those who are most vulnerable, hurting the foe and leaving it unable to act.
+> Il Pokemon invia un'ondata di sentimenti oscuri che colpiscono coloro che sono più vulnerabili, ferendo il nemico e lasciandolo incapace di agire.

@@ -1,15 +1,16 @@
 ---
 title: "Cut"
 category: Move
-tags: [move, normal, physical]
+locale: it
+tags: [move, normale, physical]
 ---
 
 # Cut
-*Normal | Physical*
+*Normale | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 2
 - **Target:** Foe
-- **Effect:** May be used to cut down trees and clear paths.
+- **Effect:** Può essere utilizzato per abbattere alberi e liberare sentieri.
 
-> A slim but precise cut that may slice through anything.
+> Un taglio sottile ma preciso che può tagliare qualsiasi cosa.

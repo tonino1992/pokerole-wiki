@@ -1,15 +1,17 @@
 ---
 title: "Aromatic Mist"
 category: Move
-tags: [move, fairy, support]
+locale: it
+tags: [move, folletto, support]
 ---
 
 # Aromatic Mist
-*Fairy | Support*
+*Folletto | Support*
 
 - **Accuracy:** Insight + Nature
 - **Damage:** N/A
 - **Target:** One Ally
-- **Effect:** Increase one Ally's Defense and Sp. Defense.
+- **Traits:** [[Stat_Changes]]
+- **Effect:** Aumenta la Difesa e la Sp. di un Ally. Difesa.
 
-> The Pokemon showers an ally in a mist with a revitalizing armoa.
+> Il Pokemon inonda un alleato in una nebbia con un'arma rivitalizzante.

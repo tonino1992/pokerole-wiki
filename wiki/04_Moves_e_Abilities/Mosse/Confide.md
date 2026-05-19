@@ -1,15 +1,17 @@
 ---
 title: "Confide"
 category: Move
-tags: [move, normal, support]
+locale: it
+tags: [move, normale, support]
 ---
 
 # Confide
-*Normal | Support*
+*Normale | Support*
 
 - **Accuracy:** Cute + Allure
 - **Damage:** N/A
 - **Target:** Foe
-- **Effect:** Reduce the foes' Special.
+- **Traits:** [[Stat_Changes]]
+- **Effect:** Riduci lo Special dei nemici.
 
-> The Pokemon tells a secret to the target. The foe loses its ability to concentrate.
+> Il Pokemon racconta un segreto al bersaglio. Il nemico perde la capacità di concentrazione.

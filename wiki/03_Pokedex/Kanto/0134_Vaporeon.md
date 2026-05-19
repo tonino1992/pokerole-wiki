@@ -1,4 +1,4 @@
----
+﻿---
 title: "Vaporeon (#0134)"
 category: Pokedex
 tags: [vaporeon, kanto, water]
@@ -29,9 +29,15 @@ tags: [vaporeon, kanto, water]
 
 ## Mosse (Learnset)
 
-- **Starter:** [[Tackle]], [[Helping Hand]]
-- **Beginner:** [[Tail Whip]], [[Sand Attack]], [[Water Gun]]
-- **Amateur:** [[Quick Attack]], [[Water Pulse]], [[Aurora Beam]], [[Aqua Ring]], [[Acid Armor]], [[Haze]]
-- **Ace:** [[Muddy Water]], [[Last Resort]], [[Hydro Pump]]
-- **Pro:** [[Wish]], [[Icy Wind]], [[Yawn]]
+- **Starter:** [[Tackle]], [[Helping_Hand]]
+- **Beginner:** [[Tail_Whip]], [[Sand_Attack]], [[Water_Gun]]
+- **Amateur:** [[Quick_Attack]], [[Water_Pulse]], [[Aurora_Beam]], [[Aqua_Ring]], [[Acid_Armor]], [[Haze]]
+- **Ace:** [[Muddy_Water]], [[Last_Resort]], [[Hydro_Pump]]
+- **Pro:** [[Wish]], [[Icy_Wind]], [[Yawn]]
 
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0133_Eevee|Eevee]]

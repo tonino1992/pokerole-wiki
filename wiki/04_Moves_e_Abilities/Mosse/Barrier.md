@@ -1,15 +1,17 @@
 ---
 title: "Barrier"
 category: Move
-tags: [move, psychic, support]
+locale: it
+tags: [move, psico, support]
 ---
 
 # Barrier
-*Psychic | Support*
+*Psico | Support*
 
 - **Accuracy:** Special + Channel
 - **Damage:** N/A
 - **Target:** Foe
-- **Effect:** Increase the User's Defense by 2.
+- **Traits:** [[Stat_Changes]]
+- **Effect:** Aumenta la Difesa dell'Utente di 2.
 
-> The user casts a protective field around itself.
+> L'utente crea un campo protettivo attorno a sé.

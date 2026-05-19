@@ -1,15 +1,17 @@
 ---
 title: "Aerial Ace"
 category: Move
-tags: [move, flying, physical]
+locale: it
+tags: [move, volante, physical]
 ---
 
 # Aerial Ace
-*Flying | Physical*
+*Volante | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 2
 - **Target:** Foe
-- **Effect:** Never Fail.
+- **Traits:** [[Never_Fail]]
+- **Effect:** Non fallire mai.
 
-> The Pokemon rises up in the air towards a light source, momentarily blinding the foe, then plummets quickly to attack the opponent.
+> Il Pokemon si alza in aria verso una fonte di luce, accecando momentaneamente il nemico, quindi precipita rapidamente per attaccare l'avversario.

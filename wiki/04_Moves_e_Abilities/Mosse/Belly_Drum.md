@@ -1,15 +1,17 @@
 ---
 title: "Belly Drum"
 category: Move
-tags: [move, normal, support]
+locale: it
+tags: [move, normale, support]
 ---
 
 # Belly Drum
-*Normal | Support*
+*Normale | Support*
 
 - **Accuracy:** Tough + Perform
 - **Damage:** N/A
 - **Target:** User
-- **Effect:** User deals Damage to itself equal to Half of its total HP rounded down. Increase User's Strength by 3.
+- **Traits:** [[Stat_Changes]], [[Fixed_Damage]]
+- **Effect:** L'utente distribuisce a se stesso Damage pari alla metà del suo totale HP arrotondato per difetto. Aumenta lo Strength dell'utente di 3.
 
-> The Pokemon Roars a war cry while hitting its Belly.
+> Il Pokemon lancia un grido di guerra mentre si colpisce la pancia.

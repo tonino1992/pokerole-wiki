@@ -1,15 +1,17 @@
 ---
 title: "Crunch"
 category: Move
-tags: [move, dark, physical]
+locale: it
+tags: [move, buio, physical]
 ---
 
 # Crunch
-*Dark | Physical*
+*Buio | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 3
 - **Target:** Foe
-- **Effect:** Lethal. Roll 1 Chance Dice to reduce foe's Defense.
+- **Traits:** [[Lethal]], [[Stat_Changes]]
+- **Effect:** Letale. Lancia 1 possibilità Dice di ridurre la Difesa del nemico.
 
-> The Pokemon uses its fangs to viciously tear whatever it is biting.
+> Il Pokemon usa le sue zanne per lacerare ferocemente qualunque cosa stia mordendo.

@@ -1,15 +1,16 @@
 ---
 title: "Beat Up"
 category: Move
-tags: [move, dark, physical]
+locale: it
+tags: [move, buio, physical]
 ---
 
 # Beat Up
-*Dark | Physical*
+*Buio | Physical*
 
 - **Accuracy:** Dexterity + Brawl
 - **Damage:** Strength + 2
 - **Target:** Foe
-- **Effect:** If the attack is successful, add 2 Dice of Damage for every ally Pokemon that spends an action to help the user perform this move. Up to 3 allies may join.
+- **Effect:** Se l'attacco ha successo, aggiungi 2 Dice di Damage per ogni Pokemon alleato che spende un'azione per aiutare l'utente a eseguire questa mossa. Possono unirsi fino a 3 alleati.
 
-> The user calls other Pokemon to aid it in battle, together they give a beating to the foe.
+> L'utente chiama altri Pokemon per aiutarlo in battaglia, insieme danno una sconfitta al nemico.

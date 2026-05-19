@@ -1,15 +1,17 @@
 ---
 title: "Dragon Ascent"
 category: Move
-tags: [move, flying, physical]
+locale: it
+tags: [move, volante, physical]
 ---
 
 # Dragon Ascent
-*Flying | Physical*
+*Volante | Physical*
 
 - **Accuracy:** Strength + Brawl
 - **Damage:** Strength + 5
 - **Target:** Foe
-- **Effect:** Lethal. Reduce the user's Defense and Sp. Defense.
+- **Traits:** [[Lethal]], [[Stat_Changes]]
+- **Effect:** Letale. Riduci la Difesa e l'Sp dell'utilizzatore. Difesa.
 
-> The user rises above the clouds and then comes crashing down against its foe in an instant. The strike is brutal for both.
+> L'utilizzatore si solleva sopra le nuvole e poi si schianta contro il nemico in un istante. Lo sciopero è brutale per entrambi.

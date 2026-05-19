@@ -1,15 +1,16 @@
 ---
 title: "Bestow"
 category: Move
-tags: [move, normal, support]
+locale: it
+tags: [move, normale, support]
 ---
 
 # Bestow
-*Normal | Support*
+*Normale | Support*
 
 - **Accuracy:** Cool + Etiquette
 - **Damage:** N/A
 - **Target:** Foe
-- **Effect:** If target is not holding an Item, the User gives its own.
+- **Effect:** Se il target non ha in mano un Articolo, l'Utente gli dona il proprio.
 
-> The Pokemon respectfully offers an item, the target will take it and keep it to be polite.
+> Il Pokemon offre rispettosamente un oggetto, il bersaglio lo prenderà e lo manterrà per essere educato.

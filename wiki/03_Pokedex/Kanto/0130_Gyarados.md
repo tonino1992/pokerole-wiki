@@ -43,8 +43,15 @@ image: "assets/images/pokemon/130.png"
 
 ## Forme Speciali
 
-<div style="display:flex;gap:24px;flex-wrap:wrap;margin:16px 0;align-items:flex-start;">
+### Mega Gyarados
 
-<div style="text-align:center;min-width:160px;"><img src="../../assets/images/pokemon/forms/gyarados-mega.png" width="180" style="display:block;margin:0 auto 6px;"><strong>Mega Gyarados</strong></div>
+<img src="../../assets/images/pokemon/forms/gyarados-mega.png" align="right" width="200" style="margin-left:16px;margin-bottom:8px;">
 
-</div>
+**Type:** Water / Dark  
+**Ability:** [[Mold_Breaker|Mold Breaker]]  
+**Base HP:** 8  ·  **Suggested Rank:** Pro  
+**Height:** 6.5m / 21'04"  ·  **Weight:** 100kg / 220lbs
+
+> With the power of the Mega Stone its body suffers a lot of strain, making it faster and stronger but also angrier and uncontrollable. It must have a strong bond or it will fall into a destructive rampage.
+
+<br style="clear:both;">

@@ -43,11 +43,18 @@ image: "assets/images/pokemon/015.png"
 
 ## Forme Speciali
 
-<div style="display:flex;gap:24px;flex-wrap:wrap;margin:16px 0;align-items:flex-start;">
+### Mega Beedrill
 
-<div style="text-align:center;min-width:160px;"><img src="../../assets/images/pokemon/forms/beedrill-mega.png" width="180" style="display:block;margin:0 auto 6px;"><strong>Mega Beedrill</strong></div>
+<img src="../../assets/images/pokemon/forms/beedrill-mega.png" align="right" width="200" style="margin-left:16px;margin-bottom:8px;">
 
-</div>
+**Type:** Bug / Poison  
+**Ability:** [[Adaptability]]  
+**Base HP:** 6  ·  **Suggested Rank:** Ace  
+**Height:** 1.4m / 4'07"  ·  **Weight:** 40kg / 90lbs
+
+> With the power of the Mega Stone all of its limbs are now powerful stingers. Their attack is vicious, stinging and piercing its foe repeatedly until the finishing blow with the sting on its rear.
+
+<br style="clear:both;">
 
 ---
 

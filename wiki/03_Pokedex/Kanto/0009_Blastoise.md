@@ -43,13 +43,30 @@ image: "assets/images/pokemon/009.png"
 
 ## Forme Speciali
 
-<div style="display:flex;gap:24px;flex-wrap:wrap;margin:16px 0;align-items:flex-start;">
+### Mega Blastoise
 
-<div style="text-align:center;min-width:160px;"><img src="../../assets/images/pokemon/forms/blastoise-mega.png" width="180" style="display:block;margin:0 auto 6px;"><strong>Mega Blastoise</strong></div>
+<img src="../../assets/images/pokemon/forms/blastoise-mega.png" align="right" width="200" style="margin-left:16px;margin-bottom:8px;">
 
-<div style="text-align:center;min-width:160px;"><img src="../../assets/images/pokemon/forms/blastoise-gmax.png" width="180" style="display:block;margin:0 auto 6px;"><strong>Blastoise (Gigantamax)</strong></div>
+**Type:** Water  
+**Ability:** [[Mega_Launcher|Mega Launcher]]  
+**Base HP:** 6  ·  **Suggested Rank:** Pro  
+**Height:** 1.6m / 5'03"  ·  **Weight:** 200kg / 440lbs
 
-</div>
+> With the power of the Mega Stone the cannon on its back can shoot exploding water projectiles that can pierce through concrete. Its body is incredibly hard and its hind legs root themselves to prevent recoil.
+
+<br style="clear:both;">
+
+---
+
+### Blastoise (Gigantamax)
+
+<img src="../../assets/images/pokemon/forms/blastoise-gmax.png" align="right" width="200" style="margin-left:16px;margin-bottom:8px;">
+
+*Forma Gigantamax — richiede Dynamax Band e Pokémon Stadium, oppure Power Spot naturale.*
+
+Vedi [[Max_Moves]] per le G-Max Moves disponibili e i relativi effetti.
+
+<br style="clear:both;">
 
 ---
 

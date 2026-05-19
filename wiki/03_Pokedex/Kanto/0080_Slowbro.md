@@ -43,11 +43,18 @@ image: "assets/images/pokemon/080.png"
 
 ## Forme Speciali
 
-<div style="display:flex;gap:24px;flex-wrap:wrap;margin:16px 0;align-items:flex-start;">
+### Mega Slowbro
 
-<div style="text-align:center;min-width:160px;"><img src="../../assets/images/pokemon/forms/slowbro-mega.png" width="180" style="display:block;margin:0 auto 6px;"><strong>Mega Slowbro</strong></div>
+<img src="../../assets/images/pokemon/forms/slowbro-mega.png" align="right" width="200" style="margin-left:16px;margin-bottom:8px;">
 
-</div>
+**Type:** Water / Psychic  
+**Ability:** [[Shell_Armor|Shell Armor]]  
+**Base HP:** 5  ·  **Suggested Rank:** Ace  
+**Height:** 2m / 6'07"  ·  **Weight:** 120kg / 264lbs
+
+> With the power of the Mega Stone the Shellder on its tail becomes a bulletproof armor that swallows its host's whole body. Slowpoke doesn't seem to mind and looks pretty comfy inside.
+
+<br style="clear:both;">
 
 ---
 

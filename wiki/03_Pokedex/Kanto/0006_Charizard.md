@@ -43,15 +43,45 @@ image: "assets/images/pokemon/006.png"
 
 ## Forme Speciali
 
-<div style="display:flex;gap:24px;flex-wrap:wrap;margin:16px 0;align-items:flex-start;">
+### Mega Charizard Y
 
-<div style="text-align:center;min-width:160px;"><img src="../../assets/images/pokemon/forms/charizard-mega-x.png" width="180" style="display:block;margin:0 auto 6px;"><strong>Mega Charizard X</strong></div>
+<img src="../../assets/images/pokemon/forms/charizard-mega-y.png" align="right" width="200" style="margin-left:16px;margin-bottom:8px;">
 
-<div style="text-align:center;min-width:160px;"><img src="../../assets/images/pokemon/forms/charizard-mega-y.png" width="180" style="display:block;margin:0 auto 6px;"><strong>Mega Charizard Y</strong></div>
+**Type:** Fire / Flying  
+**Ability:** [[Drought]]  
+**Base HP:** 6  ·  **Suggested Rank:** Pro  
+**Height:** 1.7m / 5'07"  ·  **Weight:** 100kg / 220lbs
 
-<div style="text-align:center;min-width:160px;"><img src="../../assets/images/pokemon/forms/charizard-gmax.png" width="180" style="display:block;margin:0 auto 6px;"><strong>Charizard (Gigantamax)</strong></div>
+> With the power of the Mega Stone it becomes bold and confident. Its flying skills improve and it boasts speed and maneuverability. When it flies you cannot see it directly as its flames burn as bright as the sun.
 
-</div>
+<br style="clear:both;">
+
+---
+
+### Mega Charizard X
+
+<img src="../../assets/images/pokemon/forms/charizard-mega-x.png" align="right" width="200" style="margin-left:16px;margin-bottom:8px;">
+
+**Type:** Fire / Dragon  
+**Ability:** [[Tough_Claws|Tough Claws]]  
+**Base HP:** 6  ·  **Suggested Rank:** Pro  
+**Height:** 1.7m / 5'07"  ·  **Weight:** 100kg / 220lbs
+
+> The power of the Mega Stone makes its inner flames burn so hot that its body turns black as coal and blue fire escapes constantly from its mouth. It is filled with rage and its demeanor is unpredictable.
+
+<br style="clear:both;">
+
+---
+
+### Charizard (Gigantamax)
+
+<img src="../../assets/images/pokemon/forms/charizard-gmax.png" align="right" width="200" style="margin-left:16px;margin-bottom:8px;">
+
+*Forma Gigantamax — richiede Dynamax Band e Pokémon Stadium, oppure Power Spot naturale.*
+
+Vedi [[Max_Moves]] per le G-Max Moves disponibili e i relativi effetti.
+
+<br style="clear:both;">
 
 ---
 

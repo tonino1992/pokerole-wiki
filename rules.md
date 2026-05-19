@@ -42,19 +42,22 @@ pokerole-wiki/                   # Radice del progetto
 * Ogni affermazione o dato numerico meccanico deve riflettere fedelmente la fonte `raw`.
 
 ## 4. Direttive Linguistiche e Glossario (Strict)
-* **Lingua Base:** Scrivi tutto il testo descrittivo, la narrativa e le spiegazioni in **Italiano**.
-* **Eccezioni di Traduzione (Parole Chiave in INGLESE):** NON DEVI MAI tradurre i seguenti termini meccanici. Devono rimanere rigorosamente in Inglese, in *corsivo* o con la Prima Lettera Maiuscola:
-  - **Moves:** es. *Flamethrower*, *Tackle*.
-  - **Abilities:** es. *Overgrow*, *Levitate*.
+* **Lingua Base:** Scrivi **TUTTO** il testo descrittivo, la narrativa, i flavor text e le spiegazioni degli effetti in **Italiano**. Questo vale senza eccezioni per Mosse, Abilità, Pokédex, regole, oggetti e qualsiasi altro contenuto della wiki.
+* **Eccezioni di Traduzione (Parole Chiave in INGLESE):** NON DEVI MAI tradurre i seguenti termini meccanici. Devono rimanere rigorosamente in Inglese, con la Prima Lettera Maiuscola:
+  - **Nomi di Mosse:** es. *Flamethrower*, *Tackle*, *Dragon Dance*.
+  - **Nomi di Abilità:** es. *Overgrow*, *Levitate*, *Flash Fire*.
   - **Natures:** es. *Brave*, *Timid*, *Adamant*.
-  - **Attributes:** *Vitality*, *Strength*, *Dexterity*, *Insight*, *Social*.
-  - **Skills:** *Brawl*, *Channel*, *Evasion*, *Alert*, *Nature*.
-  - **Stats:** *HP*, *Will*.
+  - **Attributes:** *Vitality*, *Strength*, *Dexterity*, *Insight*, *Special*, *Defense*, *Sp. Defense*.
+  - **Social Attributes:** *Tough*, *Cool*, *Beauty*, *Clever*, *Cute*.
+  - **Skills:** *Brawl*, *Channel*, *Evasion*, *Alert*, *Nature*, *Perform*, *Medicine*, *Athletic*, *Lore*.
+  - **Stats:** *HP*, *Will*, *Initiative*.
   - **Ranks:** *Starter*, *Beginner*, *Amateur*, *Ace*, *Pro*, *Master*, *Champion*.
-  - **Status Ailments:** *Burn*, *Paralysis*, *Sleep*, *Poison*.
+  - **Status Ailments:** *Burn*, *Paralysis*, *Sleep*, *Poison*, *Badly Poison*, *Frozen*, *Confused*, *Flinch*, *Love*.
+  - **Termini meccanici di gioco:** *STAB*, *Critical Hit*, *Priority*, *Blocked*, *Recoil*, *Non-Ranged Physical Attack*, *Ranged Physical Attack*, *Lethal Damage*, *Super Effective*, *Damage Pool*, *Accuracy Pool*, *Chance Dice*, *Loyalty*, *Confidence*, *Pain Penalization*.
 * **Elementi da TRADURRE in Italiano:**
-  - **Tipi dei Pokémon:** Fire diventa *Fuoco*, Water diventa *Acqua* (es. Tipo [[Fuoco]]).
-  - **Termini generici:** Allenatore (Trainer), Palestra (Gym), Medaglia (Badge).
+  - **Tipi dei Pokémon:** Fire → *Fuoco*, Water → *Acqua*, Grass → *Erba*, ecc. (es. Tipo [[Fuoco]]).
+  - **Termini generici:** Allenatore (Trainer), Palestra (Gym), Medaglia (Badge), Turno (Round), Campo (Field), Avversario (Foe), Alleato (Ally), Battaglia (Battle), Scena (Scene).
+  - **Flavor text e descrizioni degli effetti:** Sempre in italiano. Anche i testi narrativi delle Abilità e delle Mosse vanno tradotti — solo i termini nella lista sopra restano in inglese.
 
 ## 5. Formattazione, Metadati e Template
 Ogni file generato deve seguire regole semantiche per favorire il Retrieval.
@@ -86,6 +89,13 @@ power: [Es. 2 - solo per Mosse]
 - **Traits:** [[Tratto1]], [[Tratto2]]
 - **Effect:** descrizione effetto in italiano
 > Flavour text in corsivo.
+```
+
+**Abilità** (`04_Moves_e_Abilities/Abilità/`) — Formato compatto:
+```
+# NomeAbility
+*Flavor text in italiano (narrativo/descrittivo).*
+**Effetto:** Descrizione meccanica in italiano, con parole chiave in inglese (Strength, Burn, Priority, ecc.).
 ```
 
 **Tratti** (`04_Moves_e_Abilities/Tratti/`) — Formato compatto:

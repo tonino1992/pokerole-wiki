@@ -1,4 +1,4 @@
----
+﻿---
 title: "Mewtwo (#0150)"
 category: Pokedex
 tags: [mewtwo, kanto, psychic]
@@ -37,10 +37,30 @@ image: "assets/images/pokemon/150.png"
 
 ## Forme Speciali
 
-<div style="display:flex;gap:24px;flex-wrap:wrap;margin:16px 0;align-items:flex-start;">
+### Mega Mewtwo Y
 
-<div style="text-align:center;min-width:160px;"><img src="../../assets/images/pokemon/forms/mewtwo-mega-x.png" width="180" style="display:block;margin:0 auto 6px;"><strong>Mega Mewtwo X</strong></div>
+<img src="../../assets/images/pokemon/forms/mewtwo-mega-y.png" align="right" width="200" style="margin-left:16px;margin-bottom:8px;">
 
-<div style="text-align:center;min-width:160px;"><img src="../../assets/images/pokemon/forms/mewtwo-mega-y.png" width="180" style="display:block;margin:0 auto 6px;"><strong>Mega Mewtwo Y</strong></div>
+**Type:** Psychic  
+**Ability:** [[Insomnia]]  
+**Base HP:** 6  ·  **Suggested Rank:** Master  
+**Height:** 1.5m / 5'00"  ·  **Weight:** 33kg / 72lbs
 
-</div>
+> With the power of the Mega Stone its body got smaller but its power grew immensely. It can blow up even a skyscraper with just its thoughts.
+
+<br style="clear:both;">
+
+---
+
+### Mega Mewtwo X
+
+<img src="../../assets/images/pokemon/forms/mewtwo-mega-x.png" align="right" width="200" style="margin-left:16px;margin-bottom:8px;">
+
+**Type:** Psychic / Fight  
+**Ability:** [[Steadfast]]  
+**Base HP:** 6  ·  **Suggested Rank:** Master  
+**Height:** 2.3m / 7'07"  ·  **Weight:** 127kg / 280lbs
+
+> The power of the Mega Stone was absorbed into its muscles. If it grapples you and its psychic force does not crack you, its strong arms will.
+
+<br style="clear:both;">

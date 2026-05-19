@@ -43,11 +43,18 @@ image: "assets/images/pokemon/065.png"
 
 ## Forme Speciali
 
-<div style="display:flex;gap:24px;flex-wrap:wrap;margin:16px 0;align-items:flex-start;">
+### Mega Alakazam
 
-<div style="text-align:center;min-width:160px;"><img src="../../assets/images/pokemon/forms/alakazam-mega.png" width="180" style="display:block;margin:0 auto 6px;"><strong>Mega Alakazam</strong></div>
+<img src="../../assets/images/pokemon/forms/alakazam-mega.png" align="right" width="200" style="margin-left:16px;margin-bottom:8px;">
 
-</div>
+**Type:** Psychic  
+**Ability:** [[Trace]]  
+**Base HP:** 6  ·  **Suggested Rank:** Pro  
+**Height:** 1.2m / 4'00"  ·  **Weight:** 48kg / 105lbs
+
+> With the power of the Mega Stone it is constantly plagued with visions of the future which make it great at evading attacks. Its body is feeble and it moves purely through psychic energy.
+
+<br style="clear:both;">
 
 ---
 

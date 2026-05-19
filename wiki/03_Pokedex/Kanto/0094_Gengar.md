@@ -43,13 +43,30 @@ image: "assets/images/pokemon/094.png"
 
 ## Forme Speciali
 
-<div style="display:flex;gap:24px;flex-wrap:wrap;margin:16px 0;align-items:flex-start;">
+### Mega Gengar
 
-<div style="text-align:center;min-width:160px;"><img src="../../assets/images/pokemon/forms/gengar-mega.png" width="180" style="display:block;margin:0 auto 6px;"><strong>Mega Gengar</strong></div>
+<img src="../../assets/images/pokemon/forms/gengar-mega.png" align="right" width="200" style="margin-left:16px;margin-bottom:8px;">
 
-<div style="text-align:center;min-width:160px;"><img src="../../assets/images/pokemon/forms/gengar-gmax.png" width="180" style="display:block;margin:0 auto 6px;"><strong>Gengar (Gigantamax)</strong></div>
+**Type:** Ghost / Poison  
+**Ability:** [[Shadow_Tag|Shadow Tag]]  
+**Base HP:** 6  ·  **Suggested Rank:** Pro  
+**Height:** 1.4m / 4'07"  ·  **Weight:** 40kg / 90lbs
 
-</div>
+> With the power of the Mega Stone Gengar can now teleport through dimensions. Whatever horrors it witnesses there make it try to curse anything or anyone it perceives as prey, even its beloved trainer!
+
+<br style="clear:both;">
+
+---
+
+### Gengar (Gigantamax)
+
+<img src="../../assets/images/pokemon/forms/gengar-gmax.png" align="right" width="200" style="margin-left:16px;margin-bottom:8px;">
+
+*Forma Gigantamax — richiede Dynamax Band e Pokémon Stadium, oppure Power Spot naturale.*
+
+Vedi [[Max_Moves]] per le G-Max Moves disponibili e i relativi effetti.
+
+<br style="clear:both;">
 
 ---
 

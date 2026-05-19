@@ -43,11 +43,15 @@ image: "assets/images/pokemon/012.png"
 
 ## Forme Speciali
 
-<div style="display:flex;gap:24px;flex-wrap:wrap;margin:16px 0;align-items:flex-start;">
+### Butterfree (Gigantamax)
 
-<div style="text-align:center;min-width:160px;"><img src="../../assets/images/pokemon/forms/butterfree-gmax.png" width="180" style="display:block;margin:0 auto 6px;"><strong>Butterfree (Gigantamax)</strong></div>
+<img src="../../assets/images/pokemon/forms/butterfree-gmax.png" align="right" width="200" style="margin-left:16px;margin-bottom:8px;">
 
-</div>
+*Forma Gigantamax — richiede Dynamax Band e Pokémon Stadium, oppure Power Spot naturale.*
+
+Vedi [[Max_Moves]] per le G-Max Moves disponibili e i relativi effetti.
+
+<br style="clear:both;">
 
 ---
 

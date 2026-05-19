@@ -27,7 +27,6 @@ Creazione del personaggio, statistiche e regole del Trainer.
 - **[[Creazione_Personaggio]]** — Guida passo-passo per creare un Trainer
 - **[[Scheda_Allenatore]]** — Come compilare la Trainer Character Sheet
 - **[[Creazione_Pokemon]]** — Come creare un Pokémon iniziale e compilare la scheda
-- 🔥 **[[Bulbasaur_Scheda]]** — Scheda compilata di un Bulbasaur base (*Starter*) *(da creare)*
 - **[[Venusaur_Scheda]]** — Scheda compilata di un Venusaur evoluto (*Ace*)
 - **[[Natures]]** — Le Natures e il sistema di *Confidence*
 - **[[Happiness_e_Loyalty]]** — Felicità, Lealtà e il loro impatto meccanico
@@ -40,7 +39,7 @@ Dati e statistiche dei Pokémon, organizzati per regione.
 
 - **[[Pokedex_Introduzione]]** — Introduzione al Pokédex e legenda delle statistiche
 - **Kanto** (001-151) — *Vedi cartella `03_Pokedex/Kanto/`*
-- **Johto** (152-251) — *Vedi cartella `03_Pokedex/Johto/`*
+- **Johto** (152-251) — *Vedi cartella `03_Pokedex/Johto/`* (100 schede, #0152–#0251)
 - **Hoenn** (252-386) — *Vedi cartella `03_Pokedex/Hoenn/`*
 - **Sinnoh** (387-493) — *Vedi cartella `03_Pokedex/Sinnoh/`*
 - **Unova** (494-649) — *Vedi cartella `03_Pokedex/Unova/`*
@@ -60,7 +59,7 @@ Database delle mosse di combattimento e delle abilità speciali.
 - **[[Z-Moves]]** — Z-Crystals, 18 Z-Moves per Tipo, personalizzazione per Rank, TM opzionali
 - **[[Strength_Dexterity_Chart]]** — Capacità di sollevamento e velocità massima per Attribute (1-10); Fling/Nature Power
 - **[[FAQ_Moves]]** — Priority, Evasion, Clash, Multiple Actions, Z/Max Moves, Out of Range e altro
-- 🔥 **Database Abilities** — *Vedi cartella `04_Moves_e_Abilities/Abilities/`* *(da creare)*
+- **Database Abilities** — *Vedi cartella `04_Moves_e_Abilities/Abilità/`* (258 abilità, A→Z)
 
 ---
 

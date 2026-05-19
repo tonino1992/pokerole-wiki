@@ -43,8 +43,15 @@ image: "assets/images/pokemon/115.png"
 
 ## Forme Speciali
 
-<div style="display:flex;gap:24px;flex-wrap:wrap;margin:16px 0;align-items:flex-start;">
+### Mega Kangaskhan
 
-<div style="text-align:center;min-width:160px;"><img src="../../assets/images/pokemon/forms/kangaskhan-mega.png" width="180" style="display:block;margin:0 auto 6px;"><strong>Mega Kangaskhan</strong></div>
+<img src="../../assets/images/pokemon/forms/kangaskhan-mega.png" align="right" width="200" style="margin-left:16px;margin-bottom:8px;">
 
-</div>
+**Type:** Normal  
+**Ability:** [[Parental_Bond|Parental Bond]]  
+**Base HP:** 6  ·  **Suggested Rank:** Ace  
+**Height:** 2.2m / 7'03"  ·  **Weight:** 160kg / 352lbs
+
+> The mother gives all the power of the Mega Stone to her child. The child grows violent and both team up as formidable fighters. But the mother worries about her child's future as she raised it better than that.
+
+<br style="clear:both;">

@@ -43,11 +43,18 @@ image: "assets/images/pokemon/018.png"
 
 ## Forme Speciali
 
-<div style="display:flex;gap:24px;flex-wrap:wrap;margin:16px 0;align-items:flex-start;">
+### Mega Pidgeot
 
-<div style="text-align:center;min-width:160px;"><img src="../../assets/images/pokemon/forms/pidgeot-mega.png" width="180" style="display:block;margin:0 auto 6px;"><strong>Mega Pidgeot</strong></div>
+<img src="../../assets/images/pokemon/forms/pidgeot-mega.png" align="right" width="200" style="margin-left:16px;margin-bottom:8px;">
 
-</div>
+**Type:** Normal / Flying  
+**Ability:** [[No_Guard|No Guard]]  
+**Base HP:** 6  ·  **Suggested Rank:** Pro  
+**Height:** 2.2m / 7'03"  ·  **Weight:** 100kg / 220lbs
+
+> With the power of the Mega Stone Pidgeot's flying becomes a blurred red stripe in the sky. It won't stop soaring the skies without tiring or needing to rest for many days at a time.
+
+<br style="clear:both;">
 
 ---
 

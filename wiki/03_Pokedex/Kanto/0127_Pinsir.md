@@ -43,8 +43,15 @@ image: "assets/images/pokemon/127.png"
 
 ## Forme Speciali
 
-<div style="display:flex;gap:24px;flex-wrap:wrap;margin:16px 0;align-items:flex-start;">
+### Mega Pinsir
 
-<div style="text-align:center;min-width:160px;"><img src="../../assets/images/pokemon/forms/pinsir-mega.png" width="180" style="display:block;margin:0 auto 6px;"><strong>Mega Pinsir</strong></div>
+<img src="../../assets/images/pokemon/forms/pinsir-mega.png" align="right" width="200" style="margin-left:16px;margin-bottom:8px;">
 
-</div>
+**Type:** Bug / Flying  
+**Ability:** [[Aerialate]]  
+**Base HP:** 5  ·  **Suggested Rank:** Ace  
+**Height:** 1.7m / 5'07"  ·  **Weight:** 59kg / 130lbs
+
+> With the power of the Mega Stone it develops wings and inhuman strength. It can lift foes heavier than itself and still fly with ease. Its mind is in a constant state of excitement and it cannot stay still.
+
+<br style="clear:both;">

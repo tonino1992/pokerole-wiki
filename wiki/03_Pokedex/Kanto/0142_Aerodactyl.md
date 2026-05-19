@@ -43,8 +43,15 @@ image: "assets/images/pokemon/142.png"
 
 ## Forme Speciali
 
-<div style="display:flex;gap:24px;flex-wrap:wrap;margin:16px 0;align-items:flex-start;">
+### Mega Aerodactyl
 
-<div style="text-align:center;min-width:160px;"><img src="../../assets/images/pokemon/forms/aerodactyl-mega.png" width="180" style="display:block;margin:0 auto 6px;"><strong>Mega Aerodactyl</strong></div>
+<img src="../../assets/images/pokemon/forms/aerodactyl-mega.png" align="right" width="200" style="margin-left:16px;margin-bottom:8px;">
 
-</div>
+**Type:** Rock / Flying  
+**Ability:** [[Tough_Claws|Tough Claws]]  
+**Base HP:** 5  ·  **Suggested Rank:** Pro  
+**Height:** 2.1m / 7'00"  ·  **Weight:** 180kg / 396lbs
+
+> With the power of the Mega Stone it restores the original appearance it had millions of years ago, with its body covered in sharp rocks. It is very aggressive and will attack anything that moves.
+
+<br style="clear:both;">

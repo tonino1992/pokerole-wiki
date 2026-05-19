@@ -4,6 +4,16 @@ Registro cronologico append-only. Ogni operazione viene registrata con data, tip
 
 ---
 
+## [2026-05-19] ingest | pokédex-johto-152-251
+- **Tipo:** Bulk Ingest — Pokédex
+- **Fonte:** `raw/POKEROLE COREBOOK 2.0 (2).pdf` (pp. 136-161) + JSON Willowlark/Pokerole-Data
+- **File creati:** 100 schede Pokémon in `wiki/03_Pokedex/Johto/` (#0152 Chikorita → #0251 Celebi)
+- **Contenuto:** Type (IT), Abilities, Base HP, Statistiche (Attributes & Limits), Learnset per Rank, Catena Evolutiva, immagini ufficiali
+- **Script:** `wiki/00_Meta/ingest_johto_json.py`
+- **Note:** Lore text in inglese dal JSON (fedele alla fonte PDF). Tipi tradotti in italiano.
+
+---
+
 ## [2026-05-05] init | inizializzazione-wiki
 - **Tipo:** Inizializzazione
 - **Fonte:** `raw/POKEROLE COREBOOK 2.0 (2).pdf` (69.7 MB)
@@ -359,6 +369,14 @@ Registro cronologico append-only. Ogni operazione viene registrata con data, tip
 - **Contenuto:** 15 FAQ ufficiali: Priority/cambio azione, estendere durate (ST discretion), no stack Attribute (solo con Abilities), aumentare danno Z/Max/G-Max (1 Effetto per dado), coesistenza Z+Max+G-Max (ST), Multiple Actions Evasion/Clash (eguaglia successi, ma conta come Azione), Evadere più volte (solo Double Team/Minimize), Ready to Fight (Switch e Switcher Moves), Pokémon svenuto → prossimo ready, range dinamico, target Alleato con mossa Foe (sì, raro ma utile), auto-danno (no), Out of Range (Fly/Dig, immunità), Ground su volanti (senza immunità sì), Dig da edifici (sì, dipende dal terreno), Protect/Wide Guard no stack.
 - **Note extra:** Aggiornato `Strength_Dexterity_Chart.md` con le note Dexterity mancanti da p.433 (Athletic +2 km/h, Pain Penalizations camminare/strisciare, peso dimezza velocità).
 - **Aggiornamenti:** `index.md` (rimosso 🔥), `ingest_queue.md` (segnato `[x]`).
+
+## [2026-05-19] ingest | database-abilities
+- **Tipo:** Ingest / Database
+- **Fonte:** `raw/POKEROLE COREBOOK 2.0 (2).pdf` — pp. 434-472
+- **File creati:** 258 file in `04_Moves_e_Abilities/Abilità/` (un file per Ability, A→Z)
+- **Contenuto:** Tutte le Abilities del Corebook 2.0 con flavor text originale in inglese ed effetto meccanico completo. Include abilità base (Overgrow, Blaze, Torrent, ecc.), abilità Ultra-Beast (Beast Boost), abilità Leggendarie (Multitype, Power Construct, Battle Bond, ecc.), abilità dei Gigantamax (Hunger Switch, Shields Down), note speciali sulle Form-altering Abilities e le Curse Abilities.
+- **Note:** I wikilink `[[NomeAbility]]` nelle schede Pokédex Kanto ora si risolvono correttamente verso questi file.
+- **Aggiornamenti:** `index.md` (rimosso 🔥, aggiornato path cartella), `ingest_queue.md` (segnato `[x]`).
 
 ---
 

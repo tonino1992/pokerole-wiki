@@ -2,9 +2,13 @@
 title: "Metapod (#0011)"
 category: Pokedex
 tags: [metapod, kanto, bug]
+image: "assets/images/pokemon/011.png"
 ---
 
 # Metapod (#0011)
+
+<img src="../../assets/images/pokemon/011.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Cocoon Pokemon*
 
 **Type:** Bug

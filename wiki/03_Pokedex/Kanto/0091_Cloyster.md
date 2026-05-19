@@ -2,9 +2,13 @@
 title: "Cloyster (#0091)"
 category: Pokedex
 tags: [cloyster, kanto, water, ice]
+image: "assets/images/pokemon/091.png"
 ---
 
 # Cloyster (#0091)
+
+<img src="../../assets/images/pokemon/091.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Bivalve Pokemon*
 
 **Type:** Water / Ice

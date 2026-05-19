@@ -2,9 +2,13 @@
 title: "Nidoran M (#0032)"
 category: Pokedex
 tags: [nidoranm, kanto, poison]
+image: "assets/images/pokemon/032.png"
 ---
 
 # Nidoran M (#0032)
+
+<img src="../../assets/images/pokemon/032.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Poison Pin Pokemon*
 
 **Type:** Poison

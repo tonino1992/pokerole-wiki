@@ -2,9 +2,13 @@
 title: "Ditto (#0132)"
 category: Pokedex
 tags: [ditto, kanto, normal]
+image: "assets/images/pokemon/132.png"
 ---
 
 # Ditto (#0132)
+
+<img src="../../assets/images/pokemon/132.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Transform Pokemon*
 
 **Type:** Normal

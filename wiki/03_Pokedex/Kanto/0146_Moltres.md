@@ -2,9 +2,13 @@
 title: "Moltres (#0146)"
 category: Pokedex
 tags: [moltres, kanto, fire, flying]
+image: "assets/images/pokemon/146.png"
 ---
 
 # Moltres (#0146)
+
+<img src="../../assets/images/pokemon/146.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *No Data*
 
 **Type:** Fire / Flying

@@ -2,9 +2,13 @@
 title: "Beedrill (#0015)"
 category: Pokedex
 tags: [beedrill, kanto, bug, poison]
+image: "assets/images/pokemon/015.png"
 ---
 
 # Beedrill (#0015)
+
+<img src="../../assets/images/pokemon/015.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Poison Bee Pokemon*
 
 **Type:** Bug / Poison
@@ -34,6 +38,16 @@ tags: [beedrill, kanto, bug, poison]
 - **Amateur:** [[Rage]], [[Pursuit]], [[Venoshock]], [[Toxic_Spikes]], [[Pin_Missile]], [[Agility]]
 - **Ace:** [[Assurance]], [[Poison_Jab]], [[Ominous_Wind]], [[Fell_Stinger]]
 - **Pro:** [[Drill_Run]], [[Tailwind]], [[Endeavor]]
+
+---
+
+## Forme Speciali
+
+<div style="display:flex;gap:24px;flex-wrap:wrap;margin:16px 0;align-items:flex-start;">
+
+<div style="text-align:center;min-width:160px;"><img src="../../assets/images/pokemon/forms/beedrill-mega.png" width="180" style="display:block;margin:0 auto 6px;"><strong>Mega Beedrill</strong></div>
+
+</div>
 
 ---
 

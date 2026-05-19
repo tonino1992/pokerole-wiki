@@ -41,7 +41,7 @@ Quando catturi un Pokémon, il suo punteggio base di Happiness (2) viene modific
 
 ## La Scala della Happiness
 
-La Happiness riguarda l'essere felici e a proprio agio. I Pokémon vogliono sicurezza, cibo, stabilità e sentirsi utili. Cerca sempre di fornire loro la vita che desiderano in base alla loro specie e alla loro [[Natures\|Nature]].
+La Happiness riguarda l'essere felici e a proprio agio. I Pokémon vogliono sicurezza, cibo, stabilità e sentirsi utili. Cerca sempre di fornire loro la vita che desiderano in base alla loro specie e alla loro [[Natures|Nature]].
 
 | Punti | Livello | Descrizione Narrativa |
 |---|---|---|
@@ -73,11 +73,11 @@ La Loyalty riflette quanto il Pokémon è disposto a fare per te: dall'ignorarti
 
 > *"L'Evoluzione di un Pokémon potrebbe portare un aumento di potere che lo fa sentire meno bisognoso di te, quindi il suo punteggio di Loyalty potrebbe scendere dopo essersi evoluto."*
 
-L'[[Allenare_Pokemon\|Evoluzione]] è un cambiamento drastico e traumatico. Può logorare la relazione, facendo sentire il Pokémon come se foste diventati estranei.
+L'[[Allenare_Pokemon|Evoluzione]] è un cambiamento drastico e traumatico. Può logorare la relazione, facendo sentire il Pokémon come se foste diventati estranei.
 
 Quando un tuo Pokémon si evolve, l'Allenatore deve mettersi alla prova per mantenere saldo il legame:
 
-1. L'Allenatore tira la Dice Pool del suo **[[Attributes_e_Skills\|Social Attribute]] più alto**.
+1. L'Allenatore tira la Dice Pool del suo **[[Attributes_e_Skills|Social Attribute]] più alto**.
 2. Il bersaglio da raggiungere è **2 Successi**.
 3. ⚠️ Se l'Allenatore **fallisce** (ottiene 0 o 1 successo), la **Loyalty del Pokémon scende di 1 punto**.
 

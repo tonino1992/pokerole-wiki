@@ -2,9 +2,13 @@
 title: "Wigglytuff (#0040)"
 category: Pokedex
 tags: [wigglytuff, kanto, normal, fairy]
+image: "assets/images/pokemon/040.png"
 ---
 
 # Wigglytuff (#0040)
+
+<img src="../../assets/images/pokemon/040.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Balloon Pokemon*
 
 **Type:** Normal / Fairy

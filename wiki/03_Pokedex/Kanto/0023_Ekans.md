@@ -2,9 +2,13 @@
 title: "Ekans (#0023)"
 category: Pokedex
 tags: [ekans, kanto, poison]
+image: "assets/images/pokemon/023.png"
 ---
 
 # Ekans (#0023)
+
+<img src="../../assets/images/pokemon/023.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Snake Pokemon*
 
 **Type:** Poison

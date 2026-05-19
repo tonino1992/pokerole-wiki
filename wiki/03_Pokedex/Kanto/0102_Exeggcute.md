@@ -2,9 +2,13 @@
 title: "Exeggcute (#0102)"
 category: Pokedex
 tags: [exeggcute, kanto, grass, psychic]
+image: "assets/images/pokemon/102.png"
 ---
 
 # Exeggcute (#0102)
+
+<img src="../../assets/images/pokemon/102.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Egg Pokemon*
 
 **Type:** Grass / Psychic

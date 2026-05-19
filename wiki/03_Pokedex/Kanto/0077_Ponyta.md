@@ -2,9 +2,13 @@
 title: "Ponyta (#0077)"
 category: Pokedex
 tags: [ponyta, kanto, fire]
+image: "assets/images/pokemon/077.png"
 ---
 
 # Ponyta (#0077)
+
+<img src="../../assets/images/pokemon/077.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Fire Horse Pokemon*
 
 **Type:** Fire

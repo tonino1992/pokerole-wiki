@@ -2,9 +2,13 @@
 title: "Venomoth (#0049)"
 category: Pokedex
 tags: [venomoth, kanto, bug, poison]
+image: "assets/images/pokemon/049.png"
 ---
 
 # Venomoth (#0049)
+
+<img src="../../assets/images/pokemon/049.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Poison Moth Pokemon*
 
 **Type:** Bug / Poison

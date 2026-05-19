@@ -2,9 +2,13 @@
 title: "Mankey (#0056)"
 category: Pokedex
 tags: [mankey, kanto, fighting]
+image: "assets/images/pokemon/056.png"
 ---
 
 # Mankey (#0056)
+
+<img src="../../assets/images/pokemon/056.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Pig Monkey Pokemon*
 
 **Type:** Fighting

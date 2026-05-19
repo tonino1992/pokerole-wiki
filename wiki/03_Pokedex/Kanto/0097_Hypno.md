@@ -2,9 +2,13 @@
 title: "Hypno (#0097)"
 category: Pokedex
 tags: [hypno, kanto, psychic]
+image: "assets/images/pokemon/097.png"
 ---
 
 # Hypno (#0097)
+
+<img src="../../assets/images/pokemon/097.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Hypnosis Pokemon*
 
 **Type:** Psychic

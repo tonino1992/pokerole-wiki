@@ -2,9 +2,13 @@
 title: "Golem (#0076)"
 category: Pokedex
 tags: [golem, kanto, rock, ground]
+image: "assets/images/pokemon/076.png"
 ---
 
 # Golem (#0076)
+
+<img src="../../assets/images/pokemon/076.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Megaton Pokemon*
 
 **Type:** Rock / Ground

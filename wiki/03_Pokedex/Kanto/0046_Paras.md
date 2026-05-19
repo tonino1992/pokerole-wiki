@@ -2,9 +2,13 @@
 title: "Paras (#0046)"
 category: Pokedex
 tags: [paras, kanto, bug, grass]
+image: "assets/images/pokemon/046.png"
 ---
 
 # Paras (#0046)
+
+<img src="../../assets/images/pokemon/046.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Mushroom Pokemon*
 
 **Type:** Bug / Grass

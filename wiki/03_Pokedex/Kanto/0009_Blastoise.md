@@ -2,9 +2,13 @@
 title: "Blastoise (#0009)"
 category: Pokedex
 tags: [blastoise, kanto, water]
+image: "assets/images/pokemon/009.png"
 ---
 
 # Blastoise (#0009)
+
+<img src="../../assets/images/pokemon/009.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Shellfish Pokemon*
 
 **Type:** Water
@@ -34,6 +38,18 @@ tags: [blastoise, kanto, water]
 - **Amateur:** [[Rapid_Spin]], [[Bubble]], [[Bite]], [[Flash_Cannon]], [[Protect]], [[Water_Pulse]], [[Aqua_Tail]]
 - **Ace:** [[Skull_Bash]], [[Iron_Defense]], [[Rain_Dance]], [[Hydro_Pump]]
 - **Pro:** [[Zap_Cannon]], [[Outrage]], [[Hydro_Cannon]]
+
+---
+
+## Forme Speciali
+
+<div style="display:flex;gap:24px;flex-wrap:wrap;margin:16px 0;align-items:flex-start;">
+
+<div style="text-align:center;min-width:160px;"><img src="../../assets/images/pokemon/forms/blastoise-mega.png" width="180" style="display:block;margin:0 auto 6px;"><strong>Mega Blastoise</strong></div>
+
+<div style="text-align:center;min-width:160px;"><img src="../../assets/images/pokemon/forms/blastoise-gmax.png" width="180" style="display:block;margin:0 auto 6px;"><strong>Blastoise (Gigantamax)</strong></div>
+
+</div>
 
 ---
 

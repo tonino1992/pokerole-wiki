@@ -2,9 +2,13 @@
 title: "Slowbro (#0080)"
 category: Pokedex
 tags: [slowbro, kanto, water, psychic]
+image: "assets/images/pokemon/080.png"
 ---
 
 # Slowbro (#0080)
+
+<img src="../../assets/images/pokemon/080.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Hermit Crab Pokemon*
 
 **Type:** Water / Psychic
@@ -34,6 +38,16 @@ tags: [slowbro, kanto, water, psychic]
 - **Amateur:** [[Confusion]], [[Disable]], [[Headbutt]], [[Water_Pulse]], [[Zen_Headbutt]], [[Slack_Off]], [[Withdraw]], [[Amnesia]]
 - **Ace:** [[Psychic]], [[Rain_Dance]], [[Psych_Up]], [[Heal_Pulse]]
 - **Pro:** [[Aqua_Tail]], [[Belly_Drum]], [[Future_Sight]]
+
+---
+
+## Forme Speciali
+
+<div style="display:flex;gap:24px;flex-wrap:wrap;margin:16px 0;align-items:flex-start;">
+
+<div style="text-align:center;min-width:160px;"><img src="../../assets/images/pokemon/forms/slowbro-mega.png" width="180" style="display:block;margin:0 auto 6px;"><strong>Mega Slowbro</strong></div>
+
+</div>
 
 ---
 

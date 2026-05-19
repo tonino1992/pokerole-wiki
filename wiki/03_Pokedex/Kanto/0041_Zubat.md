@@ -2,9 +2,13 @@
 title: "Zubat (#0041)"
 category: Pokedex
 tags: [zubat, kanto, poison, flying]
+image: "assets/images/pokemon/041.png"
 ---
 
 # Zubat (#0041)
+
+<img src="../../assets/images/pokemon/041.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Bat Pokemon*
 
 **Type:** Poison / Flying

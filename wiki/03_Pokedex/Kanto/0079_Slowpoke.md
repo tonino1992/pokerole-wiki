@@ -2,9 +2,13 @@
 title: "Slowpoke (#0079)"
 category: Pokedex
 tags: [slowpoke, kanto, water, psychic]
+image: "assets/images/pokemon/079.png"
 ---
 
 # Slowpoke (#0079)
+
+<img src="../../assets/images/pokemon/079.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Dopey Pokemon*
 
 **Type:** Water / Psychic

@@ -2,9 +2,13 @@
 title: "Poliwag (#0060)"
 category: Pokedex
 tags: [poliwag, kanto, water]
+image: "assets/images/pokemon/060.png"
 ---
 
 # Poliwag (#0060)
+
+<img src="../../assets/images/pokemon/060.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Tadpole Pokemon*
 
 **Type:** Water

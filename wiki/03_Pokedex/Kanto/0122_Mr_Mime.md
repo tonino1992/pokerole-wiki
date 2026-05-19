@@ -2,9 +2,13 @@
 title: "Mr. Mime (#0122)"
 category: Pokedex
 tags: [mr.mime, kanto, psychic, fairy]
+image: "assets/images/pokemon/122.png"
 ---
 
 # Mr. Mime (#0122)
+
+<img src="../../assets/images/pokemon/122.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Barrier Pokemon*
 
 **Type:** Psychic / Fairy

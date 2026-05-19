@@ -2,9 +2,13 @@
 title: "Sandslash (#0028)"
 category: Pokedex
 tags: [sandslash, kanto, ground]
+image: "assets/images/pokemon/028.png"
 ---
 
 # Sandslash (#0028)
+
+<img src="../../assets/images/pokemon/028.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Mouse Pokemon*
 
 **Type:** Ground

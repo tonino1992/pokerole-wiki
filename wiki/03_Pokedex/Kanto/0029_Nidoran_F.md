@@ -2,9 +2,13 @@
 title: "Nidoran F (#0029)"
 category: Pokedex
 tags: [nidoranf, kanto, poison]
+image: "assets/images/pokemon/029.png"
 ---
 
 # Nidoran F (#0029)
+
+<img src="../../assets/images/pokemon/029.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Poison Pin Pokemon*
 
 **Type:** Poison

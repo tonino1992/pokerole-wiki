@@ -2,9 +2,13 @@
 title: "Ivysaur (#0002)"
 category: Pokedex
 tags: [ivysaur, kanto, grass, poison]
+image: "assets/images/pokemon/002.png"
 ---
 
 # Ivysaur (#0002)
+
+<img src="../../assets/images/pokemon/002.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Seed Pokemon*
 
 **Type:** Grass / Poison

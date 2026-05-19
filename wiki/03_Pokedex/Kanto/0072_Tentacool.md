@@ -2,9 +2,13 @@
 title: "Tentacool (#0072)"
 category: Pokedex
 tags: [tentacool, kanto, water, poison]
+image: "assets/images/pokemon/072.png"
 ---
 
 # Tentacool (#0072)
+
+<img src="../../assets/images/pokemon/072.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Jellyfish Pokemon*
 
 **Type:** Water / Poison

@@ -2,9 +2,13 @@
 title: "Machoke (#0067)"
 category: Pokedex
 tags: [machoke, kanto, fighting]
+image: "assets/images/pokemon/067.png"
 ---
 
 # Machoke (#0067)
+
+<img src="../../assets/images/pokemon/067.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Superpower Pokemon*
 
 **Type:** Fighting

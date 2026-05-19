@@ -2,9 +2,13 @@
 title: "Dragonair (#0148)"
 category: Pokedex
 tags: [dragonair, kanto, dragon]
+image: "assets/images/pokemon/148.png"
 ---
 
 # Dragonair (#0148)
+
+<img src="../../assets/images/pokemon/148.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Dragon Pokemon*
 
 **Type:** Dragon

@@ -22,13 +22,13 @@ Sebbene le descrizioni delle mosse siano state scritte dalla Lega per regolament
 | Regola | Dettaglio |
 |---|---|
 | **Limite Equipaggiate** | Un Pokémon può conoscere un numero di mosse massimo pari a **Insight + 2**. |
-| **Rank** | I Pokémon possono imparare solo Mosse del loro **Rank o inferiore** (a meno di usare l'[[Allenare_Pokemon\|Overank]]). |
+| **Rank** | I Pokémon possono imparare solo Mosse del loro **Rank o inferiore** (a meno di usare l'[[Allenare_Pokemon|Overank]]). |
 | **Sostituzione** | Le mosse possono essere cambiate con altre mosse compatibili durante una **Training Session**. |
 | **Evoluzione** | Un Pokémon evoluto non può imparare nuove mosse esclusive del suo stadio precedente, ma se le aveva imparate prima di evolversi può mantenerle. |
 
 ### Regole d'Uso in Battaglia
 
-> ⚠️ **Limiti di Utilizzo:** Una Mossa può essere usata **solo UNA volta per Round**. (Usarla per eseguire un [[Strategie_di_Combattimento\|Clash]] conta come utilizzo).
+> ⚠️ **Limiti di Utilizzo:** Una Mossa può essere usata **solo UNA volta per Round**. (Usarla per eseguire un [[Strategie_di_Combattimento|Clash]] conta come utilizzo).
 
 | Meccanica | Dettaglio |
 |---|---|

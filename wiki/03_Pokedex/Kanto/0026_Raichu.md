@@ -2,9 +2,13 @@
 title: "Raichu (#0026)"
 category: Pokedex
 tags: [raichu, kanto, electric]
+image: "assets/images/pokemon/026.png"
 ---
 
 # Raichu (#0026)
+
+<img src="../../assets/images/pokemon/026.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Mouse Pokemon*
 
 **Type:** Electric

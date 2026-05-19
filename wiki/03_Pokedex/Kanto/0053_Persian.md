@@ -2,9 +2,13 @@
 title: "Persian (#0053)"
 category: Pokedex
 tags: [persian, kanto, normal]
+image: "assets/images/pokemon/053.png"
 ---
 
 # Persian (#0053)
+
+<img src="../../assets/images/pokemon/053.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Classy Cat Pokemon*
 
 **Type:** Normal

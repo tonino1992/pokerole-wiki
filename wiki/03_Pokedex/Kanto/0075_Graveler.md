@@ -2,9 +2,13 @@
 title: "Graveler (#0075)"
 category: Pokedex
 tags: [graveler, kanto, rock, ground]
+image: "assets/images/pokemon/075.png"
 ---
 
 # Graveler (#0075)
+
+<img src="../../assets/images/pokemon/075.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Rock Pokemon*
 
 **Type:** Rock / Ground

@@ -2,9 +2,13 @@
 title: "Pinsir (#0127)"
 category: Pokedex
 tags: [pinsir, kanto, bug]
+image: "assets/images/pokemon/127.png"
 ---
 
 # Pinsir (#0127)
+
+<img src="../../assets/images/pokemon/127.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Stagbeetle Pokemon*
 
 **Type:** Bug
@@ -35,3 +39,12 @@ tags: [pinsir, kanto, bug]
 - **Ace:** [[Thrash]], [[Swords_Dance]], [[Superpower]], [[Guillotine]]
 - **Pro:** [[Iron_Defense]], [[Stealth_Rock]], [[Feint_Attack]]
 
+---
+
+## Forme Speciali
+
+<div style="display:flex;gap:24px;flex-wrap:wrap;margin:16px 0;align-items:flex-start;">
+
+<div style="text-align:center;min-width:160px;"><img src="../../assets/images/pokemon/forms/pinsir-mega.png" width="180" style="display:block;margin:0 auto 6px;"><strong>Mega Pinsir</strong></div>
+
+</div>

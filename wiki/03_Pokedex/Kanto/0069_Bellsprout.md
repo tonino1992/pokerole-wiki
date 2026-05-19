@@ -2,9 +2,13 @@
 title: "Bellsprout (#0069)"
 category: Pokedex
 tags: [bellsprout, kanto, grass, poison]
+image: "assets/images/pokemon/069.png"
 ---
 
 # Bellsprout (#0069)
+
+<img src="../../assets/images/pokemon/069.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Flower Pokemon*
 
 **Type:** Grass / Poison

@@ -2,9 +2,13 @@
 title: "Krabby (#0098)"
 category: Pokedex
 tags: [krabby, kanto, water]
+image: "assets/images/pokemon/098.png"
 ---
 
 # Krabby (#0098)
+
+<img src="../../assets/images/pokemon/098.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *River Crab Pokemon*
 
 **Type:** Water

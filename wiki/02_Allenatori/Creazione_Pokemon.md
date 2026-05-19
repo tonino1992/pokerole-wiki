@@ -26,7 +26,7 @@ Se stai iniziando la tua avventura, devi scegliere il tuo primo compagno.
 | Regola | Dettaglio |
 |---|---|
 | **Icona Starter** | Cerca nel Pokédex i Pokémon contrassegnati dall'icona speciale: sono le opzioni migliori per gli Allenatori novizi |
-| **Rank** | Il Pokémon iniziale **ha lo stesso [[Ranking\|Rank]]** dell'Allenatore |
+| **Rank** | Il Pokémon iniziale **ha lo stesso [[Ranking|Rank]]** dell'Allenatore |
 | **Affinità** | Scegli un Pokémon che si abbini alla personalità e al Concept del tuo Trainer |
 
 > 💡 *"Non disperare se non hai potuto iniziare con il Pokémon che volevi, questo mondo è molto vasto e catturare Pokémon è metà del divertimento."*
@@ -82,7 +82,7 @@ Valori calcolati per l'uso immediato in combattimento.
 | **6** | **HP (Health Points)** | **Base HP + *Vitality*** (Ogni punto di *Vitality* aggiunge 1 HP) |
 | **7** | **Will Points** | **Insight + 2** |
 | **8** | **Held Item** | L'oggetto tenuto in combattimento (vedi p. 83) |
-| **9** | **Status** | Scrivi "Healthy" finché non subisce uno [[Status_Conditions\|Status Ailment]] |
+| **9** | **Status** | Scrivi "Healthy" finché non subisce uno [[Status_Conditions|Status Ailment]] |
 | **10** | **Initiative** | ***Dexterity* + *Alert*** |
 | **11** | **Accuracy** | La Dice Pool totale usata più di frequente per colpire |
 | **12** | **Damage** | La Dice Pool totale usata più di frequente per il danno |
@@ -106,7 +106,7 @@ Valori calcolati per l'uso immediato in combattimento.
 | # | Campo | Cosa Scrivere |
 |---|---|---|
 | **25** | **Social Attributes** | Partono da **1**. I punti extra si ottengono tramite allenamento o evoluzione |
-| **26** | **Nature** | Scegli una [[Natures\|Nature]] (p. 38) |
+| **26** | **Nature** | Scegli una [[Natures|Nature]] (p. 38) |
 | **27** | **Happiness e Loyalty** | Per il Pokémon Starter, partono entrambe da **2**. (vedi [[Happiness_e_Loyalty]]) |
 | **28** | **Info Varie** | Tipo, Debolezze, numero di battaglie e vittorie, accessori/nastri vinti |
 

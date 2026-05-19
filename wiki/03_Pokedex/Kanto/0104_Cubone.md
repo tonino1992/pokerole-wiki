@@ -2,9 +2,13 @@
 title: "Cubone (#0104)"
 category: Pokedex
 tags: [cubone, kanto, ground]
+image: "assets/images/pokemon/104.png"
 ---
 
 # Cubone (#0104)
+
+<img src="../../assets/images/pokemon/104.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Lonely Pokemon*
 
 **Type:** Ground

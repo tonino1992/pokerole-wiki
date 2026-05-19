@@ -2,9 +2,13 @@
 title: "Doduo (#0084)"
 category: Pokedex
 tags: [doduo, kanto, normal, flying]
+image: "assets/images/pokemon/084.png"
 ---
 
 # Doduo (#0084)
+
+<img src="../../assets/images/pokemon/084.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Twin Bird Pokemon*
 
 **Type:** Normal / Flying

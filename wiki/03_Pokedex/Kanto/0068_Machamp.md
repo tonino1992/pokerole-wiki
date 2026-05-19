@@ -2,9 +2,13 @@
 title: "Machamp (#0068)"
 category: Pokedex
 tags: [machamp, kanto, fighting]
+image: "assets/images/pokemon/068.png"
 ---
 
 # Machamp (#0068)
+
+<img src="../../assets/images/pokemon/068.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Superpower Pokemon*
 
 **Type:** Fighting
@@ -34,6 +38,16 @@ tags: [machamp, kanto, fighting]
 - **Amateur:** [[Low_Sweep]], [[Wide_Guard]], [[Knock_Off]], [[Seismic_Toss]], [[Revenge]], [[Vital_Throw]], [[Dual_Chop]], [[Submission]], [[Wake-Up_Slap]]
 - **Ace:** [[Bulk_Up]], [[Cross_Chop]], [[Scary_Face]], [[Dynamic_Punch]]
 - **Pro:** [[Thunder_Punch]], [[Tickle]], [[Close_Combat]]
+
+---
+
+## Forme Speciali
+
+<div style="display:flex;gap:24px;flex-wrap:wrap;margin:16px 0;align-items:flex-start;">
+
+<div style="text-align:center;min-width:160px;"><img src="../../assets/images/pokemon/forms/machamp-gmax.png" width="180" style="display:block;margin:0 auto 6px;"><strong>Machamp (Gigantamax)</strong></div>
+
+</div>
 
 ---
 

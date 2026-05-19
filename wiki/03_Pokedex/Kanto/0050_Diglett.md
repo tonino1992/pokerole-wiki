@@ -2,9 +2,13 @@
 title: "Diglett (#0050)"
 category: Pokedex
 tags: [diglett, kanto, ground]
+image: "assets/images/pokemon/050.png"
 ---
 
 # Diglett (#0050)
+
+<img src="../../assets/images/pokemon/050.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Mole Pokemon*
 
 **Type:** Ground

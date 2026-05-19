@@ -2,9 +2,13 @@
 title: "Kabuto (#0140)"
 category: Pokedex
 tags: [kabuto, kanto, rock, water]
+image: "assets/images/pokemon/140.png"
 ---
 
 # Kabuto (#0140)
+
+<img src="../../assets/images/pokemon/140.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Shellfish Pokemon*
 
 **Type:** Rock / Water

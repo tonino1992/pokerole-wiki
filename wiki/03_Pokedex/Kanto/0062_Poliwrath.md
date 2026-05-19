@@ -2,9 +2,13 @@
 title: "Poliwrath (#0062)"
 category: Pokedex
 tags: [poliwrath, kanto, water, fighting]
+image: "assets/images/pokemon/062.png"
 ---
 
 # Poliwrath (#0062)
+
+<img src="../../assets/images/pokemon/062.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Tadpole Pokemon*
 
 **Type:** Water / Fighting

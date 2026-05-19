@@ -2,9 +2,13 @@
 title: "Primeape (#0057)"
 category: Pokedex
 tags: [primeape, kanto, fighting]
+image: "assets/images/pokemon/057.png"
 ---
 
 # Primeape (#0057)
+
+<img src="../../assets/images/pokemon/057.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Pig Monkey Pokemon*
 
 **Type:** Fighting

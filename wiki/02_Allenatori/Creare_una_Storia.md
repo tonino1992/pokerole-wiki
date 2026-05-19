@@ -39,7 +39,7 @@ Puoi impostare le tue storie su diversi "focus" a seconda dei gusti del gruppo:
 ### 3. Intrigue (Investigazione)
 - **Focus:** I personaggi umani e l'indagine.
 - **Struttura:** Un Antagonista con un piano malvagio.
-- **Ostacoli:** Indizi nascosti dietro l'uso di specifiche [[Attributes_e_Skills\|Skills]] (es. *Fight* per minacciare, *Social* per interrogare, *Knowledge* per decifrare). Tutti gli indizi devono ruotare attorno a un pericolo imminente.
+- **Ostacoli:** Indizi nascosti dietro l'uso di specifiche [[Attributes_e_Skills|Skills]] (es. *Fight* per minacciare, *Social* per interrogare, *Knowledge* per decifrare). Tutti gli indizi devono ruotare attorno a un pericolo imminente.
 
 ---
 

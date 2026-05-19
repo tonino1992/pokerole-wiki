@@ -2,9 +2,13 @@
 title: "Lickitung (#0108)"
 category: Pokedex
 tags: [lickitung, kanto, normal]
+image: "assets/images/pokemon/108.png"
 ---
 
 # Lickitung (#0108)
+
+<img src="../../assets/images/pokemon/108.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Licking Pokemon*
 
 **Type:** Normal

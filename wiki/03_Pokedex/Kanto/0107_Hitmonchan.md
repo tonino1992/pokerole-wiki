@@ -2,9 +2,13 @@
 title: "Hitmonchan (#0107)"
 category: Pokedex
 tags: [hitmonchan, kanto, fighting]
+image: "assets/images/pokemon/107.png"
 ---
 
 # Hitmonchan (#0107)
+
+<img src="../../assets/images/pokemon/107.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Punching Pokemon*
 
 **Type:** Fighting

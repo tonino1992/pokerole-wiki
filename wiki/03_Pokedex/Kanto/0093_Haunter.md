@@ -2,9 +2,13 @@
 title: "Haunter (#0093)"
 category: Pokedex
 tags: [haunter, kanto, ghost, poison]
+image: "assets/images/pokemon/093.png"
 ---
 
 # Haunter (#0093)
+
+<img src="../../assets/images/pokemon/093.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Gas Pokemon*
 
 **Type:** Ghost / Poison

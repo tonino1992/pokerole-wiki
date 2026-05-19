@@ -2,9 +2,13 @@
 title: "Gloom (#0044)"
 category: Pokedex
 tags: [gloom, kanto, grass, poison]
+image: "assets/images/pokemon/044.png"
 ---
 
 # Gloom (#0044)
+
+<img src="../../assets/images/pokemon/044.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Weed Pokemon*
 
 **Type:** Grass / Poison

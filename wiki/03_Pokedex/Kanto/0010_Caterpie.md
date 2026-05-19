@@ -2,9 +2,13 @@
 title: "Caterpie (#0010)"
 category: Pokedex
 tags: [caterpie, kanto, bug]
+image: "assets/images/pokemon/010.png"
 ---
 
 # Caterpie (#0010)
+
+<img src="../../assets/images/pokemon/010.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Worm Pokemon*
 
 **Type:** Bug

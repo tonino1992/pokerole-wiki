@@ -2,9 +2,13 @@
 title: "Pidgeotto (#0017)"
 category: Pokedex
 tags: [pidgeotto, kanto, normal, flying]
+image: "assets/images/pokemon/017.png"
 ---
 
 # Pidgeotto (#0017)
+
+<img src="../../assets/images/pokemon/017.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Bird Pokemon*
 
 **Type:** Normal / Flying

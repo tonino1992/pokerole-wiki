@@ -2,9 +2,13 @@
 title: "Scyther (#0123)"
 category: Pokedex
 tags: [scyther, kanto, bug, flying]
+image: "assets/images/pokemon/123.png"
 ---
 
 # Scyther (#0123)
+
+<img src="../../assets/images/pokemon/123.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Mantis Pokemon*
 
 **Type:** Bug / Flying

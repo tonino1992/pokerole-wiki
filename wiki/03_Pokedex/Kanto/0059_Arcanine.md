@@ -2,9 +2,13 @@
 title: "Arcanine (#0059)"
 category: Pokedex
 tags: [arcanine, kanto, fire]
+image: "assets/images/pokemon/059.png"
 ---
 
 # Arcanine (#0059)
+
+<img src="../../assets/images/pokemon/059.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Legendary Pokemon*
 
 **Type:** Fire

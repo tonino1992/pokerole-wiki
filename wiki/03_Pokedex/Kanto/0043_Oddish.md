@@ -2,9 +2,13 @@
 title: "Oddish (#0043)"
 category: Pokedex
 tags: [oddish, kanto, grass, poison]
+image: "assets/images/pokemon/043.png"
 ---
 
 # Oddish (#0043)
+
+<img src="../../assets/images/pokemon/043.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Weed Pokemon*
 
 **Type:** Grass / Poison

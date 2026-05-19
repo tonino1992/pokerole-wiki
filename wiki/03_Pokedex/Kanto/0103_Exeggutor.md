@@ -2,9 +2,13 @@
 title: "Exeggutor (#0103)"
 category: Pokedex
 tags: [exeggutor, kanto, grass, psychic]
+image: "assets/images/pokemon/103.png"
 ---
 
 # Exeggutor (#0103)
+
+<img src="../../assets/images/pokemon/103.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Coconut Pokemon*
 
 **Type:** Grass / Psychic

@@ -2,9 +2,13 @@
 title: "Psyduck (#0054)"
 category: Pokedex
 tags: [psyduck, kanto, water]
+image: "assets/images/pokemon/054.png"
 ---
 
 # Psyduck (#0054)
+
+<img src="../../assets/images/pokemon/054.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Duck Pokemon*
 
 **Type:** Water

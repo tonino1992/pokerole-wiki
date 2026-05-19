@@ -2,9 +2,13 @@
 title: "Starmie (#0121)"
 category: Pokedex
 tags: [starmie, kanto, water, psychic]
+image: "assets/images/pokemon/121.png"
 ---
 
 # Starmie (#0121)
+
+<img src="../../assets/images/pokemon/121.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Mysterious Pokemon*
 
 **Type:** Water / Psychic

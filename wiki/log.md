@@ -232,3 +232,138 @@ Registro cronologico append-only. Ogni operazione viene registrata con data, tip
   6. **Catene evolutive aggiunte:** Inserita sezione `## Correlati` con `### Catena Evolutiva` in 124 Pokémon Kanto, collegandoli ai loro compagni di linea evolutiva.
 - **Link rotti residui:** ~300 link a Abilities mancanti (es. `[[Overgrow]]`, `[[Chlorophyll]]`). Richiedono ingest dedicato dal repository Pokerole-Data.
 - **Script di audit:** Salvato in `00_Meta/audit_links.ps1` per futuri controlli.
+
+## [2026-05-19] lint | riordino-struttura-progetto
+- **Tipo:** Lint / Riorganizzazione
+- **Azioni eseguite:**
+  1. **Eliminati file temporanei dalla root:** `_extract_strat.txt` e `_extract_types.txt` (estratti PDF già ingestati, non più necessari).
+  2. **Spostata `wiki/schede/Venusaur_Scheda.md`** in `wiki/02_Allenatori/` (posizione logicamente corretta).
+  3. **Eliminata `wiki/schede/Bulbasaur_Scheda.md`** (file vuoto, placeholder) e rimossa la cartella `wiki/schede/`.
+  4. **Aggiornato `rules.md` §2:** Alberatura di riferimento allineata alla struttura reale (`raw/` vs `00_Raw_Sources/`, `Mosse/` vs `Moves/`, `Tratti/` vs `Abilities/`, `Tipi/` vs `Tipi_Pokemon/`). Aggiunto `ingest_queue.md` e `assets/` all'alberatura.
+  5. **Aggiornato `index.md`:** `[[Bulbasaur_Scheda]]` marcato come 🔥 *(da creare)*.
+- **Stato post-riordino:** Struttura cartelle e `rules.md` ora coerenti tra loro.
+
+## [2026-05-19] lint | audit-link-e-struttura-wiki
+- **Tipo:** Lint / Audit strutturale
+- **Strumento:** Analisi manuale + `audit_report_v2.txt`
+- **Problemi trovati:**
+  1. **Bug sintassi wikilink `\|`:** 35+ occorrenze in 13 file usavano `[[File\|Alias]]` invece del corretto `[[File|Alias]]`. Causa: backslash spurio generato da qualche script o editor.
+  2. **Link tipo specifici via Tipi_Pokemon:** Pattern `[[Tipi_Pokemon|Fuoco]]` ecc. in Meteo_e_Scenario.md, Status_Conditions.md, Strategie_di_Combattimento.md. Sintatticamente validi ma non navigano alla pagina tipo individuale.
+  3. **Template headings non aggiornati in rules.md:** I template prescritti (§5) non corrispondevano alle strutture reali dei file bulk-ingestati (Mosse, Pokédex, Tratti).
+  4. **Link rotti non risolvibili ora:** ~440 link ad Abilities Pokémon non ancora create (Overgrow, Chlorophyll, ecc.); ~15 link a pagine future (Allenare_Pokemon, Catturare_Pokemon, ecc.) — tutti in `ingest_queue.md`.
+  5. **File orfani:** ~280 file Mosse non referenziati da altri file — accettabile, sono database indicizzato alfabeticamente.
+- **Azioni eseguite:**
+  1. **Fix `\|` → `|`** in tutti e 13 i file interessati (replace globale sed).
+  2. **Fix link tipo:** `[[Tipi_Pokemon|Fuoco]]` → `[[Fuoco]]` ecc. per tutti i 18 tipi in tutti i file di regole.
+  3. **Aggiornato `rules.md` §5:** Template strutturali riscritti per riflettere la struttura reale di Mosse (compatto), Tratti (compatto), Pokédex (standard con `## Statistiche (Attributes & Limits)`, `## Mosse (Learnset)`, `## Correlati`).
+- **Stato post-audit:** 0 file senza YAML frontmatter (esclusi index/log/queue). 0 occorrenze di `\|`. Link tipo specifici ora corretti. Link rotti residui tutti da ingest futuro.
+- **Residui da risolvere (prossimi ingest):** Database Abilities (PDF pp. 434-472), Allenare_Pokemon, Catturare_Pokemon, Pokemon_Contests, ecc. (vedi `ingest_queue.md`).
+
+## [2026-05-19] ingest | pokeball
+- **Tipo:** Ingest
+- **Fonte:** `raw/POKEROLE COREBOOK 2.0 (2).pdf` — pp. 69-71, 80
+- **File creato:** `05_Strumenti_e_Oggetti/Pokeball.md`
+- **Contenuto:** Meccaniche del Catch Roll (Dice Pool per tipo di Pokéball, bonus di condizione fino a +3 successi, successi richiesti per Rank da *Starter* a *Professional*), regola su Pokémon Svenuto (perdita bonus), cosa le Pokéball possono/non possono trasportare, Pokéball standard (Pokéball/Greatball/Ultraball/Masterball con prezzi), Pokéball speciali (Premier/Luxury/Cherish/UB/Dynamax/Master Ball), altri metodi per ottenere Pokémon (acquisto, adozione, scambio, rilascio) con regole su Happiness/Loyalty.
+- **Aggiornamenti:** `index.md` (rimosso 🔥), `ingest_queue.md` (segnato `[x]`).
+
+## [2026-05-19] ingest | pokemon-care-items
+- **Tipo:** Ingest
+- **Fonte:** `raw/POKEROLE COREBOOK 2.0 (2).pdf` — pp. 81-82
+- **File creato:** `05_Strumenti_e_Oggetti/Pokemon_Care_Items.md`
+- **Contenuto:** Cibo quotidiano (Dry Food Pack/Gourmet/High Performance con effetto Training Roll), Vitamine monouso (Protein/Iron/Calcium/Zinc/Carbos/PP Up/HP Up/Rare Candy — +1 Attribute o +2 Will/HP per un mese, non superano il Limit), regole di stacking, Grooming Kit/Costume/Accessory (+1 Confidence).
+- **Aggiornamenti:** `index.md` (rimosso 🔥), `ingest_queue.md` (segnato `[x]`).
+
+## [2026-05-19] ingest | held-items
+- **Tipo:** Ingest
+- **Fonte:** `raw/POKEROLE COREBOOK 2.0 (2).pdf` — pp. 84-85 (pp. 86-87 solo illustrazioni)
+- **File creato:** `05_Strumenti_e_Oggetti/Held_Items.md`
+- **Contenuto:** Regole generali Held Item (uno attivo per scena, no stacking stesso Attribute, esclusivi Pokémon, non in vendita). 17 oggetti Type Damage Boost (da Black Belt a Twisted Spoon, con rarità e tipo potenziato). 10 oggetti con effetti speciali: Eviolite (Defense/Sp.Def +1 non-evoluti), Quick Claw (Initiative +2), Life Orb (danno + recoil a tutti gli attacchi), Expert Belt (danno Super Effective), Wide Lens (Accuracy), Rocky Helmet (contrattacco fisico), King's Rock, Amulet Coin (×2 denaro), Lucky Egg (×2 vittorie per evoluzione), Razor Fang. 5 oggetti esclusivi per specie: Light Ball (Pikachu), Lucky Punch (Chansey/Blissey), Stick (Farfetch'd), Thick Club (Cubone/Marowak), Razor Claw.
+- **Aggiornamenti:** `index.md` (rimosso 🔥), `ingest_queue.md` (segnato `[x]`).
+
+## [2026-05-19] ingest | evolutionary-items
+- **Tipo:** Ingest
+- **Fonte:** `raw/POKEROLE COREBOOK 2.0 (2).pdf` — p. 83
+- **File creato:** `05_Strumenti_e_Oggetti/Evolutionary_Items.md`
+- **Contenuto:** Panoramica sui tre metodi evolutivi (livello, Happiness/Loyalty, influenza esterna). Pietre evolutive: Fire Stone/Thunder Stone/Water Stone a $5.000; Leaf Stone/Moon Stone/Sun Stone/Shiny Stone/Dusk Stone/Dawn Stone non in vendita. Trading Machine e il meccanismo di radiazione che scatena l'evoluzione. Evoluzione via Held Item (combinazione con Trading Machine). Regole generali sugli Held Item (uno attivo per scena, no stacking con mosse sullo stesso Attribute, non per umani, non in vendita — trovati in avventura).
+- **Aggiornamenti:** `index.md` (rimosso 🔥), `ingest_queue.md` (segnato `[x]`).
+
+## [2026-05-19] ingest | il-mondo-dei-pokemon
+- **Tipo:** Ingest
+- **Fonte:** `raw/POKEROLE COREBOOK 2.0 (2).pdf` — pp. 8-12, 14-16 (pp. 13, 17 solo illustrazioni)
+- **File creato:** `06_Lore_e_Mondo/Il_Mondo_dei_Pokemon.md`
+- **Contenuto:** Panoramica del mondo (differenze dalla realtà, ruolo dei Pokémon). Pocket Monsters e origine del nome. Evoluzione dei Pokémon (trigger: crescita, energia, cura, situazioni estreme). Vita nel mondo Pokémon (tecnologia ibrida, ruolo umano subordinato ai Pokémon). Interazione umani/Pokémon. 8 regioni con descrizione lore: Kanto, Johto, Hoenn, Sinnoh, Unova, Kalos, Alola, Galar. Lega Pokémon (licenze, autorità, Pokémon Center con struttura interna, Pokémon Gym e Gym Badge, requisito 8 badge per il Torneo). Elite Four e Champion (come si ottengono i titoli). 7 organizzazioni antagoniste: Team Rocket (Kanto/Johto), Team Aqua & Magma (Hoenn), Team Plasma (Unova), Team Flare (Kalos), Team Galactic (Sinnoh), Team Skull (Alola), Team Yell (Galar). Il Rivale. Diventare un Trainer (ruolo, aspirazioni, nota sulle armi come Plot Device).
+- **Note:** Creata nuova cartella `wiki/06_Lore_e_Mondo/` per le sezioni di ambientazione e lore.
+- **Aggiornamenti:** `index.md` (rimosso 🔥), `ingest_queue.md` (segnato `[x]`).
+
+## [2026-05-19] ingest | introduzione
+- **Tipo:** Ingest
+- **Fonte:** `raw/POKEROLE COREBOOK 2.0 (2).pdf` — p. 7
+- **File creato:** `01_Regole_Base/Introduzione.md`
+- **Contenuto:** Definizione di GDR (analogia attore/giocattoli). Ruolo dello Storyteller (narratore, regista, non arbitro onnipotente — deve far divertire tutti). Cosa sono i Pokémon (flora/fauna di questo mondo, tra animali domestici e creature selvatiche). Ruolo del giocatore (creazione personaggio, non si è soli). I tre strumenti fondamentali: Immaginazione (fare l'impossibile nel gioco), Schede Personaggio (registrare capacità), Dadi (fortuna + abilità).
+- **Aggiornamenti:** `index.md` (rimosso 🔥), `ingest_queue.md` (segnato `[x]`).
+
+## [2026-05-19] ingest | catturare-pokemon
+- **Tipo:** Ingest
+- **Fonte:** `raw/POKEROLE COREBOOK 2.0 (2).pdf` — pp. 68-69 (pp. 69-71 già coperti da Pokeball.md)
+- **File creato:** `06_Lore_e_Mondo/Catturare_Pokemon.md`
+- **Contenuto:** Differenze tra Pokémon selvatici e allevati (adattamento vs sopravvivenza). Habitat (studio dell'ambiente, non si lancia a caso). Pokémon Speciali: Shiny (aspetto diverso, no cambio Tipo/Attributes), Forme Alternate (Tipo/Attributes/Abilities diverse), Varianti Regionali (adattamento ambientale multigenerazionale), Overgrown (+30-60% dimensioni, +1 Base HP, nascono così). Mosse e Abilità Nascoste (discrezione ST). Link alle meccaniche di cattura in Pokeball.md.
+- **Aggiornamenti:** `index.md` (rimosso 🔥), `ingest_queue.md` (segnato `[x]`).
+
+## [2026-05-19] ingest | allenare-pokemon
+- **Tipo:** Ingest
+- **Fonte:** `raw/POKEROLE COREBOOK 2.0 (2).pdf` — pp. 72-74 (p. 75 vuota)
+- **File creato:** `06_Lore_e_Mondo/Allenare_Pokemon.md`
+- **Contenuto:** Training Sessions (2h, una/giorno, bond-building). Rank Up: tiro Attribute/Social+Lore, tabella successi richiesti (Beginner 3 → Champion 48), limite Rank Trainer. Retrain: 3 successi, ridistribuisci Attribute/Skill/Mosse, Mosse esclusive perse per sempre. Pokémon disobbedienti (Rank superiore). Evoluzione tramite Vittorie (Fast 5, Medium 15, Slow 45), distribuzione bonus come Retrain. Overranking (blocco evoluzione → 1 Mossa Rank superiore, azzeramento Vittorie, max 1 Overrank; Forme Finali 20V). Limits (cap Attribute per specie, crescono con evoluzione, esempio Tyrogue→Hitmonlee). Insegnare/dimenticare Mosse (Retrain, limit Insight+2, Mosse esclusive perdute per sempre). Move Tutor. Day-Care Center (riduzione Vittorie a discrezione ST, well-behaved ≠ happy).
+- **Aggiornamenti:** `index.md` (rimosso 🔥), `ingest_queue.md` (segnato `[x]`).
+
+## [2026-05-19] ingest | pokemon-contests
+- **Tipo:** Ingest
+- **Fonte:** `raw/POKEROLE COREBOOK 2.0 (2).pdf` — pp. 63-67
+- **File creato:** `06_Lore_e_Mondo/Pokemon_Contests.md`
+- **Contenuto:** Cos'è un Pokémon Contest (talent show con Social Skills, no danni). Confidence/Stress: tabella stati emotivi (Full → Nervous → Freaking Out → Breakdown = squalifica). Struttura: Board, Contestants (max 8), Judges (preferenza segreta Attribute), Audience. 4 difficoltà (Normal 000/1succ → Master 000/4succ). 3 mazzi di carte: Reactions (Booing → Sheer Awe con Hearts e Confidence), Mishaps (imprevisti), Tricks (5 tipi per Social Attribute). Fasi dello show: Presentation Stage (tiro Social+ordine, 2 Trick Cards), Performance Runway (1d avanzamento, Social+Perform, Tricks prima del tiro per +1 Heart), Grand Finale (+5 Hearts al primo). Premi in denaro per 3 difficulty × 3 posti. 4 Coordinator Ranks (Normal→Super→Hyper→Master Coordinator) con requisiti ribbon e benefici Notoriety. 4 Notoriety Skills non re-trainabili: Fame, Supporters, Connections, Sponsors (scala 0→0k bi-settimanali).
+- **Aggiornamenti:** `index.md` (rimosso 🔥), `ingest_queue.md` (segnato `[x]`).
+
+## [2026-05-19] ingest | typeless-maneuvers
+- **Tipo:** Ingest
+- **Fonte:** `raw/POKEROLE COREBOOK 2.0 (2).pdf` — pp. 424-425
+- **File creato:** `04_Moves_e_Abilities/Typeless_Maneuvers.md`
+- **Contenuto:** Regole generali (no Clash, una/round, turno utente, uso in/fuori battaglia, Umani e Pokémon). 6 Manovre catalogate: Struggle (Dex+Brawl/Channel, Str/Spe+0), Grapple (Str+Brawl, Blocked con resistenza), Help Another (Accuracy come Chance Dice → +1 dado Alleato, max 6), Cover an Ally (copertura ranged in base alla taglia), Stabilize an Ally (Clever+Medicine, CPR su incosciente, Lethal riduce pool), Run Away (Dex+Athletic, esce dalla battaglia, fallisce se Blocked).
+- **Aggiornamenti:** `index.md` (rimosso 🔥), `ingest_queue.md` (segnato `[x]`).
+
+## [2026-05-19] ingest | max-moves
+- **Tipo:** Ingest
+- **Fonte:** `raw/POKEROLE COREBOOK 2.0 (2).pdf` — pp. 425-427
+- **File creato:** `04_Moves_e_Abilities/Max_Moves.md`
+- **Contenuto:** Regole Max Moves (solo Dynamax/Gigantamax, base deve essere Mossa Offensiva stesso Tipo, +2 Power, Added Effect sostituito, una/round, no Clash). Gigantamax Factor e G-Max Moves (personalizzabili, una sola per Pokémon, effetti extra per Rank: Beginner 1 → Master 6 personalizzabili). Lista 17 Max Moves per Tipo: potenziamento Alleati (Knuckle/Airstream/Quake/Ooze/Steelspike → +1 Attribute), indebolimento Nemici (Flutterby/Darkness/Wyrmwind/Phantasm/Strike → −1 Attribute), Meteo/Terrain (Lightning→Electric Terrain, Starfall→Misty Terrain, Flare→Sunny, Overgrowth→Grassy Terrain, Hailstorm→Hail, Rockfall→Sandstorm, Mindstorm→Psychic Terrain). Tabella G-Max Effect categories per Tipo.
+- **Aggiornamenti:** `index.md` (rimosso 🔥), `ingest_queue.md` (segnato `[x]`).
+
+## [2026-05-19] ingest | z-moves
+- **Tipo:** Ingest
+- **Fonte:** `raw/POKEROLE COREBOOK 2.0 (2).pdf` — pp. 428-430 (p. 431 vuota)
+- **File creato:** `04_Moves_e_Abilities/Z-Moves.md`
+- **Contenuto:** Lore origini Alola/Kahuna/Z-Crystals. Regole Z-Moves: entrambi tengono Z-Crystal + danza, una/giorno (extra costa 5 Will a Trainer e Pokémon), base stesso Tipo, Power = Base + Happiness + Loyalty, effetti base sostituiti, no Clash, no Lethal Damage, una Z-Crystal per party. Personalizzazione: effetti per Rank (Beginner 1 → Champion 6), singolo Target gratis, Attribute +/- = 1 Effetto, Status con Chance Dice, nome personalizzabile. Lista 18 Z-Moves con effetti di partenza suggeriti (da Savage Spin-Out/Bug a Hydro Vortex/Water). TM opzionali: dischi 000-000, richiede Training Session, Tipo libero, a discrezione ST.
+- **Note extra:** Aggiunto Max Geyser (Water) a Max_Moves.md — era su p. 428, prima delle Z-Moves.
+- **Aggiornamenti:** `index.md` (rimosso 🔥), `ingest_queue.md` (segnato `[x]`).
+
+## [2026-05-19] ingest | strength-dexterity-chart
+- **Tipo:** Ingest
+- **Fonte:** `raw/POKEROLE COREBOOK 2.0 (2).pdf` — p. 432
+- **File creato:** `04_Moves_e_Abilities/Strength_Dexterity_Chart.md`
+- **Contenuto:** Strength Chart (Str 1-10 → capacità di sollevamento da 18 kg a 680 kg; +4 kg per punto Athletic; affetta da Pain Penalizations). Dexterity Chart (Dex 1-10 → velocità da 10 km/h a 160 km/h). Fling/Natural Gift (Tipo e Power da bacca, 17 sapori → 17 Tipi, Power 0-3). Secret Power/Nature Power (6 ambienti → effetti diversi: Paralysis, Flinch, −Accuracy, Sleep, Freeze, −Strength).
+- **Aggiornamenti:** `index.md` (rimosso 🔥), `ingest_queue.md` (segnato `[x]`).
+
+## [2026-05-19] ingest | faq-moves
+- **Tipo:** Ingest
+- **Fonte:** `raw/POKEROLE COREBOOK 2.0 (2).pdf` — p. 433
+- **File creato:** `04_Moves_e_Abilities/FAQ_Moves.md`
+- **Contenuto:** 15 FAQ ufficiali: Priority/cambio azione, estendere durate (ST discretion), no stack Attribute (solo con Abilities), aumentare danno Z/Max/G-Max (1 Effetto per dado), coesistenza Z+Max+G-Max (ST), Multiple Actions Evasion/Clash (eguaglia successi, ma conta come Azione), Evadere più volte (solo Double Team/Minimize), Ready to Fight (Switch e Switcher Moves), Pokémon svenuto → prossimo ready, range dinamico, target Alleato con mossa Foe (sì, raro ma utile), auto-danno (no), Out of Range (Fly/Dig, immunità), Ground su volanti (senza immunità sì), Dig da edifici (sì, dipende dal terreno), Protect/Wide Guard no stack.
+- **Note extra:** Aggiornato `Strength_Dexterity_Chart.md` con le note Dexterity mancanti da p.433 (Athletic +2 km/h, Pain Penalizations camminare/strisciare, peso dimezza velocità).
+- **Aggiornamenti:** `index.md` (rimosso 🔥), `ingest_queue.md` (segnato `[x]`).
+
+---
+
+### sfide-avanzate
+- **File:** `wiki/06_Lore_e_Mondo/Sfide_Avanzate.md`
+- **Fonte:** PDF pp. 473-489
+- **Contenuto:** Formati di avventura (Episode of the Week, Rival/Evil Team, League, Legends); Sistema dei Rivali (Attitudes, Relationships, Backgrounds, Unlike-Abilities x14); Pokémon League Challenge (Gym, Annual Tournament, Victory Road, Elite Four, Champion); Mega-Evolution (lore, regole: Mega-Stone + Key Stone, Final Stage, 1 Will Point, scena intera, possibile perdita controllo); Pokémon Leggendari (proprietà speciali, gestione narrativa); Legendary Ranking opzionale (Hero: +1 Attr min/limit, 1 Mossa, Heroic Ability; Guardian: HP+20, Max Attributes, All Z-Moves, x3 Abilities; Demi-God, God, Firstborn, Original One); BIG Leagues (Dynamax: Band+Stadium o Power Spot, HP+6, 3R o indefinito, immunità 6 effetti; Gigantamax: + Factor, HP+12)
+- **Aggiornamenti:** `index.md` (rimosso 🔥), `ingest_queue.md` (segnato `[x]`).

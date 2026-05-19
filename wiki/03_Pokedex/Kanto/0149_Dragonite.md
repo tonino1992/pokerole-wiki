@@ -2,9 +2,13 @@
 title: "Dragonite (#0149)"
 category: Pokedex
 tags: [dragonite, kanto, dragon, flying]
+image: "assets/images/pokemon/149.png"
 ---
 
 # Dragonite (#0149)
+
+<img src="../../assets/images/pokemon/149.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Dragon Pokemon*
 
 **Type:** Dragon / Flying

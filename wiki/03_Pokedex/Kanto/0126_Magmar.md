@@ -2,9 +2,13 @@
 title: "Magmar (#0126)"
 category: Pokedex
 tags: [magmar, kanto, fire]
+image: "assets/images/pokemon/126.png"
 ---
 
 # Magmar (#0126)
+
+<img src="../../assets/images/pokemon/126.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Spitfire Pokemon*
 
 **Type:** Fire

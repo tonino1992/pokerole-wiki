@@ -2,9 +2,13 @@
 title: "Porygon (#0137)"
 category: Pokedex
 tags: [porygon, kanto, normal]
+image: "assets/images/pokemon/137.png"
 ---
 
 # Porygon (#0137)
+
+<img src="../../assets/images/pokemon/137.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Virtual Pokemon*
 
 **Type:** Normal

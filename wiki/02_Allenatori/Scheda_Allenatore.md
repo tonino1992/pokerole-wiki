@@ -24,14 +24,14 @@ La parte superiore della scheda, che rappresenta la "carta d'identità" del Trai
 | # | Campo | Cosa Scrivere | Note |
 |---|---|---|---|
 | **1** | **Immagine** | Il ritratto del tuo personaggio | Disegno, avatar o descrizione |
-| **2** | **Rank** | Il [[Ranking\|Rank]] attuale del Trainer | I nuovi personaggi partono come *Starter* |
+| **2** | **Rank** | Il [[Ranking|Rank]] attuale del Trainer | I nuovi personaggi partono come *Starter* |
 | **3** | **Nome** | Il nome del personaggio | — |
 | **4** | **Età** | L'età del personaggio | Influenza i punti Attribute/Social (vedi tabella sotto) |
 | **5** | **Nome del Giocatore** | Il tuo nome reale | — |
-| **6** | **Concept** | L'occupazione/concept del personaggio | Vedi [[Creazione_Personaggio#Step 1 Trainer Concept\|Trainer Concept]] |
-| **7** | **Nature e Confidence** | La [[Natures\|Nature]] scelta e la *Confidence* che conferisce | Vedi pp. 38-41 del manuale |
+| **6** | **Concept** | L'occupazione/concept del personaggio | Vedi [[Creazione_Personaggio#Step 1 Trainer Concept|Trainer Concept]] |
+| **7** | **Nature e Confidence** | La [[Natures|Nature]] scelta e la *Confidence* che conferisce | Vedi pp. 38-41 del manuale |
 | **8** | **Denaro Iniziale** | **$1.500,00** | Il budget di partenza per ogni nuovo Trainer |
-| **9** | **HP** | *Vitality* + Base HP | Ogni punto di *Vitality* aggiunge 1 [[HP_e_Will\|Health Point]] |
+| **9** | **HP** | *Vitality* + Base HP | Ogni punto di *Vitality* aggiunge 1 [[HP_e_Will|Health Point]] |
 | **10** | **Will Points** | *Insight* + 2 | Vedi [[HP_e_Will]] |
 | **11** | **Party Attivo** | I Pokémon attualmente nel tuo team | Massimo 6 Pokémon nel party attivo |
 
@@ -63,7 +63,7 @@ I 4 [[Attributes_e_Skills|Attributes]] del Trainer (i Pokémon ne hanno 5, inclu
 
 \* *Età base per le nuove partite.*
 
-| [[Ranking\|Rank]] | Extra Attribute Points |
+| [[Ranking|Rank]] | Extra Attribute Points |
 |---|---|
 | *Starter* | 0 |
 | *Beginner* | +2 |
@@ -143,7 +143,7 @@ La parte inferiore della scheda, che tiene traccia dell'inventario del Trainer.
 
 > 💡 La distinzione tra **Small Pocket** e **Main Pocket** è fondamentale in battaglia: solo gli oggetti nella Small Pocket possono essere usati dal Trainer durante un combattimento. Pianifica attentamente cosa portare!
 
-> ⚠️ L'Allenatore che vuole usare un oggetto in combattimento deve spendere la propria azione di fine Round per farlo (vedi [[Come_Funziona_il_Combattimento#Trainer Actions\|Trainer Actions]]).
+> ⚠️ L'Allenatore che vuole usare un oggetto in combattimento deve spendere la propria azione di fine Round per farlo (vedi [[Come_Funziona_il_Combattimento#Trainer Actions|Trainer Actions]]).
 
 ---
 

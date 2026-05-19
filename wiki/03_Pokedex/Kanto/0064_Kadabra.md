@@ -2,9 +2,13 @@
 title: "Kadabra (#0064)"
 category: Pokedex
 tags: [kadabra, kanto, psychic]
+image: "assets/images/pokemon/064.png"
 ---
 
 # Kadabra (#0064)
+
+<img src="../../assets/images/pokemon/064.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Psi Pokemon*
 
 **Type:** Psychic

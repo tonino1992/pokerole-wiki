@@ -2,9 +2,13 @@
 title: "Electabuzz (#0125)"
 category: Pokedex
 tags: [electabuzz, kanto, electric]
+image: "assets/images/pokemon/125.png"
 ---
 
 # Electabuzz (#0125)
+
+<img src="../../assets/images/pokemon/125.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Electric Pokemon*
 
 **Type:** Electric

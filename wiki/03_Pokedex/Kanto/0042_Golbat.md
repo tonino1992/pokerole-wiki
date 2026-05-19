@@ -2,9 +2,13 @@
 title: "Golbat (#0042)"
 category: Pokedex
 tags: [golbat, kanto, poison, flying]
+image: "assets/images/pokemon/042.png"
 ---
 
 # Golbat (#0042)
+
+<img src="../../assets/images/pokemon/042.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Bat Pokemon*
 
 **Type:** Poison / Flying

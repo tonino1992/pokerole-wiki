@@ -2,9 +2,13 @@
 title: "Drowzee (#0096)"
 category: Pokedex
 tags: [drowzee, kanto, psychic]
+image: "assets/images/pokemon/096.png"
 ---
 
 # Drowzee (#0096)
+
+<img src="../../assets/images/pokemon/096.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Hypnosis Pokemon*
 
 **Type:** Psychic

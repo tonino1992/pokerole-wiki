@@ -1,10 +1,14 @@
-﻿---
+---
 title: "Bulbasaur (#0001)"
 category: Pokedex
 tags: [bulbasaur, kanto, grass, poison]
+image: "assets/images/pokemon/001.png"
 ---
 
 # Bulbasaur (#0001)
+
+<img src="../../assets/images/pokemon/001.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Seed Pokemon*
 
 **Type:** Grass / Poison

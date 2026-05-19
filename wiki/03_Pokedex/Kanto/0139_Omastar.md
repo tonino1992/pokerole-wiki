@@ -2,9 +2,13 @@
 title: "Omastar (#0139)"
 category: Pokedex
 tags: [omastar, kanto, rock, water]
+image: "assets/images/pokemon/139.png"
 ---
 
 # Omastar (#0139)
+
+<img src="../../assets/images/pokemon/139.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Spiral Pokemon*
 
 **Type:** Rock / Water

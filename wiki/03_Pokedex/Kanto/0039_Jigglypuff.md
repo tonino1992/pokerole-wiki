@@ -2,9 +2,13 @@
 title: "Jigglypuff (#0039)"
 category: Pokedex
 tags: [jigglypuff, kanto, normal, fairy]
+image: "assets/images/pokemon/039.png"
 ---
 
 # Jigglypuff (#0039)
+
+<img src="../../assets/images/pokemon/039.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Balloon Pokemon*
 
 **Type:** Normal / Fairy

@@ -2,9 +2,13 @@
 title: "Pidgey (#0016)"
 category: Pokedex
 tags: [pidgey, kanto, normal, flying]
+image: "assets/images/pokemon/016.png"
 ---
 
 # Pidgey (#0016)
+
+<img src="../../assets/images/pokemon/016.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Tiny Bird Pokemon*
 
 **Type:** Normal / Flying

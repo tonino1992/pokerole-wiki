@@ -2,9 +2,13 @@
 title: "Rhyhorn (#0111)"
 category: Pokedex
 tags: [rhyhorn, kanto, ground, rock]
+image: "assets/images/pokemon/111.png"
 ---
 
 # Rhyhorn (#0111)
+
+<img src="../../assets/images/pokemon/111.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Spikes Pokemon*
 
 **Type:** Ground / Rock

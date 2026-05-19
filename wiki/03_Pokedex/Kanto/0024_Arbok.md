@@ -2,9 +2,13 @@
 title: "Arbok (#0024)"
 category: Pokedex
 tags: [arbok, kanto, poison]
+image: "assets/images/pokemon/024.png"
 ---
 
 # Arbok (#0024)
+
+<img src="../../assets/images/pokemon/024.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Cobra Pokemon*
 
 **Type:** Poison

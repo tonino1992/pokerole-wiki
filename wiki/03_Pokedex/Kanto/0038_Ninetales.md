@@ -2,9 +2,13 @@
 title: "Ninetales (#0038)"
 category: Pokedex
 tags: [ninetales, kanto, fire]
+image: "assets/images/pokemon/038.png"
 ---
 
 # Ninetales (#0038)
+
+<img src="../../assets/images/pokemon/038.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Fox Pokemon*
 
 **Type:** Fire

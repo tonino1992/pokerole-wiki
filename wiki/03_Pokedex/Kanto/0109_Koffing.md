@@ -2,9 +2,13 @@
 title: "Koffing (#0109)"
 category: Pokedex
 tags: [koffing, kanto, poison]
+image: "assets/images/pokemon/109.png"
 ---
 
 # Koffing (#0109)
+
+<img src="../../assets/images/pokemon/109.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Poison Gas Pokemon*
 
 **Type:** Poison

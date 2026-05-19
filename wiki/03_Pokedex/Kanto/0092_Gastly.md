@@ -2,9 +2,13 @@
 title: "Gastly (#0092)"
 category: Pokedex
 tags: [gastly, kanto, ghost, poison]
+image: "assets/images/pokemon/092.png"
 ---
 
 # Gastly (#0092)
+
+<img src="../../assets/images/pokemon/092.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Gas Pokemon*
 
 **Type:** Ghost / Poison

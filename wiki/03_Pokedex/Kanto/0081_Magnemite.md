@@ -2,9 +2,13 @@
 title: "Magnemite (#0081)"
 category: Pokedex
 tags: [magnemite, kanto, electric, steel]
+image: "assets/images/pokemon/081.png"
 ---
 
 # Magnemite (#0081)
+
+<img src="../../assets/images/pokemon/081.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Magnet Pokemon*
 
 **Type:** Electric / Steel

@@ -2,9 +2,13 @@
 title: "Wartortle (#0008)"
 category: Pokedex
 tags: [wartortle, kanto, water]
+image: "assets/images/pokemon/008.png"
 ---
 
 # Wartortle (#0008)
+
+<img src="../../assets/images/pokemon/008.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Turtle Pokemon*
 
 **Type:** Water

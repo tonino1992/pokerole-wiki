@@ -2,9 +2,13 @@
 title: "Jolteon (#0135)"
 category: Pokedex
 tags: [jolteon, kanto, electric]
+image: "assets/images/pokemon/135.png"
 ---
 
 # Jolteon (#0135)
+
+<img src="../../assets/images/pokemon/135.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Lightning Pokemon*
 
 **Type:** Electric

@@ -2,9 +2,13 @@
 title: "Dratini (#0147)"
 category: Pokedex
 tags: [dratini, kanto, dragon]
+image: "assets/images/pokemon/147.png"
 ---
 
 # Dratini (#0147)
+
+<img src="../../assets/images/pokemon/147.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Dragon Pokemon*
 
 **Type:** Dragon

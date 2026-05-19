@@ -69,7 +69,7 @@ I Pokémon adorano le bacche. In combattimento, un Pokémon che tiene una Bacca 
 
 Radici e polveri preparate alla vecchia maniera. Molto utili quando si è lontani dai Pokémon Center, ma c'è un grosso problema: **hanno un sapore orribile**.
 
-> ⚠️ **Impatto sull'Happiness:** I Pokémon detestano queste erbe. Curare regolarmente le loro ferite con queste polveri **ridurrà i loro punti [[Happiness_e_Loyalty\|Happiness]]**. La natura ti dà tutto ciò di cui hai bisogno... se riesci a sopportarne il sapore sgradevole.
+> ⚠️ **Impatto sull'Happiness:** I Pokémon detestano queste erbe. Curare regolarmente le loro ferite con queste polveri **ridurrà i loro punti [[Happiness_e_Loyalty|Happiness]]**. La natura ti dà tutto ciò di cui hai bisogno... se riesci a sopportarne il sapore sgradevole.
 
 | Oggetto | Prezzo | Equivalente Medico |
 |---|---|---|

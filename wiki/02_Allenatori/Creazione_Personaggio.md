@@ -45,7 +45,7 @@ Prima di iniziare a giocare, il giocatore **deve** rispondere a queste domande, 
 |---|---|
 | 1 | **Come ti chiami?** |
 | 2 | **Quanti anni hai?** |
-| 3 | **Qual è la tua [[Natures\|Nature]]?** *(vedi p. 38)* |
+| 3 | **Qual è la tua [[Natures|Nature]]?** *(vedi p. 38)* |
 | 4 | **Qual è la tua occupazione/concept?** |
 | 5 | **Cosa ti aspetti dal mondo dei Pokémon?** |
 | 6 | **Qual è il tuo obiettivo nel mondo dei Pokémon?** |
@@ -95,7 +95,7 @@ Le [[Attributes_e_Skills|Skills]] sono divise in 5 categorie (Fight, Survival, C
 
 Per i personaggi che iniziano a un Rank superiore a *Starter*:
 
-| [[Ranking\|Rank]] | Extra Attribute Points | Extra Social Points | Skill Points | Skill Limit |
+| [[Ranking|Rank]] | Extra Attribute Points | Extra Social Points | Skill Points | Skill Limit |
 |---|---|---|---|---|
 | **Starter** | 0 | 0 | 5 | 1 |
 | **Beginner** | 2 | 2 | +4 | 2 |
@@ -134,8 +134,8 @@ Una volta distribuiti i punti, calcola i valori derivati:
 
 | Statistica | Formula | Riferimento |
 |---|---|---|
-| **[[HP_e_Will\|Health Points]]** | Base HP + *Vitality* | Varia per Pokémon; per i Trainer il Base HP è determinato dal manuale |
-| **[[HP_e_Will\|Will Points]]** | *Insight* + 2 | Uguale per Trainer e Pokémon |
+| **[[HP_e_Will|Health Points]]** | Base HP + *Vitality* | Varia per Pokémon; per i Trainer il Base HP è determinato dal manuale |
+| **[[HP_e_Will|Will Points]]** | *Insight* + 2 | Uguale per Trainer e Pokémon |
 
 ---
 
@@ -153,7 +153,7 @@ La Trainer Character Sheet è divisa in tre sezioni principali:
 | **Età** | L'età del personaggio |
 | **Nome del Giocatore** | Il tuo nome reale |
 | **Concept** | L'occupazione/concept del personaggio |
-| **[[Natures\|Nature]]** | La Nature scelta e la *Confidence* che conferisce |
+| **[[Natures|Nature]]** | La Nature scelta e la *Confidence* che conferisce |
 | **Denaro** | Il denaro iniziale: **$1.500,00** |
 | **HP** | Ogni punto di *Vitality* aggiunge 1 Health Point |
 | **Will** | Punteggio uguale a *Insight* + 2 |
@@ -194,7 +194,7 @@ La scelta del Pokémon iniziale è trattata in dettaglio nella pagina [[Creazion
 |---|---|---|
 | 1 | Scegli un **Concept** (occupazione, personalità, obiettivo) | ☐ |
 | 2 | Rispondi alle **8 domande** di background | ☐ |
-| 3 | Scegli una **[[Natures\|Nature]]** | ☐ |
+| 3 | Scegli una **[[Natures|Nature]]** | ☐ |
 | 4 | Distribuisci i punti **Attribute** (base 1 + extra per Età/Rank) | ☐ |
 | 5 | Distribuisci i punti **Social Attribute** (base 1 + extra per Età/Rank) | ☐ |
 | 6 | Distribuisci i punti **Skill** (rispettando lo Skill Limit per Rank) | ☐ |

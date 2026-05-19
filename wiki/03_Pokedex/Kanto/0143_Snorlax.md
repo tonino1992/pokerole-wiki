@@ -2,9 +2,13 @@
 title: "Snorlax (#0143)"
 category: Pokedex
 tags: [snorlax, kanto, normal]
+image: "assets/images/pokemon/143.png"
 ---
 
 # Snorlax (#0143)
+
+<img src="../../assets/images/pokemon/143.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Sleeping Pokemon*
 
 **Type:** Normal
@@ -35,3 +39,12 @@ tags: [snorlax, kanto, normal]
 - **Ace:** [[Belly_Drum]], [[Heavy_Slam]], [[Giga_Impact]], [[High_Horsepower]]
 - **Pro:** [[Outrage]], [[Gunk_Shot]], [[Self_Destruct]]
 
+---
+
+## Forme Speciali
+
+<div style="display:flex;gap:24px;flex-wrap:wrap;margin:16px 0;align-items:flex-start;">
+
+<div style="text-align:center;min-width:160px;"><img src="../../assets/images/pokemon/forms/snorlax-gmax.png" width="180" style="display:block;margin:0 auto 6px;"><strong>Snorlax (Gigantamax)</strong></div>
+
+</div>

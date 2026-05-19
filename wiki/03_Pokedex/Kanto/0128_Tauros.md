@@ -2,9 +2,13 @@
 title: "Tauros (#0128)"
 category: Pokedex
 tags: [tauros, kanto, normal]
+image: "assets/images/pokemon/128.png"
 ---
 
 # Tauros (#0128)
+
+<img src="../../assets/images/pokemon/128.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Wild Bull Pokemon*
 
 **Type:** Normal

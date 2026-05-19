@@ -2,9 +2,13 @@
 title: "Nidoqueen (#0031)"
 category: Pokedex
 tags: [nidoqueen, kanto, poison, ground]
+image: "assets/images/pokemon/031.png"
 ---
 
 # Nidoqueen (#0031)
+
+<img src="../../assets/images/pokemon/031.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Drill Pokemon*
 
 **Type:** Poison / Ground

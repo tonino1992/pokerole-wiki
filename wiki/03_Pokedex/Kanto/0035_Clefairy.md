@@ -2,9 +2,13 @@
 title: "Clefairy (#0035)"
 category: Pokedex
 tags: [clefairy, kanto, fairy]
+image: "assets/images/pokemon/035.png"
 ---
 
 # Clefairy (#0035)
+
+<img src="../../assets/images/pokemon/035.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Fairy Pokemon*
 
 **Type:** Fairy

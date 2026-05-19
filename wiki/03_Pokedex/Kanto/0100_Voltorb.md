@@ -2,9 +2,13 @@
 title: "Voltorb (#0100)"
 category: Pokedex
 tags: [voltorb, kanto, electric]
+image: "assets/images/pokemon/100.png"
 ---
 
 # Voltorb (#0100)
+
+<img src="../../assets/images/pokemon/100.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Ball Pokemon*
 
 **Type:** Electric

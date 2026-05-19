@@ -2,9 +2,13 @@
 title: "Machop (#0066)"
 category: Pokedex
 tags: [machop, kanto, fighting]
+image: "assets/images/pokemon/066.png"
 ---
 
 # Machop (#0066)
+
+<img src="../../assets/images/pokemon/066.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Superpower Pokemon*
 
 **Type:** Fighting

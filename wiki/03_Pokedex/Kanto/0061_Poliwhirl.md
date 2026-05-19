@@ -2,9 +2,13 @@
 title: "Poliwhirl (#0061)"
 category: Pokedex
 tags: [poliwhirl, kanto, water]
+image: "assets/images/pokemon/061.png"
 ---
 
 # Poliwhirl (#0061)
+
+<img src="../../assets/images/pokemon/061.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Tadpole Pokemon*
 
 **Type:** Water

@@ -2,9 +2,13 @@
 title: "Shellder (#0090)"
 category: Pokedex
 tags: [shellder, kanto, water]
+image: "assets/images/pokemon/090.png"
 ---
 
 # Shellder (#0090)
+
+<img src="../../assets/images/pokemon/090.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Bivalve Pokemon*
 
 **Type:** Water

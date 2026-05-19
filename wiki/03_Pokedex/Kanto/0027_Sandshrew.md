@@ -2,9 +2,13 @@
 title: "Sandshrew (#0027)"
 category: Pokedex
 tags: [sandshrew, kanto, ground]
+image: "assets/images/pokemon/027.png"
 ---
 
 # Sandshrew (#0027)
+
+<img src="../../assets/images/pokemon/027.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Mouse Pokemon*
 
 **Type:** Ground

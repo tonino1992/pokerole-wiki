@@ -2,9 +2,13 @@
 title: "Seaking (#0119)"
 category: Pokedex
 tags: [seaking, kanto, water]
+image: "assets/images/pokemon/119.png"
 ---
 
 # Seaking (#0119)
+
+<img src="../../assets/images/pokemon/119.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Goldfish Pokemon*
 
 **Type:** Water

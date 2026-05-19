@@ -2,9 +2,13 @@
 title: "Tentacruel (#0073)"
 category: Pokedex
 tags: [tentacruel, kanto, water, poison]
+image: "assets/images/pokemon/073.png"
 ---
 
 # Tentacruel (#0073)
+
+<img src="../../assets/images/pokemon/073.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Jellyfish Pokemon*
 
 **Type:** Water / Poison

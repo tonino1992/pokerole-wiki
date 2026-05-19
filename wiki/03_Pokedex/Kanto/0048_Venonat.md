@@ -2,9 +2,13 @@
 title: "Venonat (#0048)"
 category: Pokedex
 tags: [venonat, kanto, bug, poison]
+image: "assets/images/pokemon/048.png"
 ---
 
 # Venonat (#0048)
+
+<img src="../../assets/images/pokemon/048.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Insect Pokemon*
 
 **Type:** Bug / Poison

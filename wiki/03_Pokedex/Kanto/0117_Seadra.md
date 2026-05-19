@@ -2,9 +2,13 @@
 title: "Seadra (#0117)"
 category: Pokedex
 tags: [seadra, kanto, water]
+image: "assets/images/pokemon/117.png"
 ---
 
 # Seadra (#0117)
+
+<img src="../../assets/images/pokemon/117.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Dragon Pokemon*
 
 **Type:** Water

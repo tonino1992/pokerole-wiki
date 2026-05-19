@@ -2,9 +2,13 @@
 title: "Chansey (#0113)"
 category: Pokedex
 tags: [chansey, kanto, normal]
+image: "assets/images/pokemon/113.png"
 ---
 
 # Chansey (#0113)
+
+<img src="../../assets/images/pokemon/113.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Egg Pokemon*
 
 **Type:** Normal

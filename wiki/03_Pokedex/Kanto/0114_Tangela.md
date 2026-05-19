@@ -2,9 +2,13 @@
 title: "Tangela (#0114)"
 category: Pokedex
 tags: [tangela, kanto, grass]
+image: "assets/images/pokemon/114.png"
 ---
 
 # Tangela (#0114)
+
+<img src="../../assets/images/pokemon/114.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Vine Pokemon*
 
 **Type:** Grass

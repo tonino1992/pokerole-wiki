@@ -52,8 +52,8 @@ Le Multiple Actions diventano progressivamente più difficili, e le penalità si
 | Tipo di Penalità | Effetto |
 |---|---|
 | **Successi aggiuntivi richiesti** | +1 per ogni azione oltre la prima (vedi tabella) |
-| **[[Come_Funziona_il_Combattimento#Pain Penalizations\|Pain Penalizations]]** | Rimuovono successi dai tiri (−1 a metà HP, −2 a 1 HP) |
-| **Low Accuracy** | Le Moves a bassa precisione [[Strategie_di_Combattimento#Low Accuracy Moves\|rimuovono ulteriori successi]] |
+| **[[Come_Funziona_il_Combattimento#Pain Penalizations|Pain Penalizations]]** | Rimuovono successi dai tiri (−1 a metà HP, −2 a 1 HP) |
+| **Low Accuracy** | Le Moves a bassa precisione [[Strategie_di_Combattimento#Low Accuracy Moves|rimuovono ulteriori successi]] |
 | **Altre penalità** | Qualsiasi altra penalità attiva (es. da [[Status_Conditions|Status Conditions]]) |
 
 > ⚠️ Tutte queste penalità si **sommano tra loro**. Un Pokémon a metà HP (−1 successo) che tenta una 3ª azione (3 successi richiesti) con una Move a Low Accuracy −2, ha bisogno effettivamente di **6 successi** per completare l'azione con successo.

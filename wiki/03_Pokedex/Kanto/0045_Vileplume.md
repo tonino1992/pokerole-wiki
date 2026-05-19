@@ -2,9 +2,13 @@
 title: "Vileplume (#0045)"
 category: Pokedex
 tags: [vileplume, kanto, grass, poison]
+image: "assets/images/pokemon/045.png"
 ---
 
 # Vileplume (#0045)
+
+<img src="../../assets/images/pokemon/045.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Flower Pokemon*
 
 **Type:** Grass / Poison

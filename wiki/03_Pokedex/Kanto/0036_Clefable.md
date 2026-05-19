@@ -2,9 +2,13 @@
 title: "Clefable (#0036)"
 category: Pokedex
 tags: [clefable, kanto, fairy]
+image: "assets/images/pokemon/036.png"
 ---
 
 # Clefable (#0036)
+
+<img src="../../assets/images/pokemon/036.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Fairy Pokemon*
 
 **Type:** Fairy

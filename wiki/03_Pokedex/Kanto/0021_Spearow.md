@@ -2,9 +2,13 @@
 title: "Spearow (#0021)"
 category: Pokedex
 tags: [spearow, kanto, normal, flying]
+image: "assets/images/pokemon/021.png"
 ---
 
 # Spearow (#0021)
+
+<img src="../../assets/images/pokemon/021.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Tiny Bird Pokemon*
 
 **Type:** Normal / Flying

@@ -31,9 +31,9 @@ Tipico di **deserti, pianure e aree tropicali**.
 
 | Effetto | Dettaglio |
 |---|---|
-| 🔥 **Fuoco potenziato** | Tutte le Moves di tipo [[Tipi_Pokemon\|Fuoco]] hanno **+1 dado** alla Damage Pool |
-| 💧 **Acqua indebolita** | Tutte le Moves di tipo [[Tipi_Pokemon\|Acqua]] hanno il danno totale **ridotto di 1** |
-| ❄️ **Anti-Freeze** | Nessuno può essere colpito dallo status [[Status_Conditions\|*Frozen*]] |
+| 🔥 **Fuoco potenziato** | Tutte le Moves di tipo [[Fuoco]] hanno **+1 dado** alla Damage Pool |
+| 💧 **Acqua indebolita** | Tutte le Moves di tipo [[Acqua]] hanno il danno totale **ridotto di 1** |
+| ❄️ **Anti-Freeze** | Nessuno può essere colpito dallo status [[Status_Conditions|*Frozen*]] |
 
 > 💡 Il Sunny Weather è il paradiso per i team Fuoco: le Moves guadagnano danno extra e gli avversari Acqua vengono indeboliti. Inoltre, alcune Moves curative (come *Synthesis*) diventano *Complete Heal* sotto il sole.
 
@@ -49,7 +49,7 @@ Si trova **solo in aree vulcaniche**. Versione estrema del Sunny Weather.
 |---|---|
 | 🔥 **Fuoco potenziato** | Tutte le Moves di tipo Fuoco hanno **+1 dado** alla Damage Pool |
 | 💧 **Acqua annullata** | Tutte le Moves di tipo Acqua **falliscono automaticamente** |
-| 🎲 **Burn potenziato** | Aggiungi **+2 dadi** a qualsiasi tiro di Chance Dice per infliggere [[Status_Conditions\|*Burn*]] |
+| 🎲 **Burn potenziato** | Aggiungi **+2 dadi** a qualsiasi tiro di Chance Dice per infliggere [[Status_Conditions|*Burn*]] |
 | ❄️ **Anti-Freeze** | Nessuno può essere colpito dallo status *Frozen* |
 | 🚫 **Blocca altri meteo** | Le condizioni *Sunny*, *Rain*, *Sandstorm* e *Hail* **non possono essere attivate** con nessun mezzo |
 
@@ -68,7 +68,7 @@ Comune in **foreste pluviali, rive di laghi e paludi**.
 | 💧 **Acqua potenziata** | Tutte le Moves di tipo Acqua hanno **+1 dado** alla Damage Pool |
 | 🔥 **Fuoco indebolito** | Tutte le Moves di tipo Fuoco hanno il danno totale **ridotto di 1** |
 | 🩹 **Cure solari ridotte** | Le Moves che diventano *Complete Heal* con il Sunny Weather **curano solo 1 HP** |
-| 🧊 **Anti-Burn facilitato** | **−3 successi necessari** per curare lo status [[Status_Conditions\|*Burn*]] |
+| 🧊 **Anti-Burn facilitato** | **−3 successi necessari** per curare lo status [[Status_Conditions|*Burn*]] |
 
 > 💡 La pioggia non solo potenzia l'Acqua, ma rende anche molto più facile curare le *Burn*, e indebolisce le Moves di Fuoco. Team perfettamente bilanciati tra Acqua e Fuoco favoriscono sempre chi controlla il meteo.
 
@@ -84,7 +84,7 @@ Si trova **solo in mare aperto/sott'acqua**. Versione estrema della Rain.
 |---|---|
 | 💧 **Acqua potenziata** | Tutte le Moves di tipo Acqua hanno **+1 dado** alla Damage Pool |
 | 🔥 **Fuoco annullato** | Tutte le Moves di tipo Fuoco **falliscono automaticamente** |
-| 🧊 **Anti-Burn totale** | Nessuno può essere colpito dallo status [[Status_Conditions\|*Burn*]] |
+| 🧊 **Anti-Burn totale** | Nessuno può essere colpito dallo status [[Status_Conditions|*Burn*]] |
 | 🩹 **Cure solari annullate** | Le Moves che diventano *Complete Heal* con il Sunny Weather **non curano alcun HP** |
 | 🚫 **Blocca altri meteo** | Le condizioni *Sunny*, *Rain*, *Sandstorm* e *Hail* **non possono essere attivate** |
 
@@ -167,7 +167,7 @@ Oltre alle Weather Conditions, lo Storyteller può aggiungere **sfide ambientali
 |---|---|---|
 | **Fog / Darkness** (Nebbia / Buio) | Visibilità Ridotta | Tutti i Pokémon subiscono **−1 Accuracy** (Reduced Accuracy) su tutte le Moves |
 | **Muddy** (Fangoso) | Terreno Difficile | La mobilità di tutti i Pokémon è **dimezzata**. I Pokémon non possono uscire dal raggio di azione |
-| **On Fire!** (In Fiamme) | Hazard Pericoloso | A fine di ogni Round, tira **3 Chance Dice** per infliggere [[Status_Conditions\|*Burn*]] a tutti nel campo. Se già in *Burn*, tira per **aumentare il livello** |
+| **On Fire!** (In Fiamme) | Hazard Pericoloso | A fine di ogni Round, tira **3 Chance Dice** per infliggere [[Status_Conditions|*Burn*]] a tutti nel campo. Se già in *Burn*, tira per **aumentare il livello** |
 | **Electric Poles** (Pali Elettrici) | Elemento Potenziante | Tutti i Pokémon aggiungono **+1 dado** alla Damage Pool delle Moves di tipo Elettro. I Pokémon **non devono ricaricarsi** |
 
 > 💡 *"Feel free to create your own."* — Lo Storyteller è incoraggiato a inventare le proprie sfide ambientali per rendere ogni battaglia unica e memorabile.

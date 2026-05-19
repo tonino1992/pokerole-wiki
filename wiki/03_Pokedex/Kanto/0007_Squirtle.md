@@ -2,9 +2,13 @@
 title: "Squirtle (#0007)"
 category: Pokedex
 tags: [squirtle, kanto, water]
+image: "assets/images/pokemon/007.png"
 ---
 
 # Squirtle (#0007)
+
+<img src="../../assets/images/pokemon/007.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Tiny turtle Pokemon*
 
 **Type:** Water

@@ -2,9 +2,13 @@
 title: "Nidorina (#0030)"
 category: Pokedex
 tags: [nidorina, kanto, poison]
+image: "assets/images/pokemon/030.png"
 ---
 
 # Nidorina (#0030)
+
+<img src="../../assets/images/pokemon/030.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Poison Pin Pokemon*
 
 **Type:** Poison

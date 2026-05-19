@@ -30,7 +30,7 @@ La Natura non è solo descrittiva, ha un peso meccanico importante. I giocatori 
 
 > 💡 **"WILL POINTS ARE AN AWARD FOR ROLE-PLAYING YOUR NATURE."**
 
-Se hai bisogno di recuperare [[HP_e_Will\|Will Points]] spesi, agire in base alla tua Natura è il modo principale per farlo. Lo Storyteller ricompensa i giocatori che si mantengono fedeli alla loro essenza, specialmente se farlo li mette nei guai o crea spunti narrativi interessanti.
+Se hai bisogno di recuperare [[HP_e_Will|Will Points]] spesi, agire in base alla tua Natura è il modo principale per farlo. Lo Storyteller ricompensa i giocatori che si mantengono fedeli alla loro essenza, specialmente se farlo li mette nei guai o crea spunti narrativi interessanti.
 
 ---
 

@@ -2,9 +2,13 @@
 title: "Kakuna (#0014)"
 category: Pokedex
 tags: [kakuna, kanto, bug, poison]
+image: "assets/images/pokemon/014.png"
 ---
 
 # Kakuna (#0014)
+
+<img src="../../assets/images/pokemon/014.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Cocoon Pokemon*
 
 **Type:** Bug / Poison

@@ -2,9 +2,13 @@
 title: "Marowak (#0105)"
 category: Pokedex
 tags: [marowak, kanto, ground]
+image: "assets/images/pokemon/105.png"
 ---
 
 # Marowak (#0105)
+
+<img src="../../assets/images/pokemon/105.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Bone Keeper Pokemon*
 
 **Type:** Ground

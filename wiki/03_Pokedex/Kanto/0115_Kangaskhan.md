@@ -2,9 +2,13 @@
 title: "Kangaskhan (#0115)"
 category: Pokedex
 tags: [kangaskhan, kanto, normal]
+image: "assets/images/pokemon/115.png"
 ---
 
 # Kangaskhan (#0115)
+
+<img src="../../assets/images/pokemon/115.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Parent Pokemon*
 
 **Type:** Normal
@@ -35,3 +39,12 @@ tags: [kangaskhan, kanto, normal]
 - **Ace:** [[Endure]], [[Outrage]], [[Sucker_Punch]], [[Reversal]]
 - **Pro:** [[Aqua_Tail]], [[Captivate]], [[Counter]]
 
+---
+
+## Forme Speciali
+
+<div style="display:flex;gap:24px;flex-wrap:wrap;margin:16px 0;align-items:flex-start;">
+
+<div style="text-align:center;min-width:160px;"><img src="../../assets/images/pokemon/forms/kangaskhan-mega.png" width="180" style="display:block;margin:0 auto 6px;"><strong>Mega Kangaskhan</strong></div>
+
+</div>

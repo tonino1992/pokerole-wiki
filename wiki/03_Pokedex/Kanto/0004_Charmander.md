@@ -2,9 +2,13 @@
 title: "Charmander (#0004)"
 category: Pokedex
 tags: [charmander, kanto, fire]
+image: "assets/images/pokemon/004.png"
 ---
 
 # Charmander (#0004)
+
+<img src="../../assets/images/pokemon/004.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Lizard Pokemon*
 
 **Type:** Fire

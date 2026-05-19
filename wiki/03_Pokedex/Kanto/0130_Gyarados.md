@@ -2,9 +2,13 @@
 title: "Gyarados (#0130)"
 category: Pokedex
 tags: [gyarados, kanto, water, flying]
+image: "assets/images/pokemon/130.png"
 ---
 
 # Gyarados (#0130)
+
+<img src="../../assets/images/pokemon/130.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Atrocious Pokemon*
 
 **Type:** Water / Flying
@@ -35,3 +39,12 @@ tags: [gyarados, kanto, water, flying]
 - **Ace:** [[Hydro_Pump]], [[Hyper_Beam]]
 - **Pro:** [[Thunder_Wave]], [[Outrage]], [[Bounce]]
 
+---
+
+## Forme Speciali
+
+<div style="display:flex;gap:24px;flex-wrap:wrap;margin:16px 0;align-items:flex-start;">
+
+<div style="text-align:center;min-width:160px;"><img src="../../assets/images/pokemon/forms/gyarados-mega.png" width="180" style="display:block;margin:0 auto 6px;"><strong>Mega Gyarados</strong></div>
+
+</div>

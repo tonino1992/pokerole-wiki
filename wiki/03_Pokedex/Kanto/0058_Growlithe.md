@@ -2,9 +2,13 @@
 title: "Growlithe (#0058)"
 category: Pokedex
 tags: [growlithe, kanto, fire]
+image: "assets/images/pokemon/058.png"
 ---
 
 # Growlithe (#0058)
+
+<img src="../../assets/images/pokemon/058.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Puppy Pokemon*
 
 **Type:** Fire

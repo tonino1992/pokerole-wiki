@@ -2,9 +2,13 @@
 title: "Flareon (#0136)"
 category: Pokedex
 tags: [flareon, kanto, fire]
+image: "assets/images/pokemon/136.png"
 ---
 
 # Flareon (#0136)
+
+<img src="../../assets/images/pokemon/136.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Flame Pokemon*
 
 **Type:** Fire

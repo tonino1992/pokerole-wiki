@@ -2,9 +2,13 @@
 title: "Weepinbell (#0070)"
 category: Pokedex
 tags: [weepinbell, kanto, grass, poison]
+image: "assets/images/pokemon/070.png"
 ---
 
 # Weepinbell (#0070)
+
+<img src="../../assets/images/pokemon/070.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Flycatcher Pokemon*
 
 **Type:** Grass / Poison

@@ -2,9 +2,13 @@
 title: "Zapdos (#0145)"
 category: Pokedex
 tags: [zapdos, kanto, electric, flying]
+image: "assets/images/pokemon/145.png"
 ---
 
 # Zapdos (#0145)
+
+<img src="../../assets/images/pokemon/145.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *No Data*
 
 **Type:** Electric / Flying

@@ -2,9 +2,13 @@
 title: "Omanyte (#0138)"
 category: Pokedex
 tags: [omanyte, kanto, rock, water]
+image: "assets/images/pokemon/138.png"
 ---
 
 # Omanyte (#0138)
+
+<img src="../../assets/images/pokemon/138.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Spiral Pokemon*
 
 **Type:** Rock / Water

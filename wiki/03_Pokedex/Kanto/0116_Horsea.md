@@ -2,9 +2,13 @@
 title: "Horsea (#0116)"
 category: Pokedex
 tags: [horsea, kanto, water]
+image: "assets/images/pokemon/116.png"
 ---
 
 # Horsea (#0116)
+
+<img src="../../assets/images/pokemon/116.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Dragon Pokemon*
 
 **Type:** Water

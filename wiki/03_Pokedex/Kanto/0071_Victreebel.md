@@ -2,9 +2,13 @@
 title: "Victreebel (#0071)"
 category: Pokedex
 tags: [victreebel, kanto, grass, poison]
+image: "assets/images/pokemon/071.png"
 ---
 
 # Victreebel (#0071)
+
+<img src="../../assets/images/pokemon/071.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Flycatcher Pokemon*
 
 **Type:** Grass / Poison

@@ -2,9 +2,13 @@
 title: "Farfetch'd (#0083)"
 category: Pokedex
 tags: [farfetch'd, kanto, normal, flying]
+image: "assets/images/pokemon/083.png"
 ---
 
 # Farfetch'd (#0083)
+
+<img src="../../assets/images/pokemon/083.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Wild Duck Pokemon*
 
 **Type:** Normal / Flying

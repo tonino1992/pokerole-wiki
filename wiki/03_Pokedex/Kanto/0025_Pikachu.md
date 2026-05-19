@@ -2,9 +2,13 @@
 title: "Pikachu (#0025)"
 category: Pokedex
 tags: [pikachu, kanto, electric]
+image: "assets/images/pokemon/025.png"
 ---
 
 # Pikachu (#0025)
+
+<img src="../../assets/images/pokemon/025.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Mouse Pokemon*
 
 **Type:** Electric
@@ -34,6 +38,16 @@ tags: [pikachu, kanto, electric]
 - **Amateur:** [[Electro_Ball]], [[Double_Team]], [[Nuzzle]], [[Slam]], [[Spark]], [[Thunderbolt]], [[Feint]], [[Agility]]
 - **Ace:** [[Discharge]], [[Light_Screen]], [[Thunder]], [[Wild_Charge]]
 - **Pro:** [[Surf]], [[Volt_Tackle]], [[Extreme_Speed]]
+
+---
+
+## Forme Speciali
+
+<div style="display:flex;gap:24px;flex-wrap:wrap;margin:16px 0;align-items:flex-start;">
+
+<div style="text-align:center;min-width:160px;"><img src="../../assets/images/pokemon/forms/pikachu-gmax.png" width="180" style="display:block;margin:0 auto 6px;"><strong>Pikachu (Gigantamax)</strong></div>
+
+</div>
 
 ---
 

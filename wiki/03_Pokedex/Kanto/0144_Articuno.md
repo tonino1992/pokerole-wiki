@@ -2,9 +2,13 @@
 title: "Articuno (#0144)"
 category: Pokedex
 tags: [articuno, kanto, ice, flying]
+image: "assets/images/pokemon/144.png"
 ---
 
 # Articuno (#0144)
+
+<img src="../../assets/images/pokemon/144.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *No Data*
 
 **Type:** Ice / Flying

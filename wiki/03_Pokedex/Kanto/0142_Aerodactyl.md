@@ -2,9 +2,13 @@
 title: "Aerodactyl (#0142)"
 category: Pokedex
 tags: [aerodactyl, kanto, rock, flying]
+image: "assets/images/pokemon/142.png"
 ---
 
 # Aerodactyl (#0142)
+
+<img src="../../assets/images/pokemon/142.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Fossil Pokemon*
 
 **Type:** Rock / Flying
@@ -35,3 +39,12 @@ tags: [aerodactyl, kanto, rock, flying]
 - **Ace:** [[Hyper_Beam]], [[Rock_Slide]], [[Giga_Impact]]
 - **Pro:** [[Dragon_Breath]], [[Roost]], [[Aqua_Tail]]
 
+---
+
+## Forme Speciali
+
+<div style="display:flex;gap:24px;flex-wrap:wrap;margin:16px 0;align-items:flex-start;">
+
+<div style="text-align:center;min-width:160px;"><img src="../../assets/images/pokemon/forms/aerodactyl-mega.png" width="180" style="display:block;margin:0 auto 6px;"><strong>Mega Aerodactyl</strong></div>
+
+</div>

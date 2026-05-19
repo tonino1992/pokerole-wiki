@@ -2,9 +2,13 @@
 title: "Weedle (#0013)"
 category: Pokedex
 tags: [weedle, kanto, bug, poison]
+image: "assets/images/pokemon/013.png"
 ---
 
 # Weedle (#0013)
+
+<img src="../../assets/images/pokemon/013.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Hairy Pokemon*
 
 **Type:** Bug / Poison

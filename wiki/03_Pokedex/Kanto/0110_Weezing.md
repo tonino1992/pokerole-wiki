@@ -2,9 +2,13 @@
 title: "Weezing (#0110)"
 category: Pokedex
 tags: [weezing, kanto, poison]
+image: "assets/images/pokemon/110.png"
 ---
 
 # Weezing (#0110)
+
+<img src="../../assets/images/pokemon/110.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Poison Gas Pokemon*
 
 **Type:** Poison

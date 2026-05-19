@@ -34,7 +34,7 @@ Le Status Conditions possono **accumularsi** tra loro: un Pokémon può essere c
 
 | Campo | Dettaglio |
 |---|---|
-| **Immunità** | I Pokémon di tipo [[Tipi_Pokemon\|Fuoco]] sono immuni. |
+| **Immunità** | I Pokémon di tipo [[Fuoco]] sono immuni. |
 | **Effetto** | Infligge **1 punto di danno** (normale) alla fine di ogni Round. |
 | **Resistenza** | Non può essere resistito. |
 | **Durata / Come spegnerlo** | Usa un'azione per tirare ***Dexterity* + *Athletic***. Accumula i successi di questi tiri fino a raggiungere un totale di **4 successi**. Fuori dal combattimento, altri personaggi possono aiutare a lenire l'ustione. |
@@ -47,7 +47,7 @@ Le Status Conditions possono **accumularsi** tra loro: un Pokémon può essere c
 
 | Campo | Dettaglio |
 |---|---|
-| **Immunità** | I Pokémon di tipo [[Tipi_Pokemon\|Fuoco]] sono immuni. |
+| **Immunità** | I Pokémon di tipo [[Fuoco]] sono immuni. |
 | **Effetto** | Infligge **2 punti di Lethal Damage** alla fine di ogni Round. |
 | **Resistenza** | Non può essere resistito. |
 | **Durata / Come spegnerlo** | Usa un'azione per tirare ***Dexterity* + *Athletic***. Accumula i successi fino a un totale di **6 successi**. Fuori dal combattimento, altri possono aiutare a spegnere le fiamme. |
@@ -62,7 +62,7 @@ Le Status Conditions possono **accumularsi** tra loro: un Pokémon può essere c
 
 | Campo | Dettaglio |
 |---|---|
-| **Immunità** | I Pokémon di tipo [[Tipi_Pokemon\|Fuoco]] sono immuni. |
+| **Immunità** | I Pokémon di tipo [[Fuoco]] sono immuni. |
 | **Effetto** | Infligge **3 punti di Lethal Damage** alla fine di ogni Round. |
 | **Resistenza** | Non può essere resistito. |
 | **Durata / Come spegnerlo** | Usa un'azione per tirare ***Dexterity* + *Athletic***. Accumula i successi fino a un totale di **8 successi**. Fuori dal combattimento, altri possono aiutare a spegnere le fiamme. |
@@ -88,8 +88,8 @@ A differenza dei giochi Pokémon classici dove *Burn* è binario (ce l'hai o no)
 
 | Campo | Dettaglio |
 |---|---|
-| **Immunità** | I Pokémon di tipo [[Tipi_Pokemon\|Elettro]] sono immuni. |
-| **Effetto** | Per tutta la durata, il soggetto perde **2 punti in *Dexterity*** e si muove a **metà velocità**, oppure non può muoversi affatto. Questo influenza direttamente la [[Come_Funziona_il_Combattimento\|Initiative]] (*Dexterity* + *Alert*), la capacità di schivare (*Dexterity* + *Evasion*) e molte altre azioni. |
+| **Immunità** | I Pokémon di tipo [[Elettro]] sono immuni. |
+| **Effetto** | Per tutta la durata, il soggetto perde **2 punti in *Dexterity*** e si muove a **metà velocità**, oppure non può muoversi affatto. Questo influenza direttamente la [[Come_Funziona_il_Combattimento|Initiative]] (*Dexterity* + *Alert*), la capacità di schivare (*Dexterity* + *Evasion*) e molte altre azioni. |
 | **Resistenza** | Non può essere resistito. |
 | **Durata** | **24 ore**. È una delle condizioni più durature: senza cure, il Pokémon resta menomato per un giorno intero. |
 
@@ -103,7 +103,7 @@ A differenza dei giochi Pokémon classici dove *Burn* è binario (ce l'hai o no)
 
 | Campo | Dettaglio |
 |---|---|
-| **Immunità** | I Pokémon di tipo [[Tipi_Pokemon\|Ghiaccio]] sono immuni. |
+| **Immunità** | I Pokémon di tipo [[Ghiaccio]] sono immuni. |
 | **Effetto** | Il soggetto **non può eseguire alcuna azione**. È completamente immobilizzato dentro un blocco di ghiaccio. |
 | **Resistenza** | Il blocco di ghiaccio è un oggetto con le sue statistiche: **5 HP**, con **DEF 2** e **S.DEF 2**. Alla fine di ogni Round il soggetto intrappolato può tentare di rompere il ghiaccio usando una Move. Le Moves **super-efficaci contro il tipo Ghiaccio** (Fuoco, Lotta, Roccia, Acciaio) rompono il blocco **istantaneamente**. |
 | **Durata** | Finché il ghiaccio non viene **rotto** (da alleati, dal soggetto stesso o dal calore) o si **scioglie da solo** dopo alcune ore. Se lasciato sciogliere naturalmente, il soggetto sarà trovato **svenuto**. |
@@ -118,7 +118,7 @@ A differenza dei giochi Pokémon classici dove *Burn* è binario (ce l'hai o no)
 
 | Campo | Dettaglio |
 |---|---|
-| **Immunità** | I Pokémon di tipo [[Tipi_Pokemon\|Veleno]] e [[Tipi_Pokemon\|Acciaio]] sono immuni. |
+| **Immunità** | I Pokémon di tipo [[Veleno]] e [[Acciaio]] sono immuni. |
 | **Effetto** | Infligge **1 punto di danno** alla fine di ogni Round. |
 | **Resistenza** | Se il soggetto si **sdraia e resta completamente fermo**, il danno viene inflitto **una volta all'ora** invece che ogni Round. |
 | **Durata** | Fino a ricevere **cure mediche** oppure fino allo **svenimento** (con risveglio dopo 8 ore). |
@@ -135,7 +135,7 @@ A differenza dei giochi Pokémon classici dove *Burn* è binario (ce l'hai o no)
 
 | Campo | Dettaglio |
 |---|---|
-| **Immunità** | I Pokémon di tipo [[Tipi_Pokemon\|Veleno]] e [[Tipi_Pokemon\|Acciaio]] sono immuni. |
+| **Immunità** | I Pokémon di tipo [[Veleno]] e [[Acciaio]] sono immuni. |
 | **Effetto** | Infligge **1 punto di Lethal Damage** alla fine di ogni Round. |
 | **Resistenza** | Come *Poison*: se il soggetto resta completamente fermo, il danno è **una volta all'ora** invece che ogni Round. |
 | **Durata** | Fino a cure mediche oppure fino a quando **il corpo non resiste più**. |

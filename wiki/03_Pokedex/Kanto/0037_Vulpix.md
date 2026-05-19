@@ -2,9 +2,13 @@
 title: "Vulpix (#0037)"
 category: Pokedex
 tags: [vulpix, kanto, fire]
+image: "assets/images/pokemon/037.png"
 ---
 
 # Vulpix (#0037)
+
+<img src="../../assets/images/pokemon/037.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Fox Pokemon*
 
 **Type:** Fire

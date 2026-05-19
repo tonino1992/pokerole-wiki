@@ -2,9 +2,13 @@
 title: "Parasect (#0047)"
 category: Pokedex
 tags: [parasect, kanto, bug, grass]
+image: "assets/images/pokemon/047.png"
 ---
 
 # Parasect (#0047)
+
+<img src="../../assets/images/pokemon/047.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Mushroom Pokemon*
 
 **Type:** Bug / Grass

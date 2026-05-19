@@ -2,9 +2,13 @@
 title: "Hitmonlee (#0106)"
 category: Pokedex
 tags: [hitmonlee, kanto, fighting]
+image: "assets/images/pokemon/106.png"
 ---
 
 # Hitmonlee (#0106)
+
+<img src="../../assets/images/pokemon/106.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Kicking Pokemon*
 
 **Type:** Fighting

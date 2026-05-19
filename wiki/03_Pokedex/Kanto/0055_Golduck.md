@@ -2,9 +2,13 @@
 title: "Golduck (#0055)"
 category: Pokedex
 tags: [golduck, kanto, water]
+image: "assets/images/pokemon/055.png"
 ---
 
 # Golduck (#0055)
+
+<img src="../../assets/images/pokemon/055.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Duck Pokemon*
 
 **Type:** Water

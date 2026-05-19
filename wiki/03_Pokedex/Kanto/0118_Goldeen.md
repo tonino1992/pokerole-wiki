@@ -2,9 +2,13 @@
 title: "Goldeen (#0118)"
 category: Pokedex
 tags: [goldeen, kanto, water]
+image: "assets/images/pokemon/118.png"
 ---
 
 # Goldeen (#0118)
+
+<img src="../../assets/images/pokemon/118.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Goldfish Pokemon*
 
 **Type:** Water

@@ -2,9 +2,13 @@
 title: "Rhydon (#0112)"
 category: Pokedex
 tags: [rhydon, kanto, ground, rock]
+image: "assets/images/pokemon/112.png"
 ---
 
 # Rhydon (#0112)
+
+<img src="../../assets/images/pokemon/112.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Drill Pokemon*
 
 **Type:** Ground / Rock

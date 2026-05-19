@@ -2,9 +2,13 @@
 title: "Kingler (#0099)"
 category: Pokedex
 tags: [kingler, kanto, water]
+image: "assets/images/pokemon/099.png"
 ---
 
 # Kingler (#0099)
+
+<img src="../../assets/images/pokemon/099.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Pincer Pokemon*
 
 **Type:** Water
@@ -34,6 +38,16 @@ tags: [kingler, kanto, water]
 - **Amateur:** [[Wide_Guard]], [[Bubble_Beam]], [[Mud_Shot]], [[Metal_Claw]], [[Stomp]], [[Protect]], [[Slam]]
 - **Ace:** [[Guillotine]], [[Brine]], [[Crabhammer]], [[Flail]]
 - **Pro:** [[Agility]], [[Iron_Defense]], [[Mimic]]
+
+---
+
+## Forme Speciali
+
+<div style="display:flex;gap:24px;flex-wrap:wrap;margin:16px 0;align-items:flex-start;">
+
+<div style="text-align:center;min-width:160px;"><img src="../../assets/images/pokemon/forms/kingler-gmax.png" width="180" style="display:block;margin:0 auto 6px;"><strong>Kingler (Gigantamax)</strong></div>
+
+</div>
 
 ---
 

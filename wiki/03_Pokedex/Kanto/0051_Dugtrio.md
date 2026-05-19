@@ -2,9 +2,13 @@
 title: "Dugtrio (#0051)"
 category: Pokedex
 tags: [dugtrio, kanto, ground]
+image: "assets/images/pokemon/051.png"
 ---
 
 # Dugtrio (#0051)
+
+<img src="../../assets/images/pokemon/051.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Mole Pokemon*
 
 **Type:** Ground

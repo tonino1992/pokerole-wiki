@@ -2,9 +2,13 @@
 title: "Electrode (#0101)"
 category: Pokedex
 tags: [electrode, kanto, electric]
+image: "assets/images/pokemon/101.png"
 ---
 
 # Electrode (#0101)
+
+<img src="../../assets/images/pokemon/101.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Ball Pokemon*
 
 **Type:** Electric

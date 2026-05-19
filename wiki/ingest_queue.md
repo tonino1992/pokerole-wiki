@@ -7,6 +7,7 @@ Quando l'utente chiede di "procedere con il prossimo ingest", l'AI deve:
 2. Aprire il PDF in `raw/` ed estrarre le pagine indicate.
 3. Creare il file Wiki.
 4. **[REGOLE IMMAGINI]** Se la pagina contiene tabelle, schede o icone, è possibile estrarle dal PDF come immagini (salvandole in `wiki/assets/images/`) **SOLO** come elemento decorativo o aggiuntivo per parti specifiche. **È severamente vietato inserire screenshot di intere pagine del manuale**. Le immagini **NON devono MAI sostituire i testi**. Il contenuto deve essere sempre trascritto/ingestato testualmente.
+   - **[REGOLE IMMAGINI — POKÉDEX]** Per ogni scheda Pokédex (regioni Johto in poi), includere l'official artwork scaricato in `wiki/assets/images/pokemon/`. Il file è nominato `{id:03d}.png` (es. `152.png` per Chikorita). Inserire nel frontmatter `image: "assets/images/pokemon/{id:03d}.png"` e nel corpo, subito dopo la riga `# Nome (#XXXX)`, il tag: `<img src="../../assets/images/pokemon/{id:03d}.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">`. Le immagini dei Pokémon di Kanto (001-151) sono già presenti in `wiki/assets/images/pokemon/` e tutte le 151 schede Kanto sono già state aggiornate con questo layout.
 5. **[REGOLE COLLEGAMENTI]** Ogni volta che il testo menziona elementi chiave del gioco come nomi di Mosse, Abilità, o Tipi, questi devono essere inseriti come **Wikilink** (es. `[[Tackle]]`, `[[Overgrow]]`). Questo permette la corretta indicizzazione e navigazione quando il database relativo verrà popolato.
 6. Aggiornare `index.md` e `log.md`.
 7. Segnare l'elemento come `[x]` in questo file.
@@ -50,26 +51,26 @@ Quando l'utente chiede di "procedere con il prossimo ingest", l'AI deve:
 
 - [x] **Equipaggiamento_Base** — Lo zaino dell'Allenatore *(PDF p. 76)*
 - [x] **Healing_Items** — Pozioni, Antidoti, Revive *(PDF pp. 77-79)*
-- [ ] **Pokeball** — Tipi di Pokéball e meccaniche di cattura *(PDF pp. 69-71, 80)*
-- [ ] **Pokemon_Care_Items** — Oggetti per cura e crescita *(PDF pp. 81-82)*
-- [ ] **Evolutionary_Items** — Pietre evolutive *(PDF p. 83)*
-- [ ] **Held_Items** — Oggetti tenuti in combattimento *(PDF pp. 83-87)*
+- [x] **Pokeball** — Tipi di Pokéball e meccaniche di cattura *(PDF pp. 69-71, 80)*
+- [x] **Pokemon_Care_Items** — Oggetti per cura e crescita *(PDF pp. 81-82)*
+- [x] **Evolutionary_Items** — Pietre evolutive *(PDF p. 83)*
+- [x] **Held_Items** — Oggetti tenuti in combattimento *(PDF pp. 83-87)*
 
 ---
 
 ## Priorità Bassa — Sezioni Extra
 
-- [ ] **Il_Mondo_dei_Pokemon** — Ambientazione, regioni, Lega *(PDF pp. 8-17)*
-- [ ] **Introduzione** — Cos'è un GDR, ruolo dello Storyteller *(PDF p. 7)*
-- [ ] **Catturare_Pokemon** — Habitat, Pokéball *(PDF pp. 68-71)*
-- [ ] **Allenare_Pokemon** — Training Sessions ed Evoluzione *(PDF pp. 72-75)*
-- [ ] **Pokemon_Contests** — Gare di bellezza *(PDF pp. 63-67)*
-- [ ] **Typeless_Maneuvers** — Manovre senza tipo *(PDF p. 424)*
-- [ ] **Max_Moves** — Max Moves (Dynamax) *(PDF pp. 425-427)*
-- [ ] **Z-Moves** — Z-Moves *(PDF pp. 428-431)*
-- [ ] **Strength_Dexterity_Chart** — Tabella riassuntiva *(PDF p. 432)*
-- [ ] **FAQ_Moves** — FAQ sulle Moves *(PDF p. 433)*
-- [ ] **Sfide_Avanzate** — Rivali, Mega-Evolution, Leggendari *(PDF pp. 473-489)*
+- [x] **Il_Mondo_dei_Pokemon** — Ambientazione, regioni, Lega *(PDF pp. 8-17)*
+- [x] **Introduzione** — Cos'è un GDR, ruolo dello Storyteller *(PDF p. 7)*
+- [x] **Catturare_Pokemon** — Habitat, Pokéball *(PDF pp. 68-71)*
+- [x] **Allenare_Pokemon** — Training Sessions ed Evoluzione *(PDF pp. 72-75)*
+- [x] **Pokemon_Contests** — Gare di bellezza *(PDF pp. 63-67)*
+- [x] **Typeless_Maneuvers** — Manovre senza tipo *(PDF p. 424)*
+- [x] **Max_Moves** — Max Moves (Dynamax) *(PDF pp. 425-427)*
+- [x] **Z-Moves** — Z-Moves *(PDF pp. 428-431)*
+- [x] **Strength_Dexterity_Chart** — Tabella riassuntiva *(PDF p. 432)*
+- [x] **FAQ_Moves** — FAQ sulle Moves *(PDF p. 433)*
+- [x] **Sfide_Avanzate** — Rivali, Mega-Evolution, Leggendari *(PDF pp. 473-489)*
 
 ---
 

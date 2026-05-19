@@ -2,9 +2,13 @@
 title: "Fearow (#0022)"
 category: Pokedex
 tags: [fearow, kanto, normal, flying]
+image: "assets/images/pokemon/022.png"
 ---
 
 # Fearow (#0022)
+
+<img src="../../assets/images/pokemon/022.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Beak Pokemon*
 
 **Type:** Normal / Flying

@@ -2,9 +2,13 @@
 title: "Nidoking (#0034)"
 category: Pokedex
 tags: [nidoking, kanto, poison, ground]
+image: "assets/images/pokemon/034.png"
 ---
 
 # Nidoking (#0034)
+
+<img src="../../assets/images/pokemon/034.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Drill Pokemon*
 
 **Type:** Poison / Ground

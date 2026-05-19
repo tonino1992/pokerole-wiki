@@ -2,9 +2,13 @@
 title: "Meowth (#0052)"
 category: Pokedex
 tags: [meowth, kanto, normal]
+image: "assets/images/pokemon/052.png"
 ---
 
 # Meowth (#0052)
+
+<img src="../../assets/images/pokemon/052.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Scratch Cat Pokemon*
 
 **Type:** Normal
@@ -34,6 +38,16 @@ tags: [meowth, kanto, normal]
 - **Amateur:** [[Screech]], [[Feint_Attack]], [[Taunt]], [[Pay_Day]], [[Slash]], [[Captivate]]
 - **Ace:** [[Assurance]], [[Nasty_Plot]], [[Night_Slash]], [[Feint]]
 - **Pro:** [[Charm]], [[Sing]], [[Snatch]]
+
+---
+
+## Forme Speciali
+
+<div style="display:flex;gap:24px;flex-wrap:wrap;margin:16px 0;align-items:flex-start;">
+
+<div style="text-align:center;min-width:160px;"><img src="../../assets/images/pokemon/forms/meowth-gmax.png" width="180" style="display:block;margin:0 auto 6px;"><strong>Meowth (Gigantamax)</strong></div>
+
+</div>
 
 ---
 

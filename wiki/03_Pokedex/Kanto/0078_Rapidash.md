@@ -2,9 +2,13 @@
 title: "Rapidash (#0078)"
 category: Pokedex
 tags: [rapidash, kanto, fire]
+image: "assets/images/pokemon/078.png"
 ---
 
 # Rapidash (#0078)
+
+<img src="../../assets/images/pokemon/078.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Fire Horse Pokemon*
 
 **Type:** Fire

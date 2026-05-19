@@ -2,9 +2,13 @@
 title: "Dewgong (#0087)"
 category: Pokedex
 tags: [dewgong, kanto, water, ice]
+image: "assets/images/pokemon/087.png"
 ---
 
 # Dewgong (#0087)
+
+<img src="../../assets/images/pokemon/087.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Sea Lion Pokemon*
 
 **Type:** Water / Ice

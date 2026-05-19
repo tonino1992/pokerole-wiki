@@ -7,7 +7,7 @@ Benvenuto nella wiki del **Pokérole Core Book 2.0**. Usa questo indice per navi
 ## 📚 01. Regole Base
 Meccaniche core del sistema di gioco.
 
-- 🔥 **[[Introduzione]]** — Cos'è un GDR, ruolo dello Storyteller, cos'è un Pokémon *(da creare)*
+- **[[Introduzione]]** — Cos'è un GDR, ruolo dello Storyteller, Pokémon, strumenti base
 - **[[Tirare_i_Dadi]]** — Dice Pool, successi, regole base dei tiri
 - **[[Attributes_e_Skills]]** — Attributes mentali, fisici e Social; Skills ed Extras
 - **[[HP_e_Will]]** — Health Points e Will Points
@@ -27,7 +27,7 @@ Creazione del personaggio, statistiche e regole del Trainer.
 - **[[Creazione_Personaggio]]** — Guida passo-passo per creare un Trainer
 - **[[Scheda_Allenatore]]** — Come compilare la Trainer Character Sheet
 - **[[Creazione_Pokemon]]** — Come creare un Pokémon iniziale e compilare la scheda
-- **[[Bulbasaur_Scheda]]** — Scheda compilata di un Bulbasaur base (*Starter*)
+- 🔥 **[[Bulbasaur_Scheda]]** — Scheda compilata di un Bulbasaur base (*Starter*) *(da creare)*
 - **[[Venusaur_Scheda]]** — Scheda compilata di un Venusaur evoluto (*Ace*)
 - **[[Natures]]** — Le Natures e il sistema di *Confidence*
 - **[[Happiness_e_Loyalty]]** — Felicità, Lealtà e il loro impatto meccanico
@@ -55,11 +55,11 @@ Database delle mosse di combattimento e delle abilità speciali.
 
 - **[[Moves_Introduzione]]** — Legenda icone effetto, leggere una Move
 - **Database Moves** — *Vedi cartella `04_Moves_e_Abilities/Moves/`* (organizzate per Tipo)
-- 🔥 **[[Typeless_Maneuvers]]** — Manovre senza tipo *(da creare)*
-- 🔥 **[[Max_Moves]]** — Max Moves (Dynamax) *(da creare)*
-- 🔥 **[[Z-Moves]]** — Z-Moves *(da creare)*
-- 🔥 **[[Strength_Dexterity_Chart]]** — Tabella riassuntiva *Strength* & *Dexterity* per le Moves *(da creare)*
-- 🔥 **[[FAQ_Moves]]** — Domande frequenti sulle Moves *(da creare)*
+- **[[Typeless_Maneuvers]]** — Struggle, Grapple, Help Another, Cover, Stabilize, Run Away
+- **[[Max_Moves]]** — Dynamax, G-Max Moves, lista 17 Max Moves per Tipo con effetti
+- **[[Z-Moves]]** — Z-Crystals, 18 Z-Moves per Tipo, personalizzazione per Rank, TM opzionali
+- **[[Strength_Dexterity_Chart]]** — Capacità di sollevamento e velocità massima per Attribute (1-10); Fling/Nature Power
+- **[[FAQ_Moves]]** — Priority, Evasion, Clash, Multiple Actions, Z/Max Moves, Out of Range e altro
 - 🔥 **Database Abilities** — *Vedi cartella `04_Moves_e_Abilities/Abilities/`* *(da creare)*
 
 ---
@@ -69,18 +69,18 @@ Equipaggiamento, cure e oggetti tenuti.
 
 - **[[Equipaggiamento_Base]]** — Trainer's Basics: lo zaino dell'Allenatore
 - **[[Healing_Items]]** — Pozioni, Antidoti, Revive e cure
-- 🔥 **[[Pokeball]]** — Tutti i tipi di Pokéball e meccaniche di cattura *(da creare)*
-- 🔥 **[[Pokemon_Care_Items]]** — Oggetti per la cura e crescita dei Pokémon *(da creare)*
-- 🔥 **[[Evolutionary_Items]]** — Pietre evolutive e oggetti per l'evoluzione *(da creare)*
-- 🔥 **[[Held_Items]]** — Oggetti tenuti in combattimento *(da creare)*
+- **[[Pokeball]]** — Catch Roll, Seal Potency, Pokéball standard e speciali, altri metodi di cattura
+- **[[Pokemon_Care_Items]]** — Cibo, Vitamine (+Attribute temporaneo), Grooming (+Confidence)
+- **[[Evolutionary_Items]]** — Pietre evolutive, Trading Machine e oggetti per l'evoluzione
+- **[[Held_Items]]** — Oggetti tenuti in combattimento: Type Boost, Attribute boost, oggetti speciali
 
 ---
 
 ## 🌍 Espansioni e Lore
 Sezioni extra sul mondo dei Pokémon e sfide avanzate.
 
-- 🔥 **[[Il_Mondo_dei_Pokemon]]** — Ambientazione: regioni, Lega Pokémon, Antagonisti *(da creare)*
-- 🔥 **[[Catturare_Pokemon]]** — Habitat, Pokémon speciali, uso delle Pokéball *(da creare)*
-- 🔥 **[[Allenare_Pokemon]]** — Training Sessions ed Evoluzione *(da creare)*
-- 🔥 **[[Pokemon_Contests]]** — Gare di bellezza: *Confidence*, *Stress*, fasi dello Show *(da creare)*
-- 🔥 **[[Sfide_Avanzate]]** — Rivali, Lega, Mega-Evolution, Leggendari, BIG Leagues *(da creare)*
+- **[[Il_Mondo_dei_Pokemon]]** — Ambientazione: regioni, Lega Pokémon, Elite Four, Antagonisti, Rival
+- **[[Catturare_Pokemon]]** — Selvatici vs allevati, Habitat, Shiny, Forme Alternate, Overgrown, Abilità nascoste
+- **[[Allenare_Pokemon]]** — Training Sessions, Rank Up, Retrain, Evoluzione, Overranking, Limits, Move Tutor
+- **[[Pokemon_Contests]]** — Contest, Confidence/Stress, mazzi di carte, Coordinator Ranks, Notoriety Skills
+- **[[Sfide_Avanzate]]** — Rivali, Unlike-Abilities, Lega, Mega-Evolution, Legendary Ranking, BIG Leagues (Dynamax/Gigantamax)

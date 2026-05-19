@@ -2,9 +2,13 @@
 title: "Raticate (#0020)"
 category: Pokedex
 tags: [raticate, kanto, normal]
+image: "assets/images/pokemon/020.png"
 ---
 
 # Raticate (#0020)
+
+<img src="../../assets/images/pokemon/020.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Mouse Pokemon*
 
 **Type:** Normal

@@ -2,9 +2,13 @@
 title: "Dodrio (#0085)"
 category: Pokedex
 tags: [dodrio, kanto, normal, flying]
+image: "assets/images/pokemon/085.png"
 ---
 
 # Dodrio (#0085)
+
+<img src="../../assets/images/pokemon/085.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Triple Bird Pokemon*
 
 **Type:** Normal / Flying

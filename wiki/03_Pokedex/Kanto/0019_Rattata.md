@@ -2,9 +2,13 @@
 title: "Rattata (#0019)"
 category: Pokedex
 tags: [rattata, kanto, normal]
+image: "assets/images/pokemon/019.png"
 ---
 
 # Rattata (#0019)
+
+<img src="../../assets/images/pokemon/019.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Mouse Pokemon*
 
 **Type:** Normal

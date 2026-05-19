@@ -2,9 +2,13 @@
 title: "Magneton (#0082)"
 category: Pokedex
 tags: [magneton, kanto, electric, steel]
+image: "assets/images/pokemon/082.png"
 ---
 
 # Magneton (#0082)
+
+<img src="../../assets/images/pokemon/082.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Magnet Pokemon*
 
 **Type:** Electric / Steel

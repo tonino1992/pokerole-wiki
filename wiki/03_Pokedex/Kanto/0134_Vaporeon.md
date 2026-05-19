@@ -2,9 +2,13 @@
 title: "Vaporeon (#0134)"
 category: Pokedex
 tags: [vaporeon, kanto, water]
+image: "assets/images/pokemon/134.png"
 ---
 
 # Vaporeon (#0134)
+
+<img src="../../assets/images/pokemon/134.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Bubble Jet Pokemon*
 
 **Type:** Water

@@ -2,9 +2,13 @@
 title: "Kabutops (#0141)"
 category: Pokedex
 tags: [kabutops, kanto, rock, water]
+image: "assets/images/pokemon/141.png"
 ---
 
 # Kabutops (#0141)
+
+<img src="../../assets/images/pokemon/141.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Shellfish Pokemon*
 
 **Type:** Rock / Water

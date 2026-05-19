@@ -2,9 +2,13 @@
 title: "Geodude (#0074)"
 category: Pokedex
 tags: [geodude, kanto, rock, ground]
+image: "assets/images/pokemon/074.png"
 ---
 
 # Geodude (#0074)
+
+<img src="../../assets/images/pokemon/074.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Rock Pokemon*
 
 **Type:** Rock / Ground

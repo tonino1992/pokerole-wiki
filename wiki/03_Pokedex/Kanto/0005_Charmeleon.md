@@ -2,9 +2,13 @@
 title: "Charmeleon (#0005)"
 category: Pokedex
 tags: [charmeleon, kanto, fire]
+image: "assets/images/pokemon/005.png"
 ---
 
 # Charmeleon (#0005)
+
+<img src="../../assets/images/pokemon/005.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Flame Pokemon*
 
 **Type:** Fire

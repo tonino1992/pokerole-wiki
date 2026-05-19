@@ -2,9 +2,13 @@
 title: "Magikarp (#0129)"
 category: Pokedex
 tags: [magikarp, kanto, water]
+image: "assets/images/pokemon/129.png"
 ---
 
 # Magikarp (#0129)
+
+<img src="../../assets/images/pokemon/129.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Fish Pokemon*
 
 **Type:** Water

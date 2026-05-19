@@ -2,9 +2,13 @@
 title: "Grimer (#0088)"
 category: Pokedex
 tags: [grimer, kanto, poison]
+image: "assets/images/pokemon/088.png"
 ---
 
 # Grimer (#0088)
+
+<img src="../../assets/images/pokemon/088.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Sludge Pokemon*
 
 **Type:** Poison

@@ -2,9 +2,13 @@
 title: "Staryu (#0120)"
 category: Pokedex
 tags: [staryu, kanto, water]
+image: "assets/images/pokemon/120.png"
 ---
 
 # Staryu (#0120)
+
+<img src="../../assets/images/pokemon/120.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
 *Starshape Pokemon*
 
 **Type:** Water

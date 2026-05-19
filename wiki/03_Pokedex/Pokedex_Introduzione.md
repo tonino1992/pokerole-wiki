@@ -26,13 +26,13 @@ Ogni voce del Pokédex contiene informazioni strutturate. Ecco la legenda per in
 | **Name & Number** | Il nome e il numero identificativo della specie per trovarla rapidamente. |
 | **Size and Weight** | Dimensioni medie. Durante l'avventura potresti incontrare esemplari fuori scala (più grandi o più piccoli). |
 | **Basic Information** | Descrizione generale e comportamento della specie. |
-| **Type** | Il [[Tipi_Pokemon\|Tipo]] del Pokémon, essenziale per conoscere debolezze e resistenze. |
+| **Type** | Il [[Tipi_Pokemon|Tipo]] del Pokémon, essenziale per conoscere debolezze e resistenze. |
 | **Starting Attributes** | I punteggi base di partenza (es. appena catturato o al Rank *Starter*). |
 | **Limits** | **Fondamentale:** Il punteggio *massimo* che il Pokémon può raggiungere in ciascun Attribute. I Limits **non possono essere modificati**. |
 | **Base HP (BHP)** | I Punti Salute di base. Per calcolare gli HP totali devi sommare la *Vitality* (vedi [[HP_e_Will]]). |
-| **Suggested Rank** | Il [[Ranking\|Rank]] che quel Pokémon avrebbe normalmente nel suo habitat naturale. Condizioni ambientali diverse possono renderlo più debole o più forte. |
-| **Ability** | Le [[Abilities_Introduzione\|Abilità Speciali]] del Pokémon. Se ne può avere attiva solo una. |
-| **Evolution** | La linea evolutiva, lo stadio attuale e il metodo di [[Allenare_Pokemon\|Evoluzione]] più comune. |
+| **Suggested Rank** | Il [[Ranking|Rank]] che quel Pokémon avrebbe normalmente nel suo habitat naturale. Condizioni ambientali diverse possono renderlo più debole o più forte. |
+| **Ability** | Le [[Abilities_Introduzione|Abilità Speciali]] del Pokémon. Se ne può avere attiva solo una. |
+| **Evolution** | La linea evolutiva, lo stadio attuale e il metodo di [[Allenare_Pokemon|Evoluzione]] più comune. |
 | **Moves** | La lista delle Mosse che può imparare, e a quale Rank le sblocca. |
 | **Starter Icon** | I Pokémon contrassegnati da questa icona speciale sono **scelte eccellenti per Allenatori novizi** (Starter). ⚠️ *Nota: è comunque lo Storyteller ad avere l'ultima parola su quali Pokémon siano ammessi all'inizio della campagna.* |
 

@@ -51,6 +51,8 @@ image: "assets/images/pokemon/302.png"
 
 ## Mega Sableye (#0302M1)
 
+<img src="../../assets/images/pokemon/forms/sableye-mega.png" align="right" width="200" style="margin-left:16px;margin-bottom:8px;">
+
 **Type:** Buio / Spettro
 **Abilities:** [[Magic Bounce]]
 **Base HP:** 5

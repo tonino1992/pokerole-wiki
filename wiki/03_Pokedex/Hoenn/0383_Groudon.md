@@ -47,6 +47,8 @@ image: "assets/images/pokemon/383.png"
 
 ## Groudon Primordiale (#0383M1)
 
+<img src="../../assets/images/pokemon/forms/groudon-primal.png" align="right" width="200" style="margin-left:16px;margin-bottom:8px;">
+
 **Type:** Terra / Fuoco
 **Abilities:** [[Desolate Land]]
 **Base HP:** 7

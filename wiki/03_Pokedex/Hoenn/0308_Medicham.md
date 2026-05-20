@@ -52,6 +52,8 @@ image: "assets/images/pokemon/308.png"
 
 ## Mega Medicham (#0308M1)
 
+<img src="../../assets/images/pokemon/forms/medicham-mega.png" align="right" width="200" style="margin-left:16px;margin-bottom:8px;">
+
 **Type:** Lotta / Psico
 **Abilities:** [[Pure Power]]
 **Base HP:** 5

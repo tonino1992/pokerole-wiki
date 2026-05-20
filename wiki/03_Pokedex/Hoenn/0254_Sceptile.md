@@ -53,6 +53,8 @@ image: "assets/images/pokemon/254.png"
 
 ## Mega Sceptile (#0254M1)
 
+<img src="../../assets/images/pokemon/forms/sceptile-mega.png" align="right" width="200" style="margin-left:16px;margin-bottom:8px;">
+
 **Type:** Erba / Drago
 **Abilities:** [[Lightning Rod]]
 **Base HP:** 6

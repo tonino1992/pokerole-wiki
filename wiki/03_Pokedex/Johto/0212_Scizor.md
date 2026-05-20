@@ -51,6 +51,8 @@ image: "assets/images/pokemon/212.png"
 
 ## Mega Scizor (#0212M1)
 
+<img src="../../assets/images/pokemon/forms/scizor-mega.png" align="right" width="200" style="margin-left:16px;margin-bottom:8px;">
+
 **Type:** Insetto / Acciaio
 **Abilities:** [[Technician]]
 **Base HP:** 5

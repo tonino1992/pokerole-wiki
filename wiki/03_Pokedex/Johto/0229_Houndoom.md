@@ -52,6 +52,8 @@ image: "assets/images/pokemon/229.png"
 
 ## Mega Houndoom (#0229M1)
 
+<img src="../../assets/images/pokemon/forms/houndoom-mega.png" align="right" width="200" style="margin-left:16px;margin-bottom:8px;">
+
 **Type:** Buio / Fuoco
 **Abilities:** [[Solar Power]]
 **Base HP:** 5

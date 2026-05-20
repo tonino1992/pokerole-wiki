@@ -53,6 +53,8 @@ image: "assets/images/pokemon/376.png"
 
 ## Mega Metagross (#0376M1)
 
+<img src="../../assets/images/pokemon/forms/metagross-mega.png" align="right" width="200" style="margin-left:16px;margin-bottom:8px;">
+
 **Type:** Acciaio / Psico
 **Abilities:** [[Tough Claws]]
 **Base HP:** 6

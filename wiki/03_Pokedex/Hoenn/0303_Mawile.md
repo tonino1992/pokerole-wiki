@@ -51,6 +51,8 @@ image: "assets/images/pokemon/303.png"
 
 ## Mega Mawile (#0303M1)
 
+<img src="../../assets/images/pokemon/forms/mawile-mega.png" align="right" width="200" style="margin-left:16px;margin-bottom:8px;">
+
 **Type:** Acciaio / Folletto
 **Abilities:** [[Huge Power]]
 **Base HP:** 5

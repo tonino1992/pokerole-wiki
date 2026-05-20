@@ -53,6 +53,8 @@ image: "assets/images/pokemon/445.png"
 
 ## Mega Garchomp (#0445M1)
 
+<img src="../../assets/images/pokemon/forms/garchomp-mega.png" align="right" width="200" style="margin-left:16px;margin-bottom:8px;">
+
 **Type:** Drago / Terra
 **Abilities:** [[Sand Force]]
 **Base HP:** 7

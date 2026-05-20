@@ -47,6 +47,8 @@ image: "assets/images/pokemon/384.png"
 
 ## Mega Rayquaza (#0384M1)
 
+<img src="../../assets/images/pokemon/forms/rayquaza-mega.png" align="right" width="200" style="margin-left:16px;margin-bottom:8px;">
+
 **Type:** Drago / Volante
 **Abilities:** [[Delta Stream]]
 **Base HP:** 11

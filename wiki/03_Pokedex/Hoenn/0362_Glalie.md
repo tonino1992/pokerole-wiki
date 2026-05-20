@@ -53,6 +53,8 @@ image: "assets/images/pokemon/362.png"
 
 ## Mega Glalie (#0362M1)
 
+<img src="../../assets/images/pokemon/forms/glalie-mega.png" align="right" width="200" style="margin-left:16px;margin-bottom:8px;">
+
 **Type:** Ghiaccio
 **Abilities:** [[Refrigerate]], [[Moody]] *(Hidden)*
 **Base HP:** 5

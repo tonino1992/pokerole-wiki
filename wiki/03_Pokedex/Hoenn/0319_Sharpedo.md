@@ -52,6 +52,8 @@ image: "assets/images/pokemon/319.png"
 
 ## Mega Sharpedo (#0319M1)
 
+<img src="../../assets/images/pokemon/forms/sharpedo-mega.png" align="right" width="200" style="margin-left:16px;margin-bottom:8px;">
+
 **Type:** Acqua / Buio
 **Abilities:** [[Strong Jaw]]
 **Base HP:** 5

@@ -53,6 +53,8 @@ image: "assets/images/pokemon/373.png"
 
 ## Mega Salamence (#0373M1)
 
+<img src="../../assets/images/pokemon/forms/salamence-mega.png" align="right" width="200" style="margin-left:16px;margin-bottom:8px;">
+
 **Type:** Drago / Volante
 **Abilities:** [[Aerilate]]
 **Base HP:** 6

@@ -47,6 +47,8 @@ image: "assets/images/pokemon/382.png"
 
 ## Kyogre Primordiale (#0382M1)
 
+<img src="../../assets/images/pokemon/forms/kyogre-primal.png" align="right" width="200" style="margin-left:16px;margin-bottom:8px;">
+
 **Type:** Acqua
 **Abilities:** [[Primordial Sea]]
 **Base HP:** 10

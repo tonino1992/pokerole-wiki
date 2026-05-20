@@ -52,6 +52,8 @@ image: "assets/images/pokemon/323.png"
 
 ## Mega Camerupt (#0323M1)
 
+<img src="../../assets/images/pokemon/forms/camerupt-mega.png" align="right" width="200" style="margin-left:16px;margin-bottom:8px;">
+
 **Type:** Fuoco / Terra
 **Abilities:** [[Sheer Force]]
 **Base HP:** 5

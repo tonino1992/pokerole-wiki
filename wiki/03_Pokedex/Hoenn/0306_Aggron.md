@@ -53,6 +53,8 @@ image: "assets/images/pokemon/306.png"
 
 ## Mega Aggron (#0306M1)
 
+<img src="../../assets/images/pokemon/forms/aggron-mega.png" align="right" width="200" style="margin-left:16px;margin-bottom:8px;">
+
 **Type:** Acciaio
 **Abilities:** [[Filter]]
 **Base HP:** 6

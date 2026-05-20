@@ -51,6 +51,8 @@ image: "assets/images/pokemon/208.png"
 
 ## Mega Steelix (#0208M1)
 
+<img src="../../assets/images/pokemon/forms/steelix-mega.png" align="right" width="200" style="margin-left:16px;margin-bottom:8px;">
+
 **Type:** Acciaio / Terra
 **Abilities:** [[Sand Force]]
 **Base HP:** 10

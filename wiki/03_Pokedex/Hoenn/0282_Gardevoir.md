@@ -54,6 +54,8 @@ image: "assets/images/pokemon/282.png"
 
 ## Mega Gardevoir (#0282M1)
 
+<img src="../../assets/images/pokemon/forms/gardevoir-mega.png" align="right" width="200" style="margin-left:16px;margin-bottom:8px;">
+
 **Type:** Psico / Folletto
 **Abilities:** [[Pixilate]]
 **Base HP:** 6

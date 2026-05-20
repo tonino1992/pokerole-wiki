@@ -53,6 +53,8 @@ image: "assets/images/pokemon/257.png"
 
 ## Mega Blaziken (#0257M1)
 
+<img src="../../assets/images/pokemon/forms/blaziken-mega.png" align="right" width="200" style="margin-left:16px;margin-bottom:8px;">
+
 **Type:** Fuoco / Lotta
 **Abilities:** [[Speed Boost]]
 **Base HP:** 6

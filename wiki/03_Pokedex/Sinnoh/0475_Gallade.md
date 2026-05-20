@@ -51,6 +51,8 @@ image: "assets/images/pokemon/475.png"
 
 ## Mega Gallade (#0475M1)
 
+<img src="../../assets/images/pokemon/forms/gallade-mega.png" align="right" width="200" style="margin-left:16px;margin-bottom:8px;">
+
 **Type:** Psico / Lotta
 **Abilities:** [[Inner Focus]]
 **Base HP:** 6

@@ -52,6 +52,8 @@ image: "assets/images/pokemon/310.png"
 
 ## Mega Manectric (#0310M1)
 
+<img src="../../assets/images/pokemon/forms/manectric-mega.png" align="right" width="200" style="margin-left:16px;margin-bottom:8px;">
+
 **Type:** Elettro
 **Abilities:** [[Intimidate]]
 **Base HP:** 5

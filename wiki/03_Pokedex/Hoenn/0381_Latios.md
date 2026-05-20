@@ -48,6 +48,8 @@ image: "assets/images/pokemon/381.png"
 
 ## Mega Latios (#0381M1)
 
+<img src="../../assets/images/pokemon/forms/latios-mega.png" align="right" width="200" style="margin-left:16px;margin-bottom:8px;">
+
 **Type:** Drago / Psico
 **Abilities:** [[Levitate]]
 **Base HP:** 5

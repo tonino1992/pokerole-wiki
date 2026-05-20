@@ -52,6 +52,8 @@ image: "assets/images/pokemon/448.png"
 
 ## Mega Lucario (#0448M1)
 
+<img src="../../assets/images/pokemon/forms/lucario-mega.png" align="right" width="200" style="margin-left:16px;margin-bottom:8px;">
+
 **Type:** Lotta / Acciaio
 **Abilities:** [[Adaptability]]
 **Base HP:** 5

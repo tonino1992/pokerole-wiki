@@ -51,6 +51,8 @@ image: "assets/images/pokemon/214.png"
 
 ## Mega Heracross (#0214M1)
 
+<img src="../../assets/images/pokemon/forms/heracross-mega.png" align="right" width="200" style="margin-left:16px;margin-bottom:8px;">
+
 **Type:** Insetto / Lotta
 **Abilities:** [[Skill Link]]
 **Base HP:** 5

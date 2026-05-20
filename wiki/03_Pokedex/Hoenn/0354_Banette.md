@@ -52,6 +52,8 @@ image: "assets/images/pokemon/354.png"
 
 ## Mega Banette (#0354M1)
 
+<img src="../../assets/images/pokemon/forms/banette-mega.png" align="right" width="200" style="margin-left:16px;margin-bottom:8px;">
+
 **Type:** Spettro
 **Abilities:** [[Prankster]]
 **Base HP:** 5

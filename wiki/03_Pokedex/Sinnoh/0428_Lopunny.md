@@ -52,6 +52,8 @@ image: "assets/images/pokemon/428.png"
 
 ## Mega Lopunny (#0428M1)
 
+<img src="../../assets/images/pokemon/forms/lopunny-mega.png" align="right" width="200" style="margin-left:16px;margin-bottom:8px;">
+
 **Type:** Normale / Lotta
 **Abilities:** [[Scrappy]]
 **Base HP:** 5

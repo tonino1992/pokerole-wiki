@@ -53,6 +53,8 @@ image: "assets/images/pokemon/260.png"
 
 ## Mega Swampert (#0260M1)
 
+<img src="../../assets/images/pokemon/forms/swampert-mega.png" align="right" width="200" style="margin-left:16px;margin-bottom:8px;">
+
 **Type:** Acqua / Terra
 **Abilities:** [[Swift Swim]]
 **Base HP:** 7

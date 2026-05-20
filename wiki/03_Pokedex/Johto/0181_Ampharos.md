@@ -53,6 +53,8 @@ image: "assets/images/pokemon/181.png"
 
 ## Mega Ampharos (#0181M1)
 
+<img src="../../assets/images/pokemon/forms/ampharos-mega.png" align="right" width="200" style="margin-left:16px;margin-bottom:8px;">
+
 **Type:** Elettro / Drago
 **Abilities:** [[Mold Breaker]]
 **Base HP:** 6

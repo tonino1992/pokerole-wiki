@@ -25,11 +25,26 @@
       "PowerShell(Get-ChildItem \"c:\\\\Users\\\\acampanale\\\\Desktop\\\\poke-wiki\\\\pokerole-wiki\\\\wiki\\\\assets\\\\images\\\\pokemon\\\\\" | Where-Object { $_.Name -match '^1[5-9]\\\\d\\\\.png$|^2[0-4]\\\\d\\\\.png$|^25[0-1]\\\\.png$' } | Measure-Object)",
       "Bash(python wiki/00_Meta/ingest_johto_json.py)",
       "PowerShell(\\(Get-ChildItem \"c:\\\\Users\\\\acampanale\\\\Desktop\\\\poke-wiki\\\\pokerole-wiki\\\\wiki\\\\03_Pokedex\\\\Johto\\\\\"\\).Count)",
-      "Bash(git pull *)",
-      "Bash(git add *)"
+      "Bash(ls \"c:\\\\Users\\\\acampanale\\\\Desktop\\\\poke-wiki\\\\pokerole-wiki\\\\\" )",
+      "Read(//c/Users/acampanale/Desktop/poke-wiki/**)",
+      "Bash(python wiki/00_Meta/ingest_hoenn_json.py)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(python wiki/00_Meta/ingest_sinnoh_json.py)",
+      "Bash(curl -s \"https://api.github.com/repos/Willowlark/Pokerole-Data/contents/v2.0/Pokedex\")",
+      "Bash(python3 -c \"import json,sys; files=[f['name'] for f in json.load\\(sys.stdin\\) if 'Wormadam' in f['name'] or 'Mime' in f['name']]; print\\(files\\)\")",
+      "Bash(python wiki/00_Meta/ingest_special_forms.py)",
+      "Bash(mkdir -p \"c:/Users/acampanale/.claude/projects/c--Users-acampanale-Desktop-poke-wiki-pokerole-wiki/memory\")",
+      "Bash(python wiki/00_Meta/fix_forme_in_base.py)",
+      "Bash(xargs wc -l)",
+      "Bash(awk '/### Mega Venusaur/,/^---$|^## [A-Z]/' wiki/03_Pokedex/Kanto/0003_Venusaur.md)",
+      "Bash(python wiki/00_Meta/fix_mega_images.py)",
+      "Bash(python wiki/00_Meta/ingest_unova_json.py)",
+      "Bash(python wiki/00_Meta/ingest_kalos_json.py)"
     ],
     "additionalDirectories": [
-      "c:\\Users\\acampanale\\Desktop\\poke-wiki\\pokerole-wiki"
+      "c:\\Users\\acampanale\\Desktop\\poke-wiki\\pokerole-wiki",
+      "c:\\Users\\acampanale\\.claude\\projects\\c--Users-acampanale-Desktop-poke-wiki-pokerole-wiki"
     ]
   }
 }

@@ -43,3 +43,25 @@ image: "assets/images/pokemon/038.png"
 
 ### Catena Evolutiva
 - [[0037_Vulpix|Vulpix]]
+
+---
+
+## Ninetales (Forma Alola) (#0038A)
+
+**Type:** Ghiaccio
+**Abilities:** [[Snow Cloak]], [[Snow Warning]] *(Hidden)*
+**Base HP:** 4
+
+| Attribute | Base / Limit |
+|---|---|
+| **Strength** | 2/4 |
+| **Dexterity** | 3/6 |
+| **Vitality** | 2/5 |
+| **Special** | 2/5 |
+| **Insight** | 3/6 |
+
+### Mosse
+
+- **Amateur:** [[Dazzling_Gleam|Dazzling Gleam]], [[Imprison|Imprison]], [[Nasty_Plot|Nasty Plot]], [[Ice_Beam|Ice Beam]], [[Ice_Shard|Ice Shard]], [[Confuse_Ray|Confuse Ray]]
+- **Ace:** [[Safeguard|Safeguard]], [[Agility|Agility]]
+- **Pro:** [[Moonblast|Moonblast]], [[Aurora_Veil|Aurora Veil]]

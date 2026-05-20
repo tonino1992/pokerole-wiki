@@ -45,3 +45,27 @@ image: "assets/images/pokemon/019.png"
 
 ### Catena Evolutiva
 - [[0020_Raticate|Raticate]]
+
+---
+
+## Rattata (Forma Alola) (#0019A)
+
+**Type:** Buio / Normale
+**Abilities:** [[Gluttony]], [[Hustle]], [[Thick Fat]] *(Hidden)*
+**Base HP:** 3
+
+| Attribute | Base / Limit |
+|---|---|
+| **Strength** | 2/4 |
+| **Dexterity** | 2/5 |
+| **Vitality** | 1/3 |
+| **Special** | 1/3 |
+| **Insight** | 1/3 |
+
+### Mosse
+
+- **Starter:** [[Tackle|Tackle]], [[Tail_Whip|Tail Whip]]
+- **Beginner:** [[Quick_Attack|Quick Attack]], [[Focus_Energy|Focus Energy]], [[Bite|Bite]]
+- **Amateur:** [[Pursuit|Pursuit]], [[Hyper_Fang|Hyper Fang]], [[Sucker_Punch|Sucker Punch]], [[Assurance|Assurance]]
+- **Ace:** [[Crunch|Crunch]], [[Super_Fang|Super Fang]], [[Double_Edge|Double-Edge]], [[Endeavor|Endeavor]]
+- **Pro:** [[Reversal|Reversal]], [[Snatch|Snatch]], [[Switcheroo|Switcheroo]]

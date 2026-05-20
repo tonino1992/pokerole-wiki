@@ -45,3 +45,27 @@ image: "assets/images/pokemon/105.png"
 
 ### Catena Evolutiva
 - [[0104_Cubone|Cubone]]
+
+---
+
+## Marowak (Forma Alola) (#0105A)
+
+**Type:** Fuoco / Spettro
+**Abilities:** [[Cursed Body]], [[Lightning Rod]], [[Rock Head]] *(Hidden)*
+**Base HP:** 4
+
+| Attribute | Base / Limit |
+|---|---|
+| **Strength** | 2/5 |
+| **Dexterity** | 2/4 |
+| **Vitality** | 3/6 |
+| **Special** | 2/4 |
+| **Insight** | 2/5 |
+
+### Mosse
+
+- **Starter:** [[Growl|Growl]], [[Tail_Whip|Tail Whip]]
+- **Beginner:** [[Bone_Club|Bone Club]], [[Hex|Hex]], [[Leer|Leer]]
+- **Amateur:** [[Flame_Wheel|Flame Wheel]], [[Bonemerang|Bonemerang]], [[Will_O_Wisp|Will-O-Wisp]], [[Shadow_Bone|Shadow Bone]], [[Endeavor|Endeavor]], [[Fling|Fling]]
+- **Ace:** [[Stomping_Tantrum|Stomping Tantrum]], [[Thrash|Thrash]], [[Flare_Blitz|Flare Blitz]], [[Retaliate|Retaliate]], [[Bone_Rush|Bone Rush]]
+- **Pro:** [[Perish_Song|Perish Song]], [[Brutal_Swing|Brutal Swing]], [[Flame_Charge|Flame Charge]]

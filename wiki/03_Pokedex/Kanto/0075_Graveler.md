@@ -46,3 +46,27 @@ image: "assets/images/pokemon/075.png"
 ### Catena Evolutiva
 - [[0074_Geodude|Geodude]]
 - [[0076_Golem|Golem]]
+
+---
+
+## Graveler (Forma Alola) (#0075A)
+
+**Type:** Roccia / Elettro
+**Abilities:** [[Magnet Pull]], [[Sturdy]], [[Galvanize]] *(Hidden)*
+**Base HP:** 4
+
+| Attribute | Base / Limit |
+|---|---|
+| **Strength** | 3/6 |
+| **Dexterity** | 1/3 |
+| **Vitality** | 3/6 |
+| **Special** | 2/4 |
+| **Insight** | 2/4 |
+
+### Mosse
+
+- **Starter:** [[Tackle|Tackle]], [[Defense_Curl|Defense Curl]]
+- **Beginner:** [[Charge|Charge]], [[Rock_Polish|Rock Polish]], [[Rollout|Rollout]]
+- **Amateur:** [[Spark|Spark]], [[Rock_Throw|Rock Throw]], [[Smack_Down|Smack Down]], [[Thunder_Punch|Thunder Punch]], [[Self_Destruct|Self Destruct]], [[Stealth_Rock|Stealth Rock]], [[Rock_Blast|Rock Blast]]
+- **Ace:** [[Discharge|Discharge]], [[Explosion|Explosion]], [[Double_Edge|Double-Edge]], [[Stone_Edge|Stone Edge]]
+- **Pro:** [[Rock_Climb|Rock Climb]], [[Wide_Guard|Wide Guard]], [[Screech|Screech]]

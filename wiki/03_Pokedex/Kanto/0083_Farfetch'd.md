@@ -39,3 +39,28 @@ image: "assets/images/pokemon/083.png"
 - **Ace:** [[Night_Slash]], [[Feint]], [[False_Swipe]], [[Air_Slash]]
 - **Pro:** [[Brave_Bird]], [[Leaf_Blade]], [[Feather_Dance]], [[Roost]]
 
+
+
+---
+
+## Farfetch'd (Forma Galar) (#0083G)
+
+**Type:** Lotta
+**Abilities:** [[Steadfast]], [[Scrappy]] *(Hidden)*
+**Base HP:** 3
+
+| Attribute | Base / Limit |
+|---|---|
+| **Strength** | 2/5 |
+| **Dexterity** | 2/4 |
+| **Vitality** | 2/4 |
+| **Special** | 2/4 |
+| **Insight** | 2/4 |
+
+### Mosse
+
+- **Starter:** [[Peck|Peck]], [[Sand_Attack|Sand Attack]]
+- **Beginner:** [[Leer|Leer]], [[Fury_Cutter|Fury Cutter]], [[Rock_Smash|Rock Smash]]
+- **Amateur:** [[Brutal_Swing|Brutal Swing]], [[Detect|Detect]], [[Knock_Off|Knock Off]], [[Defog|Defog]], [[Brick_Break|Brick Break]], [[Slam|Slam]]
+- **Ace:** [[Swords_Dance|Swords Dance]], [[Leaf_Blade|Leaf Blade]], [[Final_Gambit|Final Gambit]], [[Brave_Bird|Brave Bird]]
+- **Pro:** [[Solar_Beam|Solar Beam]], [[Steel_Wing|Steel Wing]], [[Feather_Dance|Feather Dance]]

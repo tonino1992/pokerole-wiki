@@ -45,3 +45,27 @@ image: "assets/images/pokemon/051.png"
 
 ### Catena Evolutiva
 - [[0050_Diglett|Diglett]]
+
+---
+
+## Dugtrio (Forma Alola) (#0051A)
+
+**Type:** Terra / Acciaio
+**Abilities:** [[Sand Veil]], [[Tangling Hair]], [[Sand Force]] *(Hidden)*
+**Base HP:** 4
+
+| Attribute | Base / Limit |
+|---|---|
+| **Strength** | 3/6 |
+| **Dexterity** | 3/6 |
+| **Vitality** | 2/4 |
+| **Special** | 2/4 |
+| **Insight** | 2/5 |
+
+### Mosse
+
+- **Starter:** [[Sand_Attack|Sand Attack]], [[Metal_Claw|Metal Claw]]
+- **Beginner:** [[Growl|Growl]], [[Astonish|Astonish]], [[Mud_Slap|Mud Slap]]
+- **Amateur:** [[Rototiller|Rototiller]], [[Dig|Dig]], [[Tri_Attack|Tri Attack]], [[Sand_Tomb|Sand Tomb]], [[Magnitude|Magnitude]], [[Bulldoze|Bulldoze]], [[Earth_Power|Earth Power]], [[Mud_Bomb|Mud Bomb]]
+- **Ace:** [[Night_Slash|Night Slash]], [[Sucker_Punch|Sucker Punch]], [[Iron_Head|Iron Head]], [[Earthquake|Earthquake]], [[Fissure|Fissure]]
+- **Pro:** [[Ancient_Power|Ancient Power]], [[Thrash|Thrash]], [[Stone_Edge|Stone Edge]]

@@ -47,3 +47,29 @@ image: "assets/images/pokemon/229.png"
 - [[0228_Houndour|Houndour]]
 - [[0229_Houndoom|Houndoom]]
 - Houndoom (Mega Form)
+
+---
+
+## Mega Houndoom (#0229M1)
+
+<img src="../../assets/images/pokemon/forms/houndoom-mega.png" align="right" width="200" style="margin-left:16px;margin-bottom:8px;">
+
+**Type:** Buio / Fuoco
+**Abilities:** [[Solar Power]]
+**Base HP:** 5
+
+| Attribute | Base / Limit |
+|---|---|
+| **Strength** | 2/5 |
+| **Dexterity** | 3/6 |
+| **Vitality** | 2/5 |
+| **Special** | 4/8 |
+| **Insight** | 2/5 |
+
+### Mosse
+
+- **Starter:** [[Ember|Ember]], [[Leer|Leer]]
+- **Beginner:** [[Bite|Bite]], [[Howl|Howl]], [[Smog|Smog]]
+- **Amateur:** [[Thunder_Fang|Thunder Fang]], [[Roar|Roar]], [[Beat_Up|Beat Up]], [[Odor_Sleuth|Odor Sleuth]], [[Feint_Attack|Feint Attack]], [[Fire_Fang|Fire Fang]], [[Flamethrower|Flamethrower]], [[Embargo|Embargo]]
+- **Ace:** [[Crunch|Crunch]], [[Foul_Play|Foul Play]], [[Inferno|Inferno]], [[Nasty_Plot|Nasty Plot]]
+- **Pro:** [[Destiny_Bond|Destiny Bond]], [[Spite|Spite]], [[Sucker_Punch|Sucker Punch]]

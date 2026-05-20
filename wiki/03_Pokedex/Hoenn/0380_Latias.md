@@ -43,3 +43,24 @@ image: "assets/images/pokemon/380.png"
 ### Catena Evolutiva
 - [[0380_Latias|Latias]]
 - Latias (Mega Form)
+
+---
+
+## Mega Latias (#0380M1)
+
+**Type:** Drago / Psico
+**Abilities:** [[Levitate]]
+**Base HP:** 5
+
+| Attribute | Base / Limit |
+|---|---|
+| **Strength** | 6/6 |
+| **Dexterity** | 6/6 |
+| **Vitality** | 7/7 |
+| **Special** | 7/7 |
+| **Insight** | 8/8 |
+
+### Mosse
+
+- **Starter:** [[Helping_Hand|Helping Hand]], [[Safeguard|Safeguard]]
+- **Pro:** [[Psywave|Psywave]], [[Wish|Wish]], [[Water_Sport|Water Sport]], [[Charm|Charm]], [[Stored_Power|Stored Power]], [[Refresh|Refresh]], [[Heal_Pulse|Heal Pulse]], [[Dragon_Breath|Dragon Breath]], [[Mist_Ball|Mist Ball]], [[Psycho_Shift|Psycho Shift]], [[Recover|Recover]], [[Reflect_Type|Reflect Type]], [[Zen_Headbutt|Zen Headbutt]], [[Guard_Split|Guard Split]], [[Psychic|Psychic]], [[Dragon_Pulse|Dragon Pulse]], [[Healing_Wish|Healing Wish]], [[Camouflage|Camouflage]], [[Transform|Transform]], [[Role_Play|Role Play]]

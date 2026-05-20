@@ -48,3 +48,27 @@ image: "assets/images/pokemon/445.png"
 - [[0444_Gabite|Gabite]]
 - [[0445_Garchomp|Garchomp]]
 - Garchomp (Mega Form)
+
+---
+
+## Mega Garchomp (#0445M1)
+
+**Type:** Drago / Terra
+**Abilities:** [[Sand Force]]
+**Base HP:** 7
+
+| Attribute | Base / Limit |
+|---|---|
+| **Strength** | 4/9 |
+| **Dexterity** | 2/5 |
+| **Vitality** | 3/6 |
+| **Special** | 3/7 |
+| **Insight** | 3/6 |
+
+### Mosse
+
+- **Starter:** [[Tackle|Tackle]]
+- **Beginner:** [[Dragon_Rage|Dragon Rage]], [[Sand_Attack|Sand Attack]]
+- **Amateur:** [[Sandstorm|Sandstorm]], [[Fire_Fang|Fire Fang]], [[Take_Down|Take Down]], [[Sand_Tomb|Sand Tomb]], [[Dual_Chop|Dual Chop]], [[Slash|Slash]], [[Dragon_Claw|Dragon Claw]], [[Dig|Dig]], [[Crunch|Crunch]]
+- **Ace:** [[Dragon_Rush|Dragon Rush]]
+- **Pro:** [[Draco_Meteor|Draco Meteor]], [[Aqua_Tail|Aqua Tail]], [[Outrage|Outrage]]

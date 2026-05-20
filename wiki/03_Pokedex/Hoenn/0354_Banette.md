@@ -47,3 +47,27 @@ image: "assets/images/pokemon/354.png"
 - [[0353_Shuppet|Shuppet]]
 - [[0354_Banette|Banette]]
 - Banette (Mega Form)
+
+---
+
+## Mega Banette (#0354M1)
+
+**Type:** Spettro
+**Abilities:** [[Prankster]]
+**Base HP:** 5
+
+| Attribute | Base / Limit |
+|---|---|
+| **Strength** | 4/8 |
+| **Dexterity** | 2/5 |
+| **Vitality** | 2/5 |
+| **Special** | 3/6 |
+| **Insight** | 2/5 |
+
+### Mosse
+
+- **Starter:** [[Knock_Off|Knock Off]]
+- **Beginner:** [[Spite|Spite]], [[Night_Shade|Night Shade]], [[Screech|Screech]]
+- **Amateur:** [[Curse|Curse]], [[Will_O_Wisp|Will-O-Wisp]], [[Shadow_Sneak|Shadow Sneak]], [[Curse|Curse]], [[Feint_Attack|Feint Attack]], [[Hex|Hex]], [[Shadow_Ball|Shadow Ball]], [[Snatch|Snatch]], [[Embargo|Embargo]]
+- **Ace:** [[Sucker_Punch|Sucker Punch]], [[Grudge|Grudge]], [[Trick|Trick]], [[Phantom_Force|Phantom Force]]
+- **Pro:** [[Role_Play|Role Play]], [[Destiny_Bond|Destiny Bond]], [[Icy_Wind|Icy Wind]]

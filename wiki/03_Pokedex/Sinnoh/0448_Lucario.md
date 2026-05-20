@@ -47,3 +47,27 @@ image: "assets/images/pokemon/448.png"
 - [[0447_Riolu|Riolu]]
 - [[0448_Lucario|Lucario]]
 - Lucario (Mega Form)
+
+---
+
+## Mega Lucario (#0448M1)
+
+**Type:** Lotta / Acciaio
+**Abilities:** [[Adaptability]]
+**Base HP:** 5
+
+| Attribute | Base / Limit |
+|---|---|
+| **Strength** | 4/8 |
+| **Dexterity** | 3/6 |
+| **Vitality** | 2/5 |
+| **Special** | 3/7 |
+| **Insight** | 2/5 |
+
+### Mosse
+
+- **Starter:** [[Laser_Focus|Laser Focus]], [[Quick_Attack|Quick Attack]], [[Foresight|Foresight]]
+- **Beginner:** [[Metal_Claw|Metal Claw]], [[Detect|Detect]], [[Feint|Feint]], [[Counter|Counter]]
+- **Amateur:** [[Swords_Dance|Swords Dance]], [[Power_Up_Punch|Power-Up Punch]], [[Bone_Rush|Bone Rush]], [[Metal_Sound|Metal Sound]], [[Me_First|Me First]], [[Quick_Guard|Quick Guard]], [[Work_Up|Work Up]], [[Aura_Sphere|Aura Sphere]], [[Calm_Mind|Calm Mind]]
+- **Ace:** [[Heal_Pulse|Heal Pulse]], [[Close_Combat|Close Combat]], [[Dragon_Pulse|Dragon Pulse]]
+- **Pro:** [[Extreme_Speed|Extreme Speed]], [[Iron_Defense|Iron Defense]], [[Vacuum_Wave|Vacuum Wave]]

@@ -47,3 +47,27 @@ image: "assets/images/pokemon/460.png"
 - [[0459_Snover|Snover]]
 - [[0460_Abomasnow|Abomasnow]]
 - Abomasnow (Mega Form)
+
+---
+
+## Mega Abomasnow (#0460M1)
+
+**Type:** Erba / Ghiaccio
+**Abilities:** [[Snow Warning]]
+**Base HP:** 5
+
+| Attribute | Base / Limit |
+|---|---|
+| **Strength** | 3/7 |
+| **Dexterity** | 1/2 |
+| **Vitality** | 3/6 |
+| **Special** | 3/7 |
+| **Insight** | 3/6 |
+
+### Mosse
+
+- **Starter:** [[Leer|Leer]], [[Powder_Snow|Powder Snow]]
+- **Beginner:** [[Ice_Punch|Ice Punch]], [[Razor_Leaf|Razor Leaf]], [[Icy_Wind|Icy Wind]]
+- **Amateur:** [[Grass_Whistle|Grass Whistle]], [[Swagger|Swagger]], [[Mist|Mist]], [[Ice_Shard|Ice Shard]], [[Ingrain|Ingrain]]
+- **Ace:** [[Wood_Hammer|Wood Hammer]], [[Blizzard|Blizzard]], [[Sheer_Cold|Sheer Cold]]
+- **Pro:** [[Growth|Growth]], [[Avalanche|Avalanche]], [[Outrage|Outrage]]

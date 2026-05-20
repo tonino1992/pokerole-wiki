@@ -45,3 +45,27 @@ image: "assets/images/pokemon/027.png"
 
 ### Catena Evolutiva
 - [[0028_Sandslash|Sandslash]]
+
+---
+
+## Sandshrew (Forma Alola) (#0027A)
+
+**Type:** Ghiaccio / Acciaio
+**Abilities:** [[Snow Cloak]], [[Slush Rush]] *(Hidden)*
+**Base HP:** 3
+
+| Attribute | Base / Limit |
+|---|---|
+| **Strength** | 2/5 |
+| **Dexterity** | 1/3 |
+| **Vitality** | 2/5 |
+| **Special** | 1/2 |
+| **Insight** | 1/3 |
+
+### Mosse
+
+- **Starter:** [[Scratch|Scratch]], [[Defense_Curl|Defense Curl]]
+- **Beginner:** [[Bide|Bide]], [[Powder_Snow|Powder Snow]]
+- **Amateur:** [[Ice_Ball|Ice Ball]], [[Rapid_Spin|Rapid Spin]], [[Fury_Cutter|Fury Cutter]], [[Metal_Claw|Metal Claw]], [[Swift|Swift]], [[Fury_Swipes|Fury Swipes]], [[Iron_Defense|Iron Defense]]
+- **Ace:** [[Slash|Slash]], [[Iron_Head|Iron Head]], [[Gyro_Ball|Gyro Ball]], [[Swords_Dance|Swords Dance]], [[Hail|Hail]], [[Blizzard|Blizzard]]
+- **Pro:** [[Chip_Away|Chip Away]], [[Counter|Counter]], [[Aerial_Ace|Aerial Ace]]

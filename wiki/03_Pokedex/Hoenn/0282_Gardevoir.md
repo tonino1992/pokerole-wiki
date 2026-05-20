@@ -49,3 +49,27 @@ image: "assets/images/pokemon/282.png"
 - [[0282_Gardevoir|Gardevoir]]
 - Gardevoir (Mega Form)
 - Gallade
+
+---
+
+## Mega Gardevoir (#0282M1)
+
+**Type:** Psico / Folletto
+**Abilities:** [[Pixilate]]
+**Base HP:** 6
+
+| Attribute | Base / Limit |
+|---|---|
+| **Strength** | 2/5 |
+| **Dexterity** | 3/6 |
+| **Vitality** | 2/4 |
+| **Special** | 4/8 |
+| **Insight** | 3/7 |
+
+### Mosse
+
+- **Starter:** [[Double_Team|Double Team]], [[Growl|Growl]]
+- **Beginner:** [[Confusion|Confusion]], [[Disarming_Voice|Disarming Voice]], [[Teleport|Teleport]]
+- **Amateur:** [[Misty_Terrain|Misty Terrain]], [[Wish|Wish]], [[Magical_Leaf|Magical Leaf]], [[Heal_Pulse|Heal Pulse]], [[Calm_Mind|Calm Mind]], [[Psychic|Psychic]], [[Imprison|Imprison]], [[Captivate|Captivate]]
+- **Ace:** [[Future_Sight|Future Sight]], [[Hypnosis|Hypnosis]], [[Dream_Eater|Dream Eater]], [[Stored_Power|Stored Power]], [[Moonblast|Moonblast]]
+- **Pro:** [[Grudge|Grudge]], [[Skill_Swap|Skill Swap]], [[Wonder_Room|Wonder Room]]

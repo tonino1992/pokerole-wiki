@@ -47,3 +47,27 @@ image: "assets/images/pokemon/310.png"
 - [[0309_Electrike|Electrike]]
 - [[0310_Manectric|Manectric]]
 - Manectric (Mega Form)
+
+---
+
+## Mega Manectric (#0310M1)
+
+**Type:** Elettro
+**Abilities:** [[Intimidate]]
+**Base HP:** 5
+
+| Attribute | Base / Limit |
+|---|---|
+| **Strength** | 2/5 |
+| **Dexterity** | 3/7 |
+| **Vitality** | 2/5 |
+| **Special** | 3/7 |
+| **Insight** | 2/5 |
+
+### Mosse
+
+- **Starter:** [[Tackle|Tackle]], [[Leer|Leer]]
+- **Beginner:** [[Howl|Howl]], [[Thunder_Wave|Thunder Wave]]
+- **Amateur:** [[Electric_Terrain|Electric Terrain]], [[Fire_Fang|Fire Fang]], [[Quick_Attack|Quick Attack]], [[Spark|Spark]], [[Odor_Sleuth|Odor Sleuth]], [[Bite|Bite]], [[Thunder_Fang|Thunder Fang]], [[Roar|Roar]]
+- **Ace:** [[Discharge|Discharge]], [[Charge|Charge]], [[Wild_Charge|Wild Charge]], [[Thunder|Thunder]]
+- **Pro:** [[Ice_Fang|Ice Fang]], [[Magnet_Rise|Magnet Rise]], [[Crunch|Crunch]]

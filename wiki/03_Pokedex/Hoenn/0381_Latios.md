@@ -43,3 +43,24 @@ image: "assets/images/pokemon/381.png"
 ### Catena Evolutiva
 - [[0381_Latios|Latios]]
 - Latios (Mega Form)
+
+---
+
+## Mega Latios (#0381M1)
+
+**Type:** Drago / Psico
+**Abilities:** [[Levitate]]
+**Base HP:** 5
+
+| Attribute | Base / Limit |
+|---|---|
+| **Strength** | 7/7 |
+| **Dexterity** | 6/6 |
+| **Vitality** | 6/6 |
+| **Special** | 8/8 |
+| **Insight** | 7/7 |
+
+### Mosse
+
+- **Starter:** [[Helping_Hand|Helping Hand]], [[Safeguard|Safeguard]]
+- **Pro:** [[Psywave|Psywave]], [[Heal_Block|Heal Block]], [[Protect|Protect]], [[Dragon_Dance|Dragon Dance]], [[Stored_Power|Stored Power]], [[Refresh|Refresh]], [[Heal_Pulse|Heal Pulse]], [[Dragon_Breath|Dragon Breath]], [[Luster_Purge|Luster Purge]], [[Psycho_Shift|Psycho Shift]], [[Recover|Recover]], [[Telekinesis|Telekinesis]], [[Zen_Headbutt|Zen Headbutt]], [[Power_Split|Power Split]], [[Psychic|Psychic]], [[Dragon_Pulse|Dragon Pulse]], [[Memento|Memento]], [[Camouflage|Camouflage]], [[Transform|Transform]], [[Role_Play|Role Play]]

@@ -48,3 +48,27 @@ image: "assets/images/pokemon/181.png"
 - [[0180_Flaaffy|Flaaffy]]
 - [[0181_Ampharos|Ampharos]]
 - Ampharos (Mega Form)
+
+---
+
+## Mega Ampharos (#0181M1)
+
+**Type:** Elettro / Drago
+**Abilities:** [[Mold Breaker]]
+**Base HP:** 6
+
+| Attribute | Base / Limit |
+|---|---|
+| **Strength** | 3/6 |
+| **Dexterity** | 2/4 |
+| **Vitality** | 3/6 |
+| **Special** | 4/8 |
+| **Insight** | 3/6 |
+
+### Mosse
+
+- **Starter:** [[Tackle|Tackle]], [[Growl|Growl]]
+- **Beginner:** [[Thunder_Wave|Thunder Wave]], [[Thunder_Shock|Thunder Shock]]
+- **Amateur:** [[Magnetic_Flux|Magnetic Flux]], [[Ion_Deluge|Ion Deluge]], [[Dragon_Pulse|Dragon Pulse]], [[Fire_Punch|Fire Punch]], [[Cotton_Spore|Cotton Spore]], [[Charge|Charge]], [[Take_Down|Take Down]], [[Electro_Ball|Electro Ball]], [[Confuse_Ray|Confuse Ray]], [[Thunder_Punch|Thunder Punch]], [[Power_Gem|Power Gem]], [[Signal_Beam|Signal Beam]]
+- **Ace:** [[Cotton_Guard|Cotton Guard]], [[Discharge|Discharge]], [[Light_Screen|Light Screen]], [[Thunder|Thunder]]
+- **Pro:** [[Heal_Bell|Heal Bell]], [[Magnet_Rise|Magnet Rise]], [[Outrage|Outrage]]

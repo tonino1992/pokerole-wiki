@@ -42,3 +42,23 @@ image: "assets/images/pokemon/382.png"
 ### Catena Evolutiva
 - [[0382_Kyogre|Kyogre]]
 - Kyogre (Primal Form)
+
+---
+
+## Kyogre Primordiale (#0382M1)
+
+**Type:** Acqua
+**Abilities:** [[Primordial Sea]]
+**Base HP:** 10
+
+| Attribute | Base / Limit |
+|---|---|
+| **Strength** | 8/8 |
+| **Dexterity** | 5/5 |
+| **Vitality** | 5/5 |
+| **Special** | 9/9 |
+| **Insight** | 8/8 |
+
+### Mosse
+
+- **Master:** [[Ancient_Power|Ancient Power]], [[Water_Pulse|Water Pulse]], [[Scary_Face|Scary Face]], [[Aqua_Tail|Aqua Tail]], [[Ice_Beam|Ice Beam]], [[Origin_Pulse|Origin Pulse]], [[Calm_Mind|Calm Mind]], [[Muddy_Water|Muddy Water]], [[Sheer_Cold|Sheer Cold]], [[Hydro_Pump|Hydro Pump]], [[Double_Edge|Double-Edge]], [[Water_Spout|Water Spout]], [[Strength|Strength]], [[Dive|Dive]], [[Whirlpool|Whirlpool]], [[Psych_Up|Psych Up]], [[Mist|Mist]], [[Splishy_Splash|Splishy Splash]], [[Steam_Eruption|Steam Eruption]], [[Defog|Defog]], [[Telekinesis|Telekinesis]], [[Blizzard|Blizzard]], [[Drain_Punch|Drain Punch]], [[Snatch|Snatch]]

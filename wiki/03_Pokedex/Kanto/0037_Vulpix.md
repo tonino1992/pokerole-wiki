@@ -45,3 +45,27 @@ image: "assets/images/pokemon/037.png"
 
 ### Catena Evolutiva
 - [[0038_Ninetales|Ninetales]]
+
+---
+
+## Vulpix (Forma Alola) (#0037A)
+
+**Type:** Ghiaccio
+**Abilities:** [[Snow Cloak]], [[Snow Warning]] *(Hidden)*
+**Base HP:** 3
+
+| Attribute | Base / Limit |
+|---|---|
+| **Strength** | 1/3 |
+| **Dexterity** | 2/4 |
+| **Vitality** | 1/3 |
+| **Special** | 2/4 |
+| **Insight** | 2/4 |
+
+### Mosse
+
+- **Starter:** [[Powder_Snow|Powder Snow]], [[Tail_Whip|Tail Whip]]
+- **Beginner:** [[Roar|Roar]], [[Baby_Doll_Eyes|Baby-Doll Eyes]], [[Ice_Shard|Ice Shard]]
+- **Amateur:** [[Confuse_Ray|Confuse Ray]], [[Icy_Wind|Icy Wind]], [[Payback|Payback]], [[Mist|Mist]], [[Feint_Attack|Feint Attack]], [[Imprison|Imprison]], [[Aurora_Beam|Aurora Beam]], [[Extrasensory|Extrasensory]], [[Hex|Hex]]
+- **Ace:** [[Ice_Beam|Ice Beam]], [[Safeguard|Safeguard]], [[Captivate|Captivate]], [[Grudge|Grudge]], [[Blizzard|Blizzard]], [[Sheer_Cold|Sheer Cold]]
+- **Pro:** [[Moonblast|Moonblast]], [[Spite|Spite]], [[Freeze_Dry|Freeze Dry]]

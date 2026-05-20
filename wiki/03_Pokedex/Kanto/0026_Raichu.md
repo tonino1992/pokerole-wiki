@@ -45,3 +45,26 @@ image: "assets/images/pokemon/026.png"
 
 ### Catena Evolutiva
 - [[0025_Pikachu|Pikachu]]
+
+---
+
+## Raichu (Forma Alola) (#0026A)
+
+**Type:** Elettro / Psico
+**Abilities:** [[Surge Surfer]]
+**Base HP:** 5
+
+| Attribute | Base / Limit |
+|---|---|
+| **Strength** | 2/5 |
+| **Dexterity** | 3/6 |
+| **Vitality** | 2/4 |
+| **Special** | 3/6 |
+| **Insight** | 2/5 |
+
+### Mosse
+
+- **Starter:** [[Thunder_Shock|Thunder Shock]], [[Tail_Whip|Tail Whip]]
+- **Amateur:** [[Quick_Attack|Quick Attack]], [[Thunderbolt|Thunderbolt]], [[Psychic|Psychic]]
+- **Ace:** [[Speed_Swap|Speed Swap]], [[Electric_Terrain|Electric Terrain]]
+- **Pro:** [[Reflect|Reflect]], [[Volt_Tackle|Volt Tackle]]

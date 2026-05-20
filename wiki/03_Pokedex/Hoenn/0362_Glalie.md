@@ -48,3 +48,27 @@ image: "assets/images/pokemon/362.png"
 - [[0362_Glalie|Glalie]]
 - Glalie (Mega Form)
 - Froslass
+
+---
+
+## Mega Glalie (#0362M1)
+
+**Type:** Ghiaccio
+**Abilities:** [[Refrigerate]], [[Moody]] *(Hidden)*
+**Base HP:** 5
+
+| Attribute | Base / Limit |
+|---|---|
+| **Strength** | 3/7 |
+| **Dexterity** | 3/6 |
+| **Vitality** | 2/5 |
+| **Special** | 3/7 |
+| **Insight** | 2/5 |
+
+### Mosse
+
+- **Starter:** [[Leer|Leer]], [[Powder_Snow|Powder Snow]]
+- **Beginner:** [[Bite|Bite]], [[Double_Team|Double Team]]
+- **Amateur:** [[Ice_Shard|Ice Shard]], [[Icy_Wind|Icy Wind]], [[Headbutt|Headbutt]], [[Protect|Protect]], [[Ice_Fang|Ice Fang]], [[Ice_Beam|Ice Beam]], [[Frost_Breath|Frost Breath]], [[Freeze_Dry|Freeze Dry]]
+- **Ace:** [[Hail|Hail]], [[Crunch|Crunch]], [[Blizzard|Blizzard]], [[Sheer_Cold|Sheer Cold]]
+- **Pro:** [[Weather_Ball|Weather Ball]], [[Rollout|Rollout]], [[Iron_Head|Iron Head]]

@@ -48,3 +48,27 @@ image: "assets/images/pokemon/248.png"
 - [[0247_Pupitar|Pupitar]]
 - [[0248_Tyranitar|Tyranitar]]
 - Tyranitar (Mega Form)
+
+---
+
+## Mega Tyranitar (#0248M1)
+
+**Type:** Roccia / Buio
+**Abilities:** [[Sand Stream]]
+**Base HP:** 7
+
+| Attribute | Base / Limit |
+|---|---|
+| **Strength** | 4/8 |
+| **Dexterity** | 2/5 |
+| **Vitality** | 4/8 |
+| **Special** | 3/6 |
+| **Insight** | 3/7 |
+
+### Mosse
+
+- **Starter:** [[Bite|Bite]], [[Tackle|Tackle]], [[Leer|Leer]]
+- **Beginner:** [[Screech|Screech]], [[Sandstorm|Sandstorm]]
+- **Amateur:** [[Fire_Fang|Fire Fang]], [[Thunder_Fang|Thunder Fang]], [[Ice_Fang|Ice Fang]], [[Chip_Away|Chip Away]], [[Rock_Slide|Rock Slide]], [[Scary_Face|Scary Face]], [[Thrash|Thrash]], [[Dark_Pulse|Dark Pulse]], [[Payback|Payback]], [[Crunch|Crunch]]
+- **Ace:** [[Earthquake|Earthquake]], [[Stone_Edge|Stone Edge]], [[Hyper_Beam|Hyper Beam]], [[Giga_Impact|Giga Impact]]
+- **Pro:** [[Dragon_Dance|Dragon Dance]], [[Outrage|Outrage]], [[Superpower|Superpower]]

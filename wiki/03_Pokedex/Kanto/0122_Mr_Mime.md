@@ -39,3 +39,27 @@ image: "assets/images/pokemon/122.png"
 - **Ace:** [[Recycle]], [[Misty_Terrain]], [[Psychic]], [[Role_Play]], [[Baton_Pass]], [[Safeguard]]
 - **Pro:** [[Confuse_Ray]], [[Fake_Out]], [[Nasty_Plot]]
 
+
+---
+
+## Mr. Mime (Forma Galar) (#0122G)
+
+**Type:** Ghiaccio / Psico
+**Abilities:** [[Vital Spirit]], [[Screen Cleaner]], [[Ice Body]] *(Hidden)*
+**Base HP:** 4
+
+| Attribute | Base / Limit |
+|---|---|
+| **Strength** | 2/4 |
+| **Dexterity** | 3/6 |
+| **Vitality** | 2/4 |
+| **Special** | 2/5 |
+| **Insight** | 2/5 |
+
+### Mosse
+
+- **Starter:** [[Pound|Pound]], [[Rapid_Spin|Rapid Spin]]
+- **Beginner:** [[Baton_Pass|Baton Pass]], [[Ice_Shard|Ice Shard]], [[Confusion|Confusion]], [[Ally_Switch|Ally Switch]]
+- **Amateur:** [[Icy_Wind|Icy Wind]], [[Double_Kick|Double Kick]], [[Copycat|Copycat]], [[Encore|Encore]], [[Role_Play|Role Play]], [[Protect|Protect]], [[Recycle|Recycle]], [[Mimic|Mimic]], [[Light_Screen|Light Screen]], [[Reflect|Reflect]], [[Ice_Beam|Ice Beam]], [[Hypnosis|Hypnosis]], [[Mirror_Coat|Mirror Coat]]
+- **Ace:** [[Sucker_Punch|Sucker Punch]], [[Freeze_Dry|Freeze Dry]], [[Psychic|Psychic]], [[Safeguard|Safeguard]], [[Dazzling_Gleam|Dazzling Gleam]], [[Misty_Terrain|Misty Terrain]], [[Teeter_Dance|Teeter Dance]]
+- **Pro:** [[Rain_Dance|Rain Dance]], [[Hail|Hail]]

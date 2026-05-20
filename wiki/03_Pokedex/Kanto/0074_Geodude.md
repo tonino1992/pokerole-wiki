@@ -46,3 +46,27 @@ image: "assets/images/pokemon/074.png"
 ### Catena Evolutiva
 - [[0075_Graveler|Graveler]]
 - [[0076_Golem|Golem]]
+
+---
+
+## Geodude (Forma Alola) (#0074A)
+
+**Type:** Roccia / Elettro
+**Abilities:** [[Magnet Pull]], [[Sturdy]], [[Galvanize]] *(Hidden)*
+**Base HP:** 3
+
+| Attribute | Base / Limit |
+|---|---|
+| **Strength** | 2/5 |
+| **Dexterity** | 1/3 |
+| **Vitality** | 3/6 |
+| **Special** | 1/3 |
+| **Insight** | 1/3 |
+
+### Mosse
+
+- **Starter:** [[Tackle|Tackle]], [[Defense_Curl|Defense Curl]]
+- **Beginner:** [[Charge|Charge]], [[Rock_Polish|Rock Polish]], [[Rollout|Rollout]]
+- **Amateur:** [[Spark|Spark]], [[Rock_Throw|Rock Throw]], [[Smack_Down|Smack Down]], [[Thunder_Punch|Thunder Punch]], [[Self_Destruct|Self Destruct]], [[Stealth_Rock|Stealth Rock]], [[Rock_Blast|Rock Blast]]
+- **Ace:** [[Discharge|Discharge]], [[Explosion|Explosion]], [[Double_Edge|Double-Edge]], [[Stone_Edge|Stone Edge]]
+- **Pro:** [[Rock_Climb|Rock Climb]], [[Wide_Guard|Wide Guard]], [[Screech|Screech]]

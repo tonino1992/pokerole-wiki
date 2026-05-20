@@ -1,6 +1,6 @@
 ---
 title: Introduzione al Gioco
-category: Regole Base
+category: Rule
 tags: [introduzione, gdr, storyteller, personaggio, dadi, scheda, pokémon]
 summary: "Cos'è un GDR, il ruolo dello Storyteller, cosa sono i Pokémon nel gioco e gli strumenti fondamentali: immaginazione, Schede Personaggio e Dadi."
 ---

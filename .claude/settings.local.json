@@ -29,11 +29,14 @@
       "Bash(git add *)",
       "Bash(git checkout *)",
       "Bash(git stash *)",
-      "Bash(git commit -m ' *)"
+      "Bash(git commit -m ' *)",
+      "Bash(git mv *)",
+      "Bash(mkdir -p wiki/02_Personaggi/Esempi && git mv wiki/02_Personaggi/Venusaur_Scheda.md wiki/02_Personaggi/Esempi/ && git mv wiki/02_Personaggi/Creare_una_Storia.md wiki/07_Lore_e_Mondo/)"
     ],
     "additionalDirectories": [
       "c:\\Users\\acampanale\\Desktop\\poke-wiki\\pokerole-wiki",
-      "c:\\Users\\acampanale\\.claude\\projects\\c--Users-acampanale-Desktop-poke-wiki-pokerole-wiki"
+      "c:\\Users\\acampanale\\.claude\\projects\\c--Users-acampanale-Desktop-poke-wiki-pokerole-wiki",
+      "C:\\Users\\anton\\OneDrive\\Desktop\\pokerole-wiki\\wiki\\02_Personaggi"
     ]
   }
 }

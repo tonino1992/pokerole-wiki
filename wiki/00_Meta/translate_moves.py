@@ -5,7 +5,7 @@ import urllib.parse
 import json
 import time
 
-moves_dir = 'wiki/04_Moves_e_Abilities/Mosse'
+moves_dir = 'wiki/05_Mosse_e_Abilita/Mosse'
 
 TYPE_MAP = {
     "Normal": "Normale", "Fire": "Fuoco", "Water": "Acqua",

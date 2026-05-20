@@ -71,7 +71,7 @@ L'avversario può tentare di **schivare** o **contrattaccare**:
 > - Schivare e Clashare **conta come un'azione**.
 > - Sia *Evasion* che *Clash* possono essere usati **una sola volta per Round**, ciascuno.
 > - Il *Clash* richiede l'uso di una **Move con danno**.
-> - Le Support Moves, le Moves che ignorano le difese e quelle con danno fisso **non possono essere Clasahte**.
+> - Le Support Moves, le Moves che ignorano le difese e quelle con danno fisso **non possono essere Clashate**.
 > - Il danno da Clash è influenzato da *Super Effective* e *Not Very Effective*.
 > - Una Move usata per il Clash **non può essere ripetuta** nello stesso Round.
 

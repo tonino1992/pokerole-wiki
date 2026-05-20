@@ -5,7 +5,7 @@ import urllib.parse
 import time
 import re
 
-moves_dir = 'wiki/04_Moves_e_Abilities/Mosse'
+moves_dir = 'wiki/05_Mosse_e_Abilita/Mosse'
 os.makedirs(moves_dir, exist_ok=True)
 
 print("Fase 1: Ottenimento lista mosse da GitHub...")

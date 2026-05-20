@@ -8,8 +8,8 @@ import re
 ZIP_URL = "https://github.com/Willowlark/Pokerole-Data/archive/refs/heads/master.zip"
 ZIP_PATH = "raw/Pokerole-Data-master.zip"
 JSON_DIR = "raw/Pokerole-Data-master/v2.0/Moves"
-MOVES_DIR = "wiki/04_Moves_e_Abilities/Mosse"
-TRAITS_DIR = "wiki/04_Moves_e_Abilities/Tratti"
+MOVES_DIR = "wiki/05_Mosse_e_Abilita/Mosse"
+TRAITS_DIR = "wiki/05_Mosse_e_Abilita/Tratti"
 
 # Crea directory
 os.makedirs("raw", exist_ok=True)

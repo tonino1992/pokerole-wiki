@@ -1,5 +1,5 @@
 # fix_charge_links.ps1 - Update [[Charge]] trait references to [[Charge_Trait]]
-$movesDir = "c:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Mosse"
+$movesDir = "c:\Users\anton\OneDrive\Desktop\pokerole-wiki\wiki\05_Mosse_e_Abilita\Mosse"
 
 Get-ChildItem -Path $movesDir -Filter "*.md" | ForEach-Object {
     $content = Get-Content $_.FullName -Raw -Encoding UTF8
@@ -11,7 +11,7 @@ Get-ChildItem -Path $movesDir -Filter "*.md" | ForEach-Object {
 }
 
 # Now delete the old Charge.md trait file
-$oldFile = "c:\Users\acampanale\Desktop\poke-wiki\pokerole-wiki\wiki\04_Moves_e_Abilities\Tratti\Charge.md"
+$oldFile = "c:\Users\anton\OneDrive\Desktop\pokerole-wiki\wiki\05_Mosse_e_Abilita\Tratti\Charge.md"
 if (Test-Path $oldFile) {
     Remove-Item $oldFile
     Write-Host "Deleted old Tratti/Charge.md"

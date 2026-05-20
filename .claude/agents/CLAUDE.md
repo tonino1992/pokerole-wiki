@@ -10,12 +10,11 @@ La maggior parte dei workflow costringe l'AI a riscoprire le stesse regole dai m
 ## 2. Architettura e Struttura Directory
 Ci sono tre livelli fondamentali:
 1. **Raw Sources (`raw/`)**: Documenti originali (PDF). Sono immutabili. L'AI li legge ma non li modifica mai.
-2. **La Wiki (`wiki/01_` a `wiki/05_`)**: Pagine Markdown gestite e aggiornate dall'AI.
+2. **La Wiki (`wiki/01_` a `wiki/07_`)**: Pagine Markdown gestite e aggiornate dall'AI.
 3. **Lo Schema (`CLAUDE.md`)**: Questo file, alla radice del progetto.
 
 ### Alberatura di Riferimento:
 pokerole-wiki/                   # Radice del progetto
-├── rules.md                     # Schema LLM Wiki (questo file)
 ├── raw/                         # Materiale grezzo in lettura (PDF sorgente)
 └── wiki/                        # Contenuto della wiki
     ├── index.md                 # Indice generale (Table of Contents)
@@ -23,14 +22,24 @@ pokerole-wiki/                   # Radice del progetto
     ├── ingest_queue.md          # Coda ordinata degli ingest da fare
     ├── 00_Meta/                 # Script di ingestion, audit report, strumenti AI
     ├── 01_Regole_Base/          # Meccaniche core (Dadi, Combattimento, HP)
-    ├── 02_Allenatori/           # Creazione PG, Attributes, Skills, Natures, Schede
-    ├── 03_Pokedex/              # Pagine specifiche dei Pokémon e dei Tipi
-    │   ├── Tipi/                # Es. Fuoco.md, Acqua.md
-    │   └── Kanto/               # Es. 0001_Bulbasaur.md
-    ├── 04_Moves_e_Abilities/    # Database Mosse e Abilità
+    ├── 02_Personaggi/           # Creazione PG, Attributes, Skills, Natures, Schede
+    │   └── Esempi/              # Schede di esempio (es. Venusaur_Scheda.md)
+    ├── 03_Pokedex/              # Pagine specifiche dei Pokémon per regione
+    │   ├── Kanto/               # Es. 0001_Bulbasaur.md
+    │   ├── Johto/
+    │   ├── Hoenn/
+    │   ├── Sinnoh/
+    │   ├── Unova/
+    │   ├── Kalos/
+    │   ├── Alola/
+    │   └── Galar/
+    ├── 04_Tipi/                 # Un file per tipo (Es. Fuoco.md, Acqua.md)
+    ├── 05_Mosse_e_Abilita/      # Database Mosse, Abilità e Tratti
     │   ├── Mosse/               # Es. Flamethrower.md, Tackle.md
+    │   ├── Abilità/             # Es. Overgrow.md, Levitate.md
     │   └── Tratti/              # Es. High_Critical.md, Recoil.md
-    ├── 05_Strumenti_e_Oggetti/  # Pokeball, Hold Items, Cure
+    ├── 06_Oggetti/              # Pokeball, Hold Items, Cure
+    ├── 07_Lore_e_Mondo/         # Lore, Cattura, Contest, Storia, Mondo
     └── assets/
         └── images/              # Immagini estratte dal PDF (decorative)
 
@@ -81,7 +90,7 @@ power: [Es. 2 - solo per Mosse]
 
 ### Template Strutturali Obbligatori (Intestazioni)
 
-**Mosse** (`04_Moves_e_Abilities/Mosse/`) — Formato compatto bulk:
+**Mosse** (`05_Mosse_e_Abilita/Mosse/`) — Formato compatto bulk:
 ```
 # NomeMossa
 *Tipo | Categoria*
@@ -93,14 +102,14 @@ power: [Es. 2 - solo per Mosse]
 > Flavour text in corsivo.
 ```
 
-**Abilità** (`04_Moves_e_Abilities/Abilità/`) — Formato compatto:
+**Abilità** (`05_Mosse_e_Abilita/Abilità/`) — Formato compatto:
 ```
 # NomeAbility
 *Flavor text in italiano (narrativo/descrittivo).*
 **Effetto:** Descrizione meccanica in italiano, con parole chiave in inglese (Strength, Burn, Priority, ecc.).
 ```
 
-**Tratti** (`04_Moves_e_Abilities/Tratti/`) — Formato compatto:
+**Tratti** (`05_Mosse_e_Abilita/Tratti/`) — Formato compatto:
 ```
 # NomeTratti
 Descrizione sintetica in italiano.
@@ -119,14 +128,14 @@ Descrizione sintetica in italiano.
 ### Catena Evolutiva
 ```
 
-**Regole** (`01_Regole_Base/`, `02_Allenatori/`):
+**Regole** (`01_Regole_Base/`, `02_Personaggi/`):
 `## Descrizione Generale`, `## Meccaniche Dettagliate`, `## Esempi`
 
 ## 6. Ingest Workflow
 Quando l'utente aggiunge una nuova fonte grezza e ti chiede di processarla ("ingest"):
 1. Leggi il testo fornito.
 2. Genera il file o i file Markdown applicando le regole linguistiche, i template e lo YAML.
-3. **Nomi File e Percorsi:** Usa estensione `.md`. Sostituisci spazi con `_`. Se è una Mossa/Abilità, il nome file DEVE essere in inglese (es. `wiki/04_Moves_e_Abilities/Mosse/Ember.md`).
+3. **Nomi File e Percorsi:** Usa estensione `.md`. Sostituisci spazi con `_`. Se è una Mossa/Abilità, il nome file DEVE essere in inglese (es. `wiki/05_Mosse_e_Abilita/Mosse/Ember.md`).
 4. **Azione Obbligatoria:** Indica il percorso completo all'inizio della tua risposta usando un code block: `Creazione file in: [percorso]`.
 5. Fornisci le stringhe per aggiornare `index.md` (con una riga descrittiva) e `log.md`.
 6. **Standard di Qualità Obbligatorio:** Ogni pagina deve contenere **tutto l'essenziale**, non solo un riassunto sintetico. Per ogni meccanica o elemento descritto, includere:
@@ -218,6 +227,7 @@ Ogni volta che il testo menziona elementi chiave del gioco, inserirli come Wikil
 - **URL base JSON:** `https://raw.githubusercontent.com/Pokerole-Software-Development/Pokerole-Data/master/v2.0/Pokedex/{Nome}.json`
 - **Script esistenti in `wiki/00_Meta/`:** `ingest_kanto_json.py`, `ingest_johto_json.py`, `ingest_hoenn_json.py`, `ingest_sinnoh_json.py`
 - **Pattern di riferimento per nuovi script:** `wiki/00_Meta/ingest_hoenn_json.py`
+- **Percorsi aggiornati dopo ristrutturazione:** Mosse → `wiki/05_Mosse_e_Abilita/Mosse/`, Abilità → `wiki/05_Mosse_e_Abilita/Abilità/`, Tratti → `wiki/05_Mosse_e_Abilita/Tratti/`, Tipi → `wiki/04_Tipi/`, Oggetti → `wiki/06_Oggetti/`, Lore → `wiki/07_Lore_e_Mondo/`
 
 ### 10.6 Stato Attuale Pokédex
 

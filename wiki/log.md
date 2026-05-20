@@ -4,6 +4,17 @@ Registro cronologico append-only. Ogni operazione viene registrata con data, tip
 
 ---
 
+## [2026-05-20] ingest | pokédex-kalos-650-721
+- **Tipo:** Bulk Ingest — Pokédex
+- **Fonte:** JSON `Pokerole-Software-Development/Pokerole-Data` v2.0/Pokedex
+- **File creati:** 72 schede Pokémon in `wiki/03_Pokedex/Kalos/` (#0650 Chespin → #0721 Volcanion)
+- **Contenuto:** Type (IT), Abilities, Base HP, Statistiche (Attributes & Limits), Learnset per Rank, Catena Evolutiva, immagini ufficiali
+- **Forme inline:** Meowstic (Forma Femminile) skippata (non presente nel dataset), Aegislash (Forma Lama), Mega Diancie, Hoopa (Forma Senza Catene), Zygarde (Forma 10% e 100%) — tutte come sezioni `##` nella pagina base
+- **Script:** `wiki/00_Meta/ingest_kalos_json.py`, fix: `wiki/00_Meta/fix_kalos_missing.py`
+- **Note:** Flabébé fetchata come "Flabebe" (senza accenti); Zygarde base = "Zygarde 50%"; DexID 0718F2 corretto a 0718.
+
+---
+
 ## [2026-05-19] ingest | pokédex-johto-152-251
 - **Tipo:** Bulk Ingest — Pokédex
 - **Fonte:** `raw/POKEROLE COREBOOK 2.0 (2).pdf` (pp. 136-161) + JSON Willowlark/Pokerole-Data

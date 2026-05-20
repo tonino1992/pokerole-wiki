@@ -11,7 +11,7 @@ La maggior parte dei workflow costringe l'AI a riscoprire le stesse regole dai m
 Ci sono tre livelli fondamentali:
 1. **Raw Sources (`raw/`)**: Documenti originali (PDF). Sono immutabili. L'AI li legge ma non li modifica mai.
 2. **La Wiki (`wiki/01_` a `wiki/05_`)**: Pagine Markdown gestite e aggiornate dall'AI.
-3. **Lo Schema (`rules.md`)**: Questo file, alla radice del progetto.
+3. **Lo Schema (`CLAUDE.md`)**: Questo file, alla radice del progetto.
 
 ### Alberatura di Riferimento:
 pokerole-wiki/                   # Radice del progetto
@@ -227,7 +227,7 @@ Ogni volta che il testo menziona elementi chiave del gioco, inserirli come Wikil
 | Johto | 152-251 | ✅ Completato |
 | Hoenn | 252-386 | ✅ Completato |
 | Sinnoh | 387-493 | ✅ Completato |
-| Unova | 494-649 | ⬜ Da fare |
-| Kalos | 650-721 | ⬜ Da fare |
+| Unova | 494-649 | ✅ Completato |
+| Kalos | 650-721 | ✅ Completato |
 | Alola | 722-809 | ⬜ Da fare |
 | Galar | 810-898 | ⬜ Da fare |

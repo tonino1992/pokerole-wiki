@@ -80,8 +80,8 @@ Quando l'utente chiede di "procedere con il prossimo ingest", l'AI deve:
 
 - [x] **Pokédex Kanto** (001-151) *(PDF pp. 90-129)*
 - [x] **Pokédex Johto** (152-251) *(PDF pp. 130-161)*
-- [ ] **Pokédex Hoenn** (252-386) *(PDF pp. 162-201)*
-- [ ] **Pokédex Sinnoh** (387-493) *(PDF pp. 202-232)*
+- [x] **Pokédex Hoenn** (252-386) *(PDF pp. 162-201)*
+- [x] **Pokédex Sinnoh** (387-493) *(PDF pp. 202-232)*
 - [ ] **Pokédex Unova** (494-649) *(PDF pp. 233-273)*
 - [ ] **Pokédex Kalos** (650-721) *(PDF pp. 274-293)*
 - [ ] **Pokédex Alola** (722-809) *(PDF pp. 294-317)*

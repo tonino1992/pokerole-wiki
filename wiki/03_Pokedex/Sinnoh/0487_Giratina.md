@@ -1,0 +1,44 @@
+---
+title: "Giratina (#0487)"
+category: Pokedex
+tags: [giratina, sinnoh, ghost, dragon]
+image: "assets/images/pokemon/487.png"
+---
+
+# Giratina (#0487)
+
+<img src="../../assets/images/pokemon/487.png" align="right" width="220" style="margin-left:20px;margin-bottom:8px;">
+
+*Plot Device*
+
+**Type:** Spettro / Drago
+**Abilities:** [[Pressure]], [[Telepathy]] *(Hidden)*
+**Base HP:** 8
+
+> Plot Device
+
+---
+
+## Statistiche (Attributes & Limits)
+
+| Attribute | Base / Limit |
+|---|---|
+| **Strength** | 6/6 |
+| **Dexterity** | 5/5 |
+| **Vitality** | 7/7 |
+| **Special** | 6/6 |
+| **Insight** | 7/7 |
+
+---
+
+## Mosse (Learnset)
+
+- **Master:** [[Dragon_Breath|Dragon Breath]], [[Scary_Face|Scary Face]], [[Ominous_Wind|Ominous Wind]], [[Ancient_Power|Ancient Power]], [[Slash|Slash]], [[Shadow_Sneak|Shadow Sneak]], [[Destiny_Bond|Destiny Bond]], [[Dragon_Claw|Dragon Claw]], [[Earth_Power|Earth Power]], [[Aura_Sphere|Aura Sphere]], [[Shadow_Claw|Shadow Claw]], [[Shadow_Force|Shadow Force]], [[Hex|Hex]], [[Hidden_Power|Hidden Power]], [[Psych_Up|Psych Up]], [[Spite|Spite]], [[Pain_Split|Pain Split]], [[Outrage|Outrage]], [[Draco_Meteor|Draco Meteor]], [[Gravity|Gravity]]
+
+---
+
+## Correlati
+
+### Catena Evolutiva
+- [[0487_Giratina|Giratina]]
+- Giratina (Origin Form)

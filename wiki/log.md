@@ -4,6 +4,17 @@ Registro cronologico append-only. Ogni operazione viene registrata con data, tip
 
 ---
 
+## [2026-05-20] ingest | pokédex-alola-722-809
+- **Tipo:** Bulk Ingest — Pokédex
+- **Fonte:** JSON `Pokerole-Software-Development/Pokerole-Data` v2.0/Pokedex
+- **File creati:** 88 schede Pokémon in `wiki/03_Pokedex/Alola/` (#0722 Rowlet → #0809 Melmetal)
+- **Contenuto:** Type (IT), Abilities, Base HP, Statistiche (Attributes & Limits), Learnset per Rank, Catena Evolutiva, immagini ufficiali
+- **Forme inline:** Oricorio (Pom-Pom, Pa'u, Sensu), Lycanroc (Mezzanotte, Crepuscolo), Wishiwashi (Sciame), Minior (Nucleo), Necrozma (Criniera del Tramonto, Ali dell'Alba, Ultra) — tutte come sezioni `##` nella pagina base
+- **Script:** `wiki/00_Meta/ingest_alola_json.py`
+- **Note:** Oricorio base = "Baile Form"; Lycanroc base = "Midday Form"; Type: Null fetchato come "Type Null" (senza i due punti).
+
+---
+
 ## [2026-05-20] ingest | pokédex-kalos-650-721
 - **Tipo:** Bulk Ingest — Pokédex
 - **Fonte:** JSON `Pokerole-Software-Development/Pokerole-Data` v2.0/Pokedex

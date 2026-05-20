@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/03_Pokedex/Kanto/0012_Butterfree.md",
-                "mode": "preview",
+                "file": "wiki/03_Pokedex/Hoenn/0257_Blaziken.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0012_Butterfree"
+              "title": "0257_Blaziken"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "heracross",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/03_Pokedex/Kanto/0012_Butterfree.md",
+                "file": "wiki/03_Pokedex/Hoenn/0257_Blaziken.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Struttura di 0012_Butterfree"
+              "title": "Struttura di 0257_Blaziken"
             }
           }
         ],
@@ -180,48 +180,47 @@
       "daily-notes:Apri nota del giorno": false,
       "templates:Inserisci modello": false,
       "command-palette:Apri riquadro comandi": false,
-      "bases:Crea nuova Base": false,
-      "realclaudian:Open Claudian": false
+      "bases:Crea nuova Base": false
     }
   },
   "active": "b0d4aac4cb1eae06",
   "lastOpenFiles": [
-    "wiki/03_Pokedex/Kanto/0005_Charmeleon.md",
-    "wiki/03_Pokedex/Kanto/0007_Squirtle.md",
-    "wiki/03_Pokedex/Kanto/0010_Caterpie.md",
-    "wiki/03_Pokedex/Kanto/0012_Butterfree.md",
-    "wiki/03_Pokedex/Kanto/0014_Kakuna.md",
-    "wiki/03_Pokedex/Kanto/0019_Rattata.md",
-    "wiki/03_Pokedex/Kanto/0024_Arbok.md",
-    "wiki/03_Pokedex/Kanto/0017_Pidgeotto.md",
-    "wiki/03_Pokedex/Kanto/0013_Weedle.md",
-    "wiki/03_Pokedex/Kanto/0011_Metapod.md",
-    "wiki/03_Pokedex/Kanto/0003_Venusaur.md",
-    "wiki/03_Pokedex/Johto/0195_Quagsire.md",
-    "wiki/03_Pokedex/Johto/0193_Yanma.md",
-    "wiki/03_Pokedex/Johto/0189_Jumpluff.md",
-    "wiki/03_Pokedex/Johto/0160_Feraligatr.md",
-    "wiki/03_Pokedex/Johto/0152_Chikorita.md",
-    "wiki/03_Pokedex/Johto/0154_Meganium.md",
-    "wiki/03_Pokedex/Johto/0156_Quilava.md",
-    "wiki/03_Pokedex/Johto/0158_Totodile.md",
-    "wiki/index.md",
-    "wiki/ingest_queue.md.tmp.20300.ba66f5b006ed",
-    "wiki/log.md.tmp.20300.ab2704421342",
-    "wiki/03_Pokedex/Johto/0250_Ho-Oh.md",
-    "wiki/03_Pokedex/Johto/0211_Qwilfish.md",
-    "wiki/03_Pokedex/Johto/0210_Granbull.md",
-    "wiki/03_Pokedex/Johto/0209_Snubbull.md",
-    "wiki/03_Pokedex/Johto/0208_Steelix.md",
-    "wiki/03_Pokedex/Johto/0207_Gligar.md",
-    "wiki/03_Pokedex/Johto",
-    "wiki/00_Meta/ingest_johto_json.py",
-    "wiki/00_Meta/ingest_johto_json.py.tmp.20300.7ec1809a963e",
-    "johto_raw.txt",
-    "translate_abilities.py",
-    "translate_abilities.py.tmp.20300.9a079467d3e8",
-    "rules.md.tmp.20300.43095c5a84dc",
-    "rules.md.tmp.20300.d633b2eb21d5",
+    "wiki/04_Moves_e_Abilities/Mosse/Fire_Punch.md",
+    "wiki/03_Pokedex/Hoenn/0257_Blaziken.md",
+    "wiki/03_Pokedex/Hoenn/0254_Sceptile.md",
+    "wiki/log.md.tmp.34652.2ab26ff92e88",
+    "wiki/ingest_queue.md.tmp.34652.e3abdb4cb15b",
+    "wiki/03_Pokedex/Alola/0809_Melmetal.md",
+    "wiki/03_Pokedex/Alola/0808_Meltan.md",
+    "wiki/03_Pokedex/Alola/0807_Zeraora.md",
+    "wiki/03_Pokedex/Alola/0806_Blacephalon.md",
+    "wiki/03_Pokedex/Alola/0805_Stakataka.md",
+    "wiki/03_Pokedex/Alola/0804_Naganadel.md",
+    "wiki/03_Pokedex/Alola/0803_Poipole.md",
+    "wiki/03_Pokedex/Alola/0802_Marshadow.md",
+    "wiki/03_Pokedex/Alola/0801_Magearna.md",
+    "wiki/03_Pokedex/Alola/0800_Necrozma.md",
+    "wiki/03_Pokedex/Alola/0799_Guzzlord.md",
+    "wiki/03_Pokedex/Alola/0798_Kartana.md",
+    "wiki/03_Pokedex/Alola/0797_Celesteela.md",
+    "wiki/03_Pokedex/Alola/0796_Xurkitree.md",
+    "wiki/03_Pokedex/Alola/0795_Pheromosa.md",
+    "wiki/03_Pokedex/Alola/0794_Buzzwole.md",
+    "wiki/03_Pokedex/Alola/0793_Nihilego.md",
+    "wiki/03_Pokedex/Alola/0792_Lunala.md",
+    "wiki/03_Pokedex/Alola/0791_Solgaleo.md",
+    "wiki/03_Pokedex/Alola/0790_Cosmoem.md",
+    "wiki/03_Pokedex/Alola/0789_Cosmog.md",
+    "wiki/03_Pokedex/Alola/0788_Tapu_Fini.md",
+    "wiki/03_Pokedex/Alola/0787_Tapu_Bulu.md",
+    "wiki/03_Pokedex/Alola",
+    "wiki/00_Meta/ingest_alola_json.py",
+    "wiki/log.md.tmp.34652.21320a8529d6",
+    "CLAUDE.md.tmp.34652.e958c9184692",
+    "wiki/00_Meta/fix_kalos_missing.py",
+    "wiki/03_Pokedex/Kalos",
+    "wiki/00_Meta/ingest_kalos_json.py",
+    "wiki/ingest_queue.md.tmp.34652.910cf9c59725",
     "wiki/assets/images/pokemon/forms/coalossal-gmax.png",
     "wiki/assets/images/pokemon/forms/toxtricity-low-key-gmax.png",
     "wiki/assets/images/pokemon/forms/urshifu-rapid-strike-gmax.png",

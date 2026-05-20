@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Beedrill (#0015)"
 category: Pokedex
 tags: [beedrill, kanto, bug, poison]

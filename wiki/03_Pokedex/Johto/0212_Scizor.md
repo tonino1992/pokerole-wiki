@@ -21,13 +21,13 @@ image: "assets/images/pokemon/212.png"
 
 ## Statistiche (Attributes & Limits)
 
-| Attribute | Base / Limit |
-|---|---|
-| **Strength** | 3/7 |
-| **Dexterity** | 2/4 |
-| **Vitality** | 3/6 |
-| **Special** | 2/4 |
-| **Insight** | 2/4 |
+| Attribute     | Base / Limit |
+| ------------- | ------------ |
+| **Strength**  | 3/7          |
+| **Dexterity** | 2/4          |
+| **Vitality**  | 3/6          |
+| **Special**   | 2/4          |
+| **Insight**   | 2/4          |
 
 ---
 

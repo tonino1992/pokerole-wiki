@@ -24,7 +24,9 @@
       "Bash(Test-Path \"c:\\\\Users\\\\acampanale\\\\Desktop\\\\poke-wiki\\\\pokerole-wiki\\\\wiki\\\\03_Pokedex\\\\Johto\")",
       "PowerShell(Get-ChildItem \"c:\\\\Users\\\\acampanale\\\\Desktop\\\\poke-wiki\\\\pokerole-wiki\\\\wiki\\\\assets\\\\images\\\\pokemon\\\\\" | Where-Object { $_.Name -match '^1[5-9]\\\\d\\\\.png$|^2[0-4]\\\\d\\\\.png$|^25[0-1]\\\\.png$' } | Measure-Object)",
       "Bash(python wiki/00_Meta/ingest_johto_json.py)",
-      "PowerShell(\\(Get-ChildItem \"c:\\\\Users\\\\acampanale\\\\Desktop\\\\poke-wiki\\\\pokerole-wiki\\\\wiki\\\\03_Pokedex\\\\Johto\\\\\"\\).Count)"
+      "PowerShell(\\(Get-ChildItem \"c:\\\\Users\\\\acampanale\\\\Desktop\\\\poke-wiki\\\\pokerole-wiki\\\\wiki\\\\03_Pokedex\\\\Johto\\\\\"\\).Count)",
+      "Bash(git pull *)",
+      "Bash(git add *)"
     ],
     "additionalDirectories": [
       "c:\\Users\\acampanale\\Desktop\\poke-wiki\\pokerole-wiki"

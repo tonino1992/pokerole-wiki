@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Tipo Acciaio"
 category: Type
 tags: [tipo, acciaio, steel]

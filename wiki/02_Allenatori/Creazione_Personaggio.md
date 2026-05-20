@@ -41,16 +41,16 @@ Il **Concept** è l'idea fondamentale del tuo personaggio: il suo lavoro, la sua
 
 Prima di iniziare a giocare, il giocatore **deve** rispondere a queste domande, esprimendole come farebbe il personaggio:
 
-| # | Domanda |
-|---|---|
-| 1 | **Come ti chiami?** |
-| 2 | **Quanti anni hai?** |
-| 3 | **Qual è la tua [[Natures|Nature]]?** *(vedi p. 38)* |
-| 4 | **Qual è la tua occupazione/concept?** |
-| 5 | **Cosa ti aspetti dal mondo dei Pokémon?** |
-| 6 | **Qual è il tuo obiettivo nel mondo dei Pokémon?** |
-| 7 | **Qual è la tua motivazione per quell'obiettivo?** |
-| 8 | **Come intendi contribuire a rendere questo mondo migliore?** |
+| #   | Domanda                                                       |                            |
+| --- | ------------------------------------------------------------- | -------------------------- |
+| 1   | **Come ti chiami?**                                           |                            |
+| 2   | **Quanti anni hai?**                                          |                            |
+| 3   | **Qual è la tua [[Natures                                     | Nature]]?** *(vedi p. 38)* |
+| 4   | **Qual è la tua occupazione/concept?**                        |                            |
+| 5   | **Cosa ti aspetti dal mondo dei Pokémon?**                    |                            |
+| 6   | **Qual è il tuo obiettivo nel mondo dei Pokémon?**            |                            |
+| 7   | **Qual è la tua motivazione per quell'obiettivo?**            |                            |
+| 8   | **Come intendi contribuire a rendere questo mondo migliore?** |                            |
 
 > ⚠️ *"A player should not start playing until he or she has answered these questions."* — Queste risposte aiutano lo Storyteller a creare sfide su misura per il personaggio.
 
@@ -95,13 +95,13 @@ Le [[Attributes_e_Skills|Skills]] sono divise in 5 categorie (Fight, Survival, C
 
 Per i personaggi che iniziano a un Rank superiore a *Starter*:
 
-| [[Ranking|Rank]] | Extra Attribute Points | Extra Social Points | Skill Points | Skill Limit |
-|---|---|---|---|---|
-| **Starter** | 0 | 0 | 5 | 1 |
-| **Beginner** | 2 | 2 | +4 | 2 |
-| **Amateur** | 4 | 4 | +3 | 3 |
-| **Ace** | 6 | 6 | +2 | 4 |
-| **Professional** | 8 | 8 | +1 | 5 |
+| [[Ranking        | Rank]] | Extra Attribute Points | Extra Social Points | Skill Points | Skill Limit |
+| ---------------- | ------ | ---------------------- | ------------------- | ------------ | ----------- |
+| **Starter**      | 0      | 0                      | 5                   | 1            |             |
+| **Beginner**     | 2      | 2                      | +4                  | 2            |             |
+| **Amateur**      | 4      | 4                      | +3                  | 3            |             |
+| **Ace**          | 6      | 6                      | +2                  | 4            |             |
+| **Professional** | 8      | 8                      | +1                  | 5            |             |
 
 > ⚠️ **Regola di assegnazione progressiva:** Assegna tutti i punti Skill di un Rank **prima** di passare ai punti del Rank successivo. L'ammontare di punti in una singola Skill non può eccedere lo Skill Limit del Rank corrente.
 
@@ -132,10 +132,10 @@ L'età del personaggio influenza il numero di Attribute e Social Attribute Point
 
 Una volta distribuiti i punti, calcola i valori derivati:
 
-| Statistica | Formula | Riferimento |
-|---|---|---|
-| **[[HP_e_Will|Health Points]]** | Base HP + *Vitality* | Varia per Pokémon; per i Trainer il Base HP è determinato dal manuale |
-| **[[HP_e_Will|Will Points]]** | *Insight* + 2 | Uguale per Trainer e Pokémon |
+| Statistica    | Formula           | Riferimento          |                                                                       |
+| ------------- | ----------------- | -------------------- | --------------------------------------------------------------------- |
+| **[[HP_e_Will | Health Points]]** | Base HP + *Vitality* | Varia per Pokémon; per i Trainer il Base HP è determinato dal manuale |
+| **[[HP_e_Will | Will Points]]**   | *Insight* + 2        | Uguale per Trainer e Pokémon                                          |
 
 ---
 

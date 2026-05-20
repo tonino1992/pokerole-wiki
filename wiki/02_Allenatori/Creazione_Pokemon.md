@@ -76,21 +76,21 @@ La scheda del Pokémon è divisa in quattro sezioni principali (28 campi in tota
 
 Valori calcolati per l'uso immediato in combattimento.
 
-| # | Campo | Cosa Scrivere / Formula |
-|---|---|---|
-| **5** | **Base HP** | I Base Health Points indicati nel Pokédex |
-| **6** | **HP (Health Points)** | **Base HP + *Vitality*** (Ogni punto di *Vitality* aggiunge 1 HP) |
-| **7** | **Will Points** | **Insight + 2** |
-| **8** | **Held Item** | L'oggetto tenuto in combattimento (vedi p. 83) |
-| **9** | **Status** | Scrivi "Healthy" finché non subisce uno [[Status_Conditions|Status Ailment]] |
-| **10** | **Initiative** | ***Dexterity* + *Alert*** |
-| **11** | **Accuracy** | La Dice Pool totale usata più di frequente per colpire |
-| **12** | **Damage** | La Dice Pool totale usata più di frequente per il danno |
-| **13** | **Evasion** | ***Dexterity* + *Evasion*** (vedi [[Strategie_di_Combattimento]]) |
-| **14** | **Clash** | ***Strength*/*Special* + *Clash*** |
-| **15** | **DEF / S.DEF** | **Defense** = punteggio di *Vitality*. **Special Defense** = punteggio di *Insight* |
-| **16** | **Rank** | Il Rank attuale (uguale a quello dell'Allenatore per lo Starter) |
-| **17-20** | **Moves** | Le Moves conosciute (massimo *Insight* + 2) |
+| #         | Campo                  | Cosa Scrivere / Formula                                                             |                    |
+| --------- | ---------------------- | ----------------------------------------------------------------------------------- | ------------------ |
+| **5**     | **Base HP**            | I Base Health Points indicati nel Pokédex                                           |                    |
+| **6**     | **HP (Health Points)** | **Base HP + *Vitality*** (Ogni punto di *Vitality* aggiunge 1 HP)                   |                    |
+| **7**     | **Will Points**        | **Insight + 2**                                                                     |                    |
+| **8**     | **Held Item**          | L'oggetto tenuto in combattimento (vedi p. 83)                                      |                    |
+| **9**     | **Status**             | Scrivi "Healthy" finché non subisce uno [[Status_Conditions                         | [[Status Ailment]] |
+| **10**    | **Initiative**         | ***Dexterity* + *Alert***                                                           |                    |
+| **11**    | **Accuracy**           | La Dice Pool totale usata più di frequente per colpire                              |                    |
+| **12**    | **Damage**             | La Dice Pool totale usata più di frequente per il danno                             |                    |
+| **13**    | **Evasion**            | ***Dexterity* + *Evasion*** (vedi [[Strategie_di_Combattimento]])                   |                    |
+| **14**    | **Clash**              | ***Strength*/*Special* + *Clash***                                                  |                    |
+| **15**    | **DEF / S.DEF**        | **Defense** = punteggio di *Vitality*. **Special Defense** = punteggio di *Insight* |                    |
+| **16**    | **Rank**               | Il Rank attuale (uguale a quello dell'Allenatore per lo Starter)                    |                    |
+| **17-20** | **Moves**              | Le Moves conosciute (massimo *Insight* + 2)                                         |                    |
 
 ### Attributes & Skills Window (Finestra Attributes e Skills)
 

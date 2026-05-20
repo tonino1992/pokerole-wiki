@@ -1,4 +1,4 @@
-﻿---
+---
 title: Scheda Pokémon — Venusaur (Ace Rank)
 category: Pokemon
 tags: [scheda, character_sheet, venusaur, ace, kanto, grass, poison]
